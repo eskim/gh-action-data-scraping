@@ -70,5 +70,13 @@
     "username": "blackmouse686",
     "password": "hemlock",
     "invokedAt": "2021-03-07T19:57:24.791Z"
+  },
+  {
+    "firstName": "Iolene",
+    "lastName": "da Conceição",
+    "email": "iolene.daconceicao@example.com",
+    "username": "purplepeacock791",
+    "password": "bingo",
+    "invokedAt": "2021-03-07T20:57:16.205Z"
   }
 ]
