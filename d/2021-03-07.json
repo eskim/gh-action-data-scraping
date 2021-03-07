@@ -78,5 +78,13 @@
     "username": "purplepeacock791",
     "password": "bingo",
     "invokedAt": "2021-03-07T20:57:16.205Z"
+  },
+  {
+    "firstName": "Jaroslaw",
+    "lastName": "Dittmann",
+    "email": "jaroslaw.dittmann@example.com",
+    "username": "orangebutterfly340",
+    "password": "techniques",
+    "invokedAt": "2021-03-07T21:57:23.597Z"
   }
 ]
