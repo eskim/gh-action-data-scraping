@@ -5,7 +5,7 @@ const path = require('path');
 const randomUser = require('random-user');
 
 // for you to change easily
-const dataFolder = '/data';
+const dataFolder = '/d';
 const now = new Date();
 const pathToData = path.join(__dirname, dataFolder, fileString(now)) + '.json';
 
