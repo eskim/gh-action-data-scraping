@@ -94,5 +94,13 @@
     "username": "happyrabbit973",
     "password": "223344",
     "invokedAt": "2021-03-08T12:01:31.787Z"
+  },
+  {
+    "firstName": "یاسمین",
+    "lastName": "یاسمی",
+    "email": "ysmyn.ysmy@example.com",
+    "username": "bluegorilla264",
+    "password": "weekend",
+    "invokedAt": "2021-03-08T13:09:37.023Z"
   }
 ]
