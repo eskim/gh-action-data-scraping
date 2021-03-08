@@ -126,5 +126,13 @@
     "username": "whiterabbit371",
     "password": "cuan",
     "invokedAt": "2021-03-08T16:02:40.535Z"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Martinez",
+    "email": "diana.martinez@example.com",
+    "username": "lazyzebra128",
+    "password": "absolutely",
+    "invokedAt": "2021-03-08T17:24:39.998Z"
   }
 ]
