@@ -78,5 +78,13 @@
     "username": "angrymeercat483",
     "password": "deadly",
     "invokedAt": "2021-03-08T10:01:35.224Z"
+  },
+  {
+    "firstName": "Sofie",
+    "lastName": "Rognmo",
+    "email": "sofie.rognmo@example.com",
+    "username": "silverladybug540",
+    "password": "rodeo",
+    "invokedAt": "2021-03-08T11:02:40.230Z"
   }
 ]
