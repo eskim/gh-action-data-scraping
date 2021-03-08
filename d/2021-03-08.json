@@ -134,5 +134,13 @@
     "username": "lazyzebra128",
     "password": "absolutely",
     "invokedAt": "2021-03-08T17:24:39.998Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Claire",
+    "email": "xavier.claire@example.com",
+    "username": "blackleopard603",
+    "password": "flasher",
+    "invokedAt": "2021-03-08T18:06:42.425Z"
   }
 ]
