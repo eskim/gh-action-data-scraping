@@ -142,5 +142,13 @@
     "username": "browngoose612",
     "password": "budapest",
     "invokedAt": "2021-03-09T18:15:04.378Z"
+  },
+  {
+    "firstName": "Naomi",
+    "lastName": "Muller",
+    "email": "naomi.muller@example.com",
+    "username": "organiclion793",
+    "password": "fatima",
+    "invokedAt": "2021-03-09T19:00:17.680Z"
   }
 ]
