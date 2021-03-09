@@ -54,5 +54,13 @@
     "username": "crazydog726",
     "password": "quebec",
     "invokedAt": "2021-03-09T06:59:10.915Z"
+  },
+  {
+    "firstName": "Ayşe",
+    "lastName": "Düşenkalkar",
+    "email": "ayse.dusenkalkar@example.com",
+    "username": "bluelion105",
+    "password": "blondie",
+    "invokedAt": "2021-03-09T07:57:19.637Z"
   }
 ]
