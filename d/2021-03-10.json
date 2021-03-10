@@ -182,5 +182,13 @@
     "username": "blackduck687",
     "password": "basset",
     "invokedAt": "2021-03-10T22:57:11.991Z"
+  },
+  {
+    "firstName": "Ariana",
+    "lastName": "Thompson",
+    "email": "ariana.thompson@example.com",
+    "username": "lazylion269",
+    "password": "vbnm",
+    "invokedAt": "2021-03-10T23:58:14.334Z"
   }
 ]
