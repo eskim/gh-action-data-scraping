@@ -126,5 +126,13 @@
     "username": "crazytiger195",
     "password": "cooking",
     "invokedAt": "2021-03-10T15:59:05.814Z"
+  },
+  {
+    "firstName": "Debbie",
+    "lastName": "Stephens",
+    "email": "debbie.stephens@example.com",
+    "username": "ticklishfish131",
+    "password": "fashion",
+    "invokedAt": "2021-03-10T17:20:56.298Z"
   }
 ]
