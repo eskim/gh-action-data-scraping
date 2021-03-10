@@ -174,5 +174,13 @@
     "username": "purplerabbit884",
     "password": "rage",
     "invokedAt": "2021-03-10T21:57:11.620Z"
+  },
+  {
+    "firstName": "Ömür",
+    "lastName": "Doğan",
+    "email": "omur.dogan@example.com",
+    "username": "blackduck687",
+    "password": "basset",
+    "invokedAt": "2021-03-10T22:57:11.991Z"
   }
 ]
