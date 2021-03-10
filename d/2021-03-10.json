@@ -166,5 +166,13 @@
     "username": "browndog629",
     "password": "break",
     "invokedAt": "2021-03-10T20:57:09.350Z"
+  },
+  {
+    "firstName": "Uwe",
+    "lastName": "Wenzel",
+    "email": "uwe.wenzel@example.com",
+    "username": "purplerabbit884",
+    "password": "rage",
+    "invokedAt": "2021-03-10T21:57:11.620Z"
   }
 ]
