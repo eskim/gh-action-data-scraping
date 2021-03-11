@@ -166,5 +166,13 @@
     "username": "greenmouse387",
     "password": "iforget",
     "invokedAt": "2021-03-11T20:57:29.237Z"
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Ambrose",
+    "email": "isabella.ambrose@example.com",
+    "username": "organicelephant749",
+    "password": "video1",
+    "invokedAt": "2021-03-11T21:57:12.050Z"
   }
 ]
