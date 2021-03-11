@@ -102,5 +102,13 @@
     "username": "bigzebra208",
     "password": "rockford",
     "invokedAt": "2021-03-11T13:07:10.368Z"
+  },
+  {
+    "firstName": "ثنا",
+    "lastName": "رضاییان",
+    "email": "thn.rdyyn@example.com",
+    "username": "heavymouse389",
+    "password": "frank1",
+    "invokedAt": "2021-03-11T14:01:42.860Z"
   }
 ]
