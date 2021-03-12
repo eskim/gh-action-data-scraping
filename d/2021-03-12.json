@@ -102,5 +102,13 @@
     "username": "purplemouse644",
     "password": "fist",
     "invokedAt": "2021-03-12T13:09:38.724Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Kristensen",
+    "email": "adam.kristensen@example.com",
+    "username": "ticklishmouse772",
+    "password": "spectre",
+    "invokedAt": "2021-03-12T14:01:38.721Z"
   }
 ]
