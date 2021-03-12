@@ -22,5 +22,13 @@
     "username": "happygoose990",
     "password": "fatcat",
     "invokedAt": "2021-03-12T03:01:37.902Z"
+  },
+  {
+    "firstName": "Ruby",
+    "lastName": "Green",
+    "email": "ruby.green@example.com",
+    "username": "whitewolf158",
+    "password": "cbr900rr",
+    "invokedAt": "2021-03-12T03:57:26.145Z"
   }
 ]
