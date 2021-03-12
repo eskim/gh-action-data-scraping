@@ -86,5 +86,13 @@
     "username": "lazylion999",
     "password": "houston1",
     "invokedAt": "2021-03-12T10:58:22.872Z"
+  },
+  {
+    "firstName": "Barış",
+    "lastName": "Keçeci",
+    "email": "baris.kececi@example.com",
+    "username": "sadlion654",
+    "password": "meatball",
+    "invokedAt": "2021-03-12T12:01:38.489Z"
   }
 ]
