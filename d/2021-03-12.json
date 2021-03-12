@@ -166,5 +166,13 @@
     "username": "blackcat469",
     "password": "corolla",
     "invokedAt": "2021-03-12T20:57:11.941Z"
+  },
+  {
+    "firstName": "Ingbert",
+    "lastName": "Rademacher",
+    "email": "ingbert.rademacher@example.com",
+    "username": "redbutterfly107",
+    "password": "greene",
+    "invokedAt": "2021-03-12T21:57:12.228Z"
   }
 ]
