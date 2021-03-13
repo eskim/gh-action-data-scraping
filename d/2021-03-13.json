@@ -54,5 +54,13 @@
     "username": "heavyfish639",
     "password": "morpheus",
     "invokedAt": "2021-03-13T06:58:59.038Z"
+  },
+  {
+    "firstName": "Zackary",
+    "lastName": "Williams",
+    "email": "zackary.williams@example.com",
+    "username": "greenzebra191",
+    "password": "chuckles",
+    "invokedAt": "2021-03-13T07:57:12.194Z"
   }
 ]
