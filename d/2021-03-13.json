@@ -182,5 +182,13 @@
     "username": "blackelephant314",
     "password": "piper",
     "invokedAt": "2021-03-13T22:57:58.518Z"
+  },
+  {
+    "firstName": "Eden",
+    "lastName": "Thomas",
+    "email": "eden.thomas@example.com",
+    "username": "organicbear621",
+    "password": "cold",
+    "invokedAt": "2021-03-13T23:57:56.298Z"
   }
 ]
