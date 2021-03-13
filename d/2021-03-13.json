@@ -46,5 +46,13 @@
     "username": "bigrabbit663",
     "password": "firefly",
     "invokedAt": "2021-03-13T05:57:09.388Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Larsen",
+    "email": "sebastian.larsen@example.com",
+    "username": "heavyfish639",
+    "password": "morpheus",
+    "invokedAt": "2021-03-13T06:58:59.038Z"
   }
 ]
