@@ -142,5 +142,13 @@
     "username": "redsnake411",
     "password": "jordan1",
     "invokedAt": "2021-03-13T18:01:21.531Z"
+  },
+  {
+    "firstName": "Victoire",
+    "lastName": "Hubert",
+    "email": "victoire.hubert@example.com",
+    "username": "silversnake540",
+    "password": "redeye",
+    "invokedAt": "2021-03-13T18:59:49.260Z"
   }
 ]
