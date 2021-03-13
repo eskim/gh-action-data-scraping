@@ -166,5 +166,13 @@
     "username": "lazypeacock105",
     "password": "visa",
     "invokedAt": "2021-03-13T20:57:21.654Z"
+  },
+  {
+    "firstName": "آیناز",
+    "lastName": "حیدری",
+    "email": "aynz.hydry@example.com",
+    "username": "silvermeercat580",
+    "password": "jacques",
+    "invokedAt": "2021-03-13T21:57:13.628Z"
   }
 ]
