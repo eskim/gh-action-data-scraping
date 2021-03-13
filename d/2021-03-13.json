@@ -70,5 +70,13 @@
     "username": "angrytiger110",
     "password": "quebec",
     "invokedAt": "2021-03-13T08:57:24.334Z"
+  },
+  {
+    "firstName": "Lachlan",
+    "lastName": "Li",
+    "email": "lachlan.li@example.com",
+    "username": "bluetiger255",
+    "password": "horny1",
+    "invokedAt": "2021-03-13T09:57:09.900Z"
   }
 ]
