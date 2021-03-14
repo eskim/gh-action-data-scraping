@@ -158,5 +158,13 @@
     "username": "bluelion414",
     "password": "frances",
     "invokedAt": "2021-03-14T19:57:23.005Z"
+  },
+  {
+    "firstName": "Kuzey",
+    "lastName": "Aşıkoğlu",
+    "email": "kuzey.asikoglu@example.com",
+    "username": "purplepanda663",
+    "password": "525252",
+    "invokedAt": "2021-03-14T20:57:21.924Z"
   }
 ]
