@@ -94,5 +94,13 @@
     "username": "organicduck764",
     "password": "eggplant",
     "invokedAt": "2021-03-14T11:57:13.175Z"
+  },
+  {
+    "firstName": "Hanna",
+    "lastName": "Peters",
+    "email": "hanna.peters@example.com",
+    "username": "purplegorilla354",
+    "password": "golden1",
+    "invokedAt": "2021-03-14T13:04:41.127Z"
   }
 ]
