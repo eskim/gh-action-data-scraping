@@ -62,5 +62,13 @@
     "username": "smallbutterfly417",
     "password": "rollins",
     "invokedAt": "2021-03-14T07:57:13.079Z"
+  },
+  {
+    "firstName": "Sedef",
+    "lastName": "Taşçı",
+    "email": "sedef.tasci@example.com",
+    "username": "blackwolf797",
+    "password": "bowtie",
+    "invokedAt": "2021-03-14T08:57:28.541Z"
   }
 ]
