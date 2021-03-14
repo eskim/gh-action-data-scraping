@@ -174,5 +174,13 @@
     "username": "greencat278",
     "password": "titleist",
     "invokedAt": "2021-03-14T21:57:13.579Z"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Kristensen",
+    "email": "olivia.kristensen@example.com",
+    "username": "beautifulrabbit705",
+    "password": "kittys",
+    "invokedAt": "2021-03-14T22:57:26.198Z"
   }
 ]
