@@ -110,5 +110,13 @@
     "username": "ticklishduck688",
     "password": "ajax",
     "invokedAt": "2021-03-14T13:57:13.153Z"
+  },
+  {
+    "firstName": "Taylor",
+    "lastName": "Ward",
+    "email": "taylor.ward@example.com",
+    "username": "brownmouse124",
+    "password": "mango",
+    "invokedAt": "2021-03-14T14:57:24.194Z"
   }
 ]
