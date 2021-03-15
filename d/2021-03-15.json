@@ -126,5 +126,13 @@
     "username": "beautifulelephant544",
     "password": "niceguy",
     "invokedAt": "2021-03-15T16:02:50.640Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Ağaoğlu",
+    "email": "afsar.agaoglu@example.com",
+    "username": "bluekoala597",
+    "password": "captain1",
+    "invokedAt": "2021-03-15T17:19:39.731Z"
   }
 ]
