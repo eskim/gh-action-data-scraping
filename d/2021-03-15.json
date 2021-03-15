@@ -158,5 +158,13 @@
     "username": "beautifultiger542",
     "password": "cthulhu",
     "invokedAt": "2021-03-15T19:57:11.110Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Walker",
+    "email": "benjamin.walker@example.com",
+    "username": "silvermouse816",
+    "password": "canon",
+    "invokedAt": "2021-03-15T22:05:52.880Z"
   }
 ]
