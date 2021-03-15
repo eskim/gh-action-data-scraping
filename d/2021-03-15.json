@@ -166,5 +166,13 @@
     "username": "silvermouse816",
     "password": "canon",
     "invokedAt": "2021-03-15T22:05:52.880Z"
+  },
+  {
+    "firstName": "Felipe",
+    "lastName": "Herrero",
+    "email": "felipe.herrero@example.com",
+    "username": "brownfish504",
+    "password": "paradigm",
+    "invokedAt": "2021-03-15T23:07:24.292Z"
   }
 ]
