@@ -166,5 +166,13 @@
     "username": "ticklishwolf838",
     "password": "europe",
     "invokedAt": "2021-03-16T20:57:21.828Z"
+  },
+  {
+    "firstName": "Wiebke",
+    "lastName": "Bohl",
+    "email": "wiebke.bohl@example.com",
+    "username": "silverbird768",
+    "password": "bananas",
+    "invokedAt": "2021-03-16T21:57:12.535Z"
   }
 ]
