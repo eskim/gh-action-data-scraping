@@ -126,5 +126,13 @@
     "username": "yellowleopard445",
     "password": "cadillac",
     "invokedAt": "2021-03-16T16:02:46.142Z"
+  },
+  {
+    "firstName": "Estéban",
+    "lastName": "Vidal",
+    "email": "esteban.vidal@example.com",
+    "username": "beautifulkoala452",
+    "password": "jerky",
+    "invokedAt": "2021-03-16T17:21:47.968Z"
   }
 ]
