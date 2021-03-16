@@ -158,5 +158,13 @@
     "username": "brownmouse155",
     "password": "june",
     "invokedAt": "2021-03-16T19:57:28.189Z"
+  },
+  {
+    "firstName": "Dimitrios",
+    "lastName": "Slag",
+    "email": "dimitrios.slag@example.com",
+    "username": "ticklishwolf838",
+    "password": "europe",
+    "invokedAt": "2021-03-16T20:57:21.828Z"
   }
 ]
