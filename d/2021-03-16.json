@@ -86,5 +86,13 @@
     "username": "blackgorilla266",
     "password": "booty",
     "invokedAt": "2021-03-16T10:57:42.594Z"
+  },
+  {
+    "firstName": "Donato",
+    "lastName": "da Conceição",
+    "email": "donato.daconceicao@example.com",
+    "username": "bluecat586",
+    "password": "daniels",
+    "invokedAt": "2021-03-16T11:57:13.062Z"
   }
 ]
