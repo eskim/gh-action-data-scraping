@@ -102,5 +102,13 @@
     "username": "redkoala457",
     "password": "puppet",
     "invokedAt": "2021-03-17T13:09:50.277Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Waisanen",
+    "email": "sofia.waisanen@example.com",
+    "username": "orangefish976",
+    "password": "hamburg",
+    "invokedAt": "2021-03-17T14:01:33.521Z"
   }
 ]
