@@ -46,5 +46,13 @@
     "username": "beautifulrabbit989",
     "password": "222222",
     "invokedAt": "2021-03-17T05:57:45.298Z"
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Johansen",
+    "email": "freja.johansen@example.com",
+    "username": "brownpeacock194",
+    "password": "pokemon",
+    "invokedAt": "2021-03-17T06:59:19.295Z"
   }
 ]
