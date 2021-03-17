@@ -94,5 +94,13 @@
     "username": "heavyzebra684",
     "password": "private",
     "invokedAt": "2021-03-17T12:01:41.771Z"
+  },
+  {
+    "firstName": "Nerea",
+    "lastName": "Nieto",
+    "email": "nerea.nieto@example.com",
+    "username": "redkoala457",
+    "password": "puppet",
+    "invokedAt": "2021-03-17T13:09:50.277Z"
   }
 ]
