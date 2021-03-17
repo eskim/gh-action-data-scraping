@@ -22,5 +22,13 @@
     "username": "ticklishsnake704",
     "password": "cookie1",
     "invokedAt": "2021-03-17T03:01:46.574Z"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Hautala",
+    "email": "elias.hautala@example.com",
+    "username": "tinybear972",
+    "password": "hailey",
+    "invokedAt": "2021-03-17T03:57:15.137Z"
   }
 ]
