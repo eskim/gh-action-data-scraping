@@ -54,5 +54,13 @@
     "username": "brownpeacock194",
     "password": "pokemon",
     "invokedAt": "2021-03-17T06:59:19.295Z"
+  },
+  {
+    "firstName": "Mikal",
+    "lastName": "Tesfay",
+    "email": "mikal.tesfay@example.com",
+    "username": "bluebird526",
+    "password": "chicago",
+    "invokedAt": "2021-03-17T07:57:21.121Z"
   }
 ]
