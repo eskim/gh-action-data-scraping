@@ -46,5 +46,13 @@
     "username": "ticklishkoala269",
     "password": "speedway",
     "invokedAt": "2021-03-18T05:57:21.080Z"
+  },
+  {
+    "firstName": "Sigrun",
+    "lastName": "Gulliksen",
+    "email": "sigrun.gulliksen@example.com",
+    "username": "brownmeercat524",
+    "password": "trucker",
+    "invokedAt": "2021-03-18T07:04:35.105Z"
   }
 ]
