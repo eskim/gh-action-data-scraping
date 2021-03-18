@@ -78,5 +78,13 @@
     "username": "sadfrog965",
     "password": "kidrock",
     "invokedAt": "2021-03-18T09:58:08.724Z"
+  },
+  {
+    "firstName": "Özsu",
+    "lastName": "Dağlaroğlu",
+    "email": "ozsu.daglaroglu@example.com",
+    "username": "crazypeacock376",
+    "password": "1103",
+    "invokedAt": "2021-03-18T10:57:38.441Z"
   }
 ]
