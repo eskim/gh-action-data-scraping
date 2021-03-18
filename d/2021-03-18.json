@@ -86,5 +86,13 @@
     "username": "crazypeacock376",
     "password": "1103",
     "invokedAt": "2021-03-18T10:57:38.441Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Halla",
+    "email": "sara.halla@example.com",
+    "username": "yellowbutterfly845",
+    "password": "sounds",
+    "invokedAt": "2021-03-18T11:57:13.114Z"
   }
 ]
