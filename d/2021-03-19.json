@@ -46,5 +46,13 @@
     "username": "tinymeercat691",
     "password": "immortal",
     "invokedAt": "2021-03-19T05:57:10.388Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Kristensen",
+    "email": "jonas.kristensen@example.com",
+    "username": "bluefrog905",
+    "password": "lloyd",
+    "invokedAt": "2021-03-19T06:59:33.883Z"
   }
 ]
