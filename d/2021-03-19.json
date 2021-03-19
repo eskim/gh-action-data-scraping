@@ -70,5 +70,13 @@
     "username": "smallzebra116",
     "password": "indigo",
     "invokedAt": "2021-03-19T09:02:38.536Z"
+  },
+  {
+    "firstName": "سینا",
+    "lastName": "جعفری",
+    "email": "syn.jaafry@example.com",
+    "username": "blackpeacock585",
+    "password": "noodle",
+    "invokedAt": "2021-03-19T10:01:45.176Z"
   }
 ]
