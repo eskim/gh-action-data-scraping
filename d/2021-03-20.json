@@ -46,5 +46,13 @@
     "username": "silverpanda162",
     "password": "bowman",
     "invokedAt": "2021-03-20T05:57:14.731Z"
+  },
+  {
+    "firstName": "Maddison",
+    "lastName": "Stephens",
+    "email": "maddison.stephens@example.com",
+    "username": "blackwolf376",
+    "password": "redline",
+    "invokedAt": "2021-03-20T06:58:56.749Z"
   }
 ]
