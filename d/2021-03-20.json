@@ -142,5 +142,13 @@
     "username": "beautifulleopard999",
     "password": "drowssap",
     "invokedAt": "2021-03-20T18:02:58.167Z"
+  },
+  {
+    "firstName": "Amalie",
+    "lastName": "Johansen",
+    "email": "amalie.johansen@example.com",
+    "username": "sadgorilla115",
+    "password": "windows",
+    "invokedAt": "2021-03-20T18:59:53.059Z"
   }
 ]
