@@ -158,5 +158,13 @@
     "username": "angrypanda534",
     "password": "tigger1",
     "invokedAt": "2021-03-20T19:57:32.072Z"
+  },
+  {
+    "firstName": "Efe",
+    "lastName": "Düşenkalkar",
+    "email": "efe.dusenkalkar@example.com",
+    "username": "tinykoala191",
+    "password": "canucks",
+    "invokedAt": "2021-03-20T20:57:21.212Z"
   }
 ]
