@@ -94,5 +94,13 @@
     "username": "angrydog108",
     "password": "787878",
     "invokedAt": "2021-03-21T12:01:45.244Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Thomsen",
+    "email": "julie.thomsen@example.com",
+    "username": "purpleduck992",
+    "password": "doobie",
+    "invokedAt": "2021-03-21T13:10:42.381Z"
   }
 ]
