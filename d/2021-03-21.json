@@ -46,5 +46,13 @@
     "username": "purpleleopard233",
     "password": "computer",
     "invokedAt": "2021-03-21T05:57:21.426Z"
+  },
+  {
+    "firstName": "Emília",
+    "lastName": "Pires",
+    "email": "emilia.pires@example.com",
+    "username": "blackbutterfly238",
+    "password": "142536",
+    "invokedAt": "2021-03-21T06:58:58.148Z"
   }
 ]
