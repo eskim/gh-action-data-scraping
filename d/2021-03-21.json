@@ -86,5 +86,13 @@
     "username": "redladybug184",
     "password": "rampage",
     "invokedAt": "2021-03-21T11:02:40.378Z"
+  },
+  {
+    "firstName": "Charlotte",
+    "lastName": "James",
+    "email": "charlotte.james@example.com",
+    "username": "angrydog108",
+    "password": "787878",
+    "invokedAt": "2021-03-21T12:01:45.244Z"
   }
 ]
