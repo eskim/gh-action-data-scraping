@@ -78,5 +78,13 @@
     "username": "lazygoose289",
     "password": "septembe",
     "invokedAt": "2021-03-21T10:01:37.512Z"
+  },
+  {
+    "firstName": "Anni",
+    "lastName": "Rantala",
+    "email": "anni.rantala@example.com",
+    "username": "redladybug184",
+    "password": "rampage",
+    "invokedAt": "2021-03-21T11:02:40.378Z"
   }
 ]
