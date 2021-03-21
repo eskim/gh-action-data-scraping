@@ -166,5 +166,13 @@
     "username": "redbird715",
     "password": "christ",
     "invokedAt": "2021-03-21T20:57:17.243Z"
+  },
+  {
+    "firstName": "Frances",
+    "lastName": "Hale",
+    "email": "frances.hale@example.com",
+    "username": "ticklishbear702",
+    "password": "hotmail",
+    "invokedAt": "2021-03-21T21:57:14.046Z"
   }
 ]
