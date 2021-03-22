@@ -142,5 +142,13 @@
     "username": "happyleopard473",
     "password": "toto",
     "invokedAt": "2021-03-22T17:29:45.355Z"
+  },
+  {
+    "firstName": "Etienne",
+    "lastName": "Tremblay",
+    "email": "etienne.tremblay@example.com",
+    "username": "silvergorilla434",
+    "password": "perfect1",
+    "invokedAt": "2021-03-22T18:04:22.690Z"
   }
 ]
