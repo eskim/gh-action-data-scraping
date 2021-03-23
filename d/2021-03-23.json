@@ -86,5 +86,13 @@
     "username": "beautifulsnake706",
     "password": "photos",
     "invokedAt": "2021-03-23T11:04:01.613Z"
+  },
+  {
+    "firstName": "Amalie",
+    "lastName": "Olsen",
+    "email": "amalie.olsen@example.com",
+    "username": "tinybear958",
+    "password": "millie",
+    "invokedAt": "2021-03-23T12:01:37.519Z"
   }
 ]
