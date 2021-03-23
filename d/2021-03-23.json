@@ -78,5 +78,13 @@
     "username": "whitepanda968",
     "password": "kitchen",
     "invokedAt": "2021-03-23T10:02:43.695Z"
+  },
+  {
+    "firstName": "Concepcion",
+    "lastName": "Santana",
+    "email": "concepcion.santana@example.com",
+    "username": "beautifulsnake706",
+    "password": "photos",
+    "invokedAt": "2021-03-23T11:04:01.613Z"
   }
 ]
