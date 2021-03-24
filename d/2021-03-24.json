@@ -14,5 +14,13 @@
     "username": "organickoala634",
     "password": "cypress",
     "invokedAt": "2021-03-24T02:22:54.819Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Sanchez",
+    "email": "miro.sanchez@example.com",
+    "username": "smallfrog125",
+    "password": "abc12345",
+    "invokedAt": "2021-03-24T03:03:38.107Z"
   }
 ]
