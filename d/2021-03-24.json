@@ -78,5 +78,13 @@
     "username": "whitewolf235",
     "password": "doberman",
     "invokedAt": "2021-03-24T10:16:08.848Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Howell",
+    "email": "alex.howell@example.com",
+    "username": "yellowleopard224",
+    "password": "battle",
+    "invokedAt": "2021-03-24T11:14:36.843Z"
   }
 ]
