@@ -166,5 +166,13 @@
     "username": "bigmeercat368",
     "password": "hedgehog",
     "invokedAt": "2021-03-24T20:57:17.336Z"
+  },
+  {
+    "firstName": "Mélani",
+    "lastName": "da Costa",
+    "email": "melani.dacosta@example.com",
+    "username": "tinytiger697",
+    "password": "racer",
+    "invokedAt": "2021-03-24T21:58:13.543Z"
   }
 ]
