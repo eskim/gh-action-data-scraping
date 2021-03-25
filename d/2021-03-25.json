@@ -142,5 +142,13 @@
     "username": "ticklishbird591",
     "password": "catalina",
     "invokedAt": "2021-03-25T18:24:08.348Z"
+  },
+  {
+    "firstName": "Roope",
+    "lastName": "Nurmi",
+    "email": "roope.nurmi@example.com",
+    "username": "whitefrog202",
+    "password": "desire",
+    "invokedAt": "2021-03-25T19:18:50.534Z"
   }
 ]
