@@ -134,5 +134,13 @@
     "username": "blackzebra730",
     "password": "catch22",
     "invokedAt": "2021-03-25T17:15:12.884Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Williamson",
+    "email": "amanda.williamson@example.com",
+    "username": "ticklishbird591",
+    "password": "catalina",
+    "invokedAt": "2021-03-25T18:24:08.348Z"
   }
 ]
