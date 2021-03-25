@@ -22,5 +22,13 @@
     "username": "greentiger495",
     "password": "volleyba",
     "invokedAt": "2021-03-25T03:22:13.374Z"
+  },
+  {
+    "firstName": "Cristobal",
+    "lastName": "Herrero",
+    "email": "cristobal.herrero@example.com",
+    "username": "whiteleopard264",
+    "password": "pothead",
+    "invokedAt": "2021-03-25T04:14:03.605Z"
   }
 ]
