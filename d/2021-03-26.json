@@ -182,5 +182,13 @@
     "username": "beautifulostrich525",
     "password": "pearl",
     "invokedAt": "2021-03-26T21:57:13.230Z"
+  },
+  {
+    "firstName": "Macit",
+    "lastName": "Tütüncü",
+    "email": "macit.tutuncu@example.com",
+    "username": "silvermeercat729",
+    "password": "comp",
+    "invokedAt": "2021-03-26T22:59:03.423Z"
   }
 ]
