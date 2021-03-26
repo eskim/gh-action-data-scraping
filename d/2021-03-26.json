@@ -190,5 +190,13 @@
     "username": "silvermeercat729",
     "password": "comp",
     "invokedAt": "2021-03-26T22:59:03.423Z"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Simmons",
+    "email": "joshua.simmons@example.com",
+    "username": "crazygoose867",
+    "password": "area51",
+    "invokedAt": "2021-03-26T23:59:29.366Z"
   }
 ]
