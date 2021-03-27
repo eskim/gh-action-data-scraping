@@ -182,5 +182,13 @@
     "username": "lazykoala195",
     "password": "walnut",
     "invokedAt": "2021-03-27T22:58:56.033Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Hernandez",
+    "email": "marc.hernandez@example.com",
+    "username": "yellowzebra473",
+    "password": "lala",
+    "invokedAt": "2021-03-27T23:59:47.996Z"
   }
 ]
