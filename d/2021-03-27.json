@@ -158,5 +158,13 @@
     "username": "heavykoala395",
     "password": "champ",
     "invokedAt": "2021-03-27T19:57:19.113Z"
+  },
+  {
+    "firstName": "Lloyd",
+    "lastName": "Nelson",
+    "email": "lloyd.nelson@example.com",
+    "username": "angrygorilla596",
+    "password": "pearl",
+    "invokedAt": "2021-03-27T20:57:32.552Z"
   }
 ]
