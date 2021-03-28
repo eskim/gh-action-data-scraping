@@ -142,5 +142,13 @@
     "username": "orangemouse583",
     "password": "legs",
     "invokedAt": "2021-03-28T18:20:00.278Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Kristensen",
+    "email": "sebastian.kristensen@example.com",
+    "username": "angrypanda631",
+    "password": "stars",
+    "invokedAt": "2021-03-28T19:12:00.829Z"
   }
 ]
