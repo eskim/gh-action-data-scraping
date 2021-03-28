@@ -46,5 +46,13 @@
     "username": "tinyfish147",
     "password": "fight",
     "invokedAt": "2021-03-28T05:57:09.572Z"
+  },
+  {
+    "firstName": "Jesse",
+    "lastName": "Saarinen",
+    "email": "jesse.saarinen@example.com",
+    "username": "brownladybug127",
+    "password": "343434",
+    "invokedAt": "2021-03-28T07:08:27.139Z"
   }
 ]
