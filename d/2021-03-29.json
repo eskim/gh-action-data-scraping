@@ -70,5 +70,13 @@
     "username": "blackbird877",
     "password": "latin",
     "invokedAt": "2021-03-29T07:57:24.014Z"
+  },
+  {
+    "firstName": "Alvin",
+    "lastName": "Tucker",
+    "email": "alvin.tucker@example.com",
+    "username": "greenpanda371",
+    "password": "dungeon",
+    "invokedAt": "2021-03-29T09:11:03.061Z"
   }
 ]
