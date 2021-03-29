@@ -126,5 +126,13 @@
     "username": "lazypeacock571",
     "password": "passwor1",
     "invokedAt": "2021-03-29T14:57:16.844Z"
+  },
+  {
+    "firstName": "Brad",
+    "lastName": "Armstrong",
+    "email": "brad.armstrong@example.com",
+    "username": "lazybird246",
+    "password": "gigi",
+    "invokedAt": "2021-03-29T16:01:39.450Z"
   }
 ]
