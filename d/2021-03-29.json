@@ -102,5 +102,13 @@
     "username": "redtiger725",
     "password": "players",
     "invokedAt": "2021-03-29T11:57:13.449Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Williams",
+    "email": "ella.williams@example.com",
+    "username": "goldenpeacock328",
+    "password": "sleep",
+    "invokedAt": "2021-03-29T13:15:28.441Z"
   }
 ]
