@@ -150,5 +150,13 @@
     "username": "whitemouse110",
     "password": "hard",
     "invokedAt": "2021-03-29T18:17:26.005Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Thomas",
+    "email": "alex.thomas@example.com",
+    "username": "redostrich251",
+    "password": "shells",
+    "invokedAt": "2021-03-29T19:08:23.560Z"
   }
 ]
