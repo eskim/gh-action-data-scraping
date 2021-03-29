@@ -158,5 +158,13 @@
     "username": "redostrich251",
     "password": "shells",
     "invokedAt": "2021-03-29T19:08:23.560Z"
+  },
+  {
+    "firstName": "Eetu",
+    "lastName": "Tanner",
+    "email": "eetu.tanner@example.com",
+    "username": "angrytiger451",
+    "password": "1981",
+    "invokedAt": "2021-03-29T19:57:13.217Z"
   }
 ]
