@@ -46,5 +46,13 @@
     "username": "yellowlion610",
     "password": "getsome",
     "invokedAt": "2021-03-29T05:14:01.275Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Chen",
+    "email": "max.chen@example.com",
+    "username": "bluecat151",
+    "password": "vibrate",
+    "invokedAt": "2021-03-29T05:57:30.418Z"
   }
 ]
