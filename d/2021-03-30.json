@@ -38,5 +38,13 @@
     "username": "orangeswan191",
     "password": "broncos",
     "invokedAt": "2021-03-30T04:01:06.380Z"
+  },
+  {
+    "firstName": "Susie",
+    "lastName": "Fitzsimmons",
+    "email": "susie.fitzsimmons@example.com",
+    "username": "silverladybug621",
+    "password": "1015",
+    "invokedAt": "2021-03-30T05:12:07.779Z"
   }
 ]
