@@ -22,5 +22,13 @@
     "username": "organicrabbit246",
     "password": "hal9000",
     "invokedAt": "2021-03-30T02:31:11.148Z"
+  },
+  {
+    "firstName": "Jamie",
+    "lastName": "Stewart",
+    "email": "jamie.stewart@example.com",
+    "username": "beautifulgorilla787",
+    "password": "pikachu",
+    "invokedAt": "2021-03-30T03:11:52.438Z"
   }
 ]
