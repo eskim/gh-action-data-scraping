@@ -102,5 +102,13 @@
     "username": "sadpanda578",
     "password": "wordup",
     "invokedAt": "2021-03-30T11:57:12.863Z"
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Black",
+    "email": "mike.black@example.com",
+    "username": "beautifulduck399",
+    "password": "stephani",
+    "invokedAt": "2021-03-30T13:15:40.984Z"
   }
 ]
