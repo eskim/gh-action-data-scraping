@@ -86,5 +86,13 @@
     "username": "sadswan379",
     "password": "printer",
     "invokedAt": "2021-03-30T09:59:26.160Z"
+  },
+  {
+    "firstName": "Lou",
+    "lastName": "Marie",
+    "email": "lou.marie@example.com",
+    "username": "smalllion699",
+    "password": "kordell1",
+    "invokedAt": "2021-03-30T10:59:06.311Z"
   }
 ]
