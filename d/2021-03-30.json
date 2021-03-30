@@ -142,5 +142,13 @@
     "username": "beautifulrabbit146",
     "password": "scuba1",
     "invokedAt": "2021-03-30T17:36:11.724Z"
+  },
+  {
+    "firstName": "Danillo",
+    "lastName": "Cheng",
+    "email": "danillo.cheng@example.com",
+    "username": "organicpanda579",
+    "password": "morgan1",
+    "invokedAt": "2021-03-30T18:22:14.613Z"
   }
 ]
