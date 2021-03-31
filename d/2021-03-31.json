@@ -38,5 +38,13 @@
     "username": "sadmouse655",
     "password": "sentnece",
     "invokedAt": "2021-03-31T05:08:48.335Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Cunningham",
+    "email": "felix.cunningham@example.com",
+    "username": "browndog541",
+    "password": "formula",
+    "invokedAt": "2021-03-31T05:57:17.067Z"
   }
 ]
