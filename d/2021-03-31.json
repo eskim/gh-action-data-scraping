@@ -126,5 +126,13 @@
     "username": "yellowdog739",
     "password": "dnsadm",
     "invokedAt": "2021-03-31T16:01:20.259Z"
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Young",
+    "email": "erik.young@example.com",
+    "username": "blackkoala534",
+    "password": "farmer",
+    "invokedAt": "2021-03-31T17:35:41.460Z"
   }
 ]
