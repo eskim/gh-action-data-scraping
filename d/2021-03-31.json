@@ -54,5 +54,13 @@
     "username": "happyelephant514",
     "password": "fullback",
     "invokedAt": "2021-03-31T07:09:55.487Z"
+  },
+  {
+    "firstName": "Sofie",
+    "lastName": "Pedersen",
+    "email": "sofie.pedersen@example.com",
+    "username": "whitepanda812",
+    "password": "sophie1",
+    "invokedAt": "2021-03-31T07:57:17.057Z"
   }
 ]
