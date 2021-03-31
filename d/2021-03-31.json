@@ -142,5 +142,13 @@
     "username": "brownfish536",
     "password": "possum",
     "invokedAt": "2021-03-31T18:21:14.994Z"
+  },
+  {
+    "firstName": "Fatma",
+    "lastName": "Çatalbaş",
+    "email": "fatma.catalbas@example.com",
+    "username": "crazybear899",
+    "password": "roofer",
+    "invokedAt": "2021-03-31T19:10:44.967Z"
   }
 ]
