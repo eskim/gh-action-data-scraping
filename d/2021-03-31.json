@@ -46,5 +46,13 @@
     "username": "browndog541",
     "password": "formula",
     "invokedAt": "2021-03-31T05:57:17.067Z"
+  },
+  {
+    "firstName": "Kathy",
+    "lastName": "Mills",
+    "email": "kathy.mills@example.com",
+    "username": "happyelephant514",
+    "password": "fullback",
+    "invokedAt": "2021-03-31T07:09:55.487Z"
   }
 ]
