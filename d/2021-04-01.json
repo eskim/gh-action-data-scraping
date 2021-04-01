@@ -46,5 +46,13 @@
     "username": "silverpanda986",
     "password": "tophat",
     "invokedAt": "2021-04-01T05:57:10.965Z"
+  },
+  {
+    "firstName": "مانی",
+    "lastName": "پارسا",
+    "email": "mny.prs@example.com",
+    "username": "orangecat681",
+    "password": "herman",
+    "invokedAt": "2021-04-01T07:08:39.141Z"
   }
 ]
