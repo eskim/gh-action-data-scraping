@@ -78,5 +78,13 @@
     "username": "heavykoala995",
     "password": "prayers",
     "invokedAt": "2021-04-01T09:59:52.143Z"
+  },
+  {
+    "firstName": "Peppi",
+    "lastName": "Huhtala",
+    "email": "peppi.huhtala@example.com",
+    "username": "sadswan397",
+    "password": "iron",
+    "invokedAt": "2021-04-01T10:59:39.989Z"
   }
 ]
