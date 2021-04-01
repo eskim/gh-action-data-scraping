@@ -70,5 +70,13 @@
     "username": "happydog493",
     "password": "physics",
     "invokedAt": "2021-04-01T09:00:53.889Z"
+  },
+  {
+    "firstName": "Käthi",
+    "lastName": "Schaper",
+    "email": "kathi.schaper@example.com",
+    "username": "heavykoala995",
+    "password": "prayers",
+    "invokedAt": "2021-04-01T09:59:52.143Z"
   }
 ]
