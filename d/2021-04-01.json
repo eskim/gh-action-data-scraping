@@ -118,5 +118,13 @@
     "username": "happybear386",
     "password": "models",
     "invokedAt": "2021-04-01T14:57:41.495Z"
+  },
+  {
+    "firstName": "Witold",
+    "lastName": "Dirks",
+    "email": "witold.dirks@example.com",
+    "username": "purplefish149",
+    "password": "quan",
+    "invokedAt": "2021-04-01T16:01:53.114Z"
   }
 ]
