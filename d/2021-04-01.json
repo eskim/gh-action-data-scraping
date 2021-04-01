@@ -38,5 +38,13 @@
     "username": "happykoala880",
     "password": "christian",
     "invokedAt": "2021-04-01T05:12:44.845Z"
+  },
+  {
+    "firstName": "Gesa",
+    "lastName": "Dreßler",
+    "email": "gesa.dressler@example.com",
+    "username": "silverpanda986",
+    "password": "tophat",
+    "invokedAt": "2021-04-01T05:57:10.965Z"
   }
 ]
