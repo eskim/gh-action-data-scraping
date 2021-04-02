@@ -118,5 +118,13 @@
     "username": "whitekoala793",
     "password": "ocean",
     "invokedAt": "2021-04-02T14:57:39.771Z"
+  },
+  {
+    "firstName": "Wilfried",
+    "lastName": "Bot",
+    "email": "wilfried.bot@example.com",
+    "username": "tinymeercat458",
+    "password": "animal",
+    "invokedAt": "2021-04-02T16:02:57.044Z"
   }
 ]
