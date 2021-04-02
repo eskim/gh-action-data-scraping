@@ -46,5 +46,13 @@
     "username": "lazykoala767",
     "password": "flanker",
     "invokedAt": "2021-04-02T05:57:13.601Z"
+  },
+  {
+    "firstName": "Shahid",
+    "lastName": "Zwolsman",
+    "email": "shahid.zwolsman@example.com",
+    "username": "heavyladybug880",
+    "password": "steel",
+    "invokedAt": "2021-04-02T07:10:16.712Z"
   }
 ]
