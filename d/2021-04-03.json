@@ -62,5 +62,13 @@
     "username": "redostrich913",
     "password": "loud",
     "invokedAt": "2021-04-03T07:09:28.355Z"
+  },
+  {
+    "firstName": "Davut",
+    "lastName": "Erdoğan",
+    "email": "davut.erdogan@example.com",
+    "username": "smallgorilla660",
+    "password": "vsegda",
+    "invokedAt": "2021-04-03T07:57:15.731Z"
   }
 ]
