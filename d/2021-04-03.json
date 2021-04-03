@@ -182,5 +182,13 @@
     "username": "silverdog844",
     "password": "jonjon",
     "invokedAt": "2021-04-03T22:01:33.756Z"
+  },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Tütüncü",
+    "email": "ahmet.tutuncu@example.com",
+    "username": "tinyelephant308",
+    "password": "wwwwwww",
+    "invokedAt": "2021-04-03T23:05:41.063Z"
   }
 ]
