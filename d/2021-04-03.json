@@ -38,5 +38,13 @@
     "username": "organicfish477",
     "password": "partner",
     "invokedAt": "2021-04-03T04:01:36.597Z"
+  },
+  {
+    "firstName": "Faustine",
+    "lastName": "Roger",
+    "email": "faustine.roger@example.com",
+    "username": "bigbear551",
+    "password": "tipper",
+    "invokedAt": "2021-04-03T05:12:21.734Z"
   }
 ]
