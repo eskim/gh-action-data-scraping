@@ -166,5 +166,13 @@
     "username": "reddog551",
     "password": "2233",
     "invokedAt": "2021-04-03T20:01:43.578Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Bolatlı",
+    "email": "ege.bolatli@example.com",
+    "username": "redswan405",
+    "password": "momomo",
+    "invokedAt": "2021-04-03T21:01:36.455Z"
   }
 ]
