@@ -38,5 +38,13 @@
     "username": "beautifulwolf587",
     "password": "golf",
     "invokedAt": "2021-04-04T05:12:30.846Z"
+  },
+  {
+    "firstName": "Gene",
+    "lastName": "Herrera",
+    "email": "gene.herrera@example.com",
+    "username": "crazymeercat970",
+    "password": "capone",
+    "invokedAt": "2021-04-04T05:57:07.951Z"
   }
 ]
