@@ -78,5 +78,13 @@
     "username": "greenrabbit643",
     "password": "codered",
     "invokedAt": "2021-04-05T09:59:41.838Z"
+  },
+  {
+    "firstName": "Aquila",
+    "lastName": "Teixeira",
+    "email": "aquila.teixeira@example.com",
+    "username": "beautifulwolf661",
+    "password": "baxter",
+    "invokedAt": "2021-04-05T10:59:26.551Z"
   }
 ]
