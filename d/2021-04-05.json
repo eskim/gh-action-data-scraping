@@ -46,5 +46,13 @@
     "username": "ticklishpanda259",
     "password": "probes",
     "invokedAt": "2021-04-05T05:57:26.848Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Okumuş",
+    "email": "adem.okumus@example.com",
+    "username": "blackostrich318",
+    "password": "genesis",
+    "invokedAt": "2021-04-05T07:10:37.569Z"
   }
 ]
