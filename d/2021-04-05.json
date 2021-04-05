@@ -126,5 +126,13 @@
     "username": "brownsnake819",
     "password": "stylus",
     "invokedAt": "2021-04-05T16:02:05.043Z"
+  },
+  {
+    "firstName": "Jhonny",
+    "lastName": "Spek",
+    "email": "jhonny.spek@example.com",
+    "username": "lazyladybug610",
+    "password": "sponge",
+    "invokedAt": "2021-04-05T17:36:30.339Z"
   }
 ]
