@@ -134,5 +134,13 @@
     "username": "lazyladybug610",
     "password": "sponge",
     "invokedAt": "2021-04-05T17:36:30.339Z"
+  },
+  {
+    "firstName": "Maíra",
+    "lastName": "Viana",
+    "email": "maira.viana@example.com",
+    "username": "brownelephant444",
+    "password": "helena",
+    "invokedAt": "2021-04-05T18:21:18.771Z"
   }
 ]
