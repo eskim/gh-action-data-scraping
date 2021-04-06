@@ -102,5 +102,13 @@
     "username": "brownostrich981",
     "password": "abcdef",
     "invokedAt": "2021-04-06T13:15:17.356Z"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Fields",
+    "email": "joel.fields@example.com",
+    "username": "sadleopard577",
+    "password": "aviation",
+    "invokedAt": "2021-04-06T13:57:13.772Z"
   }
 ]
