@@ -70,5 +70,13 @@
     "username": "happytiger425",
     "password": "transam",
     "invokedAt": "2021-04-06T08:57:09.901Z"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Korol",
+    "email": "ali.korol@example.com",
+    "username": "goldenfrog467",
+    "password": "remote",
+    "invokedAt": "2021-04-06T09:59:59.019Z"
   }
 ]
