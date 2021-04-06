@@ -126,5 +126,13 @@
     "username": "angryfish481",
     "password": "stretch",
     "invokedAt": "2021-04-06T16:09:49.015Z"
+  },
+  {
+    "firstName": "Medina",
+    "lastName": "Hellem",
+    "email": "medina.hellem@example.com",
+    "username": "goldenrabbit372",
+    "password": "blazer",
+    "invokedAt": "2021-04-06T17:39:31.620Z"
   }
 ]
