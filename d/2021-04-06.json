@@ -142,5 +142,13 @@
     "username": "heavykoala997",
     "password": "southpark",
     "invokedAt": "2021-04-06T18:23:26.330Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Abadan",
+    "email": "ulku.abadan@example.com",
+    "username": "greenduck643",
+    "password": "barnes",
+    "invokedAt": "2021-04-06T19:15:41.368Z"
   }
 ]
