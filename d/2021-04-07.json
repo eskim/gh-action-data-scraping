@@ -142,5 +142,13 @@
     "username": "heavypanda493",
     "password": "divorce",
     "invokedAt": "2021-04-07T18:22:11.937Z"
+  },
+  {
+    "firstName": "Hans-Gerd",
+    "lastName": "Grahl",
+    "email": "hans-gerd.grahl@example.com",
+    "username": "greenladybug252",
+    "password": "gangsta",
+    "invokedAt": "2021-04-07T19:14:45.482Z"
   }
 ]
