@@ -14,5 +14,13 @@
     "username": "browngoose176",
     "password": "benton",
     "invokedAt": "2021-04-07T01:57:30.563Z"
+  },
+  {
+    "firstName": "مانی",
+    "lastName": "صدر",
+    "email": "mny.sdr@example.com",
+    "username": "brownbird179",
+    "password": "felix",
+    "invokedAt": "2021-04-07T03:15:33.403Z"
   }
 ]
