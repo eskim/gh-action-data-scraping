@@ -94,5 +94,13 @@
     "username": "sadpeacock200",
     "password": "bdsm",
     "invokedAt": "2021-04-07T11:57:19.534Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Thompson",
+    "email": "benjamin.thompson@example.com",
+    "username": "angrylion403",
+    "password": "102938",
+    "invokedAt": "2021-04-07T13:16:16.927Z"
   }
 ]
