@@ -166,5 +166,13 @@
     "username": "brownduck447",
     "password": "facial",
     "invokedAt": "2021-04-07T20:57:30.644Z"
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Fleury",
+    "email": "kevin.fleury@example.com",
+    "username": "bluemeercat980",
+    "password": "parker",
+    "invokedAt": "2021-04-07T21:57:30.662Z"
   }
 ]
