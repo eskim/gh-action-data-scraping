@@ -30,5 +30,13 @@
     "username": "lazybutterfly351",
     "password": "modelsne",
     "invokedAt": "2021-04-08T04:10:02.724Z"
+  },
+  {
+    "firstName": "Alisa",
+    "lastName": "Hokkanen",
+    "email": "alisa.hokkanen@example.com",
+    "username": "brownbird304",
+    "password": "orioles",
+    "invokedAt": "2021-04-08T05:12:50.474Z"
   }
 ]
