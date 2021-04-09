@@ -174,5 +174,13 @@
     "username": "orangewolf249",
     "password": "spikey",
     "invokedAt": "2021-04-09T20:57:09.698Z"
+  },
+  {
+    "firstName": "Bobby",
+    "lastName": "Byrd",
+    "email": "bobby.byrd@example.com",
+    "username": "yellowfish900",
+    "password": "dingo",
+    "invokedAt": "2021-04-09T21:57:05.376Z"
   }
 ]
