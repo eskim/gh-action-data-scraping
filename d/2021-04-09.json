@@ -166,5 +166,13 @@
     "username": "angrybird431",
     "password": "capital",
     "invokedAt": "2021-04-09T19:57:59.999Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Powell",
+    "email": "julie.powell@example.com",
+    "username": "orangewolf249",
+    "password": "spikey",
+    "invokedAt": "2021-04-09T20:57:09.698Z"
   }
 ]
