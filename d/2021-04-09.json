@@ -38,5 +38,13 @@
     "username": "crazyleopard706",
     "password": "boxing",
     "invokedAt": "2021-04-09T03:58:55.849Z"
+  },
+  {
+    "firstName": "Elijah",
+    "lastName": "Li",
+    "email": "elijah.li@example.com",
+    "username": "whitewolf617",
+    "password": "paris",
+    "invokedAt": "2021-04-09T05:11:42.383Z"
   }
 ]
