@@ -126,5 +126,13 @@
     "username": "saddog936",
     "password": "margie",
     "invokedAt": "2021-04-10T16:01:13.430Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Kelly",
+    "email": "claude.kelly@example.com",
+    "username": "organicfrog859",
+    "password": "opendoor",
+    "invokedAt": "2021-04-10T17:30:54.738Z"
   }
 ]
