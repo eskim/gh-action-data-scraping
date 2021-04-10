@@ -118,5 +118,13 @@
     "username": "tinyfrog466",
     "password": "pipeline",
     "invokedAt": "2021-04-10T14:57:17.049Z"
+  },
+  {
+    "firstName": "Jeff",
+    "lastName": "Ferguson",
+    "email": "jeff.ferguson@example.com",
+    "username": "saddog936",
+    "password": "margie",
+    "invokedAt": "2021-04-10T16:01:13.430Z"
   }
 ]
