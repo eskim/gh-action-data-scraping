@@ -174,5 +174,13 @@
     "username": "bluerabbit877",
     "password": "191919",
     "invokedAt": "2021-04-10T21:57:09.970Z"
+  },
+  {
+    "firstName": "Erich",
+    "lastName": "Fenzl",
+    "email": "erich.fenzl@example.com",
+    "username": "tinyrabbit239",
+    "password": "pimping",
+    "invokedAt": "2021-04-10T23:01:06.806Z"
   }
 ]
