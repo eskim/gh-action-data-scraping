@@ -134,5 +134,13 @@
     "username": "organicfrog859",
     "password": "opendoor",
     "invokedAt": "2021-04-10T17:30:54.738Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Fortin",
+    "email": "jack.fortin@example.com",
+    "username": "silverfrog245",
+    "password": "strap",
+    "invokedAt": "2021-04-10T18:16:42.076Z"
   }
 ]
