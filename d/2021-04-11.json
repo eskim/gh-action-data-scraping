@@ -94,5 +94,13 @@
     "username": "blackleopard720",
     "password": "forever",
     "invokedAt": "2021-04-11T11:57:13.285Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Wang",
+    "email": "edward.wang@example.com",
+    "username": "angryladybug778",
+    "password": "grover",
+    "invokedAt": "2021-04-11T13:14:21.030Z"
   }
 ]
