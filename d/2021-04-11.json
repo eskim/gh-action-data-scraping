@@ -174,5 +174,13 @@
     "username": "smallmeercat662",
     "password": "studio",
     "invokedAt": "2021-04-11T21:57:08.770Z"
+  },
+  {
+    "firstName": "Batur",
+    "lastName": "Sandalcı",
+    "email": "batur.sandalci@example.com",
+    "username": "greenladybug422",
+    "password": "misery",
+    "invokedAt": "2021-04-11T23:01:48.934Z"
   }
 ]
