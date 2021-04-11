@@ -110,5 +110,13 @@
     "username": "organicladybug949",
     "password": "their",
     "invokedAt": "2021-04-11T13:57:08.586Z"
+  },
+  {
+    "firstName": "Bobbie",
+    "lastName": "Hoffman",
+    "email": "bobbie.hoffman@example.com",
+    "username": "organicmouse714",
+    "password": "hornets",
+    "invokedAt": "2021-04-11T14:57:14.737Z"
   }
 ]
