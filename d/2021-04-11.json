@@ -46,5 +46,13 @@
     "username": "bluepanda630",
     "password": "beaver",
     "invokedAt": "2021-04-11T05:57:08.387Z"
+  },
+  {
+    "firstName": "Fatih",
+    "lastName": "Spitzer",
+    "email": "fatih.spitzer@example.com",
+    "username": "crazybird865",
+    "password": "tempest",
+    "invokedAt": "2021-04-11T07:09:29.864Z"
   }
 ]
