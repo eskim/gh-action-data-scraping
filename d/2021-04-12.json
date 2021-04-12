@@ -86,5 +86,13 @@
     "username": "smallmouse962",
     "password": "tribble",
     "invokedAt": "2021-04-12T11:04:45.790Z"
+  },
+  {
+    "firstName": "Arturo",
+    "lastName": "Rojas",
+    "email": "arturo.rojas@example.com",
+    "username": "goldenbutterfly135",
+    "password": "bubbles",
+    "invokedAt": "2021-04-12T11:57:07.862Z"
   }
 ]
