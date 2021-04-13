@@ -110,5 +110,13 @@
     "username": "lazycat423",
     "password": "divorce",
     "invokedAt": "2021-04-13T13:57:18.024Z"
+  },
+  {
+    "firstName": "Jadwiga",
+    "lastName": "Koenen",
+    "email": "jadwiga.koenen@example.com",
+    "username": "silvergorilla239",
+    "password": "toocool",
+    "invokedAt": "2021-04-13T14:57:11.338Z"
   }
 ]
