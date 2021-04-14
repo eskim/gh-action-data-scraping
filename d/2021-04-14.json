@@ -158,5 +158,13 @@
     "username": "brownmouse471",
     "password": "space",
     "invokedAt": "2021-04-14T19:57:35.737Z"
+  },
+  {
+    "firstName": "Nihal",
+    "lastName": "Hakyemez",
+    "email": "nihal.hakyemez@example.com",
+    "username": "sadleopard584",
+    "password": "laurence",
+    "invokedAt": "2021-04-14T20:57:19.542Z"
   }
 ]
