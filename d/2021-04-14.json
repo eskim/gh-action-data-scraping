@@ -102,5 +102,13 @@
     "username": "beautifulbird427",
     "password": "touching",
     "invokedAt": "2021-04-14T13:14:36.811Z"
+  },
+  {
+    "firstName": "Christoffer",
+    "lastName": "Rasmussen",
+    "email": "christoffer.rasmussen@example.com",
+    "username": "organicrabbit868",
+    "password": "recovery",
+    "invokedAt": "2021-04-14T13:57:17.378Z"
   }
 ]
