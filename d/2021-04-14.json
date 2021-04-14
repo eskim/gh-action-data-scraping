@@ -110,5 +110,13 @@
     "username": "organicrabbit868",
     "password": "recovery",
     "invokedAt": "2021-04-14T13:57:17.378Z"
+  },
+  {
+    "firstName": "Alessio",
+    "lastName": "Deschamps",
+    "email": "alessio.deschamps@example.com",
+    "username": "bigbutterfly983",
+    "password": "lips",
+    "invokedAt": "2021-04-14T14:57:14.307Z"
   }
 ]
