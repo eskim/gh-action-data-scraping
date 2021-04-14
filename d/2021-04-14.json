@@ -78,5 +78,13 @@
     "username": "bluefrog593",
     "password": "taxman",
     "invokedAt": "2021-04-14T09:58:49.401Z"
+  },
+  {
+    "firstName": "بردیا",
+    "lastName": "مرادی",
+    "email": "brdy.mrdy@example.com",
+    "username": "yellowelephant444",
+    "password": "keyboard",
+    "invokedAt": "2021-04-14T10:58:05.158Z"
   }
 ]
