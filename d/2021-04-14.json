@@ -94,5 +94,13 @@
     "username": "crazywolf625",
     "password": "draco",
     "invokedAt": "2021-04-14T11:57:12.059Z"
+  },
+  {
+    "firstName": "Simauro",
+    "lastName": "da Rosa",
+    "email": "simauro.darosa@example.com",
+    "username": "beautifulbird427",
+    "password": "touching",
+    "invokedAt": "2021-04-14T13:14:36.811Z"
   }
 ]
