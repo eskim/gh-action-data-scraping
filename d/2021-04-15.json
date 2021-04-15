@@ -158,5 +158,13 @@
     "username": "bluekoala787",
     "password": "schmidt",
     "invokedAt": "2021-04-15T19:13:43.161Z"
+  },
+  {
+    "firstName": "Miriã",
+    "lastName": "Fogaça",
+    "email": "miria.fogaca@example.com",
+    "username": "yellowtiger472",
+    "password": "badgirl",
+    "invokedAt": "2021-04-15T19:57:27.822Z"
   }
 ]
