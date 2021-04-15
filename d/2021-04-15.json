@@ -94,5 +94,13 @@
     "username": "ticklishbutterfly314",
     "password": "1212",
     "invokedAt": "2021-04-15T10:58:37.776Z"
+  },
+  {
+    "firstName": "Randolf",
+    "lastName": "Holzner",
+    "email": "randolf.holzner@example.com",
+    "username": "happybutterfly328",
+    "password": "jenkins",
+    "invokedAt": "2021-04-15T11:57:11.466Z"
   }
 ]
