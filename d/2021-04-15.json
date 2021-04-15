@@ -166,5 +166,13 @@
     "username": "yellowtiger472",
     "password": "badgirl",
     "invokedAt": "2021-04-15T19:57:27.822Z"
+  },
+  {
+    "firstName": "Vilma",
+    "lastName": "Annala",
+    "email": "vilma.annala@example.com",
+    "username": "beautifulostrich998",
+    "password": "shaggy",
+    "invokedAt": "2021-04-15T20:57:08.929Z"
   }
 ]
