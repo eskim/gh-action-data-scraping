@@ -126,5 +126,13 @@
     "username": "angrybutterfly305",
     "password": "doubled",
     "invokedAt": "2021-04-16T16:01:41.301Z"
+  },
+  {
+    "firstName": "Sadie",
+    "lastName": "Walker",
+    "email": "sadie.walker@example.com",
+    "username": "tinymouse808",
+    "password": "ingrid",
+    "invokedAt": "2021-04-16T17:31:03.075Z"
   }
 ]
