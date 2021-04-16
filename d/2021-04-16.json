@@ -166,5 +166,13 @@
     "username": "smallpeacock479",
     "password": "lighting",
     "invokedAt": "2021-04-16T20:57:14.065Z"
+  },
+  {
+    "firstName": "Eli",
+    "lastName": "Clarke",
+    "email": "eli.clarke@example.com",
+    "username": "blackwolf800",
+    "password": "vortex",
+    "invokedAt": "2021-04-16T21:57:08.892Z"
   }
 ]
