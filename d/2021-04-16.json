@@ -38,5 +38,13 @@
     "username": "blackcat962",
     "password": "china",
     "invokedAt": "2021-04-16T05:11:43.749Z"
+  },
+  {
+    "firstName": "Elif",
+    "lastName": "Koçoğlu",
+    "email": "elif.kocoglu@example.com",
+    "username": "smallladybug668",
+    "password": "frontier",
+    "invokedAt": "2021-04-16T05:57:21.078Z"
   }
 ]
