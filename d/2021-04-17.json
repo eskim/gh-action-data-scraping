@@ -78,5 +78,13 @@
     "username": "yellowsnake557",
     "password": "qwert123",
     "invokedAt": "2021-04-17T08:58:50.417Z"
+  },
+  {
+    "firstName": "رها",
+    "lastName": "پارسا",
+    "email": "rh.prs@example.com",
+    "username": "crazybird537",
+    "password": "nikita",
+    "invokedAt": "2021-04-17T09:58:33.982Z"
   }
 ]
