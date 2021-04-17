@@ -142,5 +142,13 @@
     "username": "orangerabbit355",
     "password": "hyperion",
     "invokedAt": "2021-04-17T17:28:37.818Z"
+  },
+  {
+    "firstName": "Salvatore",
+    "lastName": "Albrecht",
+    "email": "salvatore.albrecht@example.com",
+    "username": "bluemeercat452",
+    "password": "crusty",
+    "invokedAt": "2021-04-17T18:14:49.828Z"
   }
 ]
