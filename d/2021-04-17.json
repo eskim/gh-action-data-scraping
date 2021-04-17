@@ -14,5 +14,13 @@
     "username": "yellowostrich589",
     "password": "corleone",
     "invokedAt": "2021-04-17T01:52:13.606Z"
+  },
+  {
+    "firstName": "Jessie",
+    "lastName": "Stewart",
+    "email": "jessie.stewart@example.com",
+    "username": "whitesnake136",
+    "password": "wrestling",
+    "invokedAt": "2021-04-17T02:30:05.046Z"
   }
 ]
