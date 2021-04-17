@@ -102,5 +102,13 @@
     "username": "tinysnake566",
     "password": "planes",
     "invokedAt": "2021-04-17T11:57:20.473Z"
+  },
+  {
+    "firstName": "Nihal",
+    "lastName": "Özberk",
+    "email": "nihal.ozberk@example.com",
+    "username": "sadelephant758",
+    "password": "speed1",
+    "invokedAt": "2021-04-17T13:14:01.135Z"
   }
 ]
