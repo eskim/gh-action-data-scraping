@@ -22,5 +22,13 @@
     "username": "whitesnake136",
     "password": "wrestling",
     "invokedAt": "2021-04-17T02:30:05.046Z"
+  },
+  {
+    "firstName": "Christiane",
+    "lastName": "Olden",
+    "email": "christiane.olden@example.com",
+    "username": "beautifulladybug661",
+    "password": "backup",
+    "invokedAt": "2021-04-17T03:10:44.668Z"
   }
 ]
