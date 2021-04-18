@@ -22,5 +22,13 @@
     "username": "blackgorilla257",
     "password": "shang",
     "invokedAt": "2021-04-18T04:01:38.297Z"
+  },
+  {
+    "firstName": "Melike",
+    "lastName": "Koçoğlu",
+    "email": "melike.kocoglu@example.com",
+    "username": "lazymeercat654",
+    "password": "block",
+    "invokedAt": "2021-04-18T05:10:32.538Z"
   }
 ]
