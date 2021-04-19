@@ -110,5 +110,13 @@
     "username": "greenladybug240",
     "password": "rommel",
     "invokedAt": "2021-04-19T13:57:10.713Z"
+  },
+  {
+    "firstName": "غزل",
+    "lastName": "حیدری",
+    "email": "gzl.hydry@example.com",
+    "username": "brownwolf303",
+    "password": "allison",
+    "invokedAt": "2021-04-19T14:57:16.161Z"
   }
 ]
