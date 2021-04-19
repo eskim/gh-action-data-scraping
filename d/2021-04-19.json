@@ -174,5 +174,13 @@
     "username": "ticklishfrog300",
     "password": "sugar1",
     "invokedAt": "2021-04-19T21:57:14.203Z"
+  },
+  {
+    "firstName": "Estefânio",
+    "lastName": "Cardoso",
+    "email": "estefanio.cardoso@example.com",
+    "username": "heavyswan216",
+    "password": "magnus",
+    "invokedAt": "2021-04-19T23:00:17.509Z"
   }
 ]
