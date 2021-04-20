@@ -78,5 +78,13 @@
     "username": "orangezebra834",
     "password": "thunder1",
     "invokedAt": "2021-04-20T08:59:28.281Z"
+  },
+  {
+    "firstName": "Marek",
+    "lastName": "Stier",
+    "email": "marek.stier@example.com",
+    "username": "redbird407",
+    "password": "bigdog",
+    "invokedAt": "2021-04-20T09:59:19.475Z"
   }
 ]
