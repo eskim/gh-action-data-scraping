@@ -94,5 +94,13 @@
     "username": "smalllion444",
     "password": "alexa",
     "invokedAt": "2021-04-20T10:58:34.019Z"
+  },
+  {
+    "firstName": "Gerd",
+    "lastName": "Paulsen",
+    "email": "gerd.paulsen@example.com",
+    "username": "bluerabbit805",
+    "password": "heater",
+    "invokedAt": "2021-04-20T11:57:13.279Z"
   }
 ]
