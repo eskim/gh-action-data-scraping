@@ -150,5 +150,13 @@
     "username": "silverlion665",
     "password": "trace",
     "invokedAt": "2021-04-21T18:18:14.951Z"
+  },
+  {
+    "firstName": "Eren",
+    "lastName": "Nalbantoğlu",
+    "email": "eren.nalbantoglu@example.com",
+    "username": "brownrabbit468",
+    "password": "hhhhh",
+    "invokedAt": "2021-04-21T19:13:11.932Z"
   }
 ]
