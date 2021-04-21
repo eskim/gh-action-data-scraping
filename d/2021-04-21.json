@@ -166,5 +166,13 @@
     "username": "tinypeacock397",
     "password": "water",
     "invokedAt": "2021-04-21T19:57:10.548Z"
+  },
+  {
+    "firstName": "Elvine",
+    "lastName": "Schneider",
+    "email": "elvine.schneider@example.com",
+    "username": "angrytiger321",
+    "password": "lagnaf",
+    "invokedAt": "2021-04-21T20:57:14.389Z"
   }
 ]
