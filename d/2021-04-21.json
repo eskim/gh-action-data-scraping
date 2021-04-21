@@ -142,5 +142,13 @@
     "username": "heavywolf606",
     "password": "ocean",
     "invokedAt": "2021-04-21T17:31:52.187Z"
+  },
+  {
+    "firstName": "Sonia",
+    "lastName": "Nieto",
+    "email": "sonia.nieto@example.com",
+    "username": "silverlion665",
+    "password": "trace",
+    "invokedAt": "2021-04-21T18:18:14.951Z"
   }
 ]
