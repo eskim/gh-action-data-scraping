@@ -14,5 +14,13 @@
     "username": "greencat820",
     "password": "plastic",
     "invokedAt": "2021-04-22T01:55:37.891Z"
+  },
+  {
+    "firstName": "Emilia",
+    "lastName": "Perez",
+    "email": "emilia.perez@example.com",
+    "username": "orangecat331",
+    "password": "kuai",
+    "invokedAt": "2021-04-22T03:13:07.847Z"
   }
 ]
