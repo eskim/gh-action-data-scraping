@@ -126,5 +126,13 @@
     "username": "organicmeercat247",
     "password": "woodland",
     "invokedAt": "2021-04-22T16:09:49.638Z"
+  },
+  {
+    "firstName": "Umut",
+    "lastName": "Özdoğan",
+    "email": "umut.ozdogan@example.com",
+    "username": "redmeercat428",
+    "password": "snake1",
+    "invokedAt": "2021-04-22T17:34:52.715Z"
   }
 ]
