@@ -118,5 +118,13 @@
     "username": "biglion504",
     "password": "firefox",
     "invokedAt": "2021-04-23T14:57:18.765Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Griffin",
+    "email": "ivan.griffin@example.com",
+    "username": "smallcat454",
+    "password": "434343",
+    "invokedAt": "2021-04-23T16:09:51.061Z"
   }
 ]
