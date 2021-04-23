@@ -46,5 +46,13 @@
     "username": "organicladybug733",
     "password": "freaks",
     "invokedAt": "2021-04-23T05:57:07.328Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Tremblay",
+    "email": "lucas.tremblay@example.com",
+    "username": "whitegorilla105",
+    "password": "colt45",
+    "invokedAt": "2021-04-23T07:11:03.437Z"
   }
 ]
