@@ -142,5 +142,13 @@
     "username": "sadzebra728",
     "password": "daylight",
     "invokedAt": "2021-04-23T18:20:15.614Z"
+  },
+  {
+    "firstName": "Fritz",
+    "lastName": "Menard",
+    "email": "fritz.menard@example.com",
+    "username": "happyzebra787",
+    "password": "161616",
+    "invokedAt": "2021-04-23T19:15:15.975Z"
   }
 ]
