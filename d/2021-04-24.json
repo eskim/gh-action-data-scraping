@@ -38,5 +38,13 @@
     "username": "greentiger183",
     "password": "hetfield",
     "invokedAt": "2021-04-24T05:11:52.978Z"
+  },
+  {
+    "firstName": "Roxan",
+    "lastName": "Essink",
+    "email": "roxan.essink@example.com",
+    "username": "greenostrich862",
+    "password": "softball",
+    "invokedAt": "2021-04-24T05:57:15.131Z"
   }
 ]
