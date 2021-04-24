@@ -158,5 +158,13 @@
     "username": "bigtiger257",
     "password": "deadspin",
     "invokedAt": "2021-04-24T19:57:13.727Z"
+  },
+  {
+    "firstName": "Frederica",
+    "lastName": "Venema",
+    "email": "frederica.venema@example.com",
+    "username": "purplepeacock178",
+    "password": "456654",
+    "invokedAt": "2021-04-24T20:57:10.416Z"
   }
 ]
