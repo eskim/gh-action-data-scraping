@@ -78,5 +78,13 @@
     "username": "brownkoala244",
     "password": "borders",
     "invokedAt": "2021-04-25T09:59:45.195Z"
+  },
+  {
+    "firstName": "Rói",
+    "lastName": "Silveira",
+    "email": "roi.silveira@example.com",
+    "username": "heavytiger886",
+    "password": "complete",
+    "invokedAt": "2021-04-25T10:58:15.024Z"
   }
 ]
