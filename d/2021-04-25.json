@@ -110,5 +110,13 @@
     "username": "ticklishgoose150",
     "password": "estelle",
     "invokedAt": "2021-04-25T13:57:11.308Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Hunter",
+    "email": "oscar.hunter@example.com",
+    "username": "crazygorilla243",
+    "password": "lightnin",
+    "invokedAt": "2021-04-25T14:57:13.313Z"
   }
 ]
