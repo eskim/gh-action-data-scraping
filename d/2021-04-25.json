@@ -102,5 +102,13 @@
     "username": "organicgoose343",
     "password": "liquid",
     "invokedAt": "2021-04-25T13:15:23.045Z"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Rodriquez",
+    "email": "joe.rodriquez@example.com",
+    "username": "ticklishgoose150",
+    "password": "estelle",
+    "invokedAt": "2021-04-25T13:57:11.308Z"
   }
 ]
