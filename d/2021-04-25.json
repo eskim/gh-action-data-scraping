@@ -118,5 +118,13 @@
     "username": "crazygorilla243",
     "password": "lightnin",
     "invokedAt": "2021-04-25T14:57:13.313Z"
+  },
+  {
+    "firstName": "Laurie",
+    "lastName": "Barnaby",
+    "email": "laurie.barnaby@example.com",
+    "username": "heavygoose102",
+    "password": "asdasd",
+    "invokedAt": "2021-04-25T16:02:23.080Z"
   }
 ]
