@@ -166,5 +166,13 @@
     "username": "goldenpeacock487",
     "password": "sixpack",
     "invokedAt": "2021-04-26T21:57:14.906Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Walker",
+    "email": "louis.walker@example.com",
+    "username": "beautifulsnake809",
+    "password": "hungry",
+    "invokedAt": "2021-04-26T23:00:46.240Z"
   }
 ]
