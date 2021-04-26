@@ -94,5 +94,13 @@
     "username": "yellowcat773",
     "password": "free",
     "invokedAt": "2021-04-26T13:17:35.791Z"
+  },
+  {
+    "firstName": "Eren",
+    "lastName": "Alnıaçık",
+    "email": "eren.alniacik@example.com",
+    "username": "orangezebra632",
+    "password": "hello1",
+    "invokedAt": "2021-04-26T13:57:11.695Z"
   }
 ]
