@@ -126,5 +126,13 @@
     "username": "silverpeacock936",
     "password": "faithful",
     "invokedAt": "2021-04-26T17:35:47.881Z"
+  },
+  {
+    "firstName": "Hilde",
+    "lastName": "Karlsson",
+    "email": "hilde.karlsson@example.com",
+    "username": "lazyswan333",
+    "password": "duchess",
+    "invokedAt": "2021-04-26T18:19:52.878Z"
   }
 ]
