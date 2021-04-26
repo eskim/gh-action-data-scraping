@@ -70,5 +70,13 @@
     "username": "orangemeercat527",
     "password": "backdoor",
     "invokedAt": "2021-04-26T09:59:35.616Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Rodriguez",
+    "email": "arthur.rodriguez@example.com",
+    "username": "heavymouse208",
+    "password": "celeste",
+    "invokedAt": "2021-04-26T10:59:01.323Z"
   }
 ]
