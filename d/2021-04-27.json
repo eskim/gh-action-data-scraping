@@ -86,5 +86,13 @@
     "username": "ticklishmouse220",
     "password": "crazy",
     "invokedAt": "2021-04-27T11:57:26.653Z"
+  },
+  {
+    "firstName": "Klaas-Jan",
+    "lastName": "Van den Kerkhof",
+    "email": "klaas-jan.vandenkerkhof@example.com",
+    "username": "lazyswan420",
+    "password": "jayson",
+    "invokedAt": "2021-04-27T13:15:56.795Z"
   }
 ]
