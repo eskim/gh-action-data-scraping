@@ -166,5 +166,13 @@
     "username": "sadkoala319",
     "password": "kitchen",
     "invokedAt": "2021-04-27T21:57:18.458Z"
+  },
+  {
+    "firstName": "Nihal",
+    "lastName": "Aybar",
+    "email": "nihal.aybar@example.com",
+    "username": "silverfish419",
+    "password": "starship",
+    "invokedAt": "2021-04-27T23:00:48.565Z"
   }
 ]
