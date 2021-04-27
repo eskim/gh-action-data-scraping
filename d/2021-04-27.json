@@ -70,5 +70,13 @@
     "username": "orangetiger180",
     "password": "wwwwwww",
     "invokedAt": "2021-04-27T09:58:34.953Z"
+  },
+  {
+    "firstName": "Reuben",
+    "lastName": "Van Liere",
+    "email": "reuben.vanliere@example.com",
+    "username": "smallpanda850",
+    "password": "cromwell",
+    "invokedAt": "2021-04-27T10:58:09.131Z"
   }
 ]
