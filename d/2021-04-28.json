@@ -38,5 +38,13 @@
     "username": "crazydog790",
     "password": "masters",
     "invokedAt": "2021-04-28T04:08:55.314Z"
+  },
+  {
+    "firstName": "Mestan",
+    "lastName": "Erberk",
+    "email": "mestan.erberk@example.com",
+    "username": "saddog391",
+    "password": "favorite",
+    "invokedAt": "2021-04-28T05:11:45.200Z"
   }
 ]
