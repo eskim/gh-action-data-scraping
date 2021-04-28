@@ -158,5 +158,13 @@
     "username": "bluepanda441",
     "password": "reebok",
     "invokedAt": "2021-04-28T19:13:52.294Z"
+  },
+  {
+    "firstName": "Aiden",
+    "lastName": "Ross",
+    "email": "aiden.ross@example.com",
+    "username": "organicbear119",
+    "password": "morgan1",
+    "invokedAt": "2021-04-28T19:57:12.112Z"
   }
 ]
