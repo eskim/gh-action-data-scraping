@@ -78,5 +78,13 @@
     "username": "lazyzebra616",
     "password": "spawn",
     "invokedAt": "2021-04-28T08:59:01.346Z"
+  },
+  {
+    "firstName": "Peppi",
+    "lastName": "Rantala",
+    "email": "peppi.rantala@example.com",
+    "username": "smallmouse918",
+    "password": "fullmoon",
+    "invokedAt": "2021-04-28T09:59:47.643Z"
   }
 ]
