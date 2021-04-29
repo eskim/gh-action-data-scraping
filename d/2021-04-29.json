@@ -166,5 +166,13 @@
     "username": "goldenkoala614",
     "password": "victory",
     "invokedAt": "2021-04-29T19:57:22.811Z"
+  },
+  {
+    "firstName": "Melike",
+    "lastName": "Kıraç",
+    "email": "melike.kirac@example.com",
+    "username": "crazywolf312",
+    "password": "zhuai",
+    "invokedAt": "2021-04-29T20:57:11.555Z"
   }
 ]
