@@ -6,5 +6,13 @@
     "username": "lazymeercat341",
     "password": "penelope",
     "invokedAt": "2021-04-29T00:00:23.918Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Duval",
+    "email": "tom.duval@example.com",
+    "username": "organicswan956",
+    "password": "county",
+    "invokedAt": "2021-04-29T01:53:42.160Z"
   }
 ]
