@@ -94,5 +94,13 @@
     "username": "purpletiger308",
     "password": "lovebug",
     "invokedAt": "2021-04-30T11:57:21.057Z"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "Peltonen",
+    "email": "matilda.peltonen@example.com",
+    "username": "purpleswan285",
+    "password": "letsgo",
+    "invokedAt": "2021-04-30T13:13:49.655Z"
   }
 ]
