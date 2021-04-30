@@ -70,5 +70,13 @@
     "username": "whitelion695",
     "password": "casino",
     "invokedAt": "2021-04-30T08:59:52.341Z"
+  },
+  {
+    "firstName": "Jeppe",
+    "lastName": "Christensen",
+    "email": "jeppe.christensen@example.com",
+    "username": "happytiger440",
+    "password": "highheel",
+    "invokedAt": "2021-04-30T09:58:08.322Z"
   }
 ]
