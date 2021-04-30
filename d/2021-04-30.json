@@ -142,5 +142,13 @@
     "username": "sadlion721",
     "password": "club",
     "invokedAt": "2021-04-30T18:13:11.748Z"
+  },
+  {
+    "firstName": "Jake",
+    "lastName": "Edwards",
+    "email": "jake.edwards@example.com",
+    "username": "silverkoala250",
+    "password": "hookup",
+    "invokedAt": "2021-04-30T19:08:42.042Z"
   }
 ]
