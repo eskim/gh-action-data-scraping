@@ -158,5 +158,13 @@
     "username": "beautifulmouse157",
     "password": "sucker",
     "invokedAt": "2021-05-01T20:57:22.746Z"
+  },
+  {
+    "firstName": "Selma",
+    "lastName": "Rasmussen",
+    "email": "selma.rasmussen@example.com",
+    "username": "blackpeacock523",
+    "password": "union",
+    "invokedAt": "2021-05-01T21:57:12.718Z"
   }
 ]
