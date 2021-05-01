@@ -150,5 +150,13 @@
     "username": "beautifullion488",
     "password": "guess",
     "invokedAt": "2021-05-01T19:57:20.619Z"
+  },
+  {
+    "firstName": "Everett",
+    "lastName": "Burton",
+    "email": "everett.burton@example.com",
+    "username": "beautifulmouse157",
+    "password": "sucker",
+    "invokedAt": "2021-05-01T20:57:22.746Z"
   }
 ]
