@@ -166,5 +166,13 @@
     "username": "blackpeacock523",
     "password": "union",
     "invokedAt": "2021-05-01T21:57:12.718Z"
+  },
+  {
+    "firstName": "Serena",
+    "lastName": "Dumont",
+    "email": "serena.dumont@example.com",
+    "username": "heavypeacock535",
+    "password": "womam",
+    "invokedAt": "2021-05-01T23:00:47.198Z"
   }
 ]
