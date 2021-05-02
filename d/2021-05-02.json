@@ -30,5 +30,13 @@
     "username": "bluemouse209",
     "password": "turnip",
     "invokedAt": "2021-05-02T04:05:16.002Z"
+  },
+  {
+    "firstName": "Fernando",
+    "lastName": "Sales",
+    "email": "fernando.sales@example.com",
+    "username": "blackdog910",
+    "password": "thankyou",
+    "invokedAt": "2021-05-02T05:09:48.937Z"
   }
 ]
