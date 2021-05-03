@@ -118,5 +118,13 @@
     "username": "orangeostrich426",
     "password": "2580",
     "invokedAt": "2021-05-03T14:57:17.668Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Dağdaş",
+    "email": "ulku.dagdas@example.com",
+    "username": "bluetiger215",
+    "password": "keller",
+    "invokedAt": "2021-05-03T16:03:23.722Z"
   }
 ]
