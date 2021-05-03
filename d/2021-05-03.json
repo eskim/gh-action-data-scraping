@@ -126,5 +126,13 @@
     "username": "bluetiger215",
     "password": "keller",
     "invokedAt": "2021-05-03T16:03:23.722Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Christiansen",
+    "email": "valdemar.christiansen@example.com",
+    "username": "crazyostrich824",
+    "password": "deskjet",
+    "invokedAt": "2021-05-03T17:31:59.946Z"
   }
 ]
