@@ -94,5 +94,13 @@
     "username": "bluetiger335",
     "password": "password2",
     "invokedAt": "2021-05-03T11:57:22.976Z"
+  },
+  {
+    "firstName": "Batur",
+    "lastName": "Küçükler",
+    "email": "batur.kucukler@example.com",
+    "username": "crazytiger843",
+    "password": "rhodes",
+    "invokedAt": "2021-05-03T13:15:07.455Z"
   }
 ]
