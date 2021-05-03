@@ -182,5 +182,13 @@
     "username": "beautifulelephant571",
     "password": "elizabet",
     "invokedAt": "2021-05-03T22:58:54.930Z"
+  },
+  {
+    "firstName": "Macit",
+    "lastName": "Kurutluoğlu",
+    "email": "macit.kurutluoglu@example.com",
+    "username": "angryostrich635",
+    "password": "boots",
+    "invokedAt": "2021-05-03T23:57:47.959Z"
   }
 ]
