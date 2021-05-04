@@ -54,5 +54,13 @@
     "username": "brownfish138",
     "password": "3232",
     "invokedAt": "2021-05-04T07:03:57.882Z"
+  },
+  {
+    "firstName": "Aissa",
+    "lastName": "Richardson",
+    "email": "aissa.richardson@example.com",
+    "username": "yellowostrich632",
+    "password": "bigmoney",
+    "invokedAt": "2021-05-04T07:57:15.910Z"
   }
 ]
