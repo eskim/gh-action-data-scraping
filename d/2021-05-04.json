@@ -86,5 +86,13 @@
     "username": "whitemouse256",
     "password": "officer",
     "invokedAt": "2021-05-04T10:57:23.764Z"
+  },
+  {
+    "firstName": "Helmi",
+    "lastName": "Erkkila",
+    "email": "helmi.erkkila@example.com",
+    "username": "yellowlion965",
+    "password": "bestbuy",
+    "invokedAt": "2021-05-04T11:57:08.436Z"
   }
 ]
