@@ -94,5 +94,13 @@
     "username": "lazysnake438",
     "password": "ccbill",
     "invokedAt": "2021-05-05T11:57:18.130Z"
+  },
+  {
+    "firstName": "Ditmar",
+    "lastName": "Krampe",
+    "email": "ditmar.krampe@example.com",
+    "username": "beautifulpanda412",
+    "password": "racing",
+    "invokedAt": "2021-05-05T13:13:37.255Z"
   }
 ]
