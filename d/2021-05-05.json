@@ -86,5 +86,13 @@
     "username": "yellowzebra465",
     "password": "hilton",
     "invokedAt": "2021-05-05T10:57:37.418Z"
+  },
+  {
+    "firstName": "Barb",
+    "lastName": "Hoffman",
+    "email": "barb.hoffman@example.com",
+    "username": "lazysnake438",
+    "password": "ccbill",
+    "invokedAt": "2021-05-05T11:57:18.130Z"
   }
 ]
