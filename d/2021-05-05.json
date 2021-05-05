@@ -102,5 +102,13 @@
     "username": "beautifulpanda412",
     "password": "racing",
     "invokedAt": "2021-05-05T13:13:37.255Z"
+  },
+  {
+    "firstName": "Jasper",
+    "lastName": "Anderson",
+    "email": "jasper.anderson@example.com",
+    "username": "organicpanda348",
+    "password": "lincoln",
+    "invokedAt": "2021-05-05T13:57:12.760Z"
   }
 ]
