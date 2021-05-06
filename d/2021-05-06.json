@@ -158,5 +158,13 @@
     "username": "ticklishfrog866",
     "password": "valdez",
     "invokedAt": "2021-05-06T19:57:36.657Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Morris",
+    "email": "harper.morris@example.com",
+    "username": "angrycat208",
+    "password": "target",
+    "invokedAt": "2021-05-06T20:57:26.647Z"
   }
 ]
