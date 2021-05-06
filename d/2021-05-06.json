@@ -46,5 +46,13 @@
     "username": "tinyzebra795",
     "password": "deadpool",
     "invokedAt": "2021-05-06T05:57:08.846Z"
+  },
+  {
+    "firstName": "Alexandre",
+    "lastName": "Scott",
+    "email": "alexandre.scott@example.com",
+    "username": "greenmeercat715",
+    "password": "pretzel",
+    "invokedAt": "2021-05-06T07:04:20.448Z"
   }
 ]
