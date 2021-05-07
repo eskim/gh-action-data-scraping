@@ -118,5 +118,13 @@
     "username": "redbutterfly330",
     "password": "japan",
     "invokedAt": "2021-05-07T14:57:11.447Z"
+  },
+  {
+    "firstName": "Stephanie",
+    "lastName": "Mäder",
+    "email": "stephanie.mader@example.com",
+    "username": "organicbear150",
+    "password": "attitude",
+    "invokedAt": "2021-05-07T16:02:51.915Z"
   }
 ]
