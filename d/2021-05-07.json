@@ -142,5 +142,13 @@
     "username": "bigsnake665",
     "password": "bigmoney",
     "invokedAt": "2021-05-07T18:09:14.639Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Kühnle",
+    "email": "samuel.kuhnle@example.com",
+    "username": "greengorilla783",
+    "password": "looser",
+    "invokedAt": "2021-05-07T19:05:50.540Z"
   }
 ]
