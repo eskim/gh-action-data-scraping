@@ -166,5 +166,13 @@
     "username": "silverpanda711",
     "password": "finder",
     "invokedAt": "2021-05-07T20:57:29.176Z"
+  },
+  {
+    "firstName": "Teresa",
+    "lastName": "Perez",
+    "email": "teresa.perez@example.com",
+    "username": "happykoala563",
+    "password": "suan",
+    "invokedAt": "2021-05-07T21:57:08.884Z"
   }
 ]
