@@ -126,5 +126,13 @@
     "username": "organicbear150",
     "password": "attitude",
     "invokedAt": "2021-05-07T16:02:51.915Z"
+  },
+  {
+    "firstName": "Laurence",
+    "lastName": "Nguyen",
+    "email": "laurence.nguyen@example.com",
+    "username": "happyfish355",
+    "password": "babycake",
+    "invokedAt": "2021-05-07T17:27:41.732Z"
   }
 ]
