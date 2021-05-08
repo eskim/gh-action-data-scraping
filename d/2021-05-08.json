@@ -182,5 +182,13 @@
     "username": "silvermeercat454",
     "password": "napster",
     "invokedAt": "2021-05-08T22:58:19.300Z"
+  },
+  {
+    "firstName": "Leana",
+    "lastName": "Lopez",
+    "email": "leana.lopez@example.com",
+    "username": "yellowfish229",
+    "password": "amazon",
+    "invokedAt": "2021-05-08T23:59:19.096Z"
   }
 ]
