@@ -174,5 +174,13 @@
     "username": "happyswan200",
     "password": "rafael",
     "invokedAt": "2021-05-08T21:57:09.504Z"
+  },
+  {
+    "firstName": "Jade",
+    "lastName": "Lavigne",
+    "email": "jade.lavigne@example.com",
+    "username": "silvermeercat454",
+    "password": "napster",
+    "invokedAt": "2021-05-08T22:58:19.300Z"
   }
 ]
