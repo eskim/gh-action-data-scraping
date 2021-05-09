@@ -142,5 +142,13 @@
     "username": "purpleduck622",
     "password": "theatre",
     "invokedAt": "2021-05-09T18:07:27.562Z"
+  },
+  {
+    "firstName": "Maddison",
+    "lastName": "Hart",
+    "email": "maddison.hart@example.com",
+    "username": "brownkoala568",
+    "password": "yoyoyo",
+    "invokedAt": "2021-05-09T19:04:05.430Z"
   }
 ]
