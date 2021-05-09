@@ -62,5 +62,13 @@
     "username": "lazygoose366",
     "password": "weaver",
     "invokedAt": "2021-05-09T07:57:06.794Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Zhang",
+    "email": "ethan.zhang@example.com",
+    "username": "redbird247",
+    "password": "hunting",
+    "invokedAt": "2021-05-09T08:57:38.852Z"
   }
 ]
