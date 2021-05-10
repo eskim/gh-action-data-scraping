@@ -142,5 +142,13 @@
     "username": "brownduck311",
     "password": "opendoor",
     "invokedAt": "2021-05-10T18:13:11.006Z"
+  },
+  {
+    "firstName": "Marit",
+    "lastName": "Bugge",
+    "email": "marit.bugge@example.com",
+    "username": "yellowwolf582",
+    "password": "harper",
+    "invokedAt": "2021-05-10T19:08:07.818Z"
   }
 ]
