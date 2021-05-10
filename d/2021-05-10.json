@@ -158,5 +158,13 @@
     "username": "whiteduck325",
     "password": "middle",
     "invokedAt": "2021-05-10T19:57:17.546Z"
+  },
+  {
+    "firstName": "Tadeusz",
+    "lastName": "Pfeifer",
+    "email": "tadeusz.pfeifer@example.com",
+    "username": "browntiger318",
+    "password": "ivan",
+    "invokedAt": "2021-05-10T20:57:13.957Z"
   }
 ]
