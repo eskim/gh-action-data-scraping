@@ -102,5 +102,13 @@
     "username": "orangecat916",
     "password": "norwich",
     "invokedAt": "2021-05-10T13:12:00.728Z"
+  },
+  {
+    "firstName": "Okan",
+    "lastName": "Körmükçü",
+    "email": "okan.kormukcu@example.com",
+    "username": "beautifulbear478",
+    "password": "2626",
+    "invokedAt": "2021-05-10T13:57:07.849Z"
   }
 ]
