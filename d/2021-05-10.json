@@ -182,5 +182,13 @@
     "username": "purplezebra440",
     "password": "007007",
     "invokedAt": "2021-05-10T22:59:11.833Z"
+  },
+  {
+    "firstName": "Lee",
+    "lastName": "Cooper",
+    "email": "lee.cooper@example.com",
+    "username": "whiteelephant221",
+    "password": "proxy",
+    "invokedAt": "2021-05-10T23:59:21.037Z"
   }
 ]
