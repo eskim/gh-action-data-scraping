@@ -126,5 +126,13 @@
     "username": "organictiger417",
     "password": "sophie",
     "invokedAt": "2021-05-11T16:03:53.827Z"
+  },
+  {
+    "firstName": "Emilie",
+    "lastName": "Chu",
+    "email": "emilie.chu@example.com",
+    "username": "orangedog155",
+    "password": "chess",
+    "invokedAt": "2021-05-11T17:30:07.827Z"
   }
 ]
