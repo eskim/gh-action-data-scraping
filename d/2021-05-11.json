@@ -70,5 +70,13 @@
     "username": "yellowfrog408",
     "password": "michigan",
     "invokedAt": "2021-05-11T08:58:51.126Z"
+  },
+  {
+    "firstName": "Mandy",
+    "lastName": "Rivera",
+    "email": "mandy.rivera@example.com",
+    "username": "beautifulelephant838",
+    "password": "mothers",
+    "invokedAt": "2021-05-11T09:58:27.627Z"
   }
 ]
