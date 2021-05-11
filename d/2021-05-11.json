@@ -46,5 +46,13 @@
     "username": "crazysnake389",
     "password": "babygirl",
     "invokedAt": "2021-05-11T05:57:14.049Z"
+  },
+  {
+    "firstName": "Davide",
+    "lastName": "Da Silva",
+    "email": "davide.dasilva@example.com",
+    "username": "browntiger437",
+    "password": "boxer",
+    "invokedAt": "2021-05-11T07:05:06.445Z"
   }
 ]
