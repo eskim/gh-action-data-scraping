@@ -86,5 +86,13 @@
     "username": "brownleopard900",
     "password": "pudding",
     "invokedAt": "2021-05-11T10:57:55.667Z"
+  },
+  {
+    "firstName": "Lito",
+    "lastName": "Nascimento",
+    "email": "lito.nascimento@example.com",
+    "username": "blackfrog461",
+    "password": "sting",
+    "invokedAt": "2021-05-11T11:57:24.312Z"
   }
 ]
