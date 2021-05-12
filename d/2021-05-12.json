@@ -94,5 +94,13 @@
     "username": "purpleelephant947",
     "password": "russian",
     "invokedAt": "2021-05-12T10:58:14.767Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Li",
+    "email": "nathan.li@example.com",
+    "username": "orangegorilla697",
+    "password": "beach",
+    "invokedAt": "2021-05-12T11:57:17.698Z"
   }
 ]
