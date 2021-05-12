@@ -126,5 +126,13 @@
     "username": "bigmeercat406",
     "password": "satan",
     "invokedAt": "2021-05-12T14:57:19.645Z"
+  },
+  {
+    "firstName": "Nixon",
+    "lastName": "Moore",
+    "email": "nixon.moore@example.com",
+    "username": "tinyladybug136",
+    "password": "jamie1",
+    "invokedAt": "2021-05-12T16:09:30.000Z"
   }
 ]
