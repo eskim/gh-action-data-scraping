@@ -182,5 +182,13 @@
     "username": "tinypeacock615",
     "password": "fight",
     "invokedAt": "2021-05-12T21:57:08.418Z"
+  },
+  {
+    "firstName": "Bastien",
+    "lastName": "Denis",
+    "email": "bastien.denis@example.com",
+    "username": "sadladybug679",
+    "password": "choke",
+    "invokedAt": "2021-05-12T23:00:56.128Z"
   }
 ]
