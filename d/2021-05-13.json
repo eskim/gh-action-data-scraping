@@ -110,5 +110,13 @@
     "username": "yellowlion577",
     "password": "prince1",
     "invokedAt": "2021-05-13T13:57:55.175Z"
+  },
+  {
+    "firstName": "Federica",
+    "lastName": "Vidal",
+    "email": "federica.vidal@example.com",
+    "username": "goldenzebra537",
+    "password": "pipeline",
+    "invokedAt": "2021-05-13T14:57:15.149Z"
   }
 ]
