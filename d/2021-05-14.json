@@ -78,5 +78,13 @@
     "username": "heavyfrog696",
     "password": "altima",
     "invokedAt": "2021-05-14T10:00:22.857Z"
+  },
+  {
+    "firstName": "Celia",
+    "lastName": "Muñoz",
+    "email": "celia.munoz@example.com",
+    "username": "angrybutterfly187",
+    "password": "lambert",
+    "invokedAt": "2021-05-14T10:59:36.987Z"
   }
 ]
