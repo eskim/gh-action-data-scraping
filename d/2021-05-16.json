@@ -46,5 +46,13 @@
     "username": "crazybutterfly847",
     "password": "links",
     "invokedAt": "2021-05-16T05:58:04.446Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Williams",
+    "email": "maxime.williams@example.com",
+    "username": "lazyfish217",
+    "password": "1964",
+    "invokedAt": "2021-05-16T17:35:31.137Z"
   }
 ]
