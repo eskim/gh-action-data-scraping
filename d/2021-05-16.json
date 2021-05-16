@@ -94,5 +94,13 @@
     "username": "bigduck612",
     "password": "canon",
     "invokedAt": "2021-05-16T21:57:13.950Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Jordan",
+    "email": "emily.jordan@example.com",
+    "username": "lazyostrich468",
+    "password": "donald",
+    "invokedAt": "2021-05-16T23:00:50.665Z"
   }
 ]
