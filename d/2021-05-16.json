@@ -22,5 +22,13 @@
     "username": "happymouse679",
     "password": "digital1",
     "invokedAt": "2021-05-16T03:21:23.688Z"
+  },
+  {
+    "firstName": "امیر",
+    "lastName": "حیدری",
+    "email": "myr.hydry@example.com",
+    "username": "sadelephant244",
+    "password": "bartman",
+    "invokedAt": "2021-05-16T04:13:38.727Z"
   }
 ]
