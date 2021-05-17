@@ -166,5 +166,13 @@
     "username": "smallmouse795",
     "password": "stretch",
     "invokedAt": "2021-05-17T20:57:17.297Z"
+  },
+  {
+    "firstName": "Hana",
+    "lastName": "Furset",
+    "email": "hana.furset@example.com",
+    "username": "orangebear252",
+    "password": "research",
+    "invokedAt": "2021-05-17T21:57:52.035Z"
   }
 ]
