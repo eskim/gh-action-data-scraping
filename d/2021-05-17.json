@@ -70,5 +70,13 @@
     "username": "yellowduck994",
     "password": "wapapapa",
     "invokedAt": "2021-05-17T09:00:12.231Z"
+  },
+  {
+    "firstName": "محمدپارسا",
+    "lastName": "حیدری",
+    "email": "mhmdprs.hydry@example.com",
+    "username": "goldenleopard385",
+    "password": "tripper",
+    "invokedAt": "2021-05-17T10:01:02.922Z"
   }
 ]
