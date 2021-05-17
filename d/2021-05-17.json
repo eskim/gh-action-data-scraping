@@ -94,5 +94,13 @@
     "username": "blackkoala847",
     "password": "spooky",
     "invokedAt": "2021-05-17T11:57:17.269Z"
+  },
+  {
+    "firstName": "Naja",
+    "lastName": "Pedersen",
+    "email": "naja.pedersen@example.com",
+    "username": "lazybutterfly129",
+    "password": "micro",
+    "invokedAt": "2021-05-17T13:19:03.136Z"
   }
 ]
