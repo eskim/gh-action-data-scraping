@@ -102,5 +102,13 @@
     "username": "lazybutterfly129",
     "password": "micro",
     "invokedAt": "2021-05-17T13:19:03.136Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Wallace",
+    "email": "bob.wallace@example.com",
+    "username": "silverleopard939",
+    "password": "brazil",
+    "invokedAt": "2021-05-17T14:00:18.578Z"
   }
 ]
