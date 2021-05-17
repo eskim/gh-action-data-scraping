@@ -126,5 +126,13 @@
     "username": "tinyleopard678",
     "password": "3x7pxr",
     "invokedAt": "2021-05-17T16:09:12.975Z"
+  },
+  {
+    "firstName": "Jairo",
+    "lastName": "Van der Linde",
+    "email": "jairo.vanderlinde@example.com",
+    "username": "angrypanda603",
+    "password": "mohammed",
+    "invokedAt": "2021-05-17T17:33:50.063Z"
   }
 ]
