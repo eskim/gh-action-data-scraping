@@ -54,5 +54,13 @@
     "username": "lazybird889",
     "password": "fubar",
     "invokedAt": "2021-05-18T07:09:12.035Z"
+  },
+  {
+    "firstName": "Willow",
+    "lastName": "Lee",
+    "email": "willow.lee@example.com",
+    "username": "greenbird211",
+    "password": "0911",
+    "invokedAt": "2021-05-18T07:57:25.755Z"
   }
 ]
