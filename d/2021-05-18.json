@@ -46,5 +46,13 @@
     "username": "beautifulbear543",
     "password": "gooner",
     "invokedAt": "2021-05-18T05:59:33.059Z"
+  },
+  {
+    "firstName": "Karla",
+    "lastName": "Poulsen",
+    "email": "karla.poulsen@example.com",
+    "username": "lazybird889",
+    "password": "fubar",
+    "invokedAt": "2021-05-18T07:09:12.035Z"
   }
 ]
