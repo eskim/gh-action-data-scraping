@@ -62,5 +62,13 @@
     "username": "orangebutterfly362",
     "password": "1qaz2wsx",
     "invokedAt": "2021-05-19T07:57:10.956Z"
+  },
+  {
+    "firstName": "Giani",
+    "lastName": "da Mata",
+    "email": "giani.damata@example.com",
+    "username": "smallwolf583",
+    "password": "spoiled",
+    "invokedAt": "2021-05-19T09:00:41.682Z"
   }
 ]
