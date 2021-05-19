@@ -54,5 +54,13 @@
     "username": "orangepanda466",
     "password": "street",
     "invokedAt": "2021-05-19T07:09:28.180Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Benitez",
+    "email": "miguel.benitez@example.com",
+    "username": "orangebutterfly362",
+    "password": "1qaz2wsx",
+    "invokedAt": "2021-05-19T07:57:10.956Z"
   }
 ]
