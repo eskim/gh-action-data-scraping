@@ -142,5 +142,13 @@
     "username": "biglion936",
     "password": "keng",
     "invokedAt": "2021-05-19T18:19:49.224Z"
+  },
+  {
+    "firstName": "Isaí",
+    "lastName": "Alves",
+    "email": "isai.alves@example.com",
+    "username": "greenladybug875",
+    "password": "sigmachi",
+    "invokedAt": "2021-05-19T19:14:54.633Z"
   }
 ]
