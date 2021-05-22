@@ -118,5 +118,13 @@
     "username": "tinybutterfly195",
     "password": "limewire",
     "invokedAt": "2021-05-22T14:57:11.136Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Smith",
+    "email": "alexander.smith@example.com",
+    "username": "angryfrog439",
+    "password": "firefigh",
+    "invokedAt": "2021-05-22T16:08:20.244Z"
   }
 ]
