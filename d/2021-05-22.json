@@ -110,5 +110,13 @@
     "username": "purplekoala424",
     "password": "clemson",
     "invokedAt": "2021-05-22T13:59:30.859Z"
+  },
+  {
+    "firstName": "Nataniel",
+    "lastName": "Jevne",
+    "email": "nataniel.jevne@example.com",
+    "username": "tinybutterfly195",
+    "password": "limewire",
+    "invokedAt": "2021-05-22T14:57:11.136Z"
   }
 ]
