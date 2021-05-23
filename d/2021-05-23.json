@@ -46,5 +46,13 @@
     "username": "lazyzebra128",
     "password": "redline",
     "invokedAt": "2021-05-23T06:01:06.988Z"
+  },
+  {
+    "firstName": "Beatrice",
+    "lastName": "Styve",
+    "email": "beatrice.styve@example.com",
+    "username": "goldenzebra346",
+    "password": "daylight",
+    "invokedAt": "2021-05-23T07:10:20.339Z"
   }
 ]
