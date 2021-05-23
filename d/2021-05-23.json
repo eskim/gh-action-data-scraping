@@ -54,5 +54,13 @@
     "username": "goldenzebra346",
     "password": "daylight",
     "invokedAt": "2021-05-23T07:10:20.339Z"
+  },
+  {
+    "firstName": "Harriet",
+    "lastName": "White",
+    "email": "harriet.white@example.com",
+    "username": "silverbutterfly930",
+    "password": "sandrine",
+    "invokedAt": "2021-05-23T07:57:11.470Z"
   }
 ]
