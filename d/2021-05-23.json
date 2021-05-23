@@ -102,5 +102,13 @@
     "username": "smalldog166",
     "password": "portugal",
     "invokedAt": "2021-05-23T13:18:26.481Z"
+  },
+  {
+    "firstName": "Romarilda",
+    "lastName": "Porto",
+    "email": "romarilda.porto@example.com",
+    "username": "lazyostrich346",
+    "password": "panasoni",
+    "invokedAt": "2021-05-23T14:00:02.425Z"
   }
 ]
