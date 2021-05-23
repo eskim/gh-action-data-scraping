@@ -166,5 +166,13 @@
     "username": "crazyleopard606",
     "password": "oral",
     "invokedAt": "2021-05-23T20:57:21.453Z"
+  },
+  {
+    "firstName": "Macit",
+    "lastName": "Koçyiğit",
+    "email": "macit.kocyigit@example.com",
+    "username": "sadgoose266",
+    "password": "knock",
+    "invokedAt": "2021-05-23T21:57:44.613Z"
   }
 ]
