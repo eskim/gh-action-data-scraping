@@ -158,5 +158,13 @@
     "username": "happykoala251",
     "password": "stocks",
     "invokedAt": "2021-05-23T19:57:15.277Z"
+  },
+  {
+    "firstName": "Line",
+    "lastName": "Rousseau",
+    "email": "line.rousseau@example.com",
+    "username": "crazyleopard606",
+    "password": "oral",
+    "invokedAt": "2021-05-23T20:57:21.453Z"
   }
 ]
