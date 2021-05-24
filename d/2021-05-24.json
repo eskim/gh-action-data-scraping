@@ -78,5 +78,13 @@
     "username": "bigrabbit649",
     "password": "creation",
     "invokedAt": "2021-05-24T10:05:24.939Z"
+  },
+  {
+    "firstName": "Pietra",
+    "lastName": "das Neves",
+    "email": "pietra.dasneves@example.com",
+    "username": "organicladybug541",
+    "password": "bookworm",
+    "invokedAt": "2021-05-24T11:05:45.836Z"
   }
 ]
