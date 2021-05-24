@@ -166,5 +166,13 @@
     "username": "organickoala834",
     "password": "virus",
     "invokedAt": "2021-05-24T20:57:44.823Z"
+  },
+  {
+    "firstName": "Josefina",
+    "lastName": "Rodriguez",
+    "email": "josefina.rodriguez@example.com",
+    "username": "brownmouse163",
+    "password": "briana",
+    "invokedAt": "2021-05-24T22:00:05.602Z"
   }
 ]
