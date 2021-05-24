@@ -54,5 +54,13 @@
     "username": "orangebutterfly372",
     "password": "jump",
     "invokedAt": "2021-05-24T07:13:15.419Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Jensen",
+    "email": "mikkel.jensen@example.com",
+    "username": "bigbutterfly709",
+    "password": "wrestlin",
+    "invokedAt": "2021-05-24T07:57:55.763Z"
   }
 ]
