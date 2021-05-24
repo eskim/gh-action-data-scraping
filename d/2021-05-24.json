@@ -158,5 +158,13 @@
     "username": "tinygoose129",
     "password": "stream",
     "invokedAt": "2021-05-24T20:01:38.927Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Johansen",
+    "email": "julie.johansen@example.com",
+    "username": "organickoala834",
+    "password": "virus",
+    "invokedAt": "2021-05-24T20:57:44.823Z"
   }
 ]
