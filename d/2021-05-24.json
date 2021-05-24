@@ -118,5 +118,13 @@
     "username": "bigcat393",
     "password": "flicks",
     "invokedAt": "2021-05-24T14:57:42.164Z"
+  },
+  {
+    "firstName": "Hazel",
+    "lastName": "Peters",
+    "email": "hazel.peters@example.com",
+    "username": "redpeacock659",
+    "password": "funk",
+    "invokedAt": "2021-05-24T16:13:34.264Z"
   }
 ]
