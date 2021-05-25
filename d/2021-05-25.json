@@ -158,5 +158,13 @@
     "username": "happydog216",
     "password": "strike",
     "invokedAt": "2021-05-25T20:02:44.421Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Rasmussen",
+    "email": "sofia.rasmussen@example.com",
+    "username": "browncat853",
+    "password": "rockstar",
+    "invokedAt": "2021-05-25T20:59:28.786Z"
   }
 ]
