@@ -94,5 +94,13 @@
     "username": "ticklishbutterfly571",
     "password": "dogfood",
     "invokedAt": "2021-05-25T12:00:01.331Z"
+  },
+  {
+    "firstName": "Kajus",
+    "lastName": "Ludvigsen",
+    "email": "kajus.ludvigsen@example.com",
+    "username": "blackfish740",
+    "password": "aloha",
+    "invokedAt": "2021-05-25T13:26:59.097Z"
   }
 ]
