@@ -142,5 +142,13 @@
     "username": "silverzebra331",
     "password": "magical",
     "invokedAt": "2021-05-25T18:32:09.359Z"
+  },
+  {
+    "firstName": "Edinéia",
+    "lastName": "Viana",
+    "email": "edineia.viana@example.com",
+    "username": "smallpanda815",
+    "password": "longer",
+    "invokedAt": "2021-05-25T19:25:36.946Z"
   }
 ]
