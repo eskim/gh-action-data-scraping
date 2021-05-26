@@ -126,5 +126,13 @@
     "username": "greenpanda900",
     "password": "sandy1",
     "invokedAt": "2021-05-26T18:06:51.603Z"
+  },
+  {
+    "firstName": "عسل",
+    "lastName": "احمدی",
+    "email": "aasl.hmdy@example.com",
+    "username": "whiteswan841",
+    "password": "depeche",
+    "invokedAt": "2021-05-26T19:40:55.156Z"
   }
 ]
