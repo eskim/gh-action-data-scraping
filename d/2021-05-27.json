@@ -134,5 +134,13 @@
     "username": "orangesnake554",
     "password": "farscape",
     "invokedAt": "2021-05-27T19:45:25.340Z"
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Jackson",
+    "email": "isabella.jackson@example.com",
+    "username": "angrymouse152",
+    "password": "santos",
+    "invokedAt": "2021-05-27T20:14:14.270Z"
   }
 ]
