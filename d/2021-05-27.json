@@ -22,5 +22,13 @@
     "username": "goldenbird257",
     "password": "nugget",
     "invokedAt": "2021-05-27T04:44:55.145Z"
+  },
+  {
+    "firstName": "Elli",
+    "lastName": "Seppala",
+    "email": "elli.seppala@example.com",
+    "username": "redswan572",
+    "password": "studio",
+    "invokedAt": "2021-05-27T05:45:04.114Z"
   }
 ]
