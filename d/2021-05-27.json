@@ -14,5 +14,13 @@
     "username": "smallfrog706",
     "password": "goblue",
     "invokedAt": "2021-05-27T02:58:45.553Z"
+  },
+  {
+    "firstName": "Matthias",
+    "lastName": "Hussein",
+    "email": "matthias.hussein@example.com",
+    "username": "goldenbird257",
+    "password": "nugget",
+    "invokedAt": "2021-05-27T04:44:55.145Z"
   }
 ]
