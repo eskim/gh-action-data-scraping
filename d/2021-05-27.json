@@ -158,5 +158,13 @@
     "username": "crazypanda746",
     "password": "killer1",
     "invokedAt": "2021-05-27T22:09:14.866Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Black",
+    "email": "nathan.black@example.com",
+    "username": "redelephant925",
+    "password": "leedsutd",
+    "invokedAt": "2021-05-27T23:12:09.250Z"
   }
 ]
