@@ -118,5 +118,13 @@
     "username": "beautifulsnake838",
     "password": "trucking",
     "invokedAt": "2021-05-27T16:26:31.132Z"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Wilson",
+    "email": "jessica.wilson@example.com",
+    "username": "yellowfish267",
+    "password": "vanilla",
+    "invokedAt": "2021-05-27T18:19:11.256Z"
   }
 ]
