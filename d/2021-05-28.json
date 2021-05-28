@@ -134,5 +134,13 @@
     "username": "bigkoala470",
     "password": "sander",
     "invokedAt": "2021-05-28T21:13:16.745Z"
+  },
+  {
+    "firstName": "بنیامین",
+    "lastName": "صدر",
+    "email": "bnymyn.sdr@example.com",
+    "username": "greenladybug473",
+    "password": "paradigm",
+    "invokedAt": "2021-05-28T22:11:29.399Z"
   }
 ]
