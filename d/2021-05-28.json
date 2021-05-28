@@ -142,5 +142,13 @@
     "username": "greenladybug473",
     "password": "paradigm",
     "invokedAt": "2021-05-28T22:11:29.399Z"
+  },
+  {
+    "firstName": "Frederik",
+    "lastName": "Rasmussen",
+    "email": "frederik.rasmussen@example.com",
+    "username": "brownelephant209",
+    "password": "jelly",
+    "invokedAt": "2021-05-28T23:16:11.040Z"
   }
 ]
