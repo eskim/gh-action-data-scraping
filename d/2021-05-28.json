@@ -78,5 +78,13 @@
     "username": "lazycat640",
     "password": "general",
     "invokedAt": "2021-05-28T12:25:06.267Z"
+  },
+  {
+    "firstName": "Natalie",
+    "lastName": "Tandstad",
+    "email": "natalie.tandstad@example.com",
+    "username": "whitebird164",
+    "password": "warriors",
+    "invokedAt": "2021-05-28T13:46:22.101Z"
   }
 ]
