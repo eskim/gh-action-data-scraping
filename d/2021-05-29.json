@@ -46,5 +46,13 @@
     "username": "goldengorilla366",
     "password": "kidrock",
     "invokedAt": "2021-05-29T09:36:11.273Z"
+  },
+  {
+    "firstName": "بهار",
+    "lastName": "جعفری",
+    "email": "bhr.jaafry@example.com",
+    "username": "angryleopard366",
+    "password": "987456",
+    "invokedAt": "2021-05-29T10:31:26.323Z"
   }
 ]
