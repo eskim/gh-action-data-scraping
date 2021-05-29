@@ -86,5 +86,13 @@
     "username": "brownmouse886",
     "password": "geheim",
     "invokedAt": "2021-05-29T15:10:23.753Z"
+  },
+  {
+    "firstName": "Angelita",
+    "lastName": "de Souza",
+    "email": "angelita.desouza@example.com",
+    "username": "heavycat962",
+    "password": "jonathan",
+    "invokedAt": "2021-05-29T16:29:09.975Z"
   }
 ]
