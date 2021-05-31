@@ -102,5 +102,13 @@
     "username": "bluelion900",
     "password": "alice",
     "invokedAt": "2021-05-31T20:25:15.443Z"
+  },
+  {
+    "firstName": "Alícia",
+    "lastName": "Viana",
+    "email": "alicia.viana@example.com",
+    "username": "saddog903",
+    "password": "pornographic",
+    "invokedAt": "2021-05-31T21:43:30.024Z"
   }
 ]
