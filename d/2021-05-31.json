@@ -110,5 +110,13 @@
     "username": "saddog903",
     "password": "pornographic",
     "invokedAt": "2021-05-31T21:43:30.024Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Richard",
+    "email": "charlie.richard@example.com",
+    "username": "lazymouse109",
+    "password": "comics",
+    "invokedAt": "2021-05-31T22:26:04.301Z"
   }
 ]
