@@ -14,5 +14,13 @@
     "username": "purplepanda739",
     "password": "javelin",
     "invokedAt": "2021-05-31T04:03:01.242Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Mortensen",
+    "email": "tobias.mortensen@example.com",
+    "username": "bigmouse204",
+    "password": "swords",
+    "invokedAt": "2021-05-31T06:35:16.080Z"
   }
 ]
