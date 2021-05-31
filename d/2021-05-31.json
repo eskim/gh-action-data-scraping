@@ -118,5 +118,13 @@
     "username": "lazymouse109",
     "password": "comics",
     "invokedAt": "2021-05-31T22:26:04.301Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Chevalier",
+    "email": "luis.chevalier@example.com",
+    "username": "yellowbear855",
+    "password": "jetta",
+    "invokedAt": "2021-05-31T23:28:41.898Z"
   }
 ]
