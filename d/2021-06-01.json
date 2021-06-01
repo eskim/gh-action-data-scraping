@@ -38,5 +38,13 @@
     "username": "brownleopard868",
     "password": "galeries",
     "invokedAt": "2021-06-01T10:41:38.937Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Bruaset",
+    "email": "tobias.bruaset@example.com",
+    "username": "beautifulelephant263",
+    "password": "flames",
+    "invokedAt": "2021-06-01T11:41:19.569Z"
   }
 ]
