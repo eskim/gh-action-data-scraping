@@ -38,5 +38,13 @@
     "username": "brownkoala422",
     "password": "scotland",
     "invokedAt": "2021-06-02T11:06:50.053Z"
+  },
+  {
+    "firstName": "Zachary",
+    "lastName": "Walters",
+    "email": "zachary.walters@example.com",
+    "username": "bigfish459",
+    "password": "pepsi",
+    "invokedAt": "2021-06-02T12:35:16.594Z"
   }
 ]
