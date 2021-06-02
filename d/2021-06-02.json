@@ -62,5 +62,13 @@
     "username": "beautifuldog375",
     "password": "jeanette",
     "invokedAt": "2021-06-02T15:38:11.453Z"
+  },
+  {
+    "firstName": "Violet",
+    "lastName": "Evans",
+    "email": "violet.evans@example.com",
+    "username": "organicsnake652",
+    "password": "logan",
+    "invokedAt": "2021-06-02T17:18:39.719Z"
   }
 ]
