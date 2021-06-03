@@ -94,5 +94,13 @@
     "username": "orangecat254",
     "password": "avenger",
     "invokedAt": "2021-06-03T16:45:29.211Z"
+  },
+  {
+    "firstName": "Anna-Maria",
+    "lastName": "Noom",
+    "email": "anna-maria.noom@example.com",
+    "username": "beautifulbird989",
+    "password": "homepage-",
+    "invokedAt": "2021-06-03T19:08:56.576Z"
   }
 ]
