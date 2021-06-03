@@ -62,5 +62,13 @@
     "username": "silvermouse654",
     "password": "goblue",
     "invokedAt": "2021-06-03T12:24:55.411Z"
+  },
+  {
+    "firstName": "Dylan",
+    "lastName": "Li",
+    "email": "dylan.li@example.com",
+    "username": "silverladybug656",
+    "password": "video1",
+    "invokedAt": "2021-06-03T13:53:34.534Z"
   }
 ]
