@@ -78,5 +78,13 @@
     "username": "greenkoala240",
     "password": "finance",
     "invokedAt": "2021-06-03T14:29:08.689Z"
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Margaret",
+    "email": "mia.margaret@example.com",
+    "username": "brownrabbit499",
+    "password": "staples",
+    "invokedAt": "2021-06-03T15:15:42.462Z"
   }
 ]
