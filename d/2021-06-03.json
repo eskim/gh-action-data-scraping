@@ -86,5 +86,13 @@
     "username": "brownrabbit499",
     "password": "staples",
     "invokedAt": "2021-06-03T15:15:42.462Z"
+  },
+  {
+    "firstName": "مرسانا",
+    "lastName": "علیزاده",
+    "email": "mrsn.aalyzdh@example.com",
+    "username": "orangecat254",
+    "password": "avenger",
+    "invokedAt": "2021-06-03T16:45:29.211Z"
   }
 ]
