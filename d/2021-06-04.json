@@ -78,5 +78,13 @@
     "username": "angryostrich455",
     "password": "japanese",
     "invokedAt": "2021-06-04T16:52:44.338Z"
+  },
+  {
+    "firstName": "Nando",
+    "lastName": "Mercier",
+    "email": "nando.mercier@example.com",
+    "username": "purpleleopard189",
+    "password": "john316",
+    "invokedAt": "2021-06-04T18:44:58.551Z"
   }
 ]
