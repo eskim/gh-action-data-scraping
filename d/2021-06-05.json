@@ -62,5 +62,13 @@
     "username": "orangegorilla431",
     "password": "lake",
     "invokedAt": "2021-06-05T10:30:31.781Z"
+  },
+  {
+    "firstName": "Clyde",
+    "lastName": "Woods",
+    "email": "clyde.woods@example.com",
+    "username": "heavybear637",
+    "password": "ncc1701d",
+    "invokedAt": "2021-06-05T11:32:14.573Z"
   }
 ]
