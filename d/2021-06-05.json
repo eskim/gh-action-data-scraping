@@ -118,5 +118,13 @@
     "username": "happytiger652",
     "password": "highbury",
     "invokedAt": "2021-06-05T18:10:19.815Z"
+  },
+  {
+    "firstName": "Nicoline",
+    "lastName": "Johansen",
+    "email": "nicoline.johansen@example.com",
+    "username": "happyladybug874",
+    "password": "precious",
+    "invokedAt": "2021-06-05T19:45:56.569Z"
   }
 ]
