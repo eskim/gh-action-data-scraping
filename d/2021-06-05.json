@@ -102,5 +102,13 @@
     "username": "goldenswan455",
     "password": "koolaid",
     "invokedAt": "2021-06-05T15:06:42.758Z"
+  },
+  {
+    "firstName": "Vergílio",
+    "lastName": "Vieira",
+    "email": "vergilio.vieira@example.com",
+    "username": "angryladybug216",
+    "password": "test1",
+    "invokedAt": "2021-06-05T16:21:37.967Z"
   }
 ]
