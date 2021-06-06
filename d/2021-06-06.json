@@ -118,5 +118,13 @@
     "username": "smallmouse784",
     "password": "instant",
     "invokedAt": "2021-06-06T18:08:23.405Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Howell",
+    "email": "ryan.howell@example.com",
+    "username": "lazypanda655",
+    "password": "food",
+    "invokedAt": "2021-06-06T19:46:59.519Z"
   }
 ]
