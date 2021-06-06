@@ -78,5 +78,13 @@
     "username": "whitezebra787",
     "password": "games",
     "invokedAt": "2021-06-06T12:24:41.225Z"
+  },
+  {
+    "firstName": "Nixon",
+    "lastName": "Chen",
+    "email": "nixon.chen@example.com",
+    "username": "bigostrich820",
+    "password": "aside",
+    "invokedAt": "2021-06-06T13:53:50.487Z"
   }
 ]
