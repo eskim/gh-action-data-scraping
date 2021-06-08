@@ -118,5 +118,13 @@
     "username": "bigfrog999",
     "password": "spud",
     "invokedAt": "2021-06-08T16:12:40.644Z"
+  },
+  {
+    "firstName": "Iina",
+    "lastName": "Maunu",
+    "email": "iina.maunu@example.com",
+    "username": "goldensnake908",
+    "password": "precious",
+    "invokedAt": "2021-06-08T17:42:05.089Z"
   }
 ]
