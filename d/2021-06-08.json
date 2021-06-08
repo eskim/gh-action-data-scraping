@@ -166,5 +166,13 @@
     "username": "ticklishgorilla824",
     "password": "trunks",
     "invokedAt": "2021-06-08T21:59:45.987Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Wong",
+    "email": "harper.wong@example.com",
+    "username": "blackmouse535",
+    "password": "heyhey",
+    "invokedAt": "2021-06-08T23:00:37.616Z"
   }
 ]
