@@ -102,5 +102,13 @@
     "username": "organicdog409",
     "password": "brest",
     "invokedAt": "2021-06-08T14:10:20.999Z"
+  },
+  {
+    "firstName": "Margarida",
+    "lastName": "Pinto",
+    "email": "margarida.pinto@example.com",
+    "username": "purplesnake117",
+    "password": "wifes",
+    "invokedAt": "2021-06-08T14:59:46.762Z"
   }
 ]
