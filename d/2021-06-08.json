@@ -158,5 +158,13 @@
     "username": "organicdog364",
     "password": "pickles",
     "invokedAt": "2021-06-08T21:00:48.594Z"
+  },
+  {
+    "firstName": "Camille",
+    "lastName": "Krop",
+    "email": "camille.krop@example.com",
+    "username": "ticklishgorilla824",
+    "password": "trunks",
+    "invokedAt": "2021-06-08T21:59:45.987Z"
   }
 ]
