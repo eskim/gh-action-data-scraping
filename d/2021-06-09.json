@@ -78,5 +78,13 @@
     "username": "purplemeercat363",
     "password": "tabatha",
     "invokedAt": "2021-06-09T09:59:21.130Z"
+  },
+  {
+    "firstName": "Katarina",
+    "lastName": "Nieuwkerk",
+    "email": "katarina.nieuwkerk@example.com",
+    "username": "angrydog480",
+    "password": "albert",
+    "invokedAt": "2021-06-09T11:00:39.607Z"
   }
 ]
