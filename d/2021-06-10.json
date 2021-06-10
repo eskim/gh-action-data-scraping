@@ -46,5 +46,13 @@
     "username": "beautifulkoala388",
     "password": "battle",
     "invokedAt": "2021-06-10T07:12:21.357Z"
+  },
+  {
+    "firstName": "Eirik",
+    "lastName": "Enger",
+    "email": "eirik.enger@example.com",
+    "username": "bigduck469",
+    "password": "trance",
+    "invokedAt": "2021-06-10T07:57:54.528Z"
   }
 ]
