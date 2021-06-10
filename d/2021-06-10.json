@@ -134,5 +134,13 @@
     "username": "lazyzebra923",
     "password": "polska",
     "invokedAt": "2021-06-10T18:20:45.497Z"
+  },
+  {
+    "firstName": "Erdmute",
+    "lastName": "Rech",
+    "email": "erdmute.rech@example.com",
+    "username": "blackpanda217",
+    "password": "ccbill",
+    "invokedAt": "2021-06-10T19:16:00.898Z"
   }
 ]
