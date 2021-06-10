@@ -126,5 +126,13 @@
     "username": "whitepeacock517",
     "password": "pajero",
     "invokedAt": "2021-06-10T17:33:25.414Z"
+  },
+  {
+    "firstName": "Stein",
+    "lastName": "Ege",
+    "email": "stein.ege@example.com",
+    "username": "lazyzebra923",
+    "password": "polska",
+    "invokedAt": "2021-06-10T18:20:45.497Z"
   }
 ]
