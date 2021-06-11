@@ -94,5 +94,13 @@
     "username": "biglion691",
     "password": "hack",
     "invokedAt": "2021-06-11T13:14:25.392Z"
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Johansen",
+    "email": "isabella.johansen@example.com",
+    "username": "purplelion245",
+    "password": "bergkamp",
+    "invokedAt": "2021-06-11T14:57:16.295Z"
   }
 ]
