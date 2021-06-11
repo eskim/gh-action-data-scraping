@@ -46,5 +46,13 @@
     "username": "angrytiger794",
     "password": "pimpin",
     "invokedAt": "2021-06-11T05:57:12.677Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Sanchez",
+    "email": "anna.sanchez@example.com",
+    "username": "goldendog833",
+    "password": "freefree",
+    "invokedAt": "2021-06-11T07:05:23.757Z"
   }
 ]
