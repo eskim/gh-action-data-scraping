@@ -54,5 +54,13 @@
     "username": "goldendog833",
     "password": "freefree",
     "invokedAt": "2021-06-11T07:05:23.757Z"
+  },
+  {
+    "firstName": "Einar",
+    "lastName": "Djønne",
+    "email": "einar.djonne@example.com",
+    "username": "bluebird787",
+    "password": "hookem",
+    "invokedAt": "2021-06-11T07:57:10.199Z"
   }
 ]
