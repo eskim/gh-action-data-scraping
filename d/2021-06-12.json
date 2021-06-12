@@ -14,5 +14,13 @@
     "username": "purplemouse921",
     "password": "fatman",
     "invokedAt": "2021-06-12T02:21:57.028Z"
+  },
+  {
+    "firstName": "Onur",
+    "lastName": "Tanrıkulu",
+    "email": "onur.tanrikulu@example.com",
+    "username": "beautifulmeercat855",
+    "password": "generic",
+    "invokedAt": "2021-06-12T03:02:39.339Z"
   }
 ]
