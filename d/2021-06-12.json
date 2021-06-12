@@ -78,5 +78,13 @@
     "username": "bluerabbit950",
     "password": "sushi",
     "invokedAt": "2021-06-12T09:57:12.927Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Tekelioğlu",
+    "email": "gul.tekelioglu@example.com",
+    "username": "tinyostrich780",
+    "password": "mongoose",
+    "invokedAt": "2021-06-12T10:57:13.957Z"
   }
 ]
