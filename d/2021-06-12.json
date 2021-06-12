@@ -46,5 +46,13 @@
     "username": "orangelion391",
     "password": "paradox",
     "invokedAt": "2021-06-12T05:57:11.953Z"
+  },
+  {
+    "firstName": "Duane",
+    "lastName": "Foster",
+    "email": "duane.foster@example.com",
+    "username": "brownkoala408",
+    "password": "darthvad",
+    "invokedAt": "2021-06-12T07:04:23.602Z"
   }
 ]
