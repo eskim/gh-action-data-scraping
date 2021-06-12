@@ -166,5 +166,13 @@
     "username": "orangefrog606",
     "password": "2002",
     "invokedAt": "2021-06-12T20:57:18.840Z"
+  },
+  {
+    "firstName": "Béatrice",
+    "lastName": "Garcia",
+    "email": "beatrice.garcia@example.com",
+    "username": "orangebear665",
+    "password": "soccer12",
+    "invokedAt": "2021-06-12T21:57:10.222Z"
   }
 ]
