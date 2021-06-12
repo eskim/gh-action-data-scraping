@@ -126,5 +126,13 @@
     "username": "sadladybug385",
     "password": "butthead",
     "invokedAt": "2021-06-12T16:02:03.656Z"
+  },
+  {
+    "firstName": "Benito",
+    "lastName": "Perez",
+    "email": "benito.perez@example.com",
+    "username": "ticklishpanda758",
+    "password": "iamgod",
+    "invokedAt": "2021-06-12T17:17:39.415Z"
   }
 ]
