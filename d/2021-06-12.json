@@ -142,5 +142,13 @@
     "username": "beautifulfrog188",
     "password": "virus",
     "invokedAt": "2021-06-12T18:00:09.283Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "George",
+    "email": "victor.george@example.com",
+    "username": "whiteleopard876",
+    "password": "taxman",
+    "invokedAt": "2021-06-12T19:05:11.523Z"
   }
 ]
