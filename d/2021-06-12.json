@@ -102,5 +102,13 @@
     "username": "organicpanda340",
     "password": "packers1",
     "invokedAt": "2021-06-12T13:13:14.527Z"
+  },
+  {
+    "firstName": "Deanna",
+    "lastName": "Robertson",
+    "email": "deanna.robertson@example.com",
+    "username": "purplebear382",
+    "password": "toon",
+    "invokedAt": "2021-06-12T13:57:11.295Z"
   }
 ]
