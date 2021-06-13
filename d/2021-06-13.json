@@ -78,5 +78,13 @@
     "username": "purpleelephant209",
     "password": "method",
     "invokedAt": "2021-06-13T09:57:18.272Z"
+  },
+  {
+    "firstName": "Victoria",
+    "lastName": "Mcdonalid",
+    "email": "victoria.mcdonalid@example.com",
+    "username": "whitebear139",
+    "password": "tasty",
+    "invokedAt": "2021-06-13T10:57:19.456Z"
   }
 ]
