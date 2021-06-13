@@ -86,5 +86,13 @@
     "username": "whitebear139",
     "password": "tasty",
     "invokedAt": "2021-06-13T10:57:19.456Z"
+  },
+  {
+    "firstName": "غزل",
+    "lastName": "سالاری",
+    "email": "gzl.slry@example.com",
+    "username": "organicrabbit558",
+    "password": "iforgot",
+    "invokedAt": "2021-06-13T11:57:16.999Z"
   }
 ]
