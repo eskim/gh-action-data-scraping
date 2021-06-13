@@ -70,5 +70,13 @@
     "username": "greenostrich967",
     "password": "catcher",
     "invokedAt": "2021-06-13T08:57:13.066Z"
+  },
+  {
+    "firstName": "Mark",
+    "lastName": "George",
+    "email": "mark.george@example.com",
+    "username": "purpleelephant209",
+    "password": "method",
+    "invokedAt": "2021-06-13T09:57:18.272Z"
   }
 ]
