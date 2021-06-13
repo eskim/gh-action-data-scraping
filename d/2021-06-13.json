@@ -118,5 +118,13 @@
     "username": "bigmeercat590",
     "password": "alibaba",
     "invokedAt": "2021-06-13T14:57:13.158Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Wong",
+    "email": "alexis.wong@example.com",
+    "username": "blackgorilla462",
+    "password": "data",
+    "invokedAt": "2021-06-13T16:02:11.554Z"
   }
 ]
