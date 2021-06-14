@@ -174,5 +174,13 @@
     "username": "happybird724",
     "password": "penguin",
     "invokedAt": "2021-06-14T21:57:11.835Z"
+  },
+  {
+    "firstName": "Sergio",
+    "lastName": "Graham",
+    "email": "sergio.graham@example.com",
+    "username": "tinybird939",
+    "password": "antares",
+    "invokedAt": "2021-06-14T22:57:16.380Z"
   }
 ]
