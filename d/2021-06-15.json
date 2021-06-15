@@ -158,5 +158,13 @@
     "username": "beautifulkoala319",
     "password": "foxtrot",
     "invokedAt": "2021-06-15T20:57:24.545Z"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Remes",
+    "email": "joel.remes@example.com",
+    "username": "organicleopard164",
+    "password": "carman",
+    "invokedAt": "2021-06-15T21:57:09.614Z"
   }
 ]
