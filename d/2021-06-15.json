@@ -166,5 +166,13 @@
     "username": "organicleopard164",
     "password": "carman",
     "invokedAt": "2021-06-15T21:57:09.614Z"
+  },
+  {
+    "firstName": "Emre",
+    "lastName": "Babaoğlu",
+    "email": "emre.babaoglu@example.com",
+    "username": "yellowleopard985",
+    "password": "stone55",
+    "invokedAt": "2021-06-15T22:57:09.345Z"
   }
 ]
