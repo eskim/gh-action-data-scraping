@@ -78,5 +78,13 @@
     "username": "goldenpeacock273",
     "password": "colonel",
     "invokedAt": "2021-06-15T10:57:09.716Z"
+  },
+  {
+    "firstName": "امیر",
+    "lastName": "زارعی",
+    "email": "myr.zraay@example.com",
+    "username": "beautifulbutterfly444",
+    "password": "tommy",
+    "invokedAt": "2021-06-15T11:57:10.665Z"
   }
 ]
