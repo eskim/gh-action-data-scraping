@@ -46,5 +46,13 @@
     "username": "smalltiger993",
     "password": "tttttt",
     "invokedAt": "2021-06-16T05:57:18.803Z"
+  },
+  {
+    "firstName": "Siiri",
+    "lastName": "Laitinen",
+    "email": "siiri.laitinen@example.com",
+    "username": "bluemeercat960",
+    "password": "manga",
+    "invokedAt": "2021-06-16T07:06:50.475Z"
   }
 ]
