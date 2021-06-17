@@ -134,5 +134,13 @@
     "username": "bigduck905",
     "password": "gizmodo1",
     "invokedAt": "2021-06-17T17:21:39.393Z"
+  },
+  {
+    "firstName": "Elina",
+    "lastName": "Nascimento",
+    "email": "elina.nascimento@example.com",
+    "username": "bigkoala904",
+    "password": "cleopatr",
+    "invokedAt": "2021-06-17T18:02:17.086Z"
   }
 ]
