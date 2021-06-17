@@ -174,5 +174,13 @@
     "username": "tinysnake323",
     "password": "dandan",
     "invokedAt": "2021-06-17T21:57:11.060Z"
+  },
+  {
+    "firstName": "Adjai",
+    "lastName": "Linnenbank",
+    "email": "adjai.linnenbank@example.com",
+    "username": "lazypeacock732",
+    "password": "doghouse",
+    "invokedAt": "2021-06-17T22:57:10.611Z"
   }
 ]
