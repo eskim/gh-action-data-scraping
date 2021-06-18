@@ -134,5 +134,13 @@
     "username": "blackladybug437",
     "password": "starwars",
     "invokedAt": "2021-06-18T18:00:57.176Z"
+  },
+  {
+    "firstName": "Lynn",
+    "lastName": "Chevalier",
+    "email": "lynn.chevalier@example.com",
+    "username": "purpleladybug646",
+    "password": "brighton",
+    "invokedAt": "2021-06-18T19:01:55.357Z"
   }
 ]
