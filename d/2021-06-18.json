@@ -126,5 +126,13 @@
     "username": "purplecat923",
     "password": "magic1",
     "invokedAt": "2021-06-18T17:20:13.793Z"
+  },
+  {
+    "firstName": "Farah",
+    "lastName": "Strande",
+    "email": "farah.strande@example.com",
+    "username": "blackladybug437",
+    "password": "starwars",
+    "invokedAt": "2021-06-18T18:00:57.176Z"
   }
 ]
