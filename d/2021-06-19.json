@@ -38,5 +38,13 @@
     "username": "goldenfish275",
     "password": "yamaha",
     "invokedAt": "2021-06-19T05:05:52.176Z"
+  },
+  {
+    "firstName": "Tamara",
+    "lastName": "Howard",
+    "email": "tamara.howard@example.com",
+    "username": "orangekoala773",
+    "password": "kuan",
+    "invokedAt": "2021-06-19T05:57:25.271Z"
   }
 ]
