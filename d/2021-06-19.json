@@ -182,5 +182,13 @@
     "username": "yellowleopard650",
     "password": "builder",
     "invokedAt": "2021-06-19T22:57:14.986Z"
+  },
+  {
+    "firstName": "Justine",
+    "lastName": "Côté",
+    "email": "justine.cote@example.com",
+    "username": "sadfish206",
+    "password": "architec",
+    "invokedAt": "2021-06-19T23:57:13.803Z"
   }
 ]
