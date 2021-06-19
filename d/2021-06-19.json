@@ -134,5 +134,13 @@
     "username": "greenrabbit967",
     "password": "riddle",
     "invokedAt": "2021-06-19T17:16:22.736Z"
+  },
+  {
+    "firstName": "Eiril",
+    "lastName": "Fossum",
+    "email": "eiril.fossum@example.com",
+    "username": "silverfrog180",
+    "password": "bikini",
+    "invokedAt": "2021-06-19T17:58:03.959Z"
   }
 ]
