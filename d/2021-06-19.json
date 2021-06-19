@@ -142,5 +142,13 @@
     "username": "silverfrog180",
     "password": "bikini",
     "invokedAt": "2021-06-19T17:58:03.959Z"
+  },
+  {
+    "firstName": "Derrick",
+    "lastName": "West",
+    "email": "derrick.west@example.com",
+    "username": "browncat916",
+    "password": "lynn",
+    "invokedAt": "2021-06-19T19:00:19.286Z"
   }
 ]
