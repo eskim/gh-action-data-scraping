@@ -142,5 +142,13 @@
     "username": "lazycat837",
     "password": "miami",
     "invokedAt": "2021-06-20T19:00:20.305Z"
+  },
+  {
+    "firstName": "Ernesto",
+    "lastName": "Moreno",
+    "email": "ernesto.moreno@example.com",
+    "username": "silverbear719",
+    "password": "dominic",
+    "invokedAt": "2021-06-20T19:57:09.572Z"
   }
 ]
