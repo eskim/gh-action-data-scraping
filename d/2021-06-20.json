@@ -94,5 +94,13 @@
     "username": "blackpanda353",
     "password": "oilers",
     "invokedAt": "2021-06-20T13:14:04.462Z"
+  },
+  {
+    "firstName": "Sahin",
+    "lastName": "Thakoer",
+    "email": "sahin.thakoer@example.com",
+    "username": "greenpanda132",
+    "password": "wolf",
+    "invokedAt": "2021-06-20T13:57:18.988Z"
   }
 ]
