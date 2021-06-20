@@ -166,5 +166,13 @@
     "username": "silversnake172",
     "password": "milton",
     "invokedAt": "2021-06-20T21:57:08.102Z"
+  },
+  {
+    "firstName": "Jeannine",
+    "lastName": "Da Silva",
+    "email": "jeannine.dasilva@example.com",
+    "username": "beautifulduck419",
+    "password": "clemson",
+    "invokedAt": "2021-06-20T22:57:05.858Z"
   }
 ]
