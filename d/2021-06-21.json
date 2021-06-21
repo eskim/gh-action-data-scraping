@@ -70,5 +70,13 @@
     "username": "organiczebra804",
     "password": "compass",
     "invokedAt": "2021-06-21T09:57:22.352Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Arnaud",
+    "email": "diego.arnaud@example.com",
+    "username": "happyduck957",
+    "password": "testpass",
+    "invokedAt": "2021-06-21T10:57:16.299Z"
   }
 ]
