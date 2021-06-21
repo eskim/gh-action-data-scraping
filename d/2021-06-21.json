@@ -54,5 +54,13 @@
     "username": "biggoose280",
     "password": "qwer1234",
     "invokedAt": "2021-06-21T08:11:29.961Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Başoğlu",
+    "email": "ege.basoglu@example.com",
+    "username": "brownpanda265",
+    "password": "doom",
+    "invokedAt": "2021-06-21T08:57:52.754Z"
   }
 ]
