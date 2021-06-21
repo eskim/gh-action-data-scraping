@@ -118,5 +118,13 @@
     "username": "bigswan627",
     "password": "kansas",
     "invokedAt": "2021-06-21T16:01:54.296Z"
+  },
+  {
+    "firstName": "Connor",
+    "lastName": "Patel",
+    "email": "connor.patel@example.com",
+    "username": "organicmouse602",
+    "password": "furball",
+    "invokedAt": "2021-06-21T17:17:52.453Z"
   }
 ]
