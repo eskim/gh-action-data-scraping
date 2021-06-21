@@ -102,5 +102,13 @@
     "username": "happypeacock741",
     "password": "heat",
     "invokedAt": "2021-06-21T13:57:12.455Z"
+  },
+  {
+    "firstName": "Ronja",
+    "lastName": "Maijala",
+    "email": "ronja.maijala@example.com",
+    "username": "angrybutterfly665",
+    "password": "buttons",
+    "invokedAt": "2021-06-21T14:57:10.789Z"
   }
 ]
