@@ -158,5 +158,13 @@
     "username": "happytiger540",
     "password": "coochie",
     "invokedAt": "2021-06-22T19:57:30.819Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Orbay",
+    "email": "afsar.orbay@example.com",
+    "username": "organicrabbit812",
+    "password": "waters",
+    "invokedAt": "2021-06-22T20:57:18.347Z"
   }
 ]
