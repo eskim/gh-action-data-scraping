@@ -166,5 +166,13 @@
     "username": "organicrabbit812",
     "password": "waters",
     "invokedAt": "2021-06-22T20:57:18.347Z"
+  },
+  {
+    "firstName": "Willie",
+    "lastName": "Silva",
+    "email": "willie.silva@example.com",
+    "username": "lazyzebra323",
+    "password": "salsero",
+    "invokedAt": "2021-06-22T21:57:23.517Z"
   }
 ]
