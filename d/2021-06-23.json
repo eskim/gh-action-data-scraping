@@ -22,5 +22,13 @@
     "username": "silverbear368",
     "password": "typhoon",
     "invokedAt": "2021-06-23T02:57:10.838Z"
+  },
+  {
+    "firstName": "Ceylan",
+    "lastName": "Elmastaşoğlu",
+    "email": "ceylan.elmastasoglu@example.com",
+    "username": "smallbird644",
+    "password": "muppet",
+    "invokedAt": "2021-06-23T03:57:07.627Z"
   }
 ]
