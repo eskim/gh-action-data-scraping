@@ -134,5 +134,13 @@
     "username": "greenostrich933",
     "password": "maniac",
     "invokedAt": "2021-06-23T17:08:00.442Z"
+  },
+  {
+    "firstName": "Tomas",
+    "lastName": "Santana",
+    "email": "tomas.santana@example.com",
+    "username": "purplewolf374",
+    "password": "pyon",
+    "invokedAt": "2021-06-23T17:57:21.388Z"
   }
 ]
