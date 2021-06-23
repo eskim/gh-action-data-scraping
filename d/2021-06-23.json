@@ -158,5 +158,13 @@
     "username": "redtiger420",
     "password": "splurge",
     "invokedAt": "2021-06-23T19:57:14.924Z"
+  },
+  {
+    "firstName": "Katie",
+    "lastName": "Ramos",
+    "email": "katie.ramos@example.com",
+    "username": "lazykoala803",
+    "password": "transfer",
+    "invokedAt": "2021-06-23T20:57:18.350Z"
   }
 ]
