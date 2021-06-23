@@ -46,5 +46,13 @@
     "username": "orangebear433",
     "password": "power1",
     "invokedAt": "2021-06-23T05:57:20.876Z"
+  },
+  {
+    "firstName": "Önal",
+    "lastName": "Tekelioğlu",
+    "email": "onal.tekelioglu@example.com",
+    "username": "greenduck723",
+    "password": "harry",
+    "invokedAt": "2021-06-23T07:00:01.577Z"
   }
 ]
