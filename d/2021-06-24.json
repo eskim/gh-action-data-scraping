@@ -118,5 +118,13 @@
     "username": "tinygoose761",
     "password": "phillies",
     "invokedAt": "2021-06-24T14:58:55.108Z"
+  },
+  {
+    "firstName": "Johnny",
+    "lastName": "Graham",
+    "email": "johnny.graham@example.com",
+    "username": "yellowwolf241",
+    "password": "doofus",
+    "invokedAt": "2021-06-24T15:58:49.396Z"
   }
 ]
