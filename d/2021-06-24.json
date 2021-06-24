@@ -166,5 +166,13 @@
     "username": "happykoala718",
     "password": "greenbay",
     "invokedAt": "2021-06-24T20:59:08.621Z"
+  },
+  {
+    "firstName": "Sanni",
+    "lastName": "Salonen",
+    "email": "sanni.salonen@example.com",
+    "username": "bigladybug741",
+    "password": "asdfghjk",
+    "invokedAt": "2021-06-24T21:58:54.404Z"
   }
 ]
