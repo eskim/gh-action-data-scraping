@@ -54,5 +54,13 @@
     "username": "beautifulcat118",
     "password": "oregon",
     "invokedAt": "2021-06-24T06:59:47.870Z"
+  },
+  {
+    "firstName": "Elio",
+    "lastName": "Duval",
+    "email": "elio.duval@example.com",
+    "username": "angryladybug965",
+    "password": "daylight",
+    "invokedAt": "2021-06-24T07:59:11.902Z"
   }
 ]
