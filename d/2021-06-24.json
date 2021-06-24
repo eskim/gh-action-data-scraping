@@ -134,5 +134,13 @@
     "username": "ticklishbird695",
     "password": "here",
     "invokedAt": "2021-06-24T17:10:35.838Z"
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Christiansen",
+    "email": "astrid.christiansen@example.com",
+    "username": "bluefish494",
+    "password": "letmein",
+    "invokedAt": "2021-06-24T17:58:50.390Z"
   }
 ]
