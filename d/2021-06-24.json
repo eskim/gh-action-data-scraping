@@ -158,5 +158,13 @@
     "username": "blackswan846",
     "password": "juventus",
     "invokedAt": "2021-06-24T19:58:48.399Z"
+  },
+  {
+    "firstName": "Lesa",
+    "lastName": "Butler",
+    "email": "lesa.butler@example.com",
+    "username": "happykoala718",
+    "password": "greenbay",
+    "invokedAt": "2021-06-24T20:59:08.621Z"
   }
 ]
