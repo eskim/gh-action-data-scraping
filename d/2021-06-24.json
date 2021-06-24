@@ -142,5 +142,13 @@
     "username": "bluefish494",
     "password": "letmein",
     "invokedAt": "2021-06-24T17:58:50.390Z"
+  },
+  {
+    "firstName": "Juana",
+    "lastName": "Sanz",
+    "email": "juana.sanz@example.com",
+    "username": "brownelephant834",
+    "password": "malice",
+    "invokedAt": "2021-06-24T18:58:52.889Z"
   }
 ]
