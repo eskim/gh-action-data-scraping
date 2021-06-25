@@ -22,5 +22,13 @@
     "username": "greenkoala354",
     "password": "turbo",
     "invokedAt": "2021-06-25T02:59:31.316Z"
+  },
+  {
+    "firstName": "Esli",
+    "lastName": "Van den Wijngaard",
+    "email": "esli.vandenwijngaard@example.com",
+    "username": "bigsnake177",
+    "password": "jonjon",
+    "invokedAt": "2021-06-25T03:58:52.449Z"
   }
 ]
