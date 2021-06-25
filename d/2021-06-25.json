@@ -158,5 +158,13 @@
     "username": "sadmeercat361",
     "password": "detroit",
     "invokedAt": "2021-06-25T19:59:00.583Z"
+  },
+  {
+    "firstName": "Hilla",
+    "lastName": "Haapala",
+    "email": "hilla.haapala@example.com",
+    "username": "bluezebra617",
+    "password": "jagger",
+    "invokedAt": "2021-06-25T20:59:09.398Z"
   }
 ]
