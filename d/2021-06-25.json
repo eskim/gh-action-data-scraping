@@ -174,5 +174,13 @@
     "username": "whitecat582",
     "password": "zzzzzz1",
     "invokedAt": "2021-06-25T21:59:01.492Z"
+  },
+  {
+    "firstName": "Judy",
+    "lastName": "Griffin",
+    "email": "judy.griffin@example.com",
+    "username": "angrybear124",
+    "password": "skydive",
+    "invokedAt": "2021-06-25T22:58:48.368Z"
   }
 ]
