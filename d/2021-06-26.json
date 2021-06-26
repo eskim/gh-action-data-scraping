@@ -102,5 +102,13 @@
     "username": "heavyzebra202",
     "password": "streaming",
     "invokedAt": "2021-06-26T13:12:39.888Z"
+  },
+  {
+    "firstName": "Selma",
+    "lastName": "Kristensen",
+    "email": "selma.kristensen@example.com",
+    "username": "goldenfish603",
+    "password": "teacher",
+    "invokedAt": "2021-06-26T13:59:04.982Z"
   }
 ]
