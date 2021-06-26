@@ -94,5 +94,13 @@
     "username": "ticklishmouse393",
     "password": "vanhalen",
     "invokedAt": "2021-06-26T11:59:07.763Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Vargas",
+    "email": "clara.vargas@example.com",
+    "username": "heavyzebra202",
+    "password": "streaming",
+    "invokedAt": "2021-06-26T13:12:39.888Z"
   }
 ]
