@@ -134,5 +134,13 @@
     "username": "tinyzebra269",
     "password": "infinity",
     "invokedAt": "2021-06-26T17:11:23.584Z"
+  },
+  {
+    "firstName": "Kerstin",
+    "lastName": "Le Gall",
+    "email": "kerstin.legall@example.com",
+    "username": "sadleopard371",
+    "password": "eighteen",
+    "invokedAt": "2021-06-26T17:58:50.355Z"
   }
 ]
