@@ -46,5 +46,13 @@
     "username": "bigpeacock284",
     "password": "dynamo",
     "invokedAt": "2021-06-27T05:59:13.067Z"
+  },
+  {
+    "firstName": "Edwin",
+    "lastName": "Skåre",
+    "email": "edwin.skare@example.com",
+    "username": "purplerabbit129",
+    "password": "immortal",
+    "invokedAt": "2021-06-27T06:59:19.874Z"
   }
 ]
