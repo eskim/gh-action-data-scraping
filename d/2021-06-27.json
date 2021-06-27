@@ -126,5 +126,13 @@
     "username": "happykoala349",
     "password": "machine",
     "invokedAt": "2021-06-27T15:59:01.731Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Sözeri",
+    "email": "adem.sozeri@example.com",
+    "username": "purpleswan801",
+    "password": "openup",
+    "invokedAt": "2021-06-27T17:09:21.825Z"
   }
 ]
