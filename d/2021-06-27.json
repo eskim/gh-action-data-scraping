@@ -150,5 +150,13 @@
     "username": "blacksnake944",
     "password": "lestat",
     "invokedAt": "2021-06-27T18:59:01.929Z"
+  },
+  {
+    "firstName": "Fatima",
+    "lastName": "Medina",
+    "email": "fatima.medina@example.com",
+    "username": "lazymeercat305",
+    "password": "krishna",
+    "invokedAt": "2021-06-27T19:59:14.748Z"
   }
 ]
