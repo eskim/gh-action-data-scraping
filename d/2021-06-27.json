@@ -118,5 +118,13 @@
     "username": "whitefish657",
     "password": "idiot",
     "invokedAt": "2021-06-27T14:58:58.848Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Dreessen",
+    "email": "james.dreessen@example.com",
+    "username": "happykoala349",
+    "password": "machine",
+    "invokedAt": "2021-06-27T15:59:01.731Z"
   }
 ]
