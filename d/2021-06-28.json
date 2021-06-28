@@ -46,5 +46,13 @@
     "username": "whitetiger503",
     "password": "kaiser",
     "invokedAt": "2021-06-28T05:58:51.903Z"
+  },
+  {
+    "firstName": "Léandro",
+    "lastName": "Lefebvre",
+    "email": "leandro.lefebvre@example.com",
+    "username": "greendog620",
+    "password": "blood",
+    "invokedAt": "2021-06-28T07:00:14.891Z"
   }
 ]
