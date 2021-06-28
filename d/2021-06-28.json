@@ -54,5 +54,13 @@
     "username": "greendog620",
     "password": "blood",
     "invokedAt": "2021-06-28T07:00:14.891Z"
+  },
+  {
+    "firstName": "Carmine",
+    "lastName": "Völkl",
+    "email": "carmine.volkl@example.com",
+    "username": "redpanda938",
+    "password": "mittens",
+    "invokedAt": "2021-06-28T07:59:12.809Z"
   }
 ]
