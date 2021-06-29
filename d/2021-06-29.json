@@ -118,5 +118,13 @@
     "username": "redpanda636",
     "password": "hamburg",
     "invokedAt": "2021-06-29T14:58:50.511Z"
+  },
+  {
+    "firstName": "Bryan",
+    "lastName": "Knight",
+    "email": "bryan.knight@example.com",
+    "username": "sadleopard613",
+    "password": "fettish",
+    "invokedAt": "2021-06-29T15:58:50.033Z"
   }
 ]
