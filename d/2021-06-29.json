@@ -102,5 +102,13 @@
     "username": "organictiger924",
     "password": "jordan1",
     "invokedAt": "2021-06-29T13:10:34.169Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Smith",
+    "email": "harper.smith@example.com",
+    "username": "heavyduck450",
+    "password": "macdaddy",
+    "invokedAt": "2021-06-29T13:59:00.637Z"
   }
 ]
