@@ -38,5 +38,13 @@
     "username": "tinyrabbit275",
     "password": "gateway1",
     "invokedAt": "2021-06-29T04:59:45.075Z"
+  },
+  {
+    "firstName": "Elif",
+    "lastName": "Bayındır",
+    "email": "elif.bayindir@example.com",
+    "username": "lazycat752",
+    "password": "einstein",
+    "invokedAt": "2021-06-29T05:58:50.443Z"
   }
 ]
