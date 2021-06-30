@@ -126,5 +126,13 @@
     "username": "tinyrabbit609",
     "password": "wrestler",
     "invokedAt": "2021-06-30T15:58:59.194Z"
+  },
+  {
+    "firstName": "Lauri",
+    "lastName": "Takala",
+    "email": "lauri.takala@example.com",
+    "username": "greenbutterfly203",
+    "password": "bananas",
+    "invokedAt": "2021-06-30T17:13:24.592Z"
   }
 ]
