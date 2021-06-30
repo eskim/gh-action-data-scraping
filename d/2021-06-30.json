@@ -118,5 +118,13 @@
     "username": "brownwolf196",
     "password": "beowulf",
     "invokedAt": "2021-06-30T14:59:02.495Z"
+  },
+  {
+    "firstName": "Emre",
+    "lastName": "Hamzaoğlu",
+    "email": "emre.hamzaoglu@example.com",
+    "username": "tinyrabbit609",
+    "password": "wrestler",
+    "invokedAt": "2021-06-30T15:58:59.194Z"
   }
 ]
