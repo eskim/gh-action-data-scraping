@@ -78,5 +78,13 @@
     "username": "ticklishtiger908",
     "password": "hill",
     "invokedAt": "2021-06-30T09:58:59.711Z"
+  },
+  {
+    "firstName": "Niels",
+    "lastName": "Zinn",
+    "email": "niels.zinn@example.com",
+    "username": "heavymeercat679",
+    "password": "manga",
+    "invokedAt": "2021-06-30T10:59:00.874Z"
   }
 ]
