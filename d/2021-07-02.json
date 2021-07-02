@@ -166,5 +166,13 @@
     "username": "happyswan275",
     "password": "sharks",
     "invokedAt": "2021-07-02T21:07:00.924Z"
+  },
+  {
+    "firstName": "Anne-Rose",
+    "lastName": "Adolf",
+    "email": "anne-rose.adolf@example.com",
+    "username": "crazyswan465",
+    "password": "ozzy",
+    "invokedAt": "2021-07-02T21:59:04.310Z"
   }
 ]
