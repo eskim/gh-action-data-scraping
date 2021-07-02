@@ -126,5 +126,13 @@
     "username": "bigsnake780",
     "password": "winner1",
     "invokedAt": "2021-07-02T15:58:46.591Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Bayındır",
+    "email": "ege.bayindir@example.com",
+    "username": "heavyduck287",
+    "password": "iron",
+    "invokedAt": "2021-07-02T17:12:15.302Z"
   }
 ]
