@@ -182,5 +182,13 @@
     "username": "organicfrog609",
     "password": "puss",
     "invokedAt": "2021-07-03T22:58:57.226Z"
+  },
+  {
+    "firstName": "Fahima",
+    "lastName": "Strous",
+    "email": "fahima.strous@example.com",
+    "username": "goldenzebra885",
+    "password": "catnip",
+    "invokedAt": "2021-07-03T23:59:13.941Z"
   }
 ]
