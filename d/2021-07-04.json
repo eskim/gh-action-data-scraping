@@ -126,5 +126,13 @@
     "username": "whitesnake340",
     "password": "quan",
     "invokedAt": "2021-07-04T15:58:51.909Z"
+  },
+  {
+    "firstName": "محمد",
+    "lastName": "سلطانی نژاد",
+    "email": "mhmd.sltnynjd@example.com",
+    "username": "whitebear127",
+    "password": "dexter",
+    "invokedAt": "2021-07-04T17:08:49.156Z"
   }
 ]
