@@ -158,5 +158,13 @@
     "username": "whitemeercat771",
     "password": "desire",
     "invokedAt": "2021-07-04T19:59:00.917Z"
+  },
+  {
+    "firstName": "Önal",
+    "lastName": "Kılıççı",
+    "email": "onal.kilicci@example.com",
+    "username": "ticklishmouse396",
+    "password": "cutter",
+    "invokedAt": "2021-07-04T20:59:00.593Z"
   }
 ]
