@@ -174,5 +174,13 @@
     "username": "happygoose370",
     "password": "fight",
     "invokedAt": "2021-07-04T21:58:52.400Z"
+  },
+  {
+    "firstName": "Perry",
+    "lastName": "Gilbert",
+    "email": "perry.gilbert@example.com",
+    "username": "crazyrabbit570",
+    "password": "torino",
+    "invokedAt": "2021-07-04T22:59:11.171Z"
   }
 ]
