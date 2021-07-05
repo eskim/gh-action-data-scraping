@@ -54,5 +54,13 @@
     "username": "blueleopard724",
     "password": "spotty",
     "invokedAt": "2021-07-05T06:59:20.662Z"
+  },
+  {
+    "firstName": "Justine",
+    "lastName": "Ma",
+    "email": "justine.ma@example.com",
+    "username": "sadzebra467",
+    "password": "trust",
+    "invokedAt": "2021-07-05T07:58:49.930Z"
   }
 ]
