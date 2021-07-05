@@ -62,5 +62,13 @@
     "username": "sadzebra467",
     "password": "trust",
     "invokedAt": "2021-07-05T07:58:49.930Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Renaud",
+    "email": "carlos.renaud@example.com",
+    "username": "brownbird531",
+    "password": "cupoi",
+    "invokedAt": "2021-07-05T08:59:00.179Z"
   }
 ]
