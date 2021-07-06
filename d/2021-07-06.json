@@ -118,5 +118,13 @@
     "username": "smallrabbit214",
     "password": "planet",
     "invokedAt": "2021-07-06T14:58:57.424Z"
+  },
+  {
+    "firstName": "Izaak",
+    "lastName": "Van der Mast",
+    "email": "izaak.vandermast@example.com",
+    "username": "purplecat313",
+    "password": "elway7",
+    "invokedAt": "2021-07-06T15:58:56.122Z"
   }
 ]
