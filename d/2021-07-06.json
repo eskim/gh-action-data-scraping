@@ -182,5 +182,13 @@
     "username": "organicdog964",
     "password": "video",
     "invokedAt": "2021-07-06T22:59:05.431Z"
+  },
+  {
+    "firstName": "Jules",
+    "lastName": "Gautier",
+    "email": "jules.gautier@example.com",
+    "username": "redpeacock536",
+    "password": "buzzard",
+    "invokedAt": "2021-07-06T23:59:20.310Z"
   }
 ]
