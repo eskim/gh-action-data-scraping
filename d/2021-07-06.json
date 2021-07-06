@@ -174,5 +174,13 @@
     "username": "goldenrabbit718",
     "password": "scuba",
     "invokedAt": "2021-07-06T21:58:47.693Z"
+  },
+  {
+    "firstName": "Dylan",
+    "lastName": "White",
+    "email": "dylan.white@example.com",
+    "username": "organicdog964",
+    "password": "video",
+    "invokedAt": "2021-07-06T22:59:05.431Z"
   }
 ]
