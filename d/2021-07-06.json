@@ -102,5 +102,13 @@
     "username": "organicfrog916",
     "password": "vampire",
     "invokedAt": "2021-07-06T13:09:14.693Z"
+  },
+  {
+    "firstName": "Fatih",
+    "lastName": "Elmastaşoğlu",
+    "email": "fatih.elmastasoglu@example.com",
+    "username": "beautifulzebra170",
+    "password": "conrad",
+    "invokedAt": "2021-07-06T13:59:10.736Z"
   }
 ]
