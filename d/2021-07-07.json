@@ -102,5 +102,13 @@
     "username": "orangefrog931",
     "password": "chicks",
     "invokedAt": "2021-07-07T13:10:00.386Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Singh",
+    "email": "zoe.singh@example.com",
+    "username": "greengoose777",
+    "password": "earthlink",
+    "invokedAt": "2021-07-07T13:58:48.856Z"
   }
 ]
