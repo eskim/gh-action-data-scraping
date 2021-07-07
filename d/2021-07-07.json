@@ -70,5 +70,13 @@
     "username": "purplecat545",
     "password": "warlock",
     "invokedAt": "2021-07-07T08:59:02.914Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Barnaby",
+    "email": "ethan.barnaby@example.com",
+    "username": "blackbear692",
+    "password": "3000gt",
+    "invokedAt": "2021-07-07T09:58:56.204Z"
   }
 ]
