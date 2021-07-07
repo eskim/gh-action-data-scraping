@@ -110,5 +110,13 @@
     "username": "greengoose777",
     "password": "earthlink",
     "invokedAt": "2021-07-07T13:58:48.856Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Ibañez",
+    "email": "john.ibanez@example.com",
+    "username": "goldenmeercat144",
+    "password": "kissing",
+    "invokedAt": "2021-07-07T14:59:22.002Z"
   }
 ]
