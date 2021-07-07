@@ -62,5 +62,13 @@
     "username": "ticklishbutterfly694",
     "password": "whistler",
     "invokedAt": "2021-07-07T07:58:57.329Z"
+  },
+  {
+    "firstName": "Carter",
+    "lastName": "Andersen",
+    "email": "carter.andersen@example.com",
+    "username": "purplecat545",
+    "password": "warlock",
+    "invokedAt": "2021-07-07T08:59:02.914Z"
   }
 ]
