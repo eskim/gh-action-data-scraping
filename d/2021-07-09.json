@@ -158,5 +158,13 @@
     "username": "organicladybug625",
     "password": "lady",
     "invokedAt": "2021-07-09T19:58:50.835Z"
+  },
+  {
+    "firstName": "Noor",
+    "lastName": "Killi",
+    "email": "noor.killi@example.com",
+    "username": "happygorilla967",
+    "password": "tracker",
+    "invokedAt": "2021-07-09T20:59:00.971Z"
   }
 ]
