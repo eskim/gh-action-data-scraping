@@ -126,5 +126,13 @@
     "username": "sadbear207",
     "password": "city",
     "invokedAt": "2021-07-09T15:58:50.257Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Çatalbaş",
+    "email": "ege.catalbas@example.com",
+    "username": "redleopard230",
+    "password": "444444",
+    "invokedAt": "2021-07-09T17:11:42.586Z"
   }
 ]
