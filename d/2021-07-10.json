@@ -166,5 +166,13 @@
     "username": "heavyfrog807",
     "password": "49ers",
     "invokedAt": "2021-07-10T20:59:10.857Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Thomsen",
+    "email": "valdemar.thomsen@example.com",
+    "username": "happykoala504",
+    "password": "puffin",
+    "invokedAt": "2021-07-10T21:58:52.202Z"
   }
 ]
