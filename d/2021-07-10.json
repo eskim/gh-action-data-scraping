@@ -94,5 +94,13 @@
     "username": "ticklishduck643",
     "password": "exchange",
     "invokedAt": "2021-07-10T11:59:05.833Z"
+  },
+  {
+    "firstName": "Birte",
+    "lastName": "Heinecke",
+    "email": "birte.heinecke@example.com",
+    "username": "smallkoala205",
+    "password": "alone",
+    "invokedAt": "2021-07-10T13:08:47.334Z"
   }
 ]
