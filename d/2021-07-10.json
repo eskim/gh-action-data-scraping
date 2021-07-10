@@ -118,5 +118,13 @@
     "username": "tinymeercat159",
     "password": "stupid1",
     "invokedAt": "2021-07-10T14:58:45.926Z"
+  },
+  {
+    "firstName": "Gérard",
+    "lastName": "Arnaud",
+    "email": "gerard.arnaud@example.com",
+    "username": "tinyladybug652",
+    "password": "iomega",
+    "invokedAt": "2021-07-10T15:58:56.264Z"
   }
 ]
