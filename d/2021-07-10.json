@@ -142,5 +142,13 @@
     "username": "silverfish799",
     "password": "conrad",
     "invokedAt": "2021-07-10T17:58:48.520Z"
+  },
+  {
+    "firstName": "Christianus",
+    "lastName": "Sinke",
+    "email": "christianus.sinke@example.com",
+    "username": "heavyfish240",
+    "password": "skywalke",
+    "invokedAt": "2021-07-10T18:58:53.005Z"
   }
 ]
