@@ -22,5 +22,13 @@
     "username": "yellowsnake223",
     "password": "deadspin",
     "invokedAt": "2021-07-10T02:58:54.507Z"
+  },
+  {
+    "firstName": "Yolanda",
+    "lastName": "Benitez",
+    "email": "yolanda.benitez@example.com",
+    "username": "whitebird877",
+    "password": "over",
+    "invokedAt": "2021-07-10T03:58:52.593Z"
   }
 ]
