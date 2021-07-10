@@ -126,5 +126,13 @@
     "username": "tinyladybug652",
     "password": "iomega",
     "invokedAt": "2021-07-10T15:58:56.264Z"
+  },
+  {
+    "firstName": "Frederikke",
+    "lastName": "Kristensen",
+    "email": "frederikke.kristensen@example.com",
+    "username": "redbird426",
+    "password": "glow",
+    "invokedAt": "2021-07-10T17:08:47.676Z"
   }
 ]
