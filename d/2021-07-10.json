@@ -110,5 +110,13 @@
     "username": "brownduck281",
     "password": "concorde",
     "invokedAt": "2021-07-10T13:58:45.308Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Mortensen",
+    "email": "andrea.mortensen@example.com",
+    "username": "tinymeercat159",
+    "password": "stupid1",
+    "invokedAt": "2021-07-10T14:58:45.926Z"
   }
 ]
