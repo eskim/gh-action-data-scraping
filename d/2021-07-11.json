@@ -94,5 +94,13 @@
     "username": "heavybutterfly151",
     "password": "romano",
     "invokedAt": "2021-07-11T11:59:26.236Z"
+  },
+  {
+    "firstName": "Freddie",
+    "lastName": "Weijters",
+    "email": "freddie.weijters@example.com",
+    "username": "crazyzebra385",
+    "password": "verizon",
+    "invokedAt": "2021-07-11T13:07:18.320Z"
   }
 ]
