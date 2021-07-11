@@ -14,5 +14,13 @@
     "username": "bigtiger437",
     "password": "volvo",
     "invokedAt": "2021-07-11T02:17:34.835Z"
+  },
+  {
+    "firstName": "Kent",
+    "lastName": "Burton",
+    "email": "kent.burton@example.com",
+    "username": "purpletiger397",
+    "password": "kamikaze",
+    "invokedAt": "2021-07-11T02:58:55.291Z"
   }
 ]
