@@ -70,5 +70,13 @@
     "username": "angryswan874",
     "password": "12345678",
     "invokedAt": "2021-07-11T08:58:58.087Z"
+  },
+  {
+    "firstName": "نيما",
+    "lastName": "پارسا",
+    "email": "nym.prs@example.com",
+    "username": "redbutterfly256",
+    "password": "bimbo",
+    "invokedAt": "2021-07-11T09:58:58.653Z"
   }
 ]
