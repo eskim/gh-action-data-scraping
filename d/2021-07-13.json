@@ -70,5 +70,13 @@
     "username": "goldenpanda401",
     "password": "andromed",
     "invokedAt": "2021-07-13T08:59:03.258Z"
+  },
+  {
+    "firstName": "Piotr",
+    "lastName": "Storeide",
+    "email": "piotr.storeide@example.com",
+    "username": "whiteswan174",
+    "password": "1235",
+    "invokedAt": "2021-07-13T09:59:04.065Z"
   }
 ]
