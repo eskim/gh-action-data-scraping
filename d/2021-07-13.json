@@ -38,5 +38,13 @@
     "username": "whitepanda208",
     "password": "albert",
     "invokedAt": "2021-07-13T04:59:19.001Z"
+  },
+  {
+    "firstName": "Vergílio",
+    "lastName": "das Neves",
+    "email": "vergilio.dasneves@example.com",
+    "username": "silverpeacock441",
+    "password": "pulsar",
+    "invokedAt": "2021-07-13T05:58:46.293Z"
   }
 ]
