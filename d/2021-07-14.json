@@ -118,5 +118,13 @@
     "username": "happycat104",
     "password": "spongebo",
     "invokedAt": "2021-07-14T14:59:08.897Z"
+  },
+  {
+    "firstName": "Fatih",
+    "lastName": "Aşıkoğlu",
+    "email": "fatih.asikoglu@example.com",
+    "username": "smallmeercat390",
+    "password": "frisco",
+    "invokedAt": "2021-07-14T15:58:51.881Z"
   }
 ]
