@@ -62,5 +62,13 @@
     "username": "happywolf451",
     "password": "hotshot",
     "invokedAt": "2021-07-14T07:58:54.179Z"
+  },
+  {
+    "firstName": "Solveig",
+    "lastName": "Rosvoll",
+    "email": "solveig.rosvoll@example.com",
+    "username": "orangedog360",
+    "password": "alone",
+    "invokedAt": "2021-07-14T08:58:53.295Z"
   }
 ]
