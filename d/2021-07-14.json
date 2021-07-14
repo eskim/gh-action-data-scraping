@@ -110,5 +110,13 @@
     "username": "whiteleopard695",
     "password": "blink182",
     "invokedAt": "2021-07-14T13:59:06.583Z"
+  },
+  {
+    "firstName": "Julio",
+    "lastName": "Hidalgo",
+    "email": "julio.hidalgo@example.com",
+    "username": "happycat104",
+    "password": "spongebo",
+    "invokedAt": "2021-07-14T14:59:08.897Z"
   }
 ]
