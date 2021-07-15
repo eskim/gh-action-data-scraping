@@ -14,5 +14,13 @@
     "username": "ticklishbird895",
     "password": "progress",
     "invokedAt": "2021-07-15T02:16:47.588Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Jacobs",
+    "email": "robin.jacobs@example.com",
+    "username": "goldensnake858",
+    "password": "vector",
+    "invokedAt": "2021-07-15T02:58:50.940Z"
   }
 ]
