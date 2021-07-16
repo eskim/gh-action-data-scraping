@@ -166,5 +166,13 @@
     "username": "bluebear226",
     "password": "guiness",
     "invokedAt": "2021-07-16T20:58:54.858Z"
+  },
+  {
+    "firstName": "Lauren",
+    "lastName": "Meyer",
+    "email": "lauren.meyer@example.com",
+    "username": "organicswan825",
+    "password": "spartan",
+    "invokedAt": "2021-07-16T21:58:58.072Z"
   }
 ]
