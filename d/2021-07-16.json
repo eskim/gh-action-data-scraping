@@ -158,5 +158,13 @@
     "username": "blueostrich597",
     "password": "search",
     "invokedAt": "2021-07-16T19:59:07.332Z"
+  },
+  {
+    "firstName": "Alexandre",
+    "lastName": "Wong",
+    "email": "alexandre.wong@example.com",
+    "username": "bluebear226",
+    "password": "guiness",
+    "invokedAt": "2021-07-16T20:58:54.858Z"
   }
 ]
