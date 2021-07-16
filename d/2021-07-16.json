@@ -134,5 +134,13 @@
     "username": "lazyrabbit733",
     "password": "dreaming",
     "invokedAt": "2021-07-16T17:12:45.111Z"
+  },
+  {
+    "firstName": "Amal",
+    "lastName": "Svendsrud",
+    "email": "amal.svendsrud@example.com",
+    "username": "redrabbit399",
+    "password": "catman",
+    "invokedAt": "2021-07-16T17:59:00.519Z"
   }
 ]
