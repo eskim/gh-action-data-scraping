@@ -54,5 +54,13 @@
     "username": "greensnake604",
     "password": "birthday1",
     "invokedAt": "2021-07-16T06:58:48.250Z"
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "Collins",
+    "email": "ben.collins@example.com",
+    "username": "ticklishdog709",
+    "password": "paradigm",
+    "invokedAt": "2021-07-16T07:58:55.059Z"
   }
 ]
