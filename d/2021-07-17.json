@@ -182,5 +182,13 @@
     "username": "ticklishswan341",
     "password": "polish",
     "invokedAt": "2021-07-17T22:58:56.492Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Pierce",
+    "email": "liam.pierce@example.com",
+    "username": "lazymouse882",
+    "password": "bian",
+    "invokedAt": "2021-07-17T23:59:11.083Z"
   }
 ]
