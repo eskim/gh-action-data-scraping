@@ -102,5 +102,13 @@
     "username": "browntiger593",
     "password": "gymnast",
     "invokedAt": "2021-07-17T13:08:53.080Z"
+  },
+  {
+    "firstName": "Magno",
+    "lastName": "Caldeira",
+    "email": "magno.caldeira@example.com",
+    "username": "heavymouse437",
+    "password": "1269",
+    "invokedAt": "2021-07-17T13:58:59.170Z"
   }
 ]
