@@ -78,5 +78,13 @@
     "username": "beautifulbear351",
     "password": "seeker",
     "invokedAt": "2021-07-18T09:58:48.938Z"
+  },
+  {
+    "firstName": "Teresa",
+    "lastName": "Ray",
+    "email": "teresa.ray@example.com",
+    "username": "organicpanda201",
+    "password": "hayley",
+    "invokedAt": "2021-07-18T10:58:51.733Z"
   }
 ]
