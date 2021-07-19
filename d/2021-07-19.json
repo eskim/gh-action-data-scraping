@@ -158,5 +158,13 @@
     "username": "purplepeacock327",
     "password": "skibum",
     "invokedAt": "2021-07-19T19:59:05.581Z"
+  },
+  {
+    "firstName": "Pierre-André",
+    "lastName": "Louis",
+    "email": "pierre-andre.louis@example.com",
+    "username": "beautifulzebra183",
+    "password": "celeste",
+    "invokedAt": "2021-07-19T20:58:55.512Z"
   }
 ]
