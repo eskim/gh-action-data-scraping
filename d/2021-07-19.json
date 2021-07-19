@@ -174,5 +174,13 @@
     "username": "yellowrabbit834",
     "password": "woodwork",
     "invokedAt": "2021-07-19T21:58:55.021Z"
+  },
+  {
+    "firstName": "Debbie",
+    "lastName": "Hughes",
+    "email": "debbie.hughes@example.com",
+    "username": "silverzebra325",
+    "password": "rugby1",
+    "invokedAt": "2021-07-19T22:59:08.976Z"
   }
 ]
