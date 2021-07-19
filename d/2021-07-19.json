@@ -38,5 +38,13 @@
     "username": "heavymeercat658",
     "password": "suckit",
     "invokedAt": "2021-07-19T05:00:40.358Z"
+  },
+  {
+    "firstName": "Leevi",
+    "lastName": "Kemppainen",
+    "email": "leevi.kemppainen@example.com",
+    "username": "goldenduck733",
+    "password": "kahuna",
+    "invokedAt": "2021-07-19T05:59:12.049Z"
   }
 ]
