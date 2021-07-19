@@ -102,5 +102,13 @@
     "username": "heavymeercat595",
     "password": "bubbles",
     "invokedAt": "2021-07-19T13:10:58.332Z"
+  },
+  {
+    "firstName": "Therese",
+    "lastName": "Olivier",
+    "email": "therese.olivier@example.com",
+    "username": "happybutterfly397",
+    "password": "rebelz",
+    "invokedAt": "2021-07-19T13:58:58.792Z"
   }
 ]
