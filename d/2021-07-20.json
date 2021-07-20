@@ -86,5 +86,13 @@
     "username": "bluesnake735",
     "password": "encore",
     "invokedAt": "2021-07-20T10:58:54.287Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Pierce",
+    "email": "sebastian.pierce@example.com",
+    "username": "beautifulswan185",
+    "password": "elvira",
+    "invokedAt": "2021-07-20T11:59:13.825Z"
   }
 ]
