@@ -110,5 +110,13 @@
     "username": "angryrabbit943",
     "password": "yessir",
     "invokedAt": "2021-07-20T13:59:05.949Z"
+  },
+  {
+    "firstName": "Arnulf",
+    "lastName": "Neff",
+    "email": "arnulf.neff@example.com",
+    "username": "crazybird994",
+    "password": "streaming",
+    "invokedAt": "2021-07-20T14:58:54.550Z"
   }
 ]
