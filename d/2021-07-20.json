@@ -118,5 +118,13 @@
     "username": "crazybird994",
     "password": "streaming",
     "invokedAt": "2021-07-20T14:58:54.550Z"
+  },
+  {
+    "firstName": "Joyca",
+    "lastName": "Goede",
+    "email": "joyca.goede@example.com",
+    "username": "crazyelephant897",
+    "password": "bruins",
+    "invokedAt": "2021-07-20T15:59:07.019Z"
   }
 ]
