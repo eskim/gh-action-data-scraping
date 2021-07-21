@@ -142,5 +142,13 @@
     "username": "angrytiger996",
     "password": "beemer",
     "invokedAt": "2021-07-21T17:59:04.985Z"
+  },
+  {
+    "firstName": "Sami",
+    "lastName": "Duval",
+    "email": "sami.duval@example.com",
+    "username": "blackmeercat289",
+    "password": "indain",
+    "invokedAt": "2021-07-21T18:58:59.402Z"
   }
 ]
