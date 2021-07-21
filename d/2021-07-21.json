@@ -158,5 +158,13 @@
     "username": "goldenbird940",
     "password": "cicero",
     "invokedAt": "2021-07-21T19:59:10.849Z"
+  },
+  {
+    "firstName": "Tor",
+    "lastName": "Kvammen",
+    "email": "tor.kvammen@example.com",
+    "username": "yellowwolf850",
+    "password": "eight",
+    "invokedAt": "2021-07-21T20:58:52.262Z"
   }
 ]
