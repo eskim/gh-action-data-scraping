@@ -94,5 +94,13 @@
     "username": "organiclion187",
     "password": "models",
     "invokedAt": "2021-07-21T11:59:02.322Z"
+  },
+  {
+    "firstName": "Gilbert",
+    "lastName": "Mendoza",
+    "email": "gilbert.mendoza@example.com",
+    "username": "crazypanda614",
+    "password": "sharon",
+    "invokedAt": "2021-07-21T13:10:01.673Z"
   }
 ]
