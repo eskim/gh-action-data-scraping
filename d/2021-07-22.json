@@ -118,5 +118,13 @@
     "username": "greenfrog236",
     "password": "funtime",
     "invokedAt": "2021-07-22T15:00:15.655Z"
+  },
+  {
+    "firstName": "Frederik",
+    "lastName": "Christiansen",
+    "email": "frederik.christiansen@example.com",
+    "username": "angrybutterfly143",
+    "password": "charge",
+    "invokedAt": "2021-07-22T15:58:49.871Z"
   }
 ]
