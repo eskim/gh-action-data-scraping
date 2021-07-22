@@ -126,5 +126,13 @@
     "username": "angrybutterfly143",
     "password": "charge",
     "invokedAt": "2021-07-22T15:58:49.871Z"
+  },
+  {
+    "firstName": "Marius",
+    "lastName": "Johansen",
+    "email": "marius.johansen@example.com",
+    "username": "bigduck384",
+    "password": "nova",
+    "invokedAt": "2021-07-22T17:12:40.848Z"
   }
 ]
