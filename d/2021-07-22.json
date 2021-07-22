@@ -182,5 +182,13 @@
     "username": "angrymeercat571",
     "password": "cancel",
     "invokedAt": "2021-07-22T22:59:03.801Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Lee",
+    "email": "sophie.lee@example.com",
+    "username": "smallladybug567",
+    "password": "sparrow",
+    "invokedAt": "2021-07-22T23:59:11.269Z"
   }
 ]
