@@ -86,5 +86,13 @@
     "username": "goldencat170",
     "password": "beaver",
     "invokedAt": "2021-07-23T10:58:54.697Z"
+  },
+  {
+    "firstName": "Iida",
+    "lastName": "Salmi",
+    "email": "iida.salmi@example.com",
+    "username": "bluefish531",
+    "password": "juice",
+    "invokedAt": "2021-07-23T11:59:12.891Z"
   }
 ]
