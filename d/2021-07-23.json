@@ -158,5 +158,13 @@
     "username": "lazypanda747",
     "password": "japan",
     "invokedAt": "2021-07-23T19:59:18.837Z"
+  },
+  {
+    "firstName": "Solène",
+    "lastName": "Masson",
+    "email": "solene.masson@example.com",
+    "username": "silverbird461",
+    "password": "zhua",
+    "invokedAt": "2021-07-23T20:59:05.511Z"
   }
 ]
