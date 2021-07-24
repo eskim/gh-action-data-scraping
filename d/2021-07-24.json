@@ -70,5 +70,13 @@
     "username": "silverfish365",
     "password": "shasta",
     "invokedAt": "2021-07-24T08:59:03.258Z"
+  },
+  {
+    "firstName": "Lesly",
+    "lastName": "Odekerken",
+    "email": "lesly.odekerken@example.com",
+    "username": "heavykoala828",
+    "password": "celica",
+    "invokedAt": "2021-07-24T09:58:54.912Z"
   }
 ]
