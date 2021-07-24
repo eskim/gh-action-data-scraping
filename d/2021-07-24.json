@@ -46,5 +46,13 @@
     "username": "redpanda462",
     "password": "fishin",
     "invokedAt": "2021-07-24T05:59:08.502Z"
+  },
+  {
+    "firstName": "Addison",
+    "lastName": "Miller",
+    "email": "addison.miller@example.com",
+    "username": "greenmeercat597",
+    "password": "pulsar",
+    "invokedAt": "2021-07-24T06:58:51.288Z"
   }
 ]
