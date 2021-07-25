@@ -182,5 +182,13 @@
     "username": "yellowmouse830",
     "password": "ocean",
     "invokedAt": "2021-07-25T22:59:03.731Z"
+  },
+  {
+    "firstName": "Natã",
+    "lastName": "Silva",
+    "email": "nata.silva@example.com",
+    "username": "heavypanda399",
+    "password": "chat",
+    "invokedAt": "2021-07-25T23:58:49.627Z"
   }
 ]
