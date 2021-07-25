@@ -38,5 +38,13 @@
     "username": "blackpeacock613",
     "password": "jarhead",
     "invokedAt": "2021-07-25T04:59:20.318Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Simmmons",
+    "email": "leo.simmmons@example.com",
+    "username": "bigbird365",
+    "password": "tatiana",
+    "invokedAt": "2021-07-25T05:59:13.400Z"
   }
 ]
