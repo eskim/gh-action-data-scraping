@@ -166,5 +166,13 @@
     "username": "brownbird741",
     "password": "zippy",
     "invokedAt": "2021-07-25T20:59:05.637Z"
+  },
+  {
+    "firstName": "Meral",
+    "lastName": "Toraman",
+    "email": "meral.toraman@example.com",
+    "username": "greenrabbit482",
+    "password": "casino",
+    "invokedAt": "2021-07-25T21:58:52.842Z"
   }
 ]
