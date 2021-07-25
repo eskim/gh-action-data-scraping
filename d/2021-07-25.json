@@ -70,5 +70,13 @@
     "username": "angrygorilla725",
     "password": "base",
     "invokedAt": "2021-07-25T08:59:01.176Z"
+  },
+  {
+    "firstName": "Célia",
+    "lastName": "Morin",
+    "email": "celia.morin@example.com",
+    "username": "happygoose507",
+    "password": "evolutio",
+    "invokedAt": "2021-07-25T09:58:50.518Z"
   }
 ]
