@@ -78,5 +78,13 @@
     "username": "happygoose507",
     "password": "evolutio",
     "invokedAt": "2021-07-25T09:58:50.518Z"
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Heggen",
+    "email": "stella.heggen@example.com",
+    "username": "orangesnake388",
+    "password": "guinness",
+    "invokedAt": "2021-07-25T10:59:05.896Z"
   }
 ]
