@@ -166,5 +166,13 @@
     "username": "brownwolf108",
     "password": "knickerless",
     "invokedAt": "2021-07-26T20:58:48.847Z"
+  },
+  {
+    "firstName": "Onur",
+    "lastName": "Koyuncu",
+    "email": "onur.koyuncu@example.com",
+    "username": "heavybird809",
+    "password": "eric",
+    "invokedAt": "2021-07-26T21:58:55.392Z"
   }
 ]
