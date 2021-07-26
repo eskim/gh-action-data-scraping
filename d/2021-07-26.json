@@ -182,5 +182,13 @@
     "username": "sadelephant903",
     "password": "fmale",
     "invokedAt": "2021-07-26T22:59:04.941Z"
+  },
+  {
+    "firstName": "Kristin",
+    "lastName": "Gutierrez",
+    "email": "kristin.gutierrez@example.com",
+    "username": "yellowzebra928",
+    "password": "racecar",
+    "invokedAt": "2021-07-26T23:59:14.228Z"
   }
 ]
