@@ -134,5 +134,13 @@
     "username": "ticklishgoose747",
     "password": "poiu",
     "invokedAt": "2021-07-27T17:11:22.612Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Singh",
+    "email": "ethan.singh@example.com",
+    "username": "greenladybug612",
+    "password": "thumb",
+    "invokedAt": "2021-07-27T17:58:51.746Z"
   }
 ]
