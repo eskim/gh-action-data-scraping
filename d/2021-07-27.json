@@ -94,5 +94,13 @@
     "username": "lazymeercat369",
     "password": "cabernet",
     "invokedAt": "2021-07-27T11:59:10.590Z"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Hanka",
+    "email": "elias.hanka@example.com",
+    "username": "angryrabbit811",
+    "password": "horizon",
+    "invokedAt": "2021-07-27T13:10:04.972Z"
   }
 ]
