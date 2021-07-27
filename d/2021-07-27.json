@@ -182,5 +182,13 @@
     "username": "organicostrich503",
     "password": "redsox1",
     "invokedAt": "2021-07-27T22:58:56.429Z"
+  },
+  {
+    "firstName": "Pihla",
+    "lastName": "Salmi",
+    "email": "pihla.salmi@example.com",
+    "username": "happylion846",
+    "password": "1004",
+    "invokedAt": "2021-07-27T23:59:08.194Z"
   }
 ]
