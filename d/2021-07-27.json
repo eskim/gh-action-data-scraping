@@ -166,5 +166,13 @@
     "username": "crazykoala598",
     "password": "painter",
     "invokedAt": "2021-07-27T20:58:51.111Z"
+  },
+  {
+    "firstName": "Magliane",
+    "lastName": "Nogueira",
+    "email": "magliane.nogueira@example.com",
+    "username": "happygorilla731",
+    "password": "anthrax",
+    "invokedAt": "2021-07-27T21:58:53.427Z"
   }
 ]
