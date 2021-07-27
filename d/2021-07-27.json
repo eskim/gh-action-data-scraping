@@ -38,5 +38,13 @@
     "username": "lazytiger222",
     "password": "ticklish",
     "invokedAt": "2021-07-27T04:58:48.679Z"
+  },
+  {
+    "firstName": "Sergio",
+    "lastName": "Dupont",
+    "email": "sergio.dupont@example.com",
+    "username": "bigwolf372",
+    "password": "shodan",
+    "invokedAt": "2021-07-27T05:58:58.862Z"
   }
 ]
