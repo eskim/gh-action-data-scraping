@@ -78,5 +78,13 @@
     "username": "yellowmouse120",
     "password": "dog123",
     "invokedAt": "2021-07-28T09:58:52.323Z"
+  },
+  {
+    "firstName": "سپهر",
+    "lastName": "رضاییان",
+    "email": "sphr.rdyyn@example.com",
+    "username": "brownladybug894",
+    "password": "coolman",
+    "invokedAt": "2021-07-28T10:59:02.061Z"
   }
 ]
