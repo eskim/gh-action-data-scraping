@@ -126,5 +126,13 @@
     "username": "brownsnake550",
     "password": "baddest",
     "invokedAt": "2021-07-28T15:58:49.381Z"
+  },
+  {
+    "firstName": "Priteche",
+    "lastName": "Gonçalves",
+    "email": "priteche.goncalves@example.com",
+    "username": "bluedog580",
+    "password": "spurs",
+    "invokedAt": "2021-07-28T17:12:50.951Z"
   }
 ]
