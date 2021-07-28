@@ -54,5 +54,13 @@
     "username": "smalllion456",
     "password": "patches",
     "invokedAt": "2021-07-28T07:02:51.150Z"
+  },
+  {
+    "firstName": "Edna",
+    "lastName": "Schmidt",
+    "email": "edna.schmidt@example.com",
+    "username": "redgorilla917",
+    "password": "sealteam",
+    "invokedAt": "2021-07-28T08:03:13.717Z"
   }
 ]
