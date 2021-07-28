@@ -142,5 +142,13 @@
     "username": "bigrabbit921",
     "password": "sanity72",
     "invokedAt": "2021-07-28T17:59:06.373Z"
+  },
+  {
+    "firstName": "Minou",
+    "lastName": "Roelvink",
+    "email": "minou.roelvink@example.com",
+    "username": "bluegoose752",
+    "password": "northern",
+    "invokedAt": "2021-07-28T18:58:51.379Z"
   }
 ]
