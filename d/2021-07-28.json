@@ -118,5 +118,13 @@
     "username": "blackladybug308",
     "password": "space",
     "invokedAt": "2021-07-28T14:58:54.393Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Olsen",
+    "email": "felix.olsen@example.com",
+    "username": "brownsnake550",
+    "password": "baddest",
+    "invokedAt": "2021-07-28T15:58:49.381Z"
   }
 ]
