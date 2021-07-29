@@ -78,5 +78,13 @@
     "username": "blackgorilla128",
     "password": "5683",
     "invokedAt": "2021-07-29T09:58:49.000Z"
+  },
+  {
+    "firstName": "Madeleine",
+    "lastName": "Davies",
+    "email": "madeleine.davies@example.com",
+    "username": "happyswan662",
+    "password": "fatcat",
+    "invokedAt": "2021-07-29T10:58:52.490Z"
   }
 ]
