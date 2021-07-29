@@ -126,5 +126,13 @@
     "username": "goldenkoala636",
     "password": "anaconda",
     "invokedAt": "2021-07-29T15:58:48.857Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Lavoie",
+    "email": "william.lavoie@example.com",
+    "username": "sadmeercat481",
+    "password": "bread",
+    "invokedAt": "2021-07-29T17:11:55.420Z"
   }
 ]
