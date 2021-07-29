@@ -118,5 +118,13 @@
     "username": "goldenleopard892",
     "password": "birdie",
     "invokedAt": "2021-07-29T14:58:47.405Z"
+  },
+  {
+    "firstName": "Liane",
+    "lastName": "Bollen",
+    "email": "liane.bollen@example.com",
+    "username": "goldenkoala636",
+    "password": "anaconda",
+    "invokedAt": "2021-07-29T15:58:48.857Z"
   }
 ]
