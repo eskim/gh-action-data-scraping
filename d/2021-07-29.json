@@ -102,5 +102,13 @@
     "username": "blacktiger887",
     "password": "switch",
     "invokedAt": "2021-07-29T13:11:43.231Z"
+  },
+  {
+    "firstName": "Georgia",
+    "lastName": "Walters",
+    "email": "georgia.walters@example.com",
+    "username": "organicgoose830",
+    "password": "toejam",
+    "invokedAt": "2021-07-29T13:58:52.427Z"
   }
 ]
