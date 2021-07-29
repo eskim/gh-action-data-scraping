@@ -38,5 +38,13 @@
     "username": "greenmeercat764",
     "password": "tracer",
     "invokedAt": "2021-07-29T05:00:14.148Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Ahola",
+    "email": "sofia.ahola@example.com",
+    "username": "beautifuldog956",
+    "password": "313131",
+    "invokedAt": "2021-07-29T05:59:04.007Z"
   }
 ]
