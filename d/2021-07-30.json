@@ -94,5 +94,13 @@
     "username": "happywolf949",
     "password": "dynasty",
     "invokedAt": "2021-07-30T11:58:55.378Z"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Ambrose",
+    "email": "sophia.ambrose@example.com",
+    "username": "ticklishlion579",
+    "password": "justine",
+    "invokedAt": "2021-07-30T13:11:06.292Z"
   }
 ]
