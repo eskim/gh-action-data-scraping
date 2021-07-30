@@ -158,5 +158,13 @@
     "username": "goldenmouse466",
     "password": "azsxdc",
     "invokedAt": "2021-07-30T19:59:03.753Z"
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Castillo",
+    "email": "ted.castillo@example.com",
+    "username": "purplepanda157",
+    "password": "sergeant",
+    "invokedAt": "2021-07-30T20:58:58.458Z"
   }
 ]
