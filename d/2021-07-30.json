@@ -22,5 +22,13 @@
     "username": "bigrabbit444",
     "password": "abcde",
     "invokedAt": "2021-07-30T02:58:47.367Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Limoncuoğlu",
+    "email": "gokhan.limoncuoglu@example.com",
+    "username": "purplefish832",
+    "password": "deepthroat",
+    "invokedAt": "2021-07-30T03:58:49.929Z"
   }
 ]
