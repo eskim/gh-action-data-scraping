@@ -14,5 +14,13 @@
     "username": "angrypeacock915",
     "password": "bigpimp",
     "invokedAt": "2021-07-30T02:24:48.398Z"
+  },
+  {
+    "firstName": "Alexandra",
+    "lastName": "Blanchard",
+    "email": "alexandra.blanchard@example.com",
+    "username": "bigrabbit444",
+    "password": "abcde",
+    "invokedAt": "2021-07-30T02:58:47.367Z"
   }
 ]
