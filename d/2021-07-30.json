@@ -38,5 +38,13 @@
     "username": "angrybear902",
     "password": "brazil",
     "invokedAt": "2021-07-30T05:00:27.854Z"
+  },
+  {
+    "firstName": "Louise",
+    "lastName": "Wade",
+    "email": "louise.wade@example.com",
+    "username": "bluefrog583",
+    "password": "fender",
+    "invokedAt": "2021-07-30T05:58:55.043Z"
   }
 ]
