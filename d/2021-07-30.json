@@ -46,5 +46,13 @@
     "username": "bluefrog583",
     "password": "fender",
     "invokedAt": "2021-07-30T05:58:55.043Z"
+  },
+  {
+    "firstName": "Everett",
+    "lastName": "Dunne",
+    "email": "everett.dunne@example.com",
+    "username": "ticklishlion799",
+    "password": "private1",
+    "invokedAt": "2021-07-30T06:58:55.603Z"
   }
 ]
