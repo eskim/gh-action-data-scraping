@@ -134,5 +134,13 @@
     "username": "ticklishtiger159",
     "password": "nolimit",
     "invokedAt": "2021-07-31T17:09:50.844Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Nielsen",
+    "email": "ella.nielsen@example.com",
+    "username": "goldensnake328",
+    "password": "marlin",
+    "invokedAt": "2021-07-31T17:58:59.807Z"
   }
 ]
