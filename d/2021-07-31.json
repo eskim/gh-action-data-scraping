@@ -126,5 +126,13 @@
     "username": "orangebutterfly854",
     "password": "ncc1701",
     "invokedAt": "2021-07-31T15:59:06.544Z"
+  },
+  {
+    "firstName": "Reginald",
+    "lastName": "Bowman",
+    "email": "reginald.bowman@example.com",
+    "username": "ticklishtiger159",
+    "password": "nolimit",
+    "invokedAt": "2021-07-31T17:09:50.844Z"
   }
 ]
