@@ -14,5 +14,13 @@
     "username": "greenmeercat435",
     "password": "radiohea",
     "invokedAt": "2021-07-31T02:17:56.369Z"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Türkdoğan",
+    "email": "ali.turkdogan@example.com",
+    "username": "blueduck864",
+    "password": "lovely",
+    "invokedAt": "2021-07-31T02:59:09.253Z"
   }
 ]
