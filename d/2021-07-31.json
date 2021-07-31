@@ -94,5 +94,13 @@
     "username": "whiteostrich775",
     "password": "hotmail0",
     "invokedAt": "2021-07-31T11:59:13.439Z"
+  },
+  {
+    "firstName": "Aatu",
+    "lastName": "Kangas",
+    "email": "aatu.kangas@example.com",
+    "username": "angrykoala347",
+    "password": "bruno",
+    "invokedAt": "2021-07-31T13:09:03.738Z"
   }
 ]
