@@ -110,5 +110,13 @@
     "username": "whitedog147",
     "password": "speakers",
     "invokedAt": "2021-07-31T13:58:52.869Z"
+  },
+  {
+    "firstName": "Adriana",
+    "lastName": "Lorenzo",
+    "email": "adriana.lorenzo@example.com",
+    "username": "whitetiger849",
+    "password": "marian",
+    "invokedAt": "2021-07-31T14:59:01.393Z"
   }
 ]
