@@ -182,5 +182,13 @@
     "username": "blackbutterfly425",
     "password": "terminat",
     "invokedAt": "2021-08-01T22:59:07.628Z"
+  },
+  {
+    "firstName": "Lillian",
+    "lastName": "Brustad",
+    "email": "lillian.brustad@example.com",
+    "username": "whiteleopard655",
+    "password": "police",
+    "invokedAt": "2021-08-01T23:58:58.905Z"
   }
 ]
