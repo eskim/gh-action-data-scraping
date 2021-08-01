@@ -134,5 +134,13 @@
     "username": "whiteswan680",
     "password": "orchid",
     "invokedAt": "2021-08-01T17:09:01.965Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Couri",
+    "email": "aleksi.couri@example.com",
+    "username": "angryleopard905",
+    "password": "coventry",
+    "invokedAt": "2021-08-01T17:58:55.996Z"
   }
 ]
