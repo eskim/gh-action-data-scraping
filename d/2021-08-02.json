@@ -94,5 +94,13 @@
     "username": "heavytiger803",
     "password": "simon",
     "invokedAt": "2021-08-02T11:58:45.563Z"
+  },
+  {
+    "firstName": "Jean-Pierre",
+    "lastName": "Giraud",
+    "email": "jean-pierre.giraud@example.com",
+    "username": "crazyleopard237",
+    "password": "laser",
+    "invokedAt": "2021-08-02T13:11:19.235Z"
   }
 ]
