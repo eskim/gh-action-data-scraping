@@ -38,5 +38,13 @@
     "username": "goldenladybug614",
     "password": "openup",
     "invokedAt": "2021-08-02T05:00:05.797Z"
+  },
+  {
+    "firstName": "Luukas",
+    "lastName": "Rajala",
+    "email": "luukas.rajala@example.com",
+    "username": "brownwolf232",
+    "password": "andyod22",
+    "invokedAt": "2021-08-02T05:59:12.581Z"
   }
 ]
