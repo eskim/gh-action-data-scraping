@@ -126,5 +126,13 @@
     "username": "crazydog877",
     "password": "r2d2",
     "invokedAt": "2021-08-02T15:58:48.517Z"
+  },
+  {
+    "firstName": "Brennan",
+    "lastName": "Ryan",
+    "email": "brennan.ryan@example.com",
+    "username": "redwolf680",
+    "password": "pictuers",
+    "invokedAt": "2021-08-02T17:11:16.778Z"
   }
 ]
