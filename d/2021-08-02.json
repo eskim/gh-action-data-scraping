@@ -134,5 +134,13 @@
     "username": "redwolf680",
     "password": "pictuers",
     "invokedAt": "2021-08-02T17:11:16.778Z"
+  },
+  {
+    "firstName": "Evelyn",
+    "lastName": "Diaz",
+    "email": "evelyn.diaz@example.com",
+    "username": "bigfish952",
+    "password": "slammer",
+    "invokedAt": "2021-08-02T17:59:00.357Z"
   }
 ]
