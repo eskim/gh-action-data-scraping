@@ -86,5 +86,13 @@
     "username": "lazyduck267",
     "password": "coldplay",
     "invokedAt": "2021-08-03T10:58:57.432Z"
+  },
+  {
+    "firstName": "Margareta",
+    "lastName": "Schroth",
+    "email": "margareta.schroth@example.com",
+    "username": "silverelephant168",
+    "password": "1124",
+    "invokedAt": "2021-08-03T11:59:14.195Z"
   }
 ]
