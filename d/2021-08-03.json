@@ -134,5 +134,13 @@
     "username": "goldenbutterfly318",
     "password": "hyperion",
     "invokedAt": "2021-08-03T17:18:08.211Z"
+  },
+  {
+    "firstName": "Wojciech",
+    "lastName": "Thommesen",
+    "email": "wojciech.thommesen@example.com",
+    "username": "crazykoala769",
+    "password": "herman",
+    "invokedAt": "2021-08-03T17:58:54.661Z"
   }
 ]
