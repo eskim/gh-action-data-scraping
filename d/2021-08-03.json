@@ -174,5 +174,13 @@
     "username": "organicbird512",
     "password": "lkjhgfds",
     "invokedAt": "2021-08-03T21:59:25.934Z"
+  },
+  {
+    "firstName": "Marcia",
+    "lastName": "Smith",
+    "email": "marcia.smith@example.com",
+    "username": "whiteladybug908",
+    "password": "duck",
+    "invokedAt": "2021-08-03T22:59:02.539Z"
   }
 ]
