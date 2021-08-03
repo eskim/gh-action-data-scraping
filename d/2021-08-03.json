@@ -78,5 +78,13 @@
     "username": "silvermeercat560",
     "password": "carrot",
     "invokedAt": "2021-08-03T09:58:47.577Z"
+  },
+  {
+    "firstName": "Leah",
+    "lastName": "Hart",
+    "email": "leah.hart@example.com",
+    "username": "lazyduck267",
+    "password": "coldplay",
+    "invokedAt": "2021-08-03T10:58:57.432Z"
   }
 ]
