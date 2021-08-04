@@ -174,5 +174,13 @@
     "username": "yellowswan479",
     "password": "fallout",
     "invokedAt": "2021-08-04T21:59:22.880Z"
+  },
+  {
+    "firstName": "Levi",
+    "lastName": "Fox",
+    "email": "levi.fox@example.com",
+    "username": "yellowzebra782",
+    "password": "medic",
+    "invokedAt": "2021-08-04T22:58:45.629Z"
   }
 ]
