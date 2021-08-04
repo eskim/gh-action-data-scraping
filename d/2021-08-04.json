@@ -166,5 +166,13 @@
     "username": "redwolf280",
     "password": "cowboys",
     "invokedAt": "2021-08-04T20:58:53.070Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Rodriguez",
+    "email": "george.rodriguez@example.com",
+    "username": "yellowswan479",
+    "password": "fallout",
+    "invokedAt": "2021-08-04T21:59:22.880Z"
   }
 ]
