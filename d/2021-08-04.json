@@ -102,5 +102,13 @@
     "username": "sadbutterfly540",
     "password": "speedway",
     "invokedAt": "2021-08-04T13:11:59.870Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Olsen",
+    "email": "noah.olsen@example.com",
+    "username": "orangetiger205",
+    "password": "veronica",
+    "invokedAt": "2021-08-04T13:58:51.312Z"
   }
 ]
