@@ -158,5 +158,13 @@
     "username": "bigduck170",
     "password": "california",
     "invokedAt": "2021-08-05T19:58:59.649Z"
+  },
+  {
+    "firstName": "Dylan",
+    "lastName": "Wilson",
+    "email": "dylan.wilson@example.com",
+    "username": "lazykoala577",
+    "password": "wayne",
+    "invokedAt": "2021-08-05T20:58:50.460Z"
   }
 ]
