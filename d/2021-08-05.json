@@ -22,5 +22,13 @@
     "username": "bigbutterfly368",
     "password": "slave1",
     "invokedAt": "2021-08-05T02:58:46.405Z"
+  },
+  {
+    "firstName": "Tora",
+    "lastName": "Tetlie",
+    "email": "tora.tetlie@example.com",
+    "username": "redcat767",
+    "password": "sandiego",
+    "invokedAt": "2021-08-05T03:59:03.953Z"
   }
 ]
