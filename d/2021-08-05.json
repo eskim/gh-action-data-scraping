@@ -126,5 +126,13 @@
     "username": "blackduck871",
     "password": "trash",
     "invokedAt": "2021-08-05T16:03:27.463Z"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Armstrong",
+    "email": "joel.armstrong@example.com",
+    "username": "organiczebra671",
+    "password": "banshee",
+    "invokedAt": "2021-08-05T17:12:10.994Z"
   }
 ]
