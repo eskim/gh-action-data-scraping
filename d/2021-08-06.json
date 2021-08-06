@@ -182,5 +182,13 @@
     "username": "orangebird152",
     "password": "milano",
     "invokedAt": "2021-08-06T22:59:03.488Z"
+  },
+  {
+    "firstName": "Anaizi",
+    "lastName": "Ramos",
+    "email": "anaizi.ramos@example.com",
+    "username": "tinydog806",
+    "password": "postman",
+    "invokedAt": "2021-08-06T23:59:00.769Z"
   }
 ]
