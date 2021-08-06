@@ -54,5 +54,13 @@
     "username": "goldenbutterfly675",
     "password": "password1",
     "invokedAt": "2021-08-06T06:58:55.819Z"
+  },
+  {
+    "firstName": "بنیامین",
+    "lastName": "صدر",
+    "email": "bnymyn.sdr@example.com",
+    "username": "yellowbutterfly879",
+    "password": "151515",
+    "invokedAt": "2021-08-06T07:59:15.153Z"
   }
 ]
