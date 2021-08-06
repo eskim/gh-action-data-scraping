@@ -38,5 +38,13 @@
     "username": "greenbutterfly695",
     "password": "sites",
     "invokedAt": "2021-08-06T05:00:23.775Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Robinson",
+    "email": "matthew.robinson@example.com",
+    "username": "whitesnake282",
+    "password": "noway",
+    "invokedAt": "2021-08-06T05:58:53.334Z"
   }
 ]
