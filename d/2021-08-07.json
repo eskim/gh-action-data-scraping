@@ -142,5 +142,13 @@
     "username": "silvermeercat234",
     "password": "italy",
     "invokedAt": "2021-08-07T17:58:47.716Z"
+  },
+  {
+    "firstName": "Topias",
+    "lastName": "Lampinen",
+    "email": "topias.lampinen@example.com",
+    "username": "brownmouse944",
+    "password": "sidekick",
+    "invokedAt": "2021-08-07T18:58:46.515Z"
   }
 ]
