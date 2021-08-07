@@ -182,5 +182,13 @@
     "username": "lazyfish812",
     "password": "springs",
     "invokedAt": "2021-08-07T22:59:21.514Z"
+  },
+  {
+    "firstName": "Clémentine",
+    "lastName": "Riviere",
+    "email": "clementine.riviere@example.com",
+    "username": "orangepeacock623",
+    "password": "misery",
+    "invokedAt": "2021-08-07T23:59:00.112Z"
   }
 ]
