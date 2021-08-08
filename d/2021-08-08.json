@@ -38,5 +38,13 @@
     "username": "purplebear442",
     "password": "mizuno",
     "invokedAt": "2021-08-08T04:59:17.202Z"
+  },
+  {
+    "firstName": "Amparo",
+    "lastName": "Lorenzo",
+    "email": "amparo.lorenzo@example.com",
+    "username": "brownelephant181",
+    "password": "amazing",
+    "invokedAt": "2021-08-08T05:59:04.117Z"
   }
 ]
