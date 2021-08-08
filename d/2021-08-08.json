@@ -78,5 +78,13 @@
     "username": "tinywolf816",
     "password": "public",
     "invokedAt": "2021-08-08T09:59:00.855Z"
+  },
+  {
+    "firstName": "Cristiana",
+    "lastName": "Castro",
+    "email": "cristiana.castro@example.com",
+    "username": "organicgorilla282",
+    "password": "camaross",
+    "invokedAt": "2021-08-08T10:59:02.120Z"
   }
 ]
