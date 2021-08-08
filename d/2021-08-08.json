@@ -166,5 +166,13 @@
     "username": "blackbutterfly471",
     "password": "compaq",
     "invokedAt": "2021-08-08T20:59:14.786Z"
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Wade",
+    "email": "aaron.wade@example.com",
+    "username": "lazyladybug554",
+    "password": "kojak",
+    "invokedAt": "2021-08-08T21:59:04.609Z"
   }
 ]
