@@ -46,5 +46,13 @@
     "username": "brownelephant181",
     "password": "amazing",
     "invokedAt": "2021-08-08T05:59:04.117Z"
+  },
+  {
+    "firstName": "Ethem",
+    "lastName": "De Heer",
+    "email": "ethem.deheer@example.com",
+    "username": "whitepeacock382",
+    "password": "shou",
+    "invokedAt": "2021-08-08T06:59:00.672Z"
   }
 ]
