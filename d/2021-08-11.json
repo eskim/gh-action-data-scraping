@@ -54,5 +54,13 @@
     "username": "silverostrich287",
     "password": "frost",
     "invokedAt": "2021-08-11T05:58:49.572Z"
+  },
+  {
+    "firstName": "Laurindo",
+    "lastName": "Teixeira",
+    "email": "laurindo.teixeira@example.com",
+    "username": "bluebird482",
+    "password": "timeout",
+    "invokedAt": "2021-08-11T06:58:48.453Z"
   }
 ]
