@@ -62,5 +62,13 @@
     "username": "bluebird482",
     "password": "timeout",
     "invokedAt": "2021-08-11T06:58:48.453Z"
+  },
+  {
+    "firstName": "Isabelle",
+    "lastName": "Davies",
+    "email": "isabelle.davies@example.com",
+    "username": "orangefish249",
+    "password": "lucifer",
+    "invokedAt": "2021-08-11T07:59:00.281Z"
   }
 ]
