@@ -182,5 +182,13 @@
     "username": "whitegorilla715",
     "password": "kidrock",
     "invokedAt": "2021-08-11T21:58:48.669Z"
+  },
+  {
+    "firstName": "Michaël",
+    "lastName": "Dupuis",
+    "email": "michael.dupuis@example.com",
+    "username": "organickoala111",
+    "password": "yankees1",
+    "invokedAt": "2021-08-11T22:59:10.641Z"
   }
 ]
