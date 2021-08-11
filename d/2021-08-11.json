@@ -190,5 +190,13 @@
     "username": "organickoala111",
     "password": "yankees1",
     "invokedAt": "2021-08-11T22:59:10.641Z"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Boy",
+    "email": "jorge.boy@example.com",
+    "username": "heavydog348",
+    "password": "sharks",
+    "invokedAt": "2021-08-11T23:59:08.481Z"
   }
 ]
