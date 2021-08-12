@@ -134,5 +134,13 @@
     "username": "bluefish284",
     "password": "bigblue",
     "invokedAt": "2021-08-12T17:09:55.071Z"
+  },
+  {
+    "firstName": "Axel",
+    "lastName": "Nesvik",
+    "email": "axel.nesvik@example.com",
+    "username": "whitebear313",
+    "password": "vsegda",
+    "invokedAt": "2021-08-12T17:59:02.335Z"
   }
 ]
