@@ -126,5 +126,13 @@
     "username": "crazybear667",
     "password": "wrestle",
     "invokedAt": "2021-08-12T15:58:57.006Z"
+  },
+  {
+    "firstName": "Levi",
+    "lastName": "Rodriguez",
+    "email": "levi.rodriguez@example.com",
+    "username": "bluefish284",
+    "password": "bigblue",
+    "invokedAt": "2021-08-12T17:09:55.071Z"
   }
 ]
