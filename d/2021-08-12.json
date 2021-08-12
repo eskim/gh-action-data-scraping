@@ -166,5 +166,13 @@
     "username": "redpanda369",
     "password": "real",
     "invokedAt": "2021-08-12T20:59:13.732Z"
+  },
+  {
+    "firstName": "Pauline",
+    "lastName": "Dubois",
+    "email": "pauline.dubois@example.com",
+    "username": "beautifulduck320",
+    "password": "12345",
+    "invokedAt": "2021-08-12T21:59:07.359Z"
   }
 ]
