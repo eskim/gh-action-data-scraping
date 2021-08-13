@@ -118,5 +118,13 @@
     "username": "bigcat318",
     "password": "ncc1701e",
     "invokedAt": "2021-08-13T14:59:04.470Z"
+  },
+  {
+    "firstName": "Leanne",
+    "lastName": "Bouchard",
+    "email": "leanne.bouchard@example.com",
+    "username": "beautifulostrich883",
+    "password": "piazza",
+    "invokedAt": "2021-08-13T15:58:54.400Z"
   }
 ]
