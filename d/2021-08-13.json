@@ -174,5 +174,13 @@
     "username": "blacklion233",
     "password": "wireless",
     "invokedAt": "2021-08-13T21:59:01.433Z"
+  },
+  {
+    "firstName": "Esat",
+    "lastName": "Yıldızoğlu",
+    "email": "esat.yildizoglu@example.com",
+    "username": "goldengoose795",
+    "password": "brett",
+    "invokedAt": "2021-08-13T22:58:54.783Z"
   }
 ]
