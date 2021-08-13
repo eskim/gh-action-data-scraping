@@ -126,5 +126,13 @@
     "username": "beautifulostrich883",
     "password": "piazza",
     "invokedAt": "2021-08-13T15:58:54.400Z"
+  },
+  {
+    "firstName": "Same",
+    "lastName": "Jacobs",
+    "email": "same.jacobs@example.com",
+    "username": "browncat441",
+    "password": "babyface",
+    "invokedAt": "2021-08-13T17:09:55.964Z"
   }
 ]
