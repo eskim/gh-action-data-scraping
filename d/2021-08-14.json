@@ -94,5 +94,13 @@
     "username": "brownostrich578",
     "password": "magellan",
     "invokedAt": "2021-08-14T11:59:04.838Z"
+  },
+  {
+    "firstName": "Andre",
+    "lastName": "Robert",
+    "email": "andre.robert@example.com",
+    "username": "heavyladybug406",
+    "password": "happy",
+    "invokedAt": "2021-08-14T13:08:41.749Z"
   }
 ]
