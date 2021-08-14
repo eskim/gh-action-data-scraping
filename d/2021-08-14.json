@@ -158,5 +158,13 @@
     "username": "goldentiger271",
     "password": "matrix",
     "invokedAt": "2021-08-14T19:59:11.016Z"
+  },
+  {
+    "firstName": "Kirk",
+    "lastName": "Fuller",
+    "email": "kirk.fuller@example.com",
+    "username": "smallgoose793",
+    "password": "jewish",
+    "invokedAt": "2021-08-14T20:59:01.220Z"
   }
 ]
