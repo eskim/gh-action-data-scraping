@@ -158,5 +158,13 @@
     "username": "silverbird682",
     "password": "eldorado",
     "invokedAt": "2021-08-15T19:59:15.764Z"
+  },
+  {
+    "firstName": "Marinette",
+    "lastName": "Guillot",
+    "email": "marinette.guillot@example.com",
+    "username": "crazybear299",
+    "password": "serenity",
+    "invokedAt": "2021-08-15T20:58:58.751Z"
   }
 ]
