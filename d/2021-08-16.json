@@ -126,5 +126,13 @@
     "username": "redpanda195",
     "password": "obelix",
     "invokedAt": "2021-08-16T15:58:59.181Z"
+  },
+  {
+    "firstName": "Samantha",
+    "lastName": "Bradley",
+    "email": "samantha.bradley@example.com",
+    "username": "beautifulwolf725",
+    "password": "starstar",
+    "invokedAt": "2021-08-16T17:11:17.844Z"
   }
 ]
