@@ -166,5 +166,13 @@
     "username": "redbear230",
     "password": "babycake",
     "invokedAt": "2021-08-16T20:58:59.159Z"
+  },
+  {
+    "firstName": "Peetu",
+    "lastName": "Maijala",
+    "email": "peetu.maijala@example.com",
+    "username": "lazylion666",
+    "password": "woodland",
+    "invokedAt": "2021-08-16T21:58:56.622Z"
   }
 ]
