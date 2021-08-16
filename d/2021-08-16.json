@@ -70,5 +70,13 @@
     "username": "redtiger393",
     "password": "bulldog",
     "invokedAt": "2021-08-16T08:59:05.546Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Carmona",
+    "email": "clara.carmona@example.com",
+    "username": "bigpanda892",
+    "password": "triple",
+    "invokedAt": "2021-08-16T09:58:54.256Z"
   }
 ]
