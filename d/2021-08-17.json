@@ -126,5 +126,13 @@
     "username": "bluefrog497",
     "password": "drive",
     "invokedAt": "2021-08-17T15:59:00.541Z"
+  },
+  {
+    "firstName": "Veronica",
+    "lastName": "Wallace",
+    "email": "veronica.wallace@example.com",
+    "username": "organiclion708",
+    "password": "walton",
+    "invokedAt": "2021-08-17T17:08:47.539Z"
   }
 ]
