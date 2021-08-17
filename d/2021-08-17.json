@@ -54,5 +54,13 @@
     "username": "beautifulbear603",
     "password": "avenger",
     "invokedAt": "2021-08-17T06:58:47.408Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Nurmi",
+    "email": "niklas.nurmi@example.com",
+    "username": "blueleopard748",
+    "password": "music",
+    "invokedAt": "2021-08-17T07:58:58.845Z"
   }
 ]
