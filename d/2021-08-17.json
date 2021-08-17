@@ -134,5 +134,13 @@
     "username": "organiclion708",
     "password": "walton",
     "invokedAt": "2021-08-17T17:08:47.539Z"
+  },
+  {
+    "firstName": "Cathy",
+    "lastName": "Burton",
+    "email": "cathy.burton@example.com",
+    "username": "beautifulcat621",
+    "password": "seth",
+    "invokedAt": "2021-08-17T17:58:52.957Z"
   }
 ]
