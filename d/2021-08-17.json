@@ -174,5 +174,13 @@
     "username": "whitemeercat159",
     "password": "rasputin",
     "invokedAt": "2021-08-17T21:58:51.802Z"
+  },
+  {
+    "firstName": "Dwight",
+    "lastName": "Medina",
+    "email": "dwight.medina@example.com",
+    "username": "orangeduck597",
+    "password": "fishy",
+    "invokedAt": "2021-08-17T22:59:12.424Z"
   }
 ]
