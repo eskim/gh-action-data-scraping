@@ -166,5 +166,13 @@
     "username": "smallsnake535",
     "password": "flash1",
     "invokedAt": "2021-08-18T20:58:59.691Z"
+  },
+  {
+    "firstName": "Laurie",
+    "lastName": "Armstrong",
+    "email": "laurie.armstrong@example.com",
+    "username": "orangelion528",
+    "password": "intercourse",
+    "invokedAt": "2021-08-18T21:58:58.895Z"
   }
 ]
