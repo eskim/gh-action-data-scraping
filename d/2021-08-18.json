@@ -142,5 +142,13 @@
     "username": "bigostrich331",
     "password": "request",
     "invokedAt": "2021-08-18T17:58:48.279Z"
+  },
+  {
+    "firstName": "Ece",
+    "lastName": "Çankaya",
+    "email": "ece.cankaya@example.com",
+    "username": "tinymouse307",
+    "password": "shao",
+    "invokedAt": "2021-08-18T18:58:48.307Z"
   }
 ]
