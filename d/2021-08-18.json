@@ -134,5 +134,13 @@
     "username": "orangedog754",
     "password": "nudist",
     "invokedAt": "2021-08-18T17:09:15.903Z"
+  },
+  {
+    "firstName": "Hayo",
+    "lastName": "Sjoerdsma",
+    "email": "hayo.sjoerdsma@example.com",
+    "username": "bigostrich331",
+    "password": "request",
+    "invokedAt": "2021-08-18T17:58:48.279Z"
   }
 ]
