@@ -134,5 +134,13 @@
     "username": "brownbear180",
     "password": "place",
     "invokedAt": "2021-08-19T17:10:45.639Z"
+  },
+  {
+    "firstName": "Sally",
+    "lastName": "Russell",
+    "email": "sally.russell@example.com",
+    "username": "whiteleopard374",
+    "password": "wassup",
+    "invokedAt": "2021-08-19T17:58:50.702Z"
   }
 ]
