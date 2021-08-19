@@ -158,5 +158,13 @@
     "username": "smallwolf177",
     "password": "missy1",
     "invokedAt": "2021-08-19T19:58:54.967Z"
+  },
+  {
+    "firstName": "Silas",
+    "lastName": "Jensen",
+    "email": "silas.jensen@example.com",
+    "username": "bluetiger179",
+    "password": "creature",
+    "invokedAt": "2021-08-19T20:58:48.683Z"
   }
 ]
