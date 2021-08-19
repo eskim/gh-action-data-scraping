@@ -182,5 +182,13 @@
     "username": "smallrabbit718",
     "password": "eclipse",
     "invokedAt": "2021-08-19T22:58:54.608Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Bradley",
+    "email": "charlie.bradley@example.com",
+    "username": "whitecat442",
+    "password": "comein",
+    "invokedAt": "2021-08-19T23:59:05.207Z"
   }
 ]
