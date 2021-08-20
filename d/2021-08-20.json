@@ -62,5 +62,13 @@
     "username": "yellowmouse736",
     "password": "storms",
     "invokedAt": "2021-08-20T07:59:11.418Z"
+  },
+  {
+    "firstName": "Yvonne",
+    "lastName": "Hunter",
+    "email": "yvonne.hunter@example.com",
+    "username": "bluezebra199",
+    "password": "boricua",
+    "invokedAt": "2021-08-20T08:59:03.350Z"
   }
 ]
