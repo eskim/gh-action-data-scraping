@@ -46,5 +46,13 @@
     "username": "goldenfish205",
     "password": "wwwwwww",
     "invokedAt": "2021-08-21T05:59:10.012Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Carrasco",
+    "email": "albert.carrasco@example.com",
+    "username": "greenbear920",
+    "password": "thanatos",
+    "invokedAt": "2021-08-21T06:58:50.412Z"
   }
 ]
