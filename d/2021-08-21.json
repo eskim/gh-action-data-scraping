@@ -166,5 +166,13 @@
     "username": "goldenlion722",
     "password": "andrews",
     "invokedAt": "2021-08-21T20:59:01.097Z"
+  },
+  {
+    "firstName": "Silvia",
+    "lastName": "Haus",
+    "email": "silvia.haus@example.com",
+    "username": "heavypanda312",
+    "password": "jarhead",
+    "invokedAt": "2021-08-21T21:59:08.139Z"
   }
 ]
