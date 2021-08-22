@@ -134,5 +134,13 @@
     "username": "crazywolf834",
     "password": "extreme",
     "invokedAt": "2021-08-22T17:08:32.232Z"
+  },
+  {
+    "firstName": "Alberte",
+    "lastName": "Christiansen",
+    "email": "alberte.christiansen@example.com",
+    "username": "redkoala365",
+    "password": "spectre",
+    "invokedAt": "2021-08-22T17:58:52.031Z"
   }
 ]
