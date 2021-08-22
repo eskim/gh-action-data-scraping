@@ -142,5 +142,13 @@
     "username": "redkoala365",
     "password": "spectre",
     "invokedAt": "2021-08-22T17:58:52.031Z"
+  },
+  {
+    "firstName": "Gascão",
+    "lastName": "Nascimento",
+    "email": "gascao.nascimento@example.com",
+    "username": "tinyfish821",
+    "password": "burner",
+    "invokedAt": "2021-08-22T18:58:46.985Z"
   }
 ]
