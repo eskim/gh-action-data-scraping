@@ -166,5 +166,13 @@
     "username": "ticklishfish656",
     "password": "theforce",
     "invokedAt": "2021-08-22T20:59:05.864Z"
+  },
+  {
+    "firstName": "Johnni",
+    "lastName": "Burke",
+    "email": "johnni.burke@example.com",
+    "username": "orangefish500",
+    "password": "miriam",
+    "invokedAt": "2021-08-22T21:58:44.461Z"
   }
 ]
