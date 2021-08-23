@@ -182,5 +182,13 @@
     "username": "brownsnake381",
     "password": "legos",
     "invokedAt": "2021-08-23T22:58:55.287Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Anderson",
+    "email": "david.anderson@example.com",
+    "username": "redwolf245",
+    "password": "select",
+    "invokedAt": "2021-08-23T23:59:05.479Z"
   }
 ]
