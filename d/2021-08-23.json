@@ -78,5 +78,13 @@
     "username": "blackpeacock123",
     "password": "technics",
     "invokedAt": "2021-08-23T09:58:49.268Z"
+  },
+  {
+    "firstName": "Andre",
+    "lastName": "Hall",
+    "email": "andre.hall@example.com",
+    "username": "angrybear137",
+    "password": "ncc1701",
+    "invokedAt": "2021-08-23T10:59:09.292Z"
   }
 ]
