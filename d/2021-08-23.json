@@ -46,5 +46,13 @@
     "username": "blackbutterfly807",
     "password": "soccer1",
     "invokedAt": "2021-08-23T05:58:53.312Z"
+  },
+  {
+    "firstName": "Brad",
+    "lastName": "Evans",
+    "email": "brad.evans@example.com",
+    "username": "yellowcat255",
+    "password": "members",
+    "invokedAt": "2021-08-23T06:58:54.917Z"
   }
 ]
