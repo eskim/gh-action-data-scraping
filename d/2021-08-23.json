@@ -118,5 +118,13 @@
     "username": "lazylion574",
     "password": "hollow",
     "invokedAt": "2021-08-23T14:59:09.315Z"
+  },
+  {
+    "firstName": "Raphael",
+    "lastName": "Martinez",
+    "email": "raphael.martinez@example.com",
+    "username": "tinytiger855",
+    "password": "michael",
+    "invokedAt": "2021-08-23T15:59:04.297Z"
   }
 ]
