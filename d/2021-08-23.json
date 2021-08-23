@@ -62,5 +62,13 @@
     "username": "whitewolf233",
     "password": "internal",
     "invokedAt": "2021-08-23T07:59:01.453Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Gauthier",
+    "email": "ana.gauthier@example.com",
+    "username": "silverdog832",
+    "password": "hustler",
+    "invokedAt": "2021-08-23T08:59:12.793Z"
   }
 ]
