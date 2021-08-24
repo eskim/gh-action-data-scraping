@@ -166,5 +166,13 @@
     "username": "yellowtiger865",
     "password": "bugger",
     "invokedAt": "2021-08-24T20:58:51.342Z"
+  },
+  {
+    "firstName": "Crystal",
+    "lastName": "Stewart",
+    "email": "crystal.stewart@example.com",
+    "username": "crazyswan741",
+    "password": "toejam",
+    "invokedAt": "2021-08-24T21:58:53.037Z"
   }
 ]
