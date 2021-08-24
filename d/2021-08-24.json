@@ -158,5 +158,13 @@
     "username": "sadbear234",
     "password": "whatup",
     "invokedAt": "2021-08-24T19:59:06.273Z"
+  },
+  {
+    "firstName": "Topias",
+    "lastName": "Korpela",
+    "email": "topias.korpela@example.com",
+    "username": "yellowtiger865",
+    "password": "bugger",
+    "invokedAt": "2021-08-24T20:58:51.342Z"
   }
 ]
