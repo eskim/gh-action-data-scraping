@@ -6,5 +6,13 @@
     "username": "ticklishwolf121",
     "password": "wrestler",
     "invokedAt": "2021-08-24T01:40:31.904Z"
+  },
+  {
+    "firstName": "Kim",
+    "lastName": "Dubois",
+    "email": "kim.dubois@example.com",
+    "username": "sadfish421",
+    "password": "boris",
+    "invokedAt": "2021-08-24T02:13:24.026Z"
   }
 ]
