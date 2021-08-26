@@ -134,5 +134,13 @@
     "username": "lazygorilla701",
     "password": "dawn",
     "invokedAt": "2021-08-26T17:10:46.499Z"
+  },
+  {
+    "firstName": "Kenneth",
+    "lastName": "Turner",
+    "email": "kenneth.turner@example.com",
+    "username": "organicpanda511",
+    "password": "paintbal",
+    "invokedAt": "2021-08-26T17:58:55.132Z"
   }
 ]
