@@ -118,5 +118,13 @@
     "username": "silverdog301",
     "password": "vbnm",
     "invokedAt": "2021-08-26T14:59:11.517Z"
+  },
+  {
+    "firstName": "Deusa",
+    "lastName": "Caldeira",
+    "email": "deusa.caldeira@example.com",
+    "username": "brownpanda246",
+    "password": "clover",
+    "invokedAt": "2021-08-26T15:59:04.338Z"
   }
 ]
