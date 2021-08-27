@@ -166,5 +166,13 @@
     "username": "blacktiger787",
     "password": "lindsey",
     "invokedAt": "2021-08-27T21:58:48.796Z"
+  },
+  {
+    "firstName": "Regina",
+    "lastName": "Lemaire",
+    "email": "regina.lemaire@example.com",
+    "username": "bigbird624",
+    "password": "alpine",
+    "invokedAt": "2021-08-27T22:58:51.730Z"
   }
 ]
