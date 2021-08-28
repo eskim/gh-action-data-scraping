@@ -142,5 +142,13 @@
     "username": "heavyswan433",
     "password": "belly",
     "invokedAt": "2021-08-28T17:58:50.991Z"
+  },
+  {
+    "firstName": "Clément",
+    "lastName": "Gaillard",
+    "email": "clement.gaillard@example.com",
+    "username": "orangeladybug929",
+    "password": "animated",
+    "invokedAt": "2021-08-28T18:58:49.298Z"
   }
 ]
