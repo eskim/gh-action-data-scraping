@@ -102,5 +102,13 @@
     "username": "greenbear497",
     "password": "goaway",
     "invokedAt": "2021-08-28T13:08:19.366Z"
+  },
+  {
+    "firstName": "Kristina",
+    "lastName": "Fields",
+    "email": "kristina.fields@example.com",
+    "username": "beautifulmeercat706",
+    "password": "mutant",
+    "invokedAt": "2021-08-28T13:59:06.950Z"
   }
 ]
