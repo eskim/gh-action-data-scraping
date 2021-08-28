@@ -78,5 +78,13 @@
     "username": "bluezebra942",
     "password": "champ1",
     "invokedAt": "2021-08-28T09:58:47.991Z"
+  },
+  {
+    "firstName": "یاسمین",
+    "lastName": "جعفری",
+    "email": "ysmyn.jaafry@example.com",
+    "username": "redcat124",
+    "password": "records",
+    "invokedAt": "2021-08-28T10:59:07.409Z"
   }
 ]
