@@ -118,5 +118,13 @@
     "username": "tinytiger700",
     "password": "elway7",
     "invokedAt": "2021-08-29T14:59:10.651Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Legrand",
+    "email": "ana.legrand@example.com",
+    "username": "greenpanda660",
+    "password": "1978",
+    "invokedAt": "2021-08-29T15:59:01.021Z"
   }
 ]
