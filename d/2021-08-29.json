@@ -86,5 +86,13 @@
     "username": "bluerabbit414",
     "password": "trustno1",
     "invokedAt": "2021-08-29T10:58:55.744Z"
+  },
+  {
+    "firstName": "Irene",
+    "lastName": "Hoffman",
+    "email": "irene.hoffman@example.com",
+    "username": "bluemeercat635",
+    "password": "jolene",
+    "invokedAt": "2021-08-29T11:58:53.052Z"
   }
 ]
