@@ -46,5 +46,13 @@
     "username": "lazymeercat530",
     "password": "animals",
     "invokedAt": "2021-08-29T05:59:03.456Z"
+  },
+  {
+    "firstName": "Lorraine",
+    "lastName": "Geurtz",
+    "email": "lorraine.geurtz@example.com",
+    "username": "purplecat597",
+    "password": "nope",
+    "invokedAt": "2021-08-29T06:59:02.082Z"
   }
 ]
