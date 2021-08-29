@@ -102,5 +102,13 @@
     "username": "orangeduck118",
     "password": "senator",
     "invokedAt": "2021-08-29T13:09:10.773Z"
+  },
+  {
+    "firstName": "Gusti",
+    "lastName": "Zeiler",
+    "email": "gusti.zeiler@example.com",
+    "username": "beautifulzebra529",
+    "password": "dupont",
+    "invokedAt": "2021-08-29T13:59:03.074Z"
   }
 ]
