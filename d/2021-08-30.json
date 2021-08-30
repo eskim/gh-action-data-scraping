@@ -54,5 +54,13 @@
     "username": "heavygorilla233",
     "password": "compaq1",
     "invokedAt": "2021-08-30T06:58:53.086Z"
+  },
+  {
+    "firstName": "Aitor",
+    "lastName": "Garrido",
+    "email": "aitor.garrido@example.com",
+    "username": "tinymeercat306",
+    "password": "stick",
+    "invokedAt": "2021-08-30T07:59:06.661Z"
   }
 ]
