@@ -118,5 +118,13 @@
     "username": "goldenlion500",
     "password": "nascar24",
     "invokedAt": "2021-08-30T14:58:56.005Z"
+  },
+  {
+    "firstName": "Falk",
+    "lastName": "Galle",
+    "email": "falk.galle@example.com",
+    "username": "greenbutterfly954",
+    "password": "carole",
+    "invokedAt": "2021-08-30T15:59:08.233Z"
   }
 ]
