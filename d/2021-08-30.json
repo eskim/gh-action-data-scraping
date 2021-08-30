@@ -62,5 +62,13 @@
     "username": "tinymeercat306",
     "password": "stick",
     "invokedAt": "2021-08-30T07:59:06.661Z"
+  },
+  {
+    "firstName": "Paulo",
+    "lastName": "Moulin",
+    "email": "paulo.moulin@example.com",
+    "username": "lazypanda732",
+    "password": "hokies",
+    "invokedAt": "2021-08-30T08:58:58.739Z"
   }
 ]
