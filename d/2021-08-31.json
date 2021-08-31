@@ -54,5 +54,13 @@
     "username": "heavysnake355",
     "password": "ireland",
     "invokedAt": "2021-08-31T06:58:54.653Z"
+  },
+  {
+    "firstName": "Jokubas",
+    "lastName": "Betten",
+    "email": "jokubas.betten@example.com",
+    "username": "orangesnake240",
+    "password": "fick",
+    "invokedAt": "2021-08-31T07:59:08.756Z"
   }
 ]
