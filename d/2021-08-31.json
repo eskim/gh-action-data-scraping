@@ -174,5 +174,13 @@
     "username": "lazysnake642",
     "password": "readers",
     "invokedAt": "2021-08-31T21:58:48.018Z"
+  },
+  {
+    "firstName": "امیر",
+    "lastName": "محمدخان",
+    "email": "myr.mhmdkhn@example.com",
+    "username": "smallrabbit314",
+    "password": "tucson",
+    "invokedAt": "2021-08-31T22:58:47.175Z"
   }
 ]
