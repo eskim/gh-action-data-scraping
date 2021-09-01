@@ -126,5 +126,13 @@
     "username": "goldenleopard555",
     "password": "retired",
     "invokedAt": "2021-09-01T15:58:53.640Z"
+  },
+  {
+    "firstName": "Elizabeth",
+    "lastName": "Fortin",
+    "email": "elizabeth.fortin@example.com",
+    "username": "lazypeacock603",
+    "password": "pickup",
+    "invokedAt": "2021-09-01T17:11:17.467Z"
   }
 ]
