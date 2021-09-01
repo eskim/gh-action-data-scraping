@@ -118,5 +118,13 @@
     "username": "goldenladybug675",
     "password": "dutch",
     "invokedAt": "2021-09-01T14:58:57.541Z"
+  },
+  {
+    "firstName": "Edvald",
+    "lastName": "Slåen",
+    "email": "edvald.slaen@example.com",
+    "username": "goldenleopard555",
+    "password": "retired",
+    "invokedAt": "2021-09-01T15:58:53.640Z"
   }
 ]
