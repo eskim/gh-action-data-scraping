@@ -166,5 +166,13 @@
     "username": "greensnake505",
     "password": "preacher",
     "invokedAt": "2021-09-01T20:59:03.878Z"
+  },
+  {
+    "firstName": "Josefo",
+    "lastName": "da Conceição",
+    "email": "josefo.daconceicao@example.com",
+    "username": "purplepeacock758",
+    "password": "bonjovi",
+    "invokedAt": "2021-09-01T21:59:08.738Z"
   }
 ]
