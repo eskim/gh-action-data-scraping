@@ -118,5 +118,13 @@
     "username": "lazyzebra730",
     "password": "billyboy",
     "invokedAt": "2021-09-02T14:59:13.592Z"
+  },
+  {
+    "firstName": "Oya",
+    "lastName": "Sarıoğlu",
+    "email": "oya.sarioglu@example.com",
+    "username": "blackmeercat916",
+    "password": "poison",
+    "invokedAt": "2021-09-02T15:58:57.708Z"
   }
 ]
