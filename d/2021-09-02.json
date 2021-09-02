@@ -94,5 +94,13 @@
     "username": "lazybutterfly640",
     "password": "brenda",
     "invokedAt": "2021-09-02T11:59:04.299Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Korhonen",
+    "email": "miro.korhonen@example.com",
+    "username": "beautifulbutterfly361",
+    "password": "giovanni",
+    "invokedAt": "2021-09-02T13:10:52.172Z"
   }
 ]
