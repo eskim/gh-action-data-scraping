@@ -126,5 +126,13 @@
     "username": "smallpeacock207",
     "password": "massage",
     "invokedAt": "2021-09-03T15:58:58.582Z"
+  },
+  {
+    "firstName": "Martina",
+    "lastName": "Linge",
+    "email": "martina.linge@example.com",
+    "username": "bigswan257",
+    "password": "lookout",
+    "invokedAt": "2021-09-03T17:10:11.054Z"
   }
 ]
