@@ -94,5 +94,13 @@
     "username": "orangegoose307",
     "password": "derek",
     "invokedAt": "2021-09-03T11:58:53.447Z"
+  },
+  {
+    "firstName": "Gerardo",
+    "lastName": "Pastor",
+    "email": "gerardo.pastor@example.com",
+    "username": "orangepanda312",
+    "password": "meme",
+    "invokedAt": "2021-09-03T13:10:45.070Z"
   }
 ]
