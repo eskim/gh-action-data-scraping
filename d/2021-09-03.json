@@ -38,5 +38,13 @@
     "username": "browngoose263",
     "password": "poon",
     "invokedAt": "2021-09-03T05:00:24.561Z"
+  },
+  {
+    "firstName": "Teresa",
+    "lastName": "da Conceição",
+    "email": "teresa.daconceicao@example.com",
+    "username": "bigpanda887",
+    "password": "rodeo",
+    "invokedAt": "2021-09-03T05:58:53.061Z"
   }
 ]
