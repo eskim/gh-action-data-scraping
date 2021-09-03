@@ -134,5 +134,13 @@
     "username": "bigswan257",
     "password": "lookout",
     "invokedAt": "2021-09-03T17:10:11.054Z"
+  },
+  {
+    "firstName": "Teresa",
+    "lastName": "Bertrand",
+    "email": "teresa.bertrand@example.com",
+    "username": "redduck588",
+    "password": "unbelievable",
+    "invokedAt": "2021-09-03T17:58:50.045Z"
   }
 ]
