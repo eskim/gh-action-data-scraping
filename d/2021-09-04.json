@@ -182,5 +182,13 @@
     "username": "redkoala614",
     "password": "nopass",
     "invokedAt": "2021-09-04T22:59:02.094Z"
+  },
+  {
+    "firstName": "Tore",
+    "lastName": "Foss",
+    "email": "tore.foss@example.com",
+    "username": "greenostrich921",
+    "password": "drive",
+    "invokedAt": "2021-09-04T23:58:50.721Z"
   }
 ]
