@@ -158,5 +158,13 @@
     "username": "beautifulswan547",
     "password": "spanner",
     "invokedAt": "2021-09-04T19:58:58.297Z"
+  },
+  {
+    "firstName": "Manuel",
+    "lastName": "Muñoz",
+    "email": "manuel.munoz@example.com",
+    "username": "bigmouse952",
+    "password": "1976",
+    "invokedAt": "2021-09-04T20:59:02.764Z"
   }
 ]
