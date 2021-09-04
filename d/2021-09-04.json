@@ -110,5 +110,13 @@
     "username": "orangekoala474",
     "password": "invest",
     "invokedAt": "2021-09-04T13:58:56.418Z"
+  },
+  {
+    "firstName": "Norman",
+    "lastName": "Boyd",
+    "email": "norman.boyd@example.com",
+    "username": "orangezebra335",
+    "password": "ranch",
+    "invokedAt": "2021-09-04T14:59:03.413Z"
   }
 ]
