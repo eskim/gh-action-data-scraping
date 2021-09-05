@@ -182,5 +182,13 @@
     "username": "crazyfrog971",
     "password": "newyork",
     "invokedAt": "2021-09-05T22:58:59.404Z"
+  },
+  {
+    "firstName": "Sabrien",
+    "lastName": "Van der Horn",
+    "email": "sabrien.vanderhorn@example.com",
+    "username": "bluebear213",
+    "password": "costello",
+    "invokedAt": "2021-09-05T23:59:04.468Z"
   }
 ]
