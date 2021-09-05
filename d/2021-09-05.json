@@ -54,5 +54,13 @@
     "username": "blackleopard271",
     "password": "facial",
     "invokedAt": "2021-09-05T06:58:46.525Z"
+  },
+  {
+    "firstName": "Ekrem",
+    "lastName": "Voigtländer",
+    "email": "ekrem.voigtlander@example.com",
+    "username": "organicsnake309",
+    "password": "tazz",
+    "invokedAt": "2021-09-05T07:59:00.012Z"
   }
 ]
