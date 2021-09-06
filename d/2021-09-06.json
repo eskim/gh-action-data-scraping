@@ -62,5 +62,13 @@
     "username": "purplezebra540",
     "password": "opendoor",
     "invokedAt": "2021-09-06T07:59:01.489Z"
+  },
+  {
+    "firstName": "Ivo",
+    "lastName": "Araújo",
+    "email": "ivo.araujo@example.com",
+    "username": "smallpeacock875",
+    "password": "lagnaf",
+    "invokedAt": "2021-09-06T08:59:12.954Z"
   }
 ]
