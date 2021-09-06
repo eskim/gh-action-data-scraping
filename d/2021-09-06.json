@@ -158,5 +158,13 @@
     "username": "blackbear905",
     "password": "picasso",
     "invokedAt": "2021-09-06T19:58:48.104Z"
+  },
+  {
+    "firstName": "Carol",
+    "lastName": "Harris",
+    "email": "carol.harris@example.com",
+    "username": "organicrabbit270",
+    "password": "fisher",
+    "invokedAt": "2021-09-06T20:58:54.473Z"
   }
 ]
