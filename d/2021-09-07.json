@@ -166,5 +166,13 @@
     "username": "bigrabbit783",
     "password": "celica",
     "invokedAt": "2021-09-07T20:59:05.877Z"
+  },
+  {
+    "firstName": "Eeli",
+    "lastName": "Toivonen",
+    "email": "eeli.toivonen@example.com",
+    "username": "bigpanda965",
+    "password": "shaggy",
+    "invokedAt": "2021-09-07T21:59:00.550Z"
   }
 ]
