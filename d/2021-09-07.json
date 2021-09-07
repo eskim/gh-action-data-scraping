@@ -134,5 +134,13 @@
     "username": "orangebutterfly534",
     "password": "training",
     "invokedAt": "2021-09-07T17:10:30.946Z"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "David",
+    "email": "elias.david@example.com",
+    "username": "lazykoala858",
+    "password": "forumwp",
+    "invokedAt": "2021-09-07T17:59:01.559Z"
   }
 ]
