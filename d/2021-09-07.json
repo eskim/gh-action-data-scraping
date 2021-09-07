@@ -78,5 +78,13 @@
     "username": "redwolf302",
     "password": "credit",
     "invokedAt": "2021-09-07T09:58:46.240Z"
+  },
+  {
+    "firstName": "Luukas",
+    "lastName": "Koistinen",
+    "email": "luukas.koistinen@example.com",
+    "username": "heavyzebra275",
+    "password": "101010",
+    "invokedAt": "2021-09-07T10:58:57.008Z"
   }
 ]
