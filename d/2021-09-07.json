@@ -118,5 +118,13 @@
     "username": "whitemeercat443",
     "password": "thanatos",
     "invokedAt": "2021-09-07T14:58:47.379Z"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Montero",
+    "email": "martin.montero@example.com",
+    "username": "greendog119",
+    "password": "racer",
+    "invokedAt": "2021-09-07T15:58:52.365Z"
   }
 ]
