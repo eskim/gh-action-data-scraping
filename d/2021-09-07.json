@@ -94,5 +94,13 @@
     "username": "organicsnake124",
     "password": "facial",
     "invokedAt": "2021-09-07T11:58:58.442Z"
+  },
+  {
+    "firstName": "Allie",
+    "lastName": "Harris",
+    "email": "allie.harris@example.com",
+    "username": "bluebear323",
+    "password": "lback",
+    "invokedAt": "2021-09-07T13:10:32.128Z"
   }
 ]
