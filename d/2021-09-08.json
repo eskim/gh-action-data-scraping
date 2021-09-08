@@ -22,5 +22,13 @@
     "username": "purplepanda988",
     "password": "films",
     "invokedAt": "2021-09-08T02:59:03.838Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Lopez",
+    "email": "ana.lopez@example.com",
+    "username": "redwolf292",
+    "password": "cang",
+    "invokedAt": "2021-09-08T03:58:52.114Z"
   }
 ]
