@@ -182,5 +182,13 @@
     "username": "goldenswan940",
     "password": "yahoo",
     "invokedAt": "2021-09-08T22:58:53.448Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Delgado",
+    "email": "gabriel.delgado@example.com",
+    "username": "organictiger748",
+    "password": "cold",
+    "invokedAt": "2021-09-08T23:58:52.881Z"
   }
 ]
