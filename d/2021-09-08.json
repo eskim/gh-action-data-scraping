@@ -70,5 +70,13 @@
     "username": "organicduck591",
     "password": "opendoor",
     "invokedAt": "2021-09-08T08:58:49.965Z"
+  },
+  {
+    "firstName": "Herbert",
+    "lastName": "Burns",
+    "email": "herbert.burns@example.com",
+    "username": "yellowtiger438",
+    "password": "oedipus",
+    "invokedAt": "2021-09-08T09:59:16.542Z"
   }
 ]
