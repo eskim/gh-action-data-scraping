@@ -86,5 +86,13 @@
     "username": "bigfrog377",
     "password": "wizard",
     "invokedAt": "2021-09-09T10:59:01.316Z"
+  },
+  {
+    "firstName": "زهرا",
+    "lastName": "حسینی",
+    "email": "zhr.hsyny@example.com",
+    "username": "bigostrich525",
+    "password": "italian",
+    "invokedAt": "2021-09-09T11:59:12.579Z"
   }
 ]
