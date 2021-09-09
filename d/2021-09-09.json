@@ -46,5 +46,13 @@
     "username": "happymeercat866",
     "password": "pencil",
     "invokedAt": "2021-09-09T05:58:53.155Z"
+  },
+  {
+    "firstName": "Sean",
+    "lastName": "Grude",
+    "email": "sean.grude@example.com",
+    "username": "goldenelephant251",
+    "password": "cypress",
+    "invokedAt": "2021-09-09T06:59:01.987Z"
   }
 ]
