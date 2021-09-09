@@ -54,5 +54,13 @@
     "username": "goldenelephant251",
     "password": "cypress",
     "invokedAt": "2021-09-09T06:59:01.987Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Walli",
+    "email": "emil.walli@example.com",
+    "username": "greengoose385",
+    "password": "gladiator",
+    "invokedAt": "2021-09-09T07:59:10.601Z"
   }
 ]
