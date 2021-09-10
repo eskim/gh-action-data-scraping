@@ -54,5 +54,13 @@
     "username": "redfish525",
     "password": "racecar",
     "invokedAt": "2021-09-10T06:58:56.791Z"
+  },
+  {
+    "firstName": "Fillip",
+    "lastName": "Åkre",
+    "email": "fillip.akre@example.com",
+    "username": "goldenfish419",
+    "password": "jack",
+    "invokedAt": "2021-09-10T07:59:09.399Z"
   }
 ]
