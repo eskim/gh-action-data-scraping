@@ -158,5 +158,13 @@
     "username": "beautifulfrog661",
     "password": "barber",
     "invokedAt": "2021-09-11T19:58:52.936Z"
+  },
+  {
+    "firstName": "Marten",
+    "lastName": "Van Erk",
+    "email": "marten.vanerk@example.com",
+    "username": "happyrabbit854",
+    "password": "longbow",
+    "invokedAt": "2021-09-11T20:59:10.884Z"
   }
 ]
