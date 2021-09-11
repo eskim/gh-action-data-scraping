@@ -94,5 +94,13 @@
     "username": "organicbutterfly120",
     "password": "oreo",
     "invokedAt": "2021-09-11T11:59:00.661Z"
+  },
+  {
+    "firstName": "Trevor",
+    "lastName": "Plender",
+    "email": "trevor.plender@example.com",
+    "username": "yellowpeacock991",
+    "password": "qian",
+    "invokedAt": "2021-09-11T13:08:50.042Z"
   }
 ]
