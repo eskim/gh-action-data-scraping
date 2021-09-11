@@ -46,5 +46,13 @@
     "username": "yellowmeercat740",
     "password": "sixpack",
     "invokedAt": "2021-09-11T05:58:51.285Z"
+  },
+  {
+    "firstName": "Ceylan",
+    "lastName": "Gümüşpala",
+    "email": "ceylan.gumuspala@example.com",
+    "username": "lazybutterfly393",
+    "password": "crawford",
+    "invokedAt": "2021-09-11T06:58:57.407Z"
   }
 ]
