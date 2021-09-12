@@ -94,5 +94,13 @@
     "username": "whitemeercat283",
     "password": "great",
     "invokedAt": "2021-09-12T11:59:08.389Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Hanson",
+    "email": "roger.hanson@example.com",
+    "username": "whitemeercat649",
+    "password": "china",
+    "invokedAt": "2021-09-12T13:09:24.349Z"
   }
 ]
