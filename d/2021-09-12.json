@@ -86,5 +86,13 @@
     "username": "crazycat407",
     "password": "tattoo",
     "invokedAt": "2021-09-12T10:58:52.848Z"
+  },
+  {
+    "firstName": "Olive",
+    "lastName": "Smith",
+    "email": "olive.smith@example.com",
+    "username": "whitemeercat283",
+    "password": "great",
+    "invokedAt": "2021-09-12T11:59:08.389Z"
   }
 ]
