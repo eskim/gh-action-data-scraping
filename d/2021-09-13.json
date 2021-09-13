@@ -142,5 +142,13 @@
     "username": "ticklishgorilla559",
     "password": "surfer1",
     "invokedAt": "2021-09-13T17:59:07.972Z"
+  },
+  {
+    "firstName": "Mile",
+    "lastName": "da Mata",
+    "email": "mile.damata@example.com",
+    "username": "blueladybug471",
+    "password": "bounce",
+    "invokedAt": "2021-09-13T18:58:49.764Z"
   }
 ]
