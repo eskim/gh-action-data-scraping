@@ -118,5 +118,13 @@
     "username": "yellowtiger379",
     "password": "gramma",
     "invokedAt": "2021-09-13T14:58:54.947Z"
+  },
+  {
+    "firstName": "Jimi",
+    "lastName": "Lehto",
+    "email": "jimi.lehto@example.com",
+    "username": "crazytiger343",
+    "password": "washington",
+    "invokedAt": "2021-09-13T15:58:48.591Z"
   }
 ]
