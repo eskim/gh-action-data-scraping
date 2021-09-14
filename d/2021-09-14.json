@@ -166,5 +166,13 @@
     "username": "organicwolf229",
     "password": "teens",
     "invokedAt": "2021-09-14T20:58:58.490Z"
+  },
+  {
+    "firstName": "Hans-Wilhelm",
+    "lastName": "Jensen",
+    "email": "hans-wilhelm.jensen@example.com",
+    "username": "redladybug512",
+    "password": "marc",
+    "invokedAt": "2021-09-14T21:59:13.412Z"
   }
 ]
