@@ -142,5 +142,13 @@
     "username": "crazybird825",
     "password": "america",
     "invokedAt": "2021-09-14T17:58:55.462Z"
+  },
+  {
+    "firstName": "Loïs",
+    "lastName": "Dumont",
+    "email": "lois.dumont@example.com",
+    "username": "purplemeercat944",
+    "password": "nicola",
+    "invokedAt": "2021-09-14T18:58:55.202Z"
   }
 ]
