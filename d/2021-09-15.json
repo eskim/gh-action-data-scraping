@@ -46,5 +46,13 @@
     "username": "greenfish615",
     "password": "track",
     "invokedAt": "2021-09-15T05:59:05.355Z"
+  },
+  {
+    "firstName": "Kaitlin",
+    "lastName": "Gomez",
+    "email": "kaitlin.gomez@example.com",
+    "username": "angrywolf954",
+    "password": "harlem",
+    "invokedAt": "2021-09-15T06:58:53.559Z"
   }
 ]
