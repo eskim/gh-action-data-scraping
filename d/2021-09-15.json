@@ -22,5 +22,13 @@
     "username": "blackrabbit978",
     "password": "plato",
     "invokedAt": "2021-09-15T02:58:49.992Z"
+  },
+  {
+    "firstName": "Jeppe",
+    "lastName": "Andersen",
+    "email": "jeppe.andersen@example.com",
+    "username": "tinyzebra756",
+    "password": "reng",
+    "invokedAt": "2021-09-15T03:58:47.496Z"
   }
 ]
