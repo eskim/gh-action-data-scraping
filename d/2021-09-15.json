@@ -126,5 +126,13 @@
     "username": "happysnake839",
     "password": "hookup",
     "invokedAt": "2021-09-15T15:58:58.409Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Moilanen",
+    "email": "miro.moilanen@example.com",
+    "username": "ticklishladybug498",
+    "password": "science",
+    "invokedAt": "2021-09-15T17:06:54.456Z"
   }
 ]
