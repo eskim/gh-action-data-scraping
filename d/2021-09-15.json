@@ -118,5 +118,13 @@
     "username": "heavywolf811",
     "password": "ilikeit",
     "invokedAt": "2021-09-15T14:59:15.901Z"
+  },
+  {
+    "firstName": "Mikael",
+    "lastName": "Pesola",
+    "email": "mikael.pesola@example.com",
+    "username": "happysnake839",
+    "password": "hookup",
+    "invokedAt": "2021-09-15T15:58:58.409Z"
   }
 ]
