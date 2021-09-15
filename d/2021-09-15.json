@@ -38,5 +38,13 @@
     "username": "beautifulpeacock471",
     "password": "dodger",
     "invokedAt": "2021-09-15T04:59:31.203Z"
+  },
+  {
+    "firstName": "Damian",
+    "lastName": "Sørlie",
+    "email": "damian.sorlie@example.com",
+    "username": "greenfish615",
+    "password": "track",
+    "invokedAt": "2021-09-15T05:59:05.355Z"
   }
 ]
