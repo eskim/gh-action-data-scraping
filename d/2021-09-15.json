@@ -94,5 +94,13 @@
     "username": "silvertiger880",
     "password": "studly",
     "invokedAt": "2021-09-15T11:58:52.483Z"
+  },
+  {
+    "firstName": "Claire",
+    "lastName": "Newman",
+    "email": "claire.newman@example.com",
+    "username": "organicfish111",
+    "password": "sherry",
+    "invokedAt": "2021-09-15T13:10:54.706Z"
   }
 ]
