@@ -78,5 +78,13 @@
     "username": "whitegorilla370",
     "password": "photoes",
     "invokedAt": "2021-09-15T09:59:07.202Z"
+  },
+  {
+    "firstName": "Oskari",
+    "lastName": "Hokkanen",
+    "email": "oskari.hokkanen@example.com",
+    "username": "tinyleopard404",
+    "password": "playa",
+    "invokedAt": "2021-09-15T10:58:52.130Z"
   }
 ]
