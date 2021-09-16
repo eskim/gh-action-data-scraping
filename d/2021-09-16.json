@@ -94,5 +94,13 @@
     "username": "silverlion645",
     "password": "extensa",
     "invokedAt": "2021-09-16T11:59:15.466Z"
+  },
+  {
+    "firstName": "Stephen",
+    "lastName": "Moreno",
+    "email": "stephen.moreno@example.com",
+    "username": "angrycat663",
+    "password": "star69",
+    "invokedAt": "2021-09-16T13:11:49.684Z"
   }
 ]
