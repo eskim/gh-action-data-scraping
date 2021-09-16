@@ -54,5 +54,13 @@
     "username": "whiteduck666",
     "password": "magnus",
     "invokedAt": "2021-09-16T06:58:56.217Z"
+  },
+  {
+    "firstName": "Onni",
+    "lastName": "Lampi",
+    "email": "onni.lampi@example.com",
+    "username": "bigduck205",
+    "password": "galaxy",
+    "invokedAt": "2021-09-16T07:59:14.464Z"
   }
 ]
