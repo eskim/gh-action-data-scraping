@@ -86,5 +86,13 @@
     "username": "purplepanda715",
     "password": "187187",
     "invokedAt": "2021-09-17T10:58:51.297Z"
+  },
+  {
+    "firstName": "Kerim",
+    "lastName": "Evliyaoğlu",
+    "email": "kerim.evliyaoglu@example.com",
+    "username": "blackgoose974",
+    "password": "psycho",
+    "invokedAt": "2021-09-17T11:58:56.502Z"
   }
 ]
