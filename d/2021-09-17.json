@@ -166,5 +166,13 @@
     "username": "redbear278",
     "password": "newyear",
     "invokedAt": "2021-09-17T20:59:12.273Z"
+  },
+  {
+    "firstName": "Frida",
+    "lastName": "Madsen",
+    "email": "frida.madsen@example.com",
+    "username": "happyswan842",
+    "password": "catch22",
+    "invokedAt": "2021-09-17T21:59:09.553Z"
   }
 ]
