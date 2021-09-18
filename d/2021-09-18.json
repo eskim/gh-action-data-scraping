@@ -70,5 +70,13 @@
     "username": "lazyduck785",
     "password": "beaner",
     "invokedAt": "2021-09-18T08:58:46.004Z"
+  },
+  {
+    "firstName": "Lois",
+    "lastName": "Franklin",
+    "email": "lois.franklin@example.com",
+    "username": "browntiger708",
+    "password": "track",
+    "invokedAt": "2021-09-18T09:59:08.070Z"
   }
 ]
