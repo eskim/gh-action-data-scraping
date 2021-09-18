@@ -62,5 +62,13 @@
     "username": "smallgoose858",
     "password": "cardinal",
     "invokedAt": "2021-09-18T07:58:52.669Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Møller",
+    "email": "laura.moller@example.com",
+    "username": "lazyduck785",
+    "password": "beaner",
+    "invokedAt": "2021-09-18T08:58:46.004Z"
   }
 ]
