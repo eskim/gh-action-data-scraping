@@ -182,5 +182,13 @@
     "username": "happypeacock116",
     "password": "marianne",
     "invokedAt": "2021-09-18T22:59:13.566Z"
+  },
+  {
+    "firstName": "Mirna",
+    "lastName": "Pardoel",
+    "email": "mirna.pardoel@example.com",
+    "username": "smallladybug763",
+    "password": "winners",
+    "invokedAt": "2021-09-18T23:59:04.689Z"
   }
 ]
