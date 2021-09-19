@@ -166,5 +166,13 @@
     "username": "whitecat602",
     "password": "tomcat",
     "invokedAt": "2021-09-19T20:59:06.968Z"
+  },
+  {
+    "firstName": "Randi",
+    "lastName": "Teig",
+    "email": "randi.teig@example.com",
+    "username": "tinytiger761",
+    "password": "micron",
+    "invokedAt": "2021-09-19T21:58:56.926Z"
   }
 ]
