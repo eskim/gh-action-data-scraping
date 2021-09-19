@@ -142,5 +142,13 @@
     "username": "beautifulbird106",
     "password": "cooter",
     "invokedAt": "2021-09-19T17:59:03.845Z"
+  },
+  {
+    "firstName": "Marlon",
+    "lastName": "da Conceição",
+    "email": "marlon.daconceicao@example.com",
+    "username": "bigtiger979",
+    "password": "cowgirl",
+    "invokedAt": "2021-09-19T18:58:56.972Z"
   }
 ]
