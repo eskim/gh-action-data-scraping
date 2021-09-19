@@ -46,5 +46,13 @@
     "username": "crazysnake240",
     "password": "aptiva",
     "invokedAt": "2021-09-19T05:59:05.308Z"
+  },
+  {
+    "firstName": "Helmi",
+    "lastName": "Huotari",
+    "email": "helmi.huotari@example.com",
+    "username": "angrymeercat348",
+    "password": "marcia",
+    "invokedAt": "2021-09-19T06:59:16.418Z"
   }
 ]
