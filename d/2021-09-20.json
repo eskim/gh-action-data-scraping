@@ -30,5 +30,13 @@
     "username": "happykoala556",
     "password": "weather",
     "invokedAt": "2021-09-20T03:58:53.846Z"
+  },
+  {
+    "firstName": "Oskari",
+    "lastName": "Luoma",
+    "email": "oskari.luoma@example.com",
+    "username": "yellowwolf910",
+    "password": "hardware",
+    "invokedAt": "2021-09-20T04:59:38.661Z"
   }
 ]
