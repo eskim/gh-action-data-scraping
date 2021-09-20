@@ -46,5 +46,13 @@
     "username": "tinyduck406",
     "password": "pluto",
     "invokedAt": "2021-09-20T05:59:06.454Z"
+  },
+  {
+    "firstName": "Franklin",
+    "lastName": "Parker",
+    "email": "franklin.parker@example.com",
+    "username": "redgorilla693",
+    "password": "blanked",
+    "invokedAt": "2021-09-20T06:58:52.833Z"
   }
 ]
