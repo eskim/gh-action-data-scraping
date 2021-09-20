@@ -38,5 +38,13 @@
     "username": "yellowwolf910",
     "password": "hardware",
     "invokedAt": "2021-09-20T04:59:38.661Z"
+  },
+  {
+    "firstName": "Perfeito",
+    "lastName": "Campos",
+    "email": "perfeito.campos@example.com",
+    "username": "tinyduck406",
+    "password": "pluto",
+    "invokedAt": "2021-09-20T05:59:06.454Z"
   }
 ]
