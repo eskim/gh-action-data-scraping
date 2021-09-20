@@ -174,5 +174,13 @@
     "username": "yellowbird967",
     "password": "tacoma",
     "invokedAt": "2021-09-20T21:59:24.661Z"
+  },
+  {
+    "firstName": "Clément",
+    "lastName": "Petit",
+    "email": "clement.petit@example.com",
+    "username": "crazybear425",
+    "password": "qwertyuiop",
+    "invokedAt": "2021-09-20T22:58:52.080Z"
   }
 ]
