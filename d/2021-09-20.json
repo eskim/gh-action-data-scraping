@@ -94,5 +94,13 @@
     "username": "yellowgoose334",
     "password": "fantasy",
     "invokedAt": "2021-09-20T11:59:08.008Z"
+  },
+  {
+    "firstName": "Dariusz",
+    "lastName": "Frerichs",
+    "email": "dariusz.frerichs@example.com",
+    "username": "organicleopard257",
+    "password": "dusty",
+    "invokedAt": "2021-09-20T13:12:12.952Z"
   }
 ]
