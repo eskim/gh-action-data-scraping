@@ -134,5 +134,13 @@
     "username": "happyduck905",
     "password": "battle",
     "invokedAt": "2021-09-21T17:09:30.792Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Baykam",
+    "email": "afsar.baykam@example.com",
+    "username": "purplebear188",
+    "password": "plane",
+    "invokedAt": "2021-09-21T17:59:06.566Z"
   }
 ]
