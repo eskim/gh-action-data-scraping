@@ -166,5 +166,13 @@
     "username": "ticklishkoala794",
     "password": "lionking",
     "invokedAt": "2021-09-21T20:58:57.890Z"
+  },
+  {
+    "firstName": "Liva",
+    "lastName": "Poulsen",
+    "email": "liva.poulsen@example.com",
+    "username": "orangerabbit705",
+    "password": "rotten",
+    "invokedAt": "2021-09-21T21:59:13.909Z"
   }
 ]
