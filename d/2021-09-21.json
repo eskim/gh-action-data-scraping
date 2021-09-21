@@ -94,5 +94,13 @@
     "username": "blacksnake437",
     "password": "vikings1",
     "invokedAt": "2021-09-21T11:59:09.863Z"
+  },
+  {
+    "firstName": "Fabien",
+    "lastName": "Da Silva",
+    "email": "fabien.dasilva@example.com",
+    "username": "redleopard552",
+    "password": "beavis",
+    "invokedAt": "2021-09-21T13:11:07.220Z"
   }
 ]
