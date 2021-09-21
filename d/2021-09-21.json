@@ -182,5 +182,13 @@
     "username": "whitepeacock156",
     "password": "sonoma",
     "invokedAt": "2021-09-21T22:58:57.338Z"
+  },
+  {
+    "firstName": "Lana",
+    "lastName": "Clement",
+    "email": "lana.clement@example.com",
+    "username": "beautifulcat825",
+    "password": "drpepper",
+    "invokedAt": "2021-09-21T23:59:05.447Z"
   }
 ]
