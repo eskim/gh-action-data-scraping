@@ -110,5 +110,13 @@
     "username": "greentiger553",
     "password": "helena",
     "invokedAt": "2021-09-22T13:58:53.843Z"
+  },
+  {
+    "firstName": "حسین",
+    "lastName": "سالاری",
+    "email": "hsyn.slry@example.com",
+    "username": "biggoose476",
+    "password": "room",
+    "invokedAt": "2021-09-22T14:59:00.512Z"
   }
 ]
