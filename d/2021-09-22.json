@@ -118,5 +118,13 @@
     "username": "biggoose476",
     "password": "room",
     "invokedAt": "2021-09-22T14:59:00.512Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Vidal",
+    "email": "david.vidal@example.com",
+    "username": "lazytiger505",
+    "password": "manga",
+    "invokedAt": "2021-09-22T15:59:35.402Z"
   }
 ]
