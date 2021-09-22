@@ -46,5 +46,13 @@
     "username": "purplesnake596",
     "password": "scheisse",
     "invokedAt": "2021-09-22T06:04:26.364Z"
+  },
+  {
+    "firstName": "Vilho",
+    "lastName": "Hokkanen",
+    "email": "vilho.hokkanen@example.com",
+    "username": "sadtiger453",
+    "password": "avatar",
+    "invokedAt": "2021-09-22T06:59:05.072Z"
   }
 ]
