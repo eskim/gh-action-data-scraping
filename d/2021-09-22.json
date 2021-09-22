@@ -78,5 +78,13 @@
     "username": "orangeleopard999",
     "password": "bizkit",
     "invokedAt": "2021-09-22T09:59:08.949Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Campbell",
+    "email": "sara.campbell@example.com",
+    "username": "greenwolf290",
+    "password": "danger",
+    "invokedAt": "2021-09-22T10:59:01.405Z"
   }
 ]
