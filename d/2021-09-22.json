@@ -182,5 +182,13 @@
     "username": "sadladybug980",
     "password": "qwerty1",
     "invokedAt": "2021-09-22T22:58:59.219Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Rodriguez",
+    "email": "marc.rodriguez@example.com",
+    "username": "smallladybug199",
+    "password": "amber",
+    "invokedAt": "2021-09-22T23:59:09.138Z"
   }
 ]
