@@ -126,5 +126,13 @@
     "username": "lazytiger505",
     "password": "manga",
     "invokedAt": "2021-09-22T15:59:35.402Z"
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Baker",
+    "email": "ellen.baker@example.com",
+    "username": "angrytiger317",
+    "password": "darwin",
+    "invokedAt": "2021-09-22T17:10:01.514Z"
   }
 ]
