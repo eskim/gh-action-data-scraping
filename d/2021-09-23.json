@@ -54,5 +54,13 @@
     "username": "whitefish483",
     "password": "vietnam",
     "invokedAt": "2021-09-23T06:58:53.075Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Liu",
+    "email": "adam.liu@example.com",
+    "username": "sadwolf525",
+    "password": "maxx",
+    "invokedAt": "2021-09-23T07:59:00.562Z"
   }
 ]
