@@ -102,5 +102,13 @@
     "username": "yellowcat213",
     "password": "nacked",
     "invokedAt": "2021-09-24T13:10:30.283Z"
+  },
+  {
+    "firstName": "Timothe",
+    "lastName": "Fernandez",
+    "email": "timothe.fernandez@example.com",
+    "username": "bigfrog891",
+    "password": "garbage",
+    "invokedAt": "2021-09-24T13:59:14.740Z"
   }
 ]
