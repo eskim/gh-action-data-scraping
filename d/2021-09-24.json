@@ -126,5 +126,13 @@
     "username": "greenmouse495",
     "password": "louis",
     "invokedAt": "2021-09-24T15:58:49.858Z"
+  },
+  {
+    "firstName": "Samantha",
+    "lastName": "Medina",
+    "email": "samantha.medina@example.com",
+    "username": "goldenladybug731",
+    "password": "limewire",
+    "invokedAt": "2021-09-24T17:05:30.039Z"
   }
 ]
