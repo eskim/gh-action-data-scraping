@@ -150,5 +150,13 @@
     "username": "beautifultiger724",
     "password": "dnsadm",
     "invokedAt": "2021-09-24T18:58:51.028Z"
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Obrien",
+    "email": "andrew.obrien@example.com",
+    "username": "orangeelephant206",
+    "password": "running",
+    "invokedAt": "2021-09-24T19:58:57.447Z"
   }
 ]
