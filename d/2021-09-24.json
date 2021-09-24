@@ -142,5 +142,13 @@
     "username": "happysnake239",
     "password": "williams",
     "invokedAt": "2021-09-24T17:58:50.283Z"
+  },
+  {
+    "firstName": "Nina",
+    "lastName": "Castro",
+    "email": "nina.castro@example.com",
+    "username": "beautifultiger724",
+    "password": "dnsadm",
+    "invokedAt": "2021-09-24T18:58:51.028Z"
   }
 ]
