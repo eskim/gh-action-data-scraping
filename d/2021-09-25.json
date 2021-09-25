@@ -182,5 +182,13 @@
     "username": "redswan696",
     "password": "army",
     "invokedAt": "2021-09-25T22:58:52.036Z"
+  },
+  {
+    "firstName": "Fernando",
+    "lastName": "Ross",
+    "email": "fernando.ross@example.com",
+    "username": "crazycat508",
+    "password": "allsop",
+    "invokedAt": "2021-09-25T23:59:02.595Z"
   }
 ]
