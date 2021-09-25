@@ -134,5 +134,13 @@
     "username": "greenrabbit705",
     "password": "monty1",
     "invokedAt": "2021-09-25T17:07:26.033Z"
+  },
+  {
+    "firstName": "Heinz-Joachim",
+    "lastName": "Hölzer",
+    "email": "heinz-joachim.holzer@example.com",
+    "username": "yellowrabbit894",
+    "password": "boxing",
+    "invokedAt": "2021-09-25T17:59:00.987Z"
   }
 ]
