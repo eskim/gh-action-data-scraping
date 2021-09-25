@@ -94,5 +94,13 @@
     "username": "beautifulsnake265",
     "password": "thedog",
     "invokedAt": "2021-09-25T11:59:00.792Z"
+  },
+  {
+    "firstName": "Afet",
+    "lastName": "Karadaş",
+    "email": "afet.karadas@example.com",
+    "username": "happykoala959",
+    "password": "private",
+    "invokedAt": "2021-09-25T13:08:58.989Z"
   }
 ]
