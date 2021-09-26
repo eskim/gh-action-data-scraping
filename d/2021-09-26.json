@@ -14,5 +14,13 @@
     "username": "orangepeacock360",
     "password": "112358",
     "invokedAt": "2021-09-26T02:17:57.984Z"
+  },
+  {
+    "firstName": "Charlotte",
+    "lastName": "Pearson",
+    "email": "charlotte.pearson@example.com",
+    "username": "biggoose911",
+    "password": "beezer",
+    "invokedAt": "2021-09-26T02:58:52.707Z"
   }
 ]
