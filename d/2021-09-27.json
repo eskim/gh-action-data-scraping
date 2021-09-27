@@ -182,5 +182,13 @@
     "username": "organickoala110",
     "password": "cosmos",
     "invokedAt": "2021-09-27T22:58:58.429Z"
+  },
+  {
+    "firstName": "Diether",
+    "lastName": "Gross",
+    "email": "diether.gross@example.com",
+    "username": "silverbird844",
+    "password": "doogie",
+    "invokedAt": "2021-09-27T23:59:00.866Z"
   }
 ]
