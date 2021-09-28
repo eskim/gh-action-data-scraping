@@ -86,5 +86,13 @@
     "username": "blackbear579",
     "password": "japanese",
     "invokedAt": "2021-09-28T10:58:53.277Z"
+  },
+  {
+    "firstName": "Siiri",
+    "lastName": "Huhtala",
+    "email": "siiri.huhtala@example.com",
+    "username": "lazygorilla729",
+    "password": "gate",
+    "invokedAt": "2021-09-28T11:58:50.881Z"
   }
 ]
