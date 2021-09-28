@@ -158,5 +158,13 @@
     "username": "bluedog581",
     "password": "alliance",
     "invokedAt": "2021-09-28T19:59:06.141Z"
+  },
+  {
+    "firstName": "Akira",
+    "lastName": "Wesselman",
+    "email": "akira.wesselman@example.com",
+    "username": "browntiger594",
+    "password": "angela1",
+    "invokedAt": "2021-09-28T20:58:56.009Z"
   }
 ]
