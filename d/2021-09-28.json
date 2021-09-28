@@ -46,5 +46,13 @@
     "username": "bluerabbit446",
     "password": "packers",
     "invokedAt": "2021-09-28T05:58:48.004Z"
+  },
+  {
+    "firstName": "Bráulio",
+    "lastName": "Aragão",
+    "email": "braulio.aragao@example.com",
+    "username": "silverwolf475",
+    "password": "sucks",
+    "invokedAt": "2021-09-28T06:58:47.640Z"
   }
 ]
