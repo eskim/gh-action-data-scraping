@@ -14,5 +14,13 @@
     "username": "redbird966",
     "password": "cloud",
     "invokedAt": "2021-09-29T02:14:10.049Z"
+  },
+  {
+    "firstName": "Birk",
+    "lastName": "Synnevåg",
+    "email": "birk.synnevag@example.com",
+    "username": "bigbear843",
+    "password": "surgery",
+    "invokedAt": "2021-09-29T02:59:19.673Z"
   }
 ]
