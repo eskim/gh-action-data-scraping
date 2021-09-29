@@ -78,5 +78,13 @@
     "username": "redbutterfly442",
     "password": "doodoo",
     "invokedAt": "2021-09-29T09:58:56.985Z"
+  },
+  {
+    "firstName": "Cristobal",
+    "lastName": "Gimenez",
+    "email": "cristobal.gimenez@example.com",
+    "username": "greenfish906",
+    "password": "reggae",
+    "invokedAt": "2021-09-29T10:58:53.087Z"
   }
 ]
