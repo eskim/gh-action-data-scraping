@@ -174,5 +174,13 @@
     "username": "ticklishcat327",
     "password": "hithere",
     "invokedAt": "2021-09-30T21:58:54.429Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Wade",
+    "email": "amanda.wade@example.com",
+    "username": "orangegorilla258",
+    "password": "fireball",
+    "invokedAt": "2021-09-30T22:59:00.581Z"
   }
 ]
