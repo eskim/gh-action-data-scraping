@@ -102,5 +102,13 @@
     "username": "lazylion780",
     "password": "zombie",
     "invokedAt": "2021-09-30T13:11:13.845Z"
+  },
+  {
+    "firstName": "Matheus",
+    "lastName": "Koehoorn",
+    "email": "matheus.koehoorn@example.com",
+    "username": "organicpeacock780",
+    "password": "maggot",
+    "invokedAt": "2021-09-30T13:59:04.137Z"
   }
 ]
