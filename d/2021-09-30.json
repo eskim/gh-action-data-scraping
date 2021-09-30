@@ -70,5 +70,13 @@
     "username": "sadrabbit983",
     "password": "long",
     "invokedAt": "2021-09-30T08:59:03.653Z"
+  },
+  {
+    "firstName": "Licínio",
+    "lastName": "Freitas",
+    "email": "licinio.freitas@example.com",
+    "username": "smallduck792",
+    "password": "anchor",
+    "invokedAt": "2021-09-30T09:58:55.474Z"
   }
 ]
