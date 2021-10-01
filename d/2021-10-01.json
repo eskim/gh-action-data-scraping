@@ -94,5 +94,13 @@
     "username": "heavytiger862",
     "password": "plane",
     "invokedAt": "2021-10-01T11:58:47.614Z"
+  },
+  {
+    "firstName": "Jens",
+    "lastName": "Clement",
+    "email": "jens.clement@example.com",
+    "username": "silverbutterfly933",
+    "password": "defender",
+    "invokedAt": "2021-10-01T13:10:31.476Z"
   }
 ]
