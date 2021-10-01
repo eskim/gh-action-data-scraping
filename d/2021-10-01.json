@@ -22,5 +22,13 @@
     "username": "redlion909",
     "password": "tonight",
     "invokedAt": "2021-10-01T02:58:51.853Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Yeşilkaya",
+    "email": "babur.yesilkaya@example.com",
+    "username": "purplepeacock921",
+    "password": "racing",
+    "invokedAt": "2021-10-01T03:58:56.282Z"
   }
 ]
