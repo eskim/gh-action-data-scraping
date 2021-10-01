@@ -166,5 +166,13 @@
     "username": "whitewolf778",
     "password": "test1",
     "invokedAt": "2021-10-01T20:59:09.912Z"
+  },
+  {
+    "firstName": "Mathis",
+    "lastName": "Miller",
+    "email": "mathis.miller@example.com",
+    "username": "ticklishbutterfly357",
+    "password": "peepee",
+    "invokedAt": "2021-10-01T21:59:14.031Z"
   }
 ]
