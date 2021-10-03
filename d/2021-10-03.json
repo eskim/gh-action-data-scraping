@@ -94,5 +94,13 @@
     "username": "bluebear912",
     "password": "chanel",
     "invokedAt": "2021-10-03T11:59:08.410Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Jørgensen",
+    "email": "nicklas.jorgensen@example.com",
+    "username": "orangetiger615",
+    "password": "walton",
+    "invokedAt": "2021-10-03T13:08:28.225Z"
   }
 ]
