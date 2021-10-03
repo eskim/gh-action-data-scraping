@@ -142,5 +142,13 @@
     "username": "angryladybug668",
     "password": "mermaid",
     "invokedAt": "2021-10-03T17:58:58.491Z"
+  },
+  {
+    "firstName": "Alberto",
+    "lastName": "Curtis",
+    "email": "alberto.curtis@example.com",
+    "username": "crazyleopard787",
+    "password": "qwer",
+    "invokedAt": "2021-10-03T18:58:53.014Z"
   }
 ]
