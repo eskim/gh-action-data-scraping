@@ -110,5 +110,13 @@
     "username": "greenbird263",
     "password": "deftones",
     "invokedAt": "2021-10-04T13:58:49.971Z"
+  },
+  {
+    "firstName": "Anika",
+    "lastName": "Bell",
+    "email": "anika.bell@example.com",
+    "username": "beautifulzebra725",
+    "password": "tribal",
+    "invokedAt": "2021-10-04T14:59:06.266Z"
   }
 ]
