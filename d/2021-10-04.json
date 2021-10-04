@@ -126,5 +126,13 @@
     "username": "ticklishbear499",
     "password": "tazmania",
     "invokedAt": "2021-10-04T15:58:59.710Z"
+  },
+  {
+    "firstName": "Arquimedes",
+    "lastName": "da Costa",
+    "email": "arquimedes.dacosta@example.com",
+    "username": "tinybear925",
+    "password": "warlord",
+    "invokedAt": "2021-10-04T17:12:03.010Z"
   }
 ]
