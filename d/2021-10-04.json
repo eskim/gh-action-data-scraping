@@ -38,5 +38,13 @@
     "username": "happyzebra585",
     "password": "todd",
     "invokedAt": "2021-10-04T04:59:23.993Z"
+  },
+  {
+    "firstName": "Tássia",
+    "lastName": "da Mota",
+    "email": "tassia.damota@example.com",
+    "username": "purplecat435",
+    "password": "sissy",
+    "invokedAt": "2021-10-04T05:59:10.014Z"
   }
 ]
