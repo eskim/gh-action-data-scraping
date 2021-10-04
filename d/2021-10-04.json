@@ -30,5 +30,13 @@
     "username": "redbear708",
     "password": "foobar",
     "invokedAt": "2021-10-04T03:58:53.363Z"
+  },
+  {
+    "firstName": "الینا",
+    "lastName": "حیدری",
+    "email": "lyn.hydry@example.com",
+    "username": "happyzebra585",
+    "password": "todd",
+    "invokedAt": "2021-10-04T04:59:23.993Z"
   }
 ]
