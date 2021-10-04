@@ -46,5 +46,13 @@
     "username": "purplecat435",
     "password": "sissy",
     "invokedAt": "2021-10-04T05:59:10.014Z"
+  },
+  {
+    "firstName": "Jeanne",
+    "lastName": "Murray",
+    "email": "jeanne.murray@example.com",
+    "username": "ticklishbird654",
+    "password": "wibble",
+    "invokedAt": "2021-10-04T06:58:47.270Z"
   }
 ]
