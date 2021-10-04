@@ -166,5 +166,13 @@
     "username": "angrycat667",
     "password": "glory",
     "invokedAt": "2021-10-04T20:59:13.533Z"
+  },
+  {
+    "firstName": "Mustafa",
+    "lastName": "Yıldızoğlu",
+    "email": "mustafa.yildizoglu@example.com",
+    "username": "blackwolf601",
+    "password": "1967",
+    "invokedAt": "2021-10-04T21:58:52.361Z"
   }
 ]
