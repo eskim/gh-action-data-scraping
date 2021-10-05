@@ -30,5 +30,13 @@
     "username": "bluedog100",
     "password": "2000",
     "invokedAt": "2021-10-05T03:59:00.107Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Koskela",
+    "email": "daniel.koskela@example.com",
+    "username": "goldenladybug919",
+    "password": "pinhead",
+    "invokedAt": "2021-10-05T04:59:30.374Z"
   }
 ]
