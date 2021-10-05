@@ -142,5 +142,13 @@
     "username": "orangebear510",
     "password": "vegitto",
     "invokedAt": "2021-10-05T17:58:57.596Z"
+  },
+  {
+    "firstName": "Meral",
+    "lastName": "Körmükçü",
+    "email": "meral.kormukcu@example.com",
+    "username": "blackcat746",
+    "password": "beans",
+    "invokedAt": "2021-10-05T18:58:48.249Z"
   }
 ]
