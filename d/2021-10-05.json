@@ -126,5 +126,13 @@
     "username": "beautifulrabbit146",
     "password": "theatre",
     "invokedAt": "2021-10-05T16:06:34.305Z"
+  },
+  {
+    "firstName": "Deborah",
+    "lastName": "Kennedy",
+    "email": "deborah.kennedy@example.com",
+    "username": "goldenlion707",
+    "password": "2345",
+    "invokedAt": "2021-10-05T17:09:18.474Z"
   }
 ]
