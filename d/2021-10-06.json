@@ -94,5 +94,13 @@
     "username": "brownladybug102",
     "password": "titanic",
     "invokedAt": "2021-10-06T11:59:14.551Z"
+  },
+  {
+    "firstName": "Armand",
+    "lastName": "Fernandez",
+    "email": "armand.fernandez@example.com",
+    "username": "brownwolf487",
+    "password": "stardust",
+    "invokedAt": "2021-10-06T13:10:32.257Z"
   }
 ]
