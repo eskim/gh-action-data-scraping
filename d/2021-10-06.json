@@ -142,5 +142,13 @@
     "username": "blackpeacock210",
     "password": "drummer1",
     "invokedAt": "2021-10-06T17:58:52.197Z"
+  },
+  {
+    "firstName": "Lieuwe",
+    "lastName": "Van Hattem",
+    "email": "lieuwe.vanhattem@example.com",
+    "username": "redfrog940",
+    "password": "legos",
+    "invokedAt": "2021-10-06T18:58:57.180Z"
   }
 ]
