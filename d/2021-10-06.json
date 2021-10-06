@@ -62,5 +62,13 @@
     "username": "brownzebra812",
     "password": "abacab",
     "invokedAt": "2021-10-06T07:58:56.577Z"
+  },
+  {
+    "firstName": "پارسا",
+    "lastName": "یاسمی",
+    "email": "prs.ysmy@example.com",
+    "username": "angryduck902",
+    "password": "coldbeer",
+    "invokedAt": "2021-10-06T08:59:09.241Z"
   }
 ]
