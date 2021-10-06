@@ -38,5 +38,13 @@
     "username": "heavymeercat759",
     "password": "beefcake",
     "invokedAt": "2021-10-06T04:58:49.965Z"
+  },
+  {
+    "firstName": "Güler",
+    "lastName": "Van den Bos",
+    "email": "guler.vandenbos@example.com",
+    "username": "happymouse987",
+    "password": "stop",
+    "invokedAt": "2021-10-06T05:59:02.054Z"
   }
 ]
