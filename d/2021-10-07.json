@@ -102,5 +102,13 @@
     "username": "orangeswan359",
     "password": "roll",
     "invokedAt": "2021-10-07T13:15:23.940Z"
+  },
+  {
+    "firstName": "زهرا",
+    "lastName": "احمدی",
+    "email": "zhr.hmdy@example.com",
+    "username": "lazyzebra324",
+    "password": "sushi",
+    "invokedAt": "2021-10-07T13:58:54.517Z"
   }
 ]
