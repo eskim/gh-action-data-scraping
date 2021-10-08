@@ -182,5 +182,13 @@
     "username": "beautifulpanda582",
     "password": "smart1",
     "invokedAt": "2021-10-08T22:58:56.852Z"
+  },
+  {
+    "firstName": "Vedat",
+    "lastName": "Koç",
+    "email": "vedat.koc@example.com",
+    "username": "brownpanda191",
+    "password": "trample",
+    "invokedAt": "2021-10-08T23:59:09.142Z"
   }
 ]
