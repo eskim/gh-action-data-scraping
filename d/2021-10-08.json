@@ -118,5 +118,13 @@
     "username": "purpleelephant531",
     "password": "xfiles",
     "invokedAt": "2021-10-08T14:59:03.813Z"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Tucker",
+    "email": "bill.tucker@example.com",
+    "username": "tinyduck289",
+    "password": "dawg",
+    "invokedAt": "2021-10-08T15:58:50.694Z"
   }
 ]
