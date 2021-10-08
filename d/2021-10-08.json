@@ -86,5 +86,13 @@
     "username": "happygorilla800",
     "password": "stocks",
     "invokedAt": "2021-10-08T10:58:56.082Z"
+  },
+  {
+    "firstName": "محمد",
+    "lastName": "سهيلي راد",
+    "email": "mhmd.shylyrd@example.com",
+    "username": "crazyrabbit906",
+    "password": "33333333",
+    "invokedAt": "2021-10-08T11:58:52.959Z"
   }
 ]
