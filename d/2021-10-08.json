@@ -78,5 +78,13 @@
     "username": "happyfish546",
     "password": "spanner",
     "invokedAt": "2021-10-08T09:58:53.916Z"
+  },
+  {
+    "firstName": "Elling",
+    "lastName": "Elden",
+    "email": "elling.elden@example.com",
+    "username": "happygorilla800",
+    "password": "stocks",
+    "invokedAt": "2021-10-08T10:58:56.082Z"
   }
 ]
