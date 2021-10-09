@@ -70,5 +70,13 @@
     "username": "organiccat180",
     "password": "fullmoon",
     "invokedAt": "2021-10-09T08:58:54.982Z"
+  },
+  {
+    "firstName": "Gema",
+    "lastName": "Prieto",
+    "email": "gema.prieto@example.com",
+    "username": "angrylion771",
+    "password": "jump",
+    "invokedAt": "2021-10-09T09:58:52.217Z"
   }
 ]
