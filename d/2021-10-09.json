@@ -94,5 +94,13 @@
     "username": "goldenzebra211",
     "password": "limited",
     "invokedAt": "2021-10-09T11:59:11.294Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Niemela",
+    "email": "vaino.niemela@example.com",
+    "username": "yellowfish390",
+    "password": "tripod",
+    "invokedAt": "2021-10-09T13:08:12.026Z"
   }
 ]
