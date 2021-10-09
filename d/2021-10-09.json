@@ -102,5 +102,13 @@
     "username": "yellowfish390",
     "password": "tripod",
     "invokedAt": "2021-10-09T13:08:12.026Z"
+  },
+  {
+    "firstName": "Hector",
+    "lastName": "Mitchell",
+    "email": "hector.mitchell@example.com",
+    "username": "organicsnake216",
+    "password": "bucket",
+    "invokedAt": "2021-10-09T13:59:05.624Z"
   }
 ]
