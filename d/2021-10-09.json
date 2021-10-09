@@ -142,5 +142,13 @@
     "username": "angrypeacock363",
     "password": "2020",
     "invokedAt": "2021-10-09T17:59:01.987Z"
+  },
+  {
+    "firstName": "Jesus",
+    "lastName": "Doyle",
+    "email": "jesus.doyle@example.com",
+    "username": "angrytiger136",
+    "password": "lightnin",
+    "invokedAt": "2021-10-09T18:59:01.831Z"
   }
 ]
