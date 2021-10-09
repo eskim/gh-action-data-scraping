@@ -166,5 +166,13 @@
     "username": "blackkoala142",
     "password": "larkin",
     "invokedAt": "2021-10-09T20:59:02.458Z"
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Li",
+    "email": "ellie.li@example.com",
+    "username": "heavybear482",
+    "password": "fright",
+    "invokedAt": "2021-10-09T21:59:14.295Z"
   }
 ]
