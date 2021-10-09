@@ -182,5 +182,13 @@
     "username": "bigpeacock309",
     "password": "kisskiss",
     "invokedAt": "2021-10-09T22:59:13.792Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Heinonen",
+    "email": "arttu.heinonen@example.com",
+    "username": "bigpanda746",
+    "password": "western",
+    "invokedAt": "2021-10-09T23:59:19.205Z"
   }
 ]
