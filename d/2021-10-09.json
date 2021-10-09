@@ -110,5 +110,13 @@
     "username": "organicsnake216",
     "password": "bucket",
     "invokedAt": "2021-10-09T13:59:05.624Z"
+  },
+  {
+    "firstName": "Armando",
+    "lastName": "Lynch",
+    "email": "armando.lynch@example.com",
+    "username": "whitemouse563",
+    "password": "frogman",
+    "invokedAt": "2021-10-09T14:59:00.701Z"
   }
 ]
