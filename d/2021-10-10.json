@@ -102,5 +102,13 @@
     "username": "sadostrich488",
     "password": "buzzard",
     "invokedAt": "2021-10-10T13:08:15.292Z"
+  },
+  {
+    "firstName": "Timothee",
+    "lastName": "Lefebvre",
+    "email": "timothee.lefebvre@example.com",
+    "username": "bluetiger168",
+    "password": "transam",
+    "invokedAt": "2021-10-10T13:59:13.107Z"
   }
 ]
