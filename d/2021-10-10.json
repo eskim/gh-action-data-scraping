@@ -110,5 +110,13 @@
     "username": "bluetiger168",
     "password": "transam",
     "invokedAt": "2021-10-10T13:59:13.107Z"
+  },
+  {
+    "firstName": "Ilyas",
+    "lastName": "Kaur",
+    "email": "ilyas.kaur@example.com",
+    "username": "lazygoose170",
+    "password": "fireblad",
+    "invokedAt": "2021-10-10T14:58:52.273Z"
   }
 ]
