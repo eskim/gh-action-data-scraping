@@ -38,5 +38,13 @@
     "username": "greenfrog225",
     "password": "satan666",
     "invokedAt": "2021-10-10T04:58:54.963Z"
+  },
+  {
+    "firstName": "Fatma",
+    "lastName": "Topaloğlu",
+    "email": "fatma.topaloglu@example.com",
+    "username": "blackcat915",
+    "password": "heng",
+    "invokedAt": "2021-10-10T05:59:17.567Z"
   }
 ]
