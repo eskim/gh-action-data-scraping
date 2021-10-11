@@ -54,5 +54,13 @@
     "username": "whiteleopard304",
     "password": "alpha",
     "invokedAt": "2021-10-11T06:58:55.176Z"
+  },
+  {
+    "firstName": "Jayden",
+    "lastName": "Johnson",
+    "email": "jayden.johnson@example.com",
+    "username": "blueostrich716",
+    "password": "gemini",
+    "invokedAt": "2021-10-11T07:59:07.573Z"
   }
 ]
