@@ -22,5 +22,13 @@
     "username": "beautifulmeercat782",
     "password": "warcraft",
     "invokedAt": "2021-10-11T02:58:50.213Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Payne",
+    "email": "robin.payne@example.com",
+    "username": "heavyfrog396",
+    "password": "stick",
+    "invokedAt": "2021-10-11T03:59:14.180Z"
   }
 ]
