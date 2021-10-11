@@ -182,5 +182,13 @@
     "username": "ticklishfish764",
     "password": "state",
     "invokedAt": "2021-10-11T22:58:57.819Z"
+  },
+  {
+    "firstName": "Noélie",
+    "lastName": "Masson",
+    "email": "noelie.masson@example.com",
+    "username": "crazysnake318",
+    "password": "cayman",
+    "invokedAt": "2021-10-11T23:58:56.000Z"
   }
 ]
