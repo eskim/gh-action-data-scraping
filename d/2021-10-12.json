@@ -86,5 +86,13 @@
     "username": "organicduck221",
     "password": "toonarmy",
     "invokedAt": "2021-10-12T10:59:10.982Z"
+  },
+  {
+    "firstName": "Kaja",
+    "lastName": "Veninga",
+    "email": "kaja.veninga@example.com",
+    "username": "goldenrabbit500",
+    "password": "redwings",
+    "invokedAt": "2021-10-12T11:59:17.038Z"
   }
 ]
