@@ -166,5 +166,13 @@
     "username": "purplebear870",
     "password": "piercing",
     "invokedAt": "2021-10-12T20:58:52.580Z"
+  },
+  {
+    "firstName": "Natalie",
+    "lastName": "Jackson",
+    "email": "natalie.jackson@example.com",
+    "username": "bigfish443",
+    "password": "beat",
+    "invokedAt": "2021-10-12T21:58:54.761Z"
   }
 ]
