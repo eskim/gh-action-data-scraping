@@ -70,5 +70,13 @@
     "username": "smallsnake133",
     "password": "spoons",
     "invokedAt": "2021-10-12T08:58:52.783Z"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Cunningham",
+    "email": "grace.cunningham@example.com",
+    "username": "organicdog908",
+    "password": "1124",
+    "invokedAt": "2021-10-12T09:58:52.529Z"
   }
 ]
