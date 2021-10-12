@@ -38,5 +38,13 @@
     "username": "redswan275",
     "password": "aikido",
     "invokedAt": "2021-10-12T04:59:04.240Z"
+  },
+  {
+    "firstName": "Ayla",
+    "lastName": "Harris",
+    "email": "ayla.harris@example.com",
+    "username": "crazyleopard284",
+    "password": "gatorade",
+    "invokedAt": "2021-10-12T05:59:12.969Z"
   }
 ]
