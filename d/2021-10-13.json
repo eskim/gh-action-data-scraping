@@ -94,5 +94,13 @@
     "username": "yellowwolf575",
     "password": "timeout",
     "invokedAt": "2021-10-13T11:58:51.573Z"
+  },
+  {
+    "firstName": "Brynjar",
+    "lastName": "Brodahl",
+    "email": "brynjar.brodahl@example.com",
+    "username": "browngorilla681",
+    "password": "jenkins",
+    "invokedAt": "2021-10-13T13:10:26.807Z"
   }
 ]
