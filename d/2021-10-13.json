@@ -70,5 +70,13 @@
     "username": "purplebear323",
     "password": "horse",
     "invokedAt": "2021-10-13T08:58:57.638Z"
+  },
+  {
+    "firstName": "Heinz-Günter",
+    "lastName": "Zellner",
+    "email": "heinz-gunter.zellner@example.com",
+    "username": "goldenelephant291",
+    "password": "solitude",
+    "invokedAt": "2021-10-13T09:59:11.285Z"
   }
 ]
