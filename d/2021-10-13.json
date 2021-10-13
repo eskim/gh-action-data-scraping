@@ -86,5 +86,13 @@
     "username": "crazymouse260",
     "password": "freeway",
     "invokedAt": "2021-10-13T10:58:53.858Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Kalas",
+    "email": "daniel.kalas@example.com",
+    "username": "yellowwolf575",
+    "password": "timeout",
+    "invokedAt": "2021-10-13T11:58:51.573Z"
   }
 ]
