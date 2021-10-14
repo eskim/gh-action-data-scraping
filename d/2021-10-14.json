@@ -22,5 +22,13 @@
     "username": "beautifulmouse140",
     "password": "sammie",
     "invokedAt": "2021-10-14T02:58:50.004Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Langhammer",
+    "email": "jacob.langhammer@example.com",
+    "username": "tinywolf931",
+    "password": "dnsadm",
+    "invokedAt": "2021-10-14T03:58:46.902Z"
   }
 ]
