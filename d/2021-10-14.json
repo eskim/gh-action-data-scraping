@@ -38,5 +38,13 @@
     "username": "bluetiger483",
     "password": "buddah",
     "invokedAt": "2021-10-14T04:59:08.684Z"
+  },
+  {
+    "firstName": "Mikal",
+    "lastName": "Høgås",
+    "email": "mikal.hogas@example.com",
+    "username": "ticklishduck489",
+    "password": "golfing",
+    "invokedAt": "2021-10-14T05:59:05.053Z"
   }
 ]
