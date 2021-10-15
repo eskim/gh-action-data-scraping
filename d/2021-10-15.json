@@ -126,5 +126,13 @@
     "username": "bluebird469",
     "password": "southpark",
     "invokedAt": "2021-10-15T15:58:55.533Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Lavigne",
+    "email": "blake.lavigne@example.com",
+    "username": "yellowdog734",
+    "password": "753951",
+    "invokedAt": "2021-10-15T17:09:02.610Z"
   }
 ]
