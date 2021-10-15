@@ -182,5 +182,13 @@
     "username": "happylion643",
     "password": "force",
     "invokedAt": "2021-10-15T22:59:00.292Z"
+  },
+  {
+    "firstName": "Nicole",
+    "lastName": "Silva",
+    "email": "nicole.silva@example.com",
+    "username": "purplefrog926",
+    "password": "smithers",
+    "invokedAt": "2021-10-15T23:59:02.890Z"
   }
 ]
