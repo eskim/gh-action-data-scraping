@@ -174,5 +174,13 @@
     "username": "tinymouse873",
     "password": "linkin",
     "invokedAt": "2021-10-15T21:59:08.651Z"
+  },
+  {
+    "firstName": "Sanni",
+    "lastName": "Kumpula",
+    "email": "sanni.kumpula@example.com",
+    "username": "happylion643",
+    "password": "force",
+    "invokedAt": "2021-10-15T22:59:00.292Z"
   }
 ]
