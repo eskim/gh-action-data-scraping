@@ -166,5 +166,13 @@
     "username": "heavypanda214",
     "password": "donna",
     "invokedAt": "2021-10-15T20:59:01.953Z"
+  },
+  {
+    "firstName": "Kenan",
+    "lastName": "Çetiner",
+    "email": "kenan.cetiner@example.com",
+    "username": "tinymouse873",
+    "password": "linkin",
+    "invokedAt": "2021-10-15T21:59:08.651Z"
   }
 ]
