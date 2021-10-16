@@ -174,5 +174,13 @@
     "username": "angrybutterfly438",
     "password": "7779311",
     "invokedAt": "2021-10-16T21:59:22.668Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Barbarosoğlu",
+    "email": "gokhan.barbarosoglu@example.com",
+    "username": "bigzebra896",
+    "password": "loveyou",
+    "invokedAt": "2021-10-16T22:58:58.686Z"
   }
 ]
