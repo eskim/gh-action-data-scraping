@@ -94,5 +94,13 @@
     "username": "lazyladybug878",
     "password": "lexingky",
     "invokedAt": "2021-10-16T11:59:01.258Z"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Shelton",
+    "email": "tony.shelton@example.com",
+    "username": "organicgoose200",
+    "password": "wyoming",
+    "invokedAt": "2021-10-16T13:08:24.076Z"
   }
 ]
