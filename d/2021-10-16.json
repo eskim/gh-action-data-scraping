@@ -54,5 +54,13 @@
     "username": "happygoose477",
     "password": "conover",
     "invokedAt": "2021-10-16T06:58:57.805Z"
+  },
+  {
+    "firstName": "بهار",
+    "lastName": "مرادی",
+    "email": "bhr.mrdy@example.com",
+    "username": "goldendog273",
+    "password": "cheech",
+    "invokedAt": "2021-10-16T07:59:15.313Z"
   }
 ]
