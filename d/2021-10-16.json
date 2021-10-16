@@ -14,5 +14,13 @@
     "username": "smallduck478",
     "password": "football",
     "invokedAt": "2021-10-16T02:27:42.418Z"
+  },
+  {
+    "firstName": "Peppi",
+    "lastName": "Korhonen",
+    "email": "peppi.korhonen@example.com",
+    "username": "goldengorilla116",
+    "password": "barkley",
+    "invokedAt": "2021-10-16T02:58:53.515Z"
   }
 ]
