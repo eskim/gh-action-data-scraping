@@ -158,5 +158,13 @@
     "username": "brownleopard199",
     "password": "fenway",
     "invokedAt": "2021-10-16T19:58:52.413Z"
+  },
+  {
+    "firstName": "Carol",
+    "lastName": "Bryant",
+    "email": "carol.bryant@example.com",
+    "username": "greenzebra875",
+    "password": "simpsons",
+    "invokedAt": "2021-10-16T20:58:51.653Z"
   }
 ]
