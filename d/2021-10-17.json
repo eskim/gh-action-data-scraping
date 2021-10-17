@@ -86,5 +86,13 @@
     "username": "bluebird178",
     "password": "binladen",
     "invokedAt": "2021-10-17T10:59:07.471Z"
+  },
+  {
+    "firstName": "Roselaine",
+    "lastName": "Peixoto",
+    "email": "roselaine.peixoto@example.com",
+    "username": "brownladybug689",
+    "password": "reggae",
+    "invokedAt": "2021-10-17T11:59:04.620Z"
   }
 ]
