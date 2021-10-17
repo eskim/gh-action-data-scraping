@@ -142,5 +142,13 @@
     "username": "biggoose130",
     "password": "recovery",
     "invokedAt": "2021-10-17T17:59:00.124Z"
+  },
+  {
+    "firstName": "Norah",
+    "lastName": "Guillaume",
+    "email": "norah.guillaume@example.com",
+    "username": "lazyswan280",
+    "password": "banshee",
+    "invokedAt": "2021-10-17T18:58:56.805Z"
   }
 ]
