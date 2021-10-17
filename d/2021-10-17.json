@@ -102,5 +102,13 @@
     "username": "happywolf378",
     "password": "tupac",
     "invokedAt": "2021-10-17T13:09:18.103Z"
+  },
+  {
+    "firstName": "Kaïs",
+    "lastName": "Brun",
+    "email": "kais.brun@example.com",
+    "username": "purplezebra201",
+    "password": "freak",
+    "invokedAt": "2021-10-17T13:58:52.511Z"
   }
 ]
