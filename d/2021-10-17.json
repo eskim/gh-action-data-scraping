@@ -62,5 +62,13 @@
     "username": "tinyzebra517",
     "password": "milk",
     "invokedAt": "2021-10-17T07:59:09.051Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Dupont",
+    "email": "julie.dupont@example.com",
+    "username": "smallpanda620",
+    "password": "railroad",
+    "invokedAt": "2021-10-17T08:59:04.983Z"
   }
 ]
