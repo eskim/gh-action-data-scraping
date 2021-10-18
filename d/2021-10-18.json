@@ -78,5 +78,13 @@
     "username": "goldendog233",
     "password": "gang",
     "invokedAt": "2021-10-18T10:58:52.374Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Caballero",
+    "email": "samuel.caballero@example.com",
+    "username": "blackgorilla547",
+    "password": "january",
+    "invokedAt": "2021-10-18T11:58:58.697Z"
   }
 ]
