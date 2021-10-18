@@ -110,5 +110,13 @@
     "username": "organicbird644",
     "password": "emmett",
     "invokedAt": "2021-10-18T15:00:12.631Z"
+  },
+  {
+    "firstName": "Kristine",
+    "lastName": "Mehner",
+    "email": "kristine.mehner@example.com",
+    "username": "organicmouse781",
+    "password": "sugar",
+    "invokedAt": "2021-10-18T15:58:52.150Z"
   }
 ]
