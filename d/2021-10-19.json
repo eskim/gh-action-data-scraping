@@ -14,5 +14,13 @@
     "username": "redpanda608",
     "password": "airborne",
     "invokedAt": "2021-10-19T02:21:25.360Z"
+  },
+  {
+    "firstName": "Haley",
+    "lastName": "Van der West",
+    "email": "haley.vanderwest@example.com",
+    "username": "ticklishswan522",
+    "password": "spartans",
+    "invokedAt": "2021-10-19T02:58:55.241Z"
   }
 ]
