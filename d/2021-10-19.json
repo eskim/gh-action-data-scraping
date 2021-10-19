@@ -78,5 +78,13 @@
     "username": "crazybear237",
     "password": "caster",
     "invokedAt": "2021-10-19T09:58:57.087Z"
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Dean",
+    "email": "ava.dean@example.com",
+    "username": "brownelephant668",
+    "password": "swordfis",
+    "invokedAt": "2021-10-19T10:59:00.519Z"
   }
 ]
