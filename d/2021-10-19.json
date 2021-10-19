@@ -46,5 +46,13 @@
     "username": "brownrabbit889",
     "password": "borders",
     "invokedAt": "2021-10-19T05:59:06.779Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Patel",
+    "email": "ethan.patel@example.com",
+    "username": "ticklishwolf355",
+    "password": "abstr",
+    "invokedAt": "2021-10-19T06:58:58.044Z"
   }
 ]
