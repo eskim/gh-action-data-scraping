@@ -70,5 +70,13 @@
     "username": "goldenleopard334",
     "password": "pictuers",
     "invokedAt": "2021-10-19T08:59:05.403Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Macdonald",
+    "email": "charlie.macdonald@example.com",
+    "username": "crazybear237",
+    "password": "caster",
+    "invokedAt": "2021-10-19T09:58:57.087Z"
   }
 ]
