@@ -174,5 +174,13 @@
     "username": "organicgoose208",
     "password": "mordor",
     "invokedAt": "2021-10-20T21:59:12.595Z"
+  },
+  {
+    "firstName": "Izzie",
+    "lastName": "Burton",
+    "email": "izzie.burton@example.com",
+    "username": "silverswan549",
+    "password": "goldstar",
+    "invokedAt": "2021-10-20T22:58:55.268Z"
   }
 ]
