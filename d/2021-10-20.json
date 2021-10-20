@@ -126,5 +126,13 @@
     "username": "brownzebra219",
     "password": "backbone",
     "invokedAt": "2021-10-20T15:59:02.303Z"
+  },
+  {
+    "firstName": "Kaya",
+    "lastName": "Ayaydın",
+    "email": "kaya.ayaydin@example.com",
+    "username": "yellowfish660",
+    "password": "smokin",
+    "invokedAt": "2021-10-20T17:10:09.346Z"
   }
 ]
