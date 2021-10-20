@@ -118,5 +118,13 @@
     "username": "silverwolf864",
     "password": "nick",
     "invokedAt": "2021-10-20T14:59:09.001Z"
+  },
+  {
+    "firstName": "Josefina",
+    "lastName": "Diaz",
+    "email": "josefina.diaz@example.com",
+    "username": "brownzebra219",
+    "password": "backbone",
+    "invokedAt": "2021-10-20T15:59:02.303Z"
   }
 ]
