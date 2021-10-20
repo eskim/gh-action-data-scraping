@@ -134,5 +134,13 @@
     "username": "yellowfish660",
     "password": "smokin",
     "invokedAt": "2021-10-20T17:10:09.346Z"
+  },
+  {
+    "firstName": "Lorenzo",
+    "lastName": "Moulin",
+    "email": "lorenzo.moulin@example.com",
+    "username": "yellowmeercat335",
+    "password": "acidburn",
+    "invokedAt": "2021-10-20T17:59:09.159Z"
   }
 ]
