@@ -70,5 +70,13 @@
     "username": "silverbutterfly483",
     "password": "labtec",
     "invokedAt": "2021-10-21T09:59:16.939Z"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Fechner",
+    "email": "sophia.fechner@example.com",
+    "username": "goldensnake353",
+    "password": "wildcard",
+    "invokedAt": "2021-10-21T10:58:53.319Z"
   }
 ]
