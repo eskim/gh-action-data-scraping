@@ -126,5 +126,13 @@
     "username": "angrybutterfly533",
     "password": "safari",
     "invokedAt": "2021-10-21T17:14:10.263Z"
+  },
+  {
+    "firstName": "Javier",
+    "lastName": "Rolland",
+    "email": "javier.rolland@example.com",
+    "username": "blackgorilla694",
+    "password": "7007",
+    "invokedAt": "2021-10-21T17:58:57.444Z"
   }
 ]
