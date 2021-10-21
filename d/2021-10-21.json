@@ -46,5 +46,13 @@
     "username": "crazyrabbit686",
     "password": "nuan",
     "invokedAt": "2021-10-21T06:59:04.940Z"
+  },
+  {
+    "firstName": "Vikram",
+    "lastName": "Van der Nat",
+    "email": "vikram.vandernat@example.com",
+    "username": "yellowfrog520",
+    "password": "jane",
+    "invokedAt": "2021-10-21T07:58:57.942Z"
   }
 ]
