@@ -70,5 +70,13 @@
     "username": "brownpeacock864",
     "password": "harvard",
     "invokedAt": "2021-10-22T09:59:11.693Z"
+  },
+  {
+    "firstName": "Faith",
+    "lastName": "Flores",
+    "email": "faith.flores@example.com",
+    "username": "ticklishbird475",
+    "password": "grandma",
+    "invokedAt": "2021-10-22T10:58:54.058Z"
   }
 ]
