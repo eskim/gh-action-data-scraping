@@ -54,5 +54,13 @@
     "username": "organiczebra704",
     "password": "buzz",
     "invokedAt": "2021-10-22T07:58:55.799Z"
+  },
+  {
+    "firstName": "Pauline",
+    "lastName": "Lacroix",
+    "email": "pauline.lacroix@example.com",
+    "username": "bigsnake630",
+    "password": "magellan",
+    "invokedAt": "2021-10-22T08:58:55.686Z"
   }
 ]
