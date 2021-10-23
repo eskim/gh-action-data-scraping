@@ -118,5 +118,13 @@
     "username": "browngorilla513",
     "password": "girfriend",
     "invokedAt": "2021-10-23T14:59:01.814Z"
+  },
+  {
+    "firstName": "Emile",
+    "lastName": "Claire",
+    "email": "emile.claire@example.com",
+    "username": "bigswan174",
+    "password": "newpass6",
+    "invokedAt": "2021-10-23T15:58:50.274Z"
   }
 ]
