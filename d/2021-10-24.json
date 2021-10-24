@@ -118,5 +118,13 @@
     "username": "beautifulfrog748",
     "password": "gobears",
     "invokedAt": "2021-10-24T14:58:53.771Z"
+  },
+  {
+    "firstName": "Alma",
+    "lastName": "Christensen",
+    "email": "alma.christensen@example.com",
+    "username": "greenladybug255",
+    "password": "chapman",
+    "invokedAt": "2021-10-24T15:59:14.594Z"
   }
 ]
