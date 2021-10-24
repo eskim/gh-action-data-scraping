@@ -166,5 +166,13 @@
     "username": "heavylion360",
     "password": "jones1",
     "invokedAt": "2021-10-24T20:59:15.501Z"
+  },
+  {
+    "firstName": "Dora",
+    "lastName": "Vasquez",
+    "email": "dora.vasquez@example.com",
+    "username": "whiteostrich270",
+    "password": "striker",
+    "invokedAt": "2021-10-24T21:59:09.512Z"
   }
 ]
