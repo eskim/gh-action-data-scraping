@@ -110,5 +110,13 @@
     "username": "crazybear613",
     "password": "bungle",
     "invokedAt": "2021-10-24T13:58:55.820Z"
+  },
+  {
+    "firstName": "Warren",
+    "lastName": "Harper",
+    "email": "warren.harper@example.com",
+    "username": "beautifulfrog748",
+    "password": "gobears",
+    "invokedAt": "2021-10-24T14:58:53.771Z"
   }
 ]
