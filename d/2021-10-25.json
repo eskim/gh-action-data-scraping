@@ -86,5 +86,13 @@
     "username": "redostrich902",
     "password": "worthy",
     "invokedAt": "2021-10-25T10:58:54.145Z"
+  },
+  {
+    "firstName": "Murat",
+    "lastName": "Ayaydın",
+    "email": "murat.ayaydin@example.com",
+    "username": "silverduck239",
+    "password": "butts",
+    "invokedAt": "2021-10-25T11:58:54.091Z"
   }
 ]
