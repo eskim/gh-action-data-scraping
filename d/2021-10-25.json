@@ -46,5 +46,13 @@
     "username": "brownmouse318",
     "password": "hover",
     "invokedAt": "2021-10-25T05:58:50.344Z"
+  },
+  {
+    "firstName": "Irma",
+    "lastName": "da Conceição",
+    "email": "irma.daconceicao@example.com",
+    "username": "browntiger815",
+    "password": "hoosier",
+    "invokedAt": "2021-10-25T06:58:59.895Z"
   }
 ]
