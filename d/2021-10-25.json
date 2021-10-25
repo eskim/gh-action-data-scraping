@@ -54,5 +54,13 @@
     "username": "browntiger815",
     "password": "hoosier",
     "invokedAt": "2021-10-25T06:58:59.895Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Taşçı",
+    "email": "afsar.tasci@example.com",
+    "username": "silvergoose634",
+    "password": "727272",
+    "invokedAt": "2021-10-25T07:58:58.072Z"
   }
 ]
