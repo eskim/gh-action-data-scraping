@@ -134,5 +134,13 @@
     "username": "bigleopard875",
     "password": "page",
     "invokedAt": "2021-10-25T17:09:26.042Z"
+  },
+  {
+    "firstName": "Lourina",
+    "lastName": "Van Stekelenburg",
+    "email": "lourina.vanstekelenburg@example.com",
+    "username": "silvercat813",
+    "password": "harper",
+    "invokedAt": "2021-10-25T17:59:12.317Z"
   }
 ]
