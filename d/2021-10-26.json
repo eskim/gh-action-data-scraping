@@ -174,5 +174,13 @@
     "username": "beautifultiger216",
     "password": "monarch",
     "invokedAt": "2021-10-26T21:58:49.498Z"
+  },
+  {
+    "firstName": "Alette",
+    "lastName": "Hatland",
+    "email": "alette.hatland@example.com",
+    "username": "goldengorilla210",
+    "password": "citizen",
+    "invokedAt": "2021-10-26T22:59:15.463Z"
   }
 ]
