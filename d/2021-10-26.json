@@ -134,5 +134,13 @@
     "username": "goldenswan159",
     "password": "admin1",
     "invokedAt": "2021-10-26T17:09:34.596Z"
+  },
+  {
+    "firstName": "Karla",
+    "lastName": "Jørgensen",
+    "email": "karla.jorgensen@example.com",
+    "username": "heavyfish837",
+    "password": "lesbians",
+    "invokedAt": "2021-10-26T17:59:13.766Z"
   }
 ]
