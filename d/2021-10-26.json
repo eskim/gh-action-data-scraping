@@ -126,5 +126,13 @@
     "username": "organicswan828",
     "password": "fitter",
     "invokedAt": "2021-10-26T15:59:01.922Z"
+  },
+  {
+    "firstName": "Malou",
+    "lastName": "Madsen",
+    "email": "malou.madsen@example.com",
+    "username": "goldenswan159",
+    "password": "admin1",
+    "invokedAt": "2021-10-26T17:09:34.596Z"
   }
 ]
