@@ -110,5 +110,13 @@
     "username": "brownpeacock658",
     "password": "water",
     "invokedAt": "2021-10-26T14:00:09.620Z"
+  },
+  {
+    "firstName": "Luzie",
+    "lastName": "Traub",
+    "email": "luzie.traub@example.com",
+    "username": "purpleleopard998",
+    "password": "yahooo",
+    "invokedAt": "2021-10-26T14:59:20.895Z"
   }
 ]
