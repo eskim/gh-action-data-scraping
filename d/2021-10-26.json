@@ -166,5 +166,13 @@
     "username": "goldenbird264",
     "password": "lipstick",
     "invokedAt": "2021-10-26T20:59:06.646Z"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Bonnet",
+    "email": "jordan.bonnet@example.com",
+    "username": "beautifultiger216",
+    "password": "monarch",
+    "invokedAt": "2021-10-26T21:58:49.498Z"
   }
 ]
