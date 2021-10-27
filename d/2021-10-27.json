@@ -94,5 +94,13 @@
     "username": "angrybear651",
     "password": "blackcat",
     "invokedAt": "2021-10-27T11:59:08.419Z"
+  },
+  {
+    "firstName": "Cian",
+    "lastName": "Mandemaker",
+    "email": "cian.mandemaker@example.com",
+    "username": "purplelion763",
+    "password": "banger",
+    "invokedAt": "2021-10-27T13:11:18.547Z"
   }
 ]
