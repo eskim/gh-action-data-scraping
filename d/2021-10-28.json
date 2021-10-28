@@ -142,5 +142,13 @@
     "username": "blueswan685",
     "password": "barron",
     "invokedAt": "2021-10-28T17:59:02.552Z"
+  },
+  {
+    "firstName": "Robrecht",
+    "lastName": "Kerstens",
+    "email": "robrecht.kerstens@example.com",
+    "username": "ticklishswan727",
+    "password": "purple",
+    "invokedAt": "2021-10-28T18:59:08.180Z"
   }
 ]
