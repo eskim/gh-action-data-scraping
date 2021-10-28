@@ -134,5 +134,13 @@
     "username": "silvermeercat940",
     "password": "sidekick",
     "invokedAt": "2021-10-28T17:09:06.739Z"
+  },
+  {
+    "firstName": "Diane",
+    "lastName": "Van den Herik",
+    "email": "diane.vandenherik@example.com",
+    "username": "blueswan685",
+    "password": "barron",
+    "invokedAt": "2021-10-28T17:59:02.552Z"
   }
 ]
