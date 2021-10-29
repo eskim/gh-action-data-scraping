@@ -134,5 +134,13 @@
     "username": "goldenbutterfly547",
     "password": "nuclear",
     "invokedAt": "2021-10-29T17:07:59.180Z"
+  },
+  {
+    "firstName": "Wolf-Dieter",
+    "lastName": "Feldhaus",
+    "email": "wolf-dieter.feldhaus@example.com",
+    "username": "bigcat304",
+    "password": "helene",
+    "invokedAt": "2021-10-29T17:58:55.381Z"
   }
 ]
