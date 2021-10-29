@@ -86,5 +86,13 @@
     "username": "tinykoala354",
     "password": "maria",
     "invokedAt": "2021-10-29T10:59:19.018Z"
+  },
+  {
+    "firstName": "Esat",
+    "lastName": "Sepetçi",
+    "email": "esat.sepetci@example.com",
+    "username": "orangekoala360",
+    "password": "hedgehog",
+    "invokedAt": "2021-10-29T11:59:10.154Z"
   }
 ]
