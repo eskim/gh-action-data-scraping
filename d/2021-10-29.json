@@ -22,5 +22,13 @@
     "username": "tinycat725",
     "password": "smith",
     "invokedAt": "2021-10-29T02:58:48.717Z"
+  },
+  {
+    "firstName": "مهدي",
+    "lastName": "علیزاده",
+    "email": "mhdy.aalyzdh@example.com",
+    "username": "heavytiger897",
+    "password": "gundam",
+    "invokedAt": "2021-10-29T03:58:51.081Z"
   }
 ]
