@@ -94,5 +94,13 @@
     "username": "orangekoala360",
     "password": "hedgehog",
     "invokedAt": "2021-10-29T11:59:10.154Z"
+  },
+  {
+    "firstName": "Keira",
+    "lastName": "Brown",
+    "email": "keira.brown@example.com",
+    "username": "biggoose705",
+    "password": "kiki",
+    "invokedAt": "2021-10-29T13:11:13.692Z"
   }
 ]
