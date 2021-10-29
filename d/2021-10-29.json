@@ -70,5 +70,13 @@
     "username": "whitesnake106",
     "password": "bcfields",
     "invokedAt": "2021-10-29T08:58:48.683Z"
+  },
+  {
+    "firstName": "Estevão",
+    "lastName": "da Costa",
+    "email": "estevao.dacosta@example.com",
+    "username": "happyostrich647",
+    "password": "pianoman",
+    "invokedAt": "2021-10-29T09:59:12.236Z"
   }
 ]
