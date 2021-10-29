@@ -142,5 +142,13 @@
     "username": "bigcat304",
     "password": "helene",
     "invokedAt": "2021-10-29T17:58:55.381Z"
+  },
+  {
+    "firstName": "اميرحسين",
+    "lastName": "حسینی",
+    "email": "myrhsyn.hsyny@example.com",
+    "username": "whitewolf327",
+    "password": "a1b2c3",
+    "invokedAt": "2021-10-29T18:58:52.149Z"
   }
 ]
