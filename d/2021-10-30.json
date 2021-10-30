@@ -166,5 +166,13 @@
     "username": "lazybutterfly195",
     "password": "delete",
     "invokedAt": "2021-10-30T20:58:53.148Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Köppen",
+    "email": "edward.koppen@example.com",
+    "username": "angryleopard831",
+    "password": "momomo",
+    "invokedAt": "2021-10-30T21:59:12.713Z"
   }
 ]
