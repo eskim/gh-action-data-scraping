@@ -142,5 +142,13 @@
     "username": "crazymeercat672",
     "password": "seymour",
     "invokedAt": "2021-10-30T17:58:49.118Z"
+  },
+  {
+    "firstName": "Clarence",
+    "lastName": "Sims",
+    "email": "clarence.sims@example.com",
+    "username": "greenbird106",
+    "password": "pointer",
+    "invokedAt": "2021-10-30T18:58:56.778Z"
   }
 ]
