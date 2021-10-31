@@ -174,5 +174,13 @@
     "username": "blueelephant758",
     "password": "olivia",
     "invokedAt": "2021-10-31T21:59:16.450Z"
+  },
+  {
+    "firstName": "Ceyhan",
+    "lastName": "Körmükçü",
+    "email": "ceyhan.kormukcu@example.com",
+    "username": "tinygorilla380",
+    "password": "ghost1",
+    "invokedAt": "2021-10-31T22:58:48.037Z"
   }
 ]
