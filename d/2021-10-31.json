@@ -166,5 +166,13 @@
     "username": "brownmeercat736",
     "password": "mykids",
     "invokedAt": "2021-10-31T20:58:56.126Z"
+  },
+  {
+    "firstName": "Konrad",
+    "lastName": "Nyvoll",
+    "email": "konrad.nyvoll@example.com",
+    "username": "blueelephant758",
+    "password": "olivia",
+    "invokedAt": "2021-10-31T21:59:16.450Z"
   }
 ]
