@@ -38,5 +38,13 @@
     "username": "goldenpanda715",
     "password": "arizona",
     "invokedAt": "2021-10-31T04:59:34.509Z"
+  },
+  {
+    "firstName": "Shane",
+    "lastName": "Bennett",
+    "email": "shane.bennett@example.com",
+    "username": "organiczebra329",
+    "password": "record",
+    "invokedAt": "2021-10-31T05:58:48.640Z"
   }
 ]
