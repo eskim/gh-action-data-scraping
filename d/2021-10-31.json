@@ -158,5 +158,13 @@
     "username": "ticklishbutterfly731",
     "password": "route66",
     "invokedAt": "2021-10-31T19:58:54.312Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Gibson",
+    "email": "henry.gibson@example.com",
+    "username": "brownmeercat736",
+    "password": "mykids",
+    "invokedAt": "2021-10-31T20:58:56.126Z"
   }
 ]
