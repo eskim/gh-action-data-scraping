@@ -134,5 +134,13 @@
     "username": "goldenelephant575",
     "password": "raining",
     "invokedAt": "2021-11-01T17:13:22.638Z"
+  },
+  {
+    "firstName": "امیر",
+    "lastName": "گلشن",
+    "email": "myr.glshn@example.com",
+    "username": "crazywolf118",
+    "password": "triple",
+    "invokedAt": "2021-11-01T17:58:50.586Z"
   }
 ]
