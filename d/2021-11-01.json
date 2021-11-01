@@ -86,5 +86,13 @@
     "username": "organicwolf836",
     "password": "deeper",
     "invokedAt": "2021-11-01T10:58:52.460Z"
+  },
+  {
+    "firstName": "Emilie",
+    "lastName": "Christensen",
+    "email": "emilie.christensen@example.com",
+    "username": "bluebear285",
+    "password": "wildcat",
+    "invokedAt": "2021-11-01T11:58:57.689Z"
   }
 ]
