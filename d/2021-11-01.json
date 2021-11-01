@@ -174,5 +174,13 @@
     "username": "greenpeacock260",
     "password": "laetitia",
     "invokedAt": "2021-11-01T21:58:59.249Z"
+  },
+  {
+    "firstName": "Vårin",
+    "lastName": "Vonheim",
+    "email": "varin.vonheim@example.com",
+    "username": "sadbutterfly682",
+    "password": "pants",
+    "invokedAt": "2021-11-01T22:58:53.326Z"
   }
 ]
