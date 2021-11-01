@@ -78,5 +78,13 @@
     "username": "purpleladybug515",
     "password": "little1",
     "invokedAt": "2021-11-01T09:59:11.381Z"
+  },
+  {
+    "firstName": "Cristóforo",
+    "lastName": "Nogueira",
+    "email": "cristoforo.nogueira@example.com",
+    "username": "organicwolf836",
+    "password": "deeper",
+    "invokedAt": "2021-11-01T10:58:52.460Z"
   }
 ]
