@@ -54,5 +54,13 @@
     "username": "tinybird986",
     "password": "jackoff",
     "invokedAt": "2021-11-01T06:58:52.028Z"
+  },
+  {
+    "firstName": "Francisco de Borja",
+    "lastName": "Duarte",
+    "email": "franciscodeborja.duarte@example.com",
+    "username": "blackduck844",
+    "password": "giraffe",
+    "invokedAt": "2021-11-01T07:59:17.521Z"
   }
 ]
