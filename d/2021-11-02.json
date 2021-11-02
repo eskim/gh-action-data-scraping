@@ -166,5 +166,13 @@
     "username": "whitedog199",
     "password": "climber",
     "invokedAt": "2021-11-02T20:59:08.794Z"
+  },
+  {
+    "firstName": "Fadma",
+    "lastName": "Schellen",
+    "email": "fadma.schellen@example.com",
+    "username": "blackrabbit437",
+    "password": "norris",
+    "invokedAt": "2021-11-02T21:58:52.355Z"
   }
 ]
