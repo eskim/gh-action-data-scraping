@@ -38,5 +38,13 @@
     "username": "tinyswan173",
     "password": "zanzibar",
     "invokedAt": "2021-11-02T05:00:30.316Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Mckinney",
+    "email": "amy.mckinney@example.com",
+    "username": "crazygoose520",
+    "password": "pervert",
+    "invokedAt": "2021-11-02T05:59:09.724Z"
   }
 ]
