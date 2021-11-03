@@ -126,5 +126,13 @@
     "username": "silvertiger451",
     "password": "slugger",
     "invokedAt": "2021-11-03T16:03:42.911Z"
+  },
+  {
+    "firstName": "Michaël",
+    "lastName": "Kuenen",
+    "email": "michael.kuenen@example.com",
+    "username": "whitebutterfly255",
+    "password": "delphi",
+    "invokedAt": "2021-11-03T17:15:49.065Z"
   }
 ]
