@@ -134,5 +134,13 @@
     "username": "whitebutterfly255",
     "password": "delphi",
     "invokedAt": "2021-11-03T17:15:49.065Z"
+  },
+  {
+    "firstName": "Jill",
+    "lastName": "Collins",
+    "email": "jill.collins@example.com",
+    "username": "bluebird234",
+    "password": "bigmac",
+    "invokedAt": "2021-11-03T18:03:43.397Z"
   }
 ]
