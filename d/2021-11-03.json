@@ -54,5 +54,13 @@
     "username": "purplerabbit978",
     "password": "goofy",
     "invokedAt": "2021-11-03T06:58:50.406Z"
+  },
+  {
+    "firstName": "محمدطاها",
+    "lastName": "سهيلي راد",
+    "email": "mhmdth.shylyrd@example.com",
+    "username": "blackbird978",
+    "password": "dwight",
+    "invokedAt": "2021-11-03T07:58:55.015Z"
   }
 ]
