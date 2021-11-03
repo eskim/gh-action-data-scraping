@@ -118,5 +118,13 @@
     "username": "happygoose109",
     "password": "blizzard",
     "invokedAt": "2021-11-03T15:03:44.390Z"
+  },
+  {
+    "firstName": "Burckhard",
+    "lastName": "Bäuerle",
+    "email": "burckhard.bauerle@example.com",
+    "username": "silvertiger451",
+    "password": "slugger",
+    "invokedAt": "2021-11-03T16:03:42.911Z"
   }
 ]
