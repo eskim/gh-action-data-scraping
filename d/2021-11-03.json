@@ -142,5 +142,13 @@
     "username": "bluebird234",
     "password": "bigmac",
     "invokedAt": "2021-11-03T18:03:43.397Z"
+  },
+  {
+    "firstName": "Jorine",
+    "lastName": "Van der Rijt",
+    "email": "jorine.vanderrijt@example.com",
+    "username": "smallmouse686",
+    "password": "daisy",
+    "invokedAt": "2021-11-03T18:58:52.775Z"
   }
 ]
