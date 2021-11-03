@@ -110,5 +110,13 @@
     "username": "bluebird369",
     "password": "collin",
     "invokedAt": "2021-11-03T14:03:53.729Z"
+  },
+  {
+    "firstName": "Blanca",
+    "lastName": "Moya",
+    "email": "blanca.moya@example.com",
+    "username": "happygoose109",
+    "password": "blizzard",
+    "invokedAt": "2021-11-03T15:03:44.390Z"
   }
 ]
