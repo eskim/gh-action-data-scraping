@@ -94,5 +94,13 @@
     "username": "sadpanda790",
     "password": "bbking",
     "invokedAt": "2021-11-04T11:58:50.248Z"
+  },
+  {
+    "firstName": "Mylan",
+    "lastName": "Lopez",
+    "email": "mylan.lopez@example.com",
+    "username": "blackdog117",
+    "password": "turnip",
+    "invokedAt": "2021-11-04T13:10:54.189Z"
   }
 ]
