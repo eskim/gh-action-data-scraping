@@ -166,5 +166,13 @@
     "username": "organicbird472",
     "password": "wildcats",
     "invokedAt": "2021-11-04T21:58:50.154Z"
+  },
+  {
+    "firstName": "Drago",
+    "lastName": "Kost",
+    "email": "drago.kost@example.com",
+    "username": "silverduck644",
+    "password": "starfish",
+    "invokedAt": "2021-11-04T22:59:13.039Z"
   }
 ]
