@@ -174,5 +174,13 @@
     "username": "silverduck644",
     "password": "starfish",
     "invokedAt": "2021-11-04T22:59:13.039Z"
+  },
+  {
+    "firstName": "Ester",
+    "lastName": "Busse",
+    "email": "ester.busse@example.com",
+    "username": "whitepeacock818",
+    "password": "splinter",
+    "invokedAt": "2021-11-04T23:59:18.544Z"
   }
 ]
