@@ -158,5 +158,13 @@
     "username": "blacktiger617",
     "password": "reddwarf",
     "invokedAt": "2021-11-04T20:58:52.425Z"
+  },
+  {
+    "firstName": "Bekim",
+    "lastName": "Roussel",
+    "email": "bekim.roussel@example.com",
+    "username": "organicbird472",
+    "password": "wildcats",
+    "invokedAt": "2021-11-04T21:58:50.154Z"
   }
 ]
