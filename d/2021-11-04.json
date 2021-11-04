@@ -102,5 +102,13 @@
     "username": "blackdog117",
     "password": "turnip",
     "invokedAt": "2021-11-04T13:10:54.189Z"
+  },
+  {
+    "firstName": "Eemeli",
+    "lastName": "Waara",
+    "email": "eemeli.waara@example.com",
+    "username": "orangebird632",
+    "password": "pigeon",
+    "invokedAt": "2021-11-04T13:59:04.225Z"
   }
 ]
