@@ -158,5 +158,13 @@
     "username": "greenostrich796",
     "password": "ring",
     "invokedAt": "2021-11-05T19:59:02.989Z"
+  },
+  {
+    "firstName": "Clément",
+    "lastName": "Vidal",
+    "email": "clement.vidal@example.com",
+    "username": "sadbird289",
+    "password": "chair",
+    "invokedAt": "2021-11-05T20:58:46.852Z"
   }
 ]
