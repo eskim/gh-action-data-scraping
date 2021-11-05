@@ -166,5 +166,13 @@
     "username": "sadbird289",
     "password": "chair",
     "invokedAt": "2021-11-05T20:58:46.852Z"
+  },
+  {
+    "firstName": "Karl-Jürgen",
+    "lastName": "Rosenberger",
+    "email": "karl-jurgen.rosenberger@example.com",
+    "username": "smallfrog573",
+    "password": "wishbone",
+    "invokedAt": "2021-11-05T21:58:57.599Z"
   }
 ]
