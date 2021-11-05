@@ -46,5 +46,13 @@
     "username": "bluewolf578",
     "password": "pinetree",
     "invokedAt": "2021-11-05T05:58:46.067Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Cook",
+    "email": "carl.cook@example.com",
+    "username": "blackfish611",
+    "password": "winston",
+    "invokedAt": "2021-11-05T06:59:02.649Z"
   }
 ]
