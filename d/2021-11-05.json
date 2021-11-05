@@ -134,5 +134,13 @@
     "username": "tinyfish649",
     "password": "matthew1",
     "invokedAt": "2021-11-05T17:09:58.931Z"
+  },
+  {
+    "firstName": "آوینا",
+    "lastName": "پارسا",
+    "email": "awyn.prs@example.com",
+    "username": "purplepanda708",
+    "password": "iomega",
+    "invokedAt": "2021-11-05T17:58:47.593Z"
   }
 ]
