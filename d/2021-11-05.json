@@ -174,5 +174,13 @@
     "username": "smallfrog573",
     "password": "wishbone",
     "invokedAt": "2021-11-05T21:58:57.599Z"
+  },
+  {
+    "firstName": "Leonício",
+    "lastName": "Lopes",
+    "email": "leonicio.lopes@example.com",
+    "username": "beautifulgorilla235",
+    "password": "hootie",
+    "invokedAt": "2021-11-05T22:58:59.748Z"
   }
 ]
