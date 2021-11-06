@@ -174,5 +174,13 @@
     "username": "crazydog357",
     "password": "duffer",
     "invokedAt": "2021-11-06T21:58:58.350Z"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Andersen",
+    "email": "rosa.andersen@example.com",
+    "username": "whitefish895",
+    "password": "diaper",
+    "invokedAt": "2021-11-06T22:58:51.118Z"
   }
 ]
