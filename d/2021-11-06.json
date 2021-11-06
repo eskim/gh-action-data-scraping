@@ -54,5 +54,13 @@
     "username": "yellowpanda666",
     "password": "12345a",
     "invokedAt": "2021-11-06T06:59:09.438Z"
+  },
+  {
+    "firstName": "آریا",
+    "lastName": "یاسمی",
+    "email": "ary.ysmy@example.com",
+    "username": "orangebird663",
+    "password": "wishbone",
+    "invokedAt": "2021-11-06T07:59:07.515Z"
   }
 ]
