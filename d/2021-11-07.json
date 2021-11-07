@@ -166,5 +166,13 @@
     "username": "blackduck972",
     "password": "drive",
     "invokedAt": "2021-11-07T20:59:06.054Z"
+  },
+  {
+    "firstName": "Josias",
+    "lastName": "Gomes",
+    "email": "josias.gomes@example.com",
+    "username": "silverwolf847",
+    "password": "madeline",
+    "invokedAt": "2021-11-07T21:58:58.677Z"
   }
 ]
