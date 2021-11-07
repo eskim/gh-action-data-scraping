@@ -78,5 +78,13 @@
     "username": "silverbird439",
     "password": "supreme",
     "invokedAt": "2021-11-07T09:59:03.707Z"
+  },
+  {
+    "firstName": "Sjur",
+    "lastName": "Sandland",
+    "email": "sjur.sandland@example.com",
+    "username": "silvergoose616",
+    "password": "1120",
+    "invokedAt": "2021-11-07T10:58:49.469Z"
   }
 ]
