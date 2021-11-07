@@ -102,5 +102,13 @@
     "username": "lazygorilla187",
     "password": "kevin1",
     "invokedAt": "2021-11-07T13:09:12.965Z"
+  },
+  {
+    "firstName": "Iida",
+    "lastName": "Kokko",
+    "email": "iida.kokko@example.com",
+    "username": "lazybear777",
+    "password": "bigred",
+    "invokedAt": "2021-11-07T13:58:58.448Z"
   }
 ]
