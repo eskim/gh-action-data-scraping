@@ -62,5 +62,13 @@
     "username": "silversnake858",
     "password": "magic",
     "invokedAt": "2021-11-08T07:59:08.088Z"
+  },
+  {
+    "firstName": "Wendy",
+    "lastName": "Stone",
+    "email": "wendy.stone@example.com",
+    "username": "greenfish574",
+    "password": "brighton",
+    "invokedAt": "2021-11-08T08:59:10.764Z"
   }
 ]
