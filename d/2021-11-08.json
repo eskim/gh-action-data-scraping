@@ -22,5 +22,13 @@
     "username": "smallpanda476",
     "password": "burton",
     "invokedAt": "2021-11-08T02:58:49.412Z"
+  },
+  {
+    "firstName": "Chen",
+    "lastName": "Mollink",
+    "email": "chen.mollink@example.com",
+    "username": "blueduck177",
+    "password": "aptiva",
+    "invokedAt": "2021-11-08T03:59:08.501Z"
   }
 ]
