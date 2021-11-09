@@ -182,5 +182,13 @@
     "username": "orangeelephant164",
     "password": "superb",
     "invokedAt": "2021-11-09T22:59:03.465Z"
+  },
+  {
+    "firstName": "Ufuk",
+    "lastName": "Maijer",
+    "email": "ufuk.maijer@example.com",
+    "username": "lazysnake913",
+    "password": "public",
+    "invokedAt": "2021-11-09T23:59:04.101Z"
   }
 ]
