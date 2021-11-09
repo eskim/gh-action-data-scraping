@@ -118,5 +118,13 @@
     "username": "organicladybug461",
     "password": "louie",
     "invokedAt": "2021-11-09T15:00:27.323Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Moura",
+    "email": "jonas.moura@example.com",
+    "username": "bigladybug311",
+    "password": "addison",
+    "invokedAt": "2021-11-09T16:03:51.518Z"
   }
 ]
