@@ -54,5 +54,13 @@
     "username": "sadelephant716",
     "password": "strong",
     "invokedAt": "2021-11-09T06:58:48.899Z"
+  },
+  {
+    "firstName": "Arisberto",
+    "lastName": "Caldeira",
+    "email": "arisberto.caldeira@example.com",
+    "username": "heavyelephant905",
+    "password": "lilith",
+    "invokedAt": "2021-11-09T07:59:02.464Z"
   }
 ]
