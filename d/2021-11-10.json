@@ -182,5 +182,13 @@
     "username": "greenpeacock695",
     "password": "birthday",
     "invokedAt": "2021-11-10T22:59:02.640Z"
+  },
+  {
+    "firstName": "Alípio",
+    "lastName": "da Mota",
+    "email": "alipio.damota@example.com",
+    "username": "beautifulpanda933",
+    "password": "angela",
+    "invokedAt": "2021-11-10T23:59:18.543Z"
   }
 ]
