@@ -46,5 +46,13 @@
     "username": "blackwolf997",
     "password": "cthulhu",
     "invokedAt": "2021-11-10T05:59:07.167Z"
+  },
+  {
+    "firstName": "Mara",
+    "lastName": "Barros",
+    "email": "mara.barros@example.com",
+    "username": "ticklishgorilla698",
+    "password": "23skidoo",
+    "invokedAt": "2021-11-10T06:58:54.250Z"
   }
 ]
