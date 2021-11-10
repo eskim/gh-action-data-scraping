@@ -86,5 +86,13 @@
     "username": "purplebutterfly224",
     "password": "eclipse",
     "invokedAt": "2021-11-10T10:58:55.828Z"
+  },
+  {
+    "firstName": "Esat",
+    "lastName": "Koç",
+    "email": "esat.koc@example.com",
+    "username": "bigrabbit439",
+    "password": "stingray",
+    "invokedAt": "2021-11-10T11:59:08.633Z"
   }
 ]
