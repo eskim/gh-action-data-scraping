@@ -22,5 +22,13 @@
     "username": "bigdog937",
     "password": "searay",
     "invokedAt": "2021-11-11T02:58:58.127Z"
+  },
+  {
+    "firstName": "Önal",
+    "lastName": "Hamzaoğlu",
+    "email": "onal.hamzaoglu@example.com",
+    "username": "tinyzebra633",
+    "password": "montana",
+    "invokedAt": "2021-11-11T03:59:02.972Z"
   }
 ]
