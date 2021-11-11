@@ -110,5 +110,13 @@
     "username": "browncat405",
     "password": "store",
     "invokedAt": "2021-11-11T13:58:57.233Z"
+  },
+  {
+    "firstName": "Jozina",
+    "lastName": "Van Breugel",
+    "email": "jozina.vanbreugel@example.com",
+    "username": "blueladybug844",
+    "password": "nolimit",
+    "invokedAt": "2021-11-11T14:59:13.184Z"
   }
 ]
