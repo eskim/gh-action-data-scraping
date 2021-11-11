@@ -78,5 +78,13 @@
     "username": "organicgoose762",
     "password": "treefrog",
     "invokedAt": "2021-11-11T09:58:52.305Z"
+  },
+  {
+    "firstName": "Greg",
+    "lastName": "Webb",
+    "email": "greg.webb@example.com",
+    "username": "sadbutterfly964",
+    "password": "longer",
+    "invokedAt": "2021-11-11T10:58:47.617Z"
   }
 ]
