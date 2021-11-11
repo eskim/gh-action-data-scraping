@@ -166,5 +166,13 @@
     "username": "organicsnake817",
     "password": "heineken",
     "invokedAt": "2021-11-11T20:59:01.694Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Anderson",
+    "email": "george.anderson@example.com",
+    "username": "happytiger527",
+    "password": "doubled",
+    "invokedAt": "2021-11-11T21:59:13.391Z"
   }
 ]
