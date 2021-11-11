@@ -118,5 +118,13 @@
     "username": "blueladybug844",
     "password": "nolimit",
     "invokedAt": "2021-11-11T14:59:13.184Z"
+  },
+  {
+    "firstName": "Bernd",
+    "lastName": "Dickmann",
+    "email": "bernd.dickmann@example.com",
+    "username": "lazyrabbit406",
+    "password": "lance",
+    "invokedAt": "2021-11-11T15:58:58.545Z"
   }
 ]
