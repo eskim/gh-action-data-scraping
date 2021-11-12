@@ -182,5 +182,13 @@
     "username": "beautifulmouse788",
     "password": "cotton",
     "invokedAt": "2021-11-12T22:59:10.019Z"
+  },
+  {
+    "firstName": "Melike",
+    "lastName": "Alnıaçık",
+    "email": "melike.alniacik@example.com",
+    "username": "blackleopard749",
+    "password": "nights",
+    "invokedAt": "2021-11-12T23:59:00.930Z"
   }
 ]
