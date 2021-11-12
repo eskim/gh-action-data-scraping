@@ -46,5 +46,13 @@
     "username": "bluebutterfly377",
     "password": "635241",
     "invokedAt": "2021-11-12T05:59:15.803Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Kuday",
+    "email": "afsar.kuday@example.com",
+    "username": "heavywolf170",
+    "password": "topdog",
+    "invokedAt": "2021-11-12T06:58:55.329Z"
   }
 ]
