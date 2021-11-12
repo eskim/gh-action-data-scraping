@@ -102,5 +102,13 @@
     "username": "silverlion568",
     "password": "bigone",
     "invokedAt": "2021-11-12T13:10:57.494Z"
+  },
+  {
+    "firstName": "Erika",
+    "lastName": "Rivera",
+    "email": "erika.rivera@example.com",
+    "username": "goldenfish609",
+    "password": "stellar",
+    "invokedAt": "2021-11-12T13:58:55.943Z"
   }
 ]
