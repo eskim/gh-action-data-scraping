@@ -142,5 +142,13 @@
     "username": "heavybutterfly705",
     "password": "skyler",
     "invokedAt": "2021-11-13T17:59:04.409Z"
+  },
+  {
+    "firstName": "Nalan",
+    "lastName": "Okumuş",
+    "email": "nalan.okumus@example.com",
+    "username": "whitefish922",
+    "password": "basset",
+    "invokedAt": "2021-11-13T18:58:56.668Z"
   }
 ]
