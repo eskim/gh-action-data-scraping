@@ -158,5 +158,13 @@
     "username": "silverelephant676",
     "password": "frisco",
     "invokedAt": "2021-11-13T19:59:14.621Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Taşçı",
+    "email": "gul.tasci@example.com",
+    "username": "angryostrich673",
+    "password": "cherokee",
+    "invokedAt": "2021-11-13T20:58:56.874Z"
   }
 ]
