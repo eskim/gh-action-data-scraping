@@ -94,5 +94,13 @@
     "username": "yellowwolf758",
     "password": "dealer",
     "invokedAt": "2021-11-14T11:59:21.688Z"
+  },
+  {
+    "firstName": "Oskari",
+    "lastName": "Valli",
+    "email": "oskari.valli@example.com",
+    "username": "bluewolf853",
+    "password": "lighting",
+    "invokedAt": "2021-11-14T13:09:05.192Z"
   }
 ]
