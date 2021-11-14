@@ -70,5 +70,13 @@
     "username": "bluepanda829",
     "password": "fire",
     "invokedAt": "2021-11-14T08:58:56.501Z"
+  },
+  {
+    "firstName": "محمدعلی",
+    "lastName": "پارسا",
+    "email": "mhmdaaly.prs@example.com",
+    "username": "heavycat419",
+    "password": "callisto",
+    "invokedAt": "2021-11-14T09:58:56.666Z"
   }
 ]
