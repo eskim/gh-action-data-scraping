@@ -118,5 +118,13 @@
     "username": "goldencat173",
     "password": "typhoon",
     "invokedAt": "2021-11-14T14:58:57.937Z"
+  },
+  {
+    "firstName": "Kübra",
+    "lastName": "Biçer",
+    "email": "kubra.bicer@example.com",
+    "username": "ticklishleopard271",
+    "password": "holiday",
+    "invokedAt": "2021-11-14T15:58:56.084Z"
   }
 ]
