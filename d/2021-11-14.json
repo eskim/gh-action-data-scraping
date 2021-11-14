@@ -182,5 +182,13 @@
     "username": "yellowrabbit409",
     "password": "storm1",
     "invokedAt": "2021-11-14T22:58:49.268Z"
+  },
+  {
+    "firstName": "Aminadabe",
+    "lastName": "Dias",
+    "email": "aminadabe.dias@example.com",
+    "username": "heavytiger208",
+    "password": "hogtied",
+    "invokedAt": "2021-11-14T23:59:25.743Z"
   }
 ]
