@@ -166,5 +166,13 @@
     "username": "ticklishrabbit567",
     "password": "meatball",
     "invokedAt": "2021-11-14T20:58:51.316Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Andersen",
+    "email": "blake.andersen@example.com",
+    "username": "heavytiger362",
+    "password": "sinbad",
+    "invokedAt": "2021-11-14T21:59:15.953Z"
   }
 ]
