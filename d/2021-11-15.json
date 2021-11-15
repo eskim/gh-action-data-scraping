@@ -126,5 +126,13 @@
     "username": "smallpanda387",
     "password": "books",
     "invokedAt": "2021-11-15T15:59:06.169Z"
+  },
+  {
+    "firstName": "Veslemøy",
+    "lastName": "Todal",
+    "email": "veslemoy.todal@example.com",
+    "username": "brownwolf194",
+    "password": "anubis",
+    "invokedAt": "2021-11-15T17:11:58.922Z"
   }
 ]
