@@ -30,5 +30,13 @@
     "username": "smallpanda360",
     "password": "horace",
     "invokedAt": "2021-11-15T03:59:08.001Z"
+  },
+  {
+    "firstName": "Beatrice",
+    "lastName": "Bußmann",
+    "email": "beatrice.bussmann@example.com",
+    "username": "smalltiger801",
+    "password": "remingto",
+    "invokedAt": "2021-11-15T05:00:19.201Z"
   }
 ]
