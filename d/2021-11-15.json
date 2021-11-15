@@ -118,5 +118,13 @@
     "username": "greencat590",
     "password": "bigbig",
     "invokedAt": "2021-11-15T14:59:13.298Z"
+  },
+  {
+    "firstName": "Vildan",
+    "lastName": "Ilıcalı",
+    "email": "vildan.ilicali@example.com",
+    "username": "smallpanda387",
+    "password": "books",
+    "invokedAt": "2021-11-15T15:59:06.169Z"
   }
 ]
