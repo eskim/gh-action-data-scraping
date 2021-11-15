@@ -166,5 +166,13 @@
     "username": "goldendog182",
     "password": "winnie",
     "invokedAt": "2021-11-15T20:58:48.681Z"
+  },
+  {
+    "firstName": "Jori",
+    "lastName": "Van de Sluis",
+    "email": "jori.vandesluis@example.com",
+    "username": "brownsnake890",
+    "password": "gollum",
+    "invokedAt": "2021-11-15T21:59:05.934Z"
   }
 ]
