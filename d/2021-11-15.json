@@ -62,5 +62,13 @@
     "username": "bigdog976",
     "password": "america1",
     "invokedAt": "2021-11-15T07:58:59.538Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Bishop",
+    "email": "sofia.bishop@example.com",
+    "username": "silverduck725",
+    "password": "gotcha",
+    "invokedAt": "2021-11-15T08:58:57.648Z"
   }
 ]
