@@ -158,5 +158,13 @@
     "username": "bigelephant292",
     "password": "getout",
     "invokedAt": "2021-11-15T19:59:12.069Z"
+  },
+  {
+    "firstName": "Önal",
+    "lastName": "Köybaşı",
+    "email": "onal.koybasi@example.com",
+    "username": "goldendog182",
+    "password": "winnie",
+    "invokedAt": "2021-11-15T20:58:48.681Z"
   }
 ]
