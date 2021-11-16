@@ -126,5 +126,13 @@
     "username": "crazysnake671",
     "password": "colombia",
     "invokedAt": "2021-11-16T16:03:58.300Z"
+  },
+  {
+    "firstName": "Carole",
+    "lastName": "Curtis",
+    "email": "carole.curtis@example.com",
+    "username": "purplegorilla370",
+    "password": "airforce",
+    "invokedAt": "2021-11-16T16:59:35.618Z"
   }
 ]
