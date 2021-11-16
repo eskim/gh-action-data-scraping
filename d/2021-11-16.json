@@ -46,5 +46,13 @@
     "username": "tinyzebra563",
     "password": "ironman",
     "invokedAt": "2021-11-16T05:58:47.604Z"
+  },
+  {
+    "firstName": "Aubin",
+    "lastName": "Muller",
+    "email": "aubin.muller@example.com",
+    "username": "orangelion803",
+    "password": "manolo",
+    "invokedAt": "2021-11-16T06:59:00.638Z"
   }
 ]
