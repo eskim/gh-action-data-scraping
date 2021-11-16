@@ -134,5 +134,13 @@
     "username": "purplegorilla370",
     "password": "airforce",
     "invokedAt": "2021-11-16T16:59:35.618Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Gagné",
+    "email": "nathan.gagne@example.com",
+    "username": "heavywolf551",
+    "password": "johnjohn",
+    "invokedAt": "2021-11-16T17:59:04.918Z"
   }
 ]
