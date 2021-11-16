@@ -166,5 +166,13 @@
     "username": "yellowpeacock929",
     "password": "salasana",
     "invokedAt": "2021-11-16T20:58:56.175Z"
+  },
+  {
+    "firstName": "Fatima",
+    "lastName": "Gil",
+    "email": "fatima.gil@example.com",
+    "username": "redpeacock150",
+    "password": "rocks",
+    "invokedAt": "2021-11-16T21:58:48.077Z"
   }
 ]
