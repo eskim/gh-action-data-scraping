@@ -62,5 +62,13 @@
     "username": "lazywolf317",
     "password": "cartoon",
     "invokedAt": "2021-11-16T07:59:06.095Z"
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Blanchard",
+    "email": "astrid.blanchard@example.com",
+    "username": "tinyleopard110",
+    "password": "thunder",
+    "invokedAt": "2021-11-16T08:58:48.448Z"
   }
 ]
