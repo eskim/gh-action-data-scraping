@@ -166,5 +166,13 @@
     "username": "angryostrich489",
     "password": "notredam",
     "invokedAt": "2021-11-17T21:59:00.369Z"
+  },
+  {
+    "firstName": "Macit",
+    "lastName": "Erberk",
+    "email": "macit.erberk@example.com",
+    "username": "whiteelephant378",
+    "password": "danny1",
+    "invokedAt": "2021-11-17T22:59:01.478Z"
   }
 ]
