@@ -118,5 +118,13 @@
     "username": "goldendog930",
     "password": "suckme",
     "invokedAt": "2021-11-17T15:03:39.118Z"
+  },
+  {
+    "firstName": "Kaya",
+    "lastName": "Tanrıkulu",
+    "email": "kaya.tanrikulu@example.com",
+    "username": "bigmeercat289",
+    "password": "letmein",
+    "invokedAt": "2021-11-17T16:03:43.344Z"
   }
 ]
