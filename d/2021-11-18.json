@@ -158,5 +158,13 @@
     "username": "crazypanda180",
     "password": "mpegs",
     "invokedAt": "2021-11-18T19:59:10.453Z"
+  },
+  {
+    "firstName": "Antonino",
+    "lastName": "Schenkel",
+    "email": "antonino.schenkel@example.com",
+    "username": "goldenbear228",
+    "password": "blonds",
+    "invokedAt": "2021-11-18T20:59:02.356Z"
   }
 ]
