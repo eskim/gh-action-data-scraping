@@ -134,5 +134,13 @@
     "username": "tinyostrich564",
     "password": "binladen",
     "invokedAt": "2021-11-18T17:11:58.305Z"
+  },
+  {
+    "firstName": "Nixon",
+    "lastName": "Wright",
+    "email": "nixon.wright@example.com",
+    "username": "goldengoose205",
+    "password": "marine",
+    "invokedAt": "2021-11-18T17:59:24.108Z"
   }
 ]
