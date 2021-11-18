@@ -150,5 +150,13 @@
     "username": "smallsnake153",
     "password": "smackdow",
     "invokedAt": "2021-11-18T18:59:17.485Z"
+  },
+  {
+    "firstName": "Torstein",
+    "lastName": "Tryggestad",
+    "email": "torstein.tryggestad@example.com",
+    "username": "crazypanda180",
+    "password": "mpegs",
+    "invokedAt": "2021-11-18T19:59:10.453Z"
   }
 ]
