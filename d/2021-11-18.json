@@ -30,5 +30,13 @@
     "username": "bluelion996",
     "password": "mpegs",
     "invokedAt": "2021-11-18T03:59:07.249Z"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Williams",
+    "email": "terry.williams@example.com",
+    "username": "redduck477",
+    "password": "kristen",
+    "invokedAt": "2021-11-18T05:00:22.292Z"
   }
 ]
