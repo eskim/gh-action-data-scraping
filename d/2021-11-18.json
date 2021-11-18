@@ -54,5 +54,13 @@
     "username": "smalltiger402",
     "password": "forumwp",
     "invokedAt": "2021-11-18T06:58:51.379Z"
+  },
+  {
+    "firstName": "Kornelius",
+    "lastName": "Bryne",
+    "email": "kornelius.bryne@example.com",
+    "username": "angryfish692",
+    "password": "coyote",
+    "invokedAt": "2021-11-18T07:59:19.852Z"
   }
 ]
