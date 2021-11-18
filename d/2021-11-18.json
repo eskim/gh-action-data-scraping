@@ -22,5 +22,13 @@
     "username": "greenmeercat240",
     "password": "kevin",
     "invokedAt": "2021-11-18T02:58:56.990Z"
+  },
+  {
+    "firstName": "Meinrad",
+    "lastName": "Lucas",
+    "email": "meinrad.lucas@example.com",
+    "username": "bluelion996",
+    "password": "mpegs",
+    "invokedAt": "2021-11-18T03:59:07.249Z"
   }
 ]
