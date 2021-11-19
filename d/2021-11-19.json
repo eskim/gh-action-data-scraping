@@ -182,5 +182,13 @@
     "username": "greenmouse374",
     "password": "vermont",
     "invokedAt": "2021-11-19T22:58:52.391Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "French",
+    "email": "maxime.french@example.com",
+    "username": "ticklishbutterfly159",
+    "password": "travis1",
+    "invokedAt": "2021-11-19T23:59:02.515Z"
   }
 ]
