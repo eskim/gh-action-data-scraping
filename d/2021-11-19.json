@@ -102,5 +102,13 @@
     "username": "orangelion629",
     "password": "applepie",
     "invokedAt": "2021-11-19T13:11:01.608Z"
+  },
+  {
+    "firstName": "Kenan",
+    "lastName": "Süleymanoğlu",
+    "email": "kenan.suleymanoglu@example.com",
+    "username": "purpleladybug239",
+    "password": "concrete",
+    "invokedAt": "2021-11-19T13:59:22.148Z"
   }
 ]
