@@ -94,5 +94,13 @@
     "username": "blueostrich804",
     "password": "puppet",
     "invokedAt": "2021-11-19T11:58:54.207Z"
+  },
+  {
+    "firstName": "مهدي",
+    "lastName": "پارسا",
+    "email": "mhdy.prs@example.com",
+    "username": "orangelion629",
+    "password": "applepie",
+    "invokedAt": "2021-11-19T13:11:01.608Z"
   }
 ]
