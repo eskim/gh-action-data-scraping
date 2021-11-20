@@ -102,5 +102,13 @@
     "username": "tinypanda801",
     "password": "hola",
     "invokedAt": "2021-11-20T13:09:13.142Z"
+  },
+  {
+    "firstName": "Ceyhan",
+    "lastName": "Topçuoğlu",
+    "email": "ceyhan.topcuoglu@example.com",
+    "username": "blackbear720",
+    "password": "horny1",
+    "invokedAt": "2021-11-20T13:58:48.937Z"
   }
 ]
