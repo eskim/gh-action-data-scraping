@@ -118,5 +118,13 @@
     "username": "bluekoala183",
     "password": "video1",
     "invokedAt": "2021-11-20T14:59:07.342Z"
+  },
+  {
+    "firstName": "Jon",
+    "lastName": "Rodriquez",
+    "email": "jon.rodriquez@example.com",
+    "username": "blackbutterfly534",
+    "password": "lollipop",
+    "invokedAt": "2021-11-20T15:58:51.381Z"
   }
 ]
