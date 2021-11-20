@@ -182,5 +182,13 @@
     "username": "beautifulpeacock154",
     "password": "obelix",
     "invokedAt": "2021-11-20T22:59:00.824Z"
+  },
+  {
+    "firstName": "Angeles",
+    "lastName": "Parra",
+    "email": "angeles.parra@example.com",
+    "username": "yellowpanda994",
+    "password": "pancake",
+    "invokedAt": "2021-11-20T23:59:12.938Z"
   }
 ]
