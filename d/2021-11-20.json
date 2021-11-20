@@ -62,5 +62,13 @@
     "username": "whiteduck482",
     "password": "gothic",
     "invokedAt": "2021-11-20T07:58:53.591Z"
+  },
+  {
+    "firstName": "Oswald",
+    "lastName": "Michel",
+    "email": "oswald.michel@example.com",
+    "username": "redfrog287",
+    "password": "solitude",
+    "invokedAt": "2021-11-20T08:58:55.278Z"
   }
 ]
