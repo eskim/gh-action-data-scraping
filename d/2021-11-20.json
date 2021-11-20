@@ -86,5 +86,13 @@
     "username": "goldenbear200",
     "password": "webmaste",
     "invokedAt": "2021-11-20T10:59:01.561Z"
+  },
+  {
+    "firstName": "Hans-Jürgen",
+    "lastName": "Bösch",
+    "email": "hans-jurgen.bosch@example.com",
+    "username": "brownswan585",
+    "password": "pants",
+    "invokedAt": "2021-11-20T11:59:10.109Z"
   }
 ]
