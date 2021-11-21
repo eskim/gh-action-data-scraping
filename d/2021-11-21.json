@@ -86,5 +86,13 @@
     "username": "bigleopard592",
     "password": "monopoly",
     "invokedAt": "2021-11-21T10:58:46.491Z"
+  },
+  {
+    "firstName": "Kato",
+    "lastName": "Karstens",
+    "email": "kato.karstens@example.com",
+    "username": "greenswan246",
+    "password": "chester1",
+    "invokedAt": "2021-11-21T11:58:51.546Z"
   }
 ]
