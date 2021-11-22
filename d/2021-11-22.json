@@ -38,5 +38,13 @@
     "username": "biglion702",
     "password": "genius",
     "invokedAt": "2021-11-22T05:00:30.816Z"
+  },
+  {
+    "firstName": "Oceano",
+    "lastName": "Lima",
+    "email": "oceano.lima@example.com",
+    "username": "sadswan233",
+    "password": "hotone",
+    "invokedAt": "2021-11-22T05:58:52.588Z"
   }
 ]
