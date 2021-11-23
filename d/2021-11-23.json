@@ -54,5 +54,13 @@
     "username": "silverostrich658",
     "password": "fingerig",
     "invokedAt": "2021-11-23T06:58:54.449Z"
+  },
+  {
+    "firstName": "Ece",
+    "lastName": "Keseroğlu",
+    "email": "ece.keseroglu@example.com",
+    "username": "crazydog607",
+    "password": "deerhunt",
+    "invokedAt": "2021-11-23T07:59:04.364Z"
   }
 ]
