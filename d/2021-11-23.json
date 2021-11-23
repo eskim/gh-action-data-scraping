@@ -46,5 +46,13 @@
     "username": "redmouse826",
     "password": "tennesse",
     "invokedAt": "2021-11-23T05:58:48.018Z"
+  },
+  {
+    "firstName": "Gülten",
+    "lastName": "Brunner",
+    "email": "gulten.brunner@example.com",
+    "username": "silverostrich658",
+    "password": "fingerig",
+    "invokedAt": "2021-11-23T06:58:54.449Z"
   }
 ]
