@@ -62,5 +62,13 @@
     "username": "crazydog607",
     "password": "deerhunt",
     "invokedAt": "2021-11-23T07:59:04.364Z"
+  },
+  {
+    "firstName": "Onni",
+    "lastName": "Manninen",
+    "email": "onni.manninen@example.com",
+    "username": "purpleladybug762",
+    "password": "finance",
+    "invokedAt": "2021-11-23T08:59:10.289Z"
   }
 ]
