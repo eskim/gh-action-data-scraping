@@ -22,5 +22,13 @@
     "username": "sadbird479",
     "password": "guitars",
     "invokedAt": "2021-11-23T02:58:50.004Z"
+  },
+  {
+    "firstName": "Koray",
+    "lastName": "Demirbaş",
+    "email": "koray.demirbas@example.com",
+    "username": "happyostrich162",
+    "password": "blonds",
+    "invokedAt": "2021-11-23T03:59:04.601Z"
   }
 ]
