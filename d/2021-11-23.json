@@ -38,5 +38,13 @@
     "username": "heavyladybug848",
     "password": "paintbal",
     "invokedAt": "2021-11-23T05:00:24.642Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Scheuermann",
+    "email": "sarah.scheuermann@example.com",
+    "username": "redmouse826",
+    "password": "tennesse",
+    "invokedAt": "2021-11-23T05:58:48.018Z"
   }
 ]
