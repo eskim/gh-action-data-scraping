@@ -30,5 +30,13 @@
     "username": "happyostrich162",
     "password": "blonds",
     "invokedAt": "2021-11-23T03:59:04.601Z"
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Gutierrez",
+    "email": "dan.gutierrez@example.com",
+    "username": "heavyladybug848",
+    "password": "paintbal",
+    "invokedAt": "2021-11-23T05:00:24.642Z"
   }
 ]
