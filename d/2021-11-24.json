@@ -22,5 +22,13 @@
     "username": "lazyelephant983",
     "password": "spectrum",
     "invokedAt": "2021-11-24T02:59:02.843Z"
+  },
+  {
+    "firstName": "Monica",
+    "lastName": "Mora",
+    "email": "monica.mora@example.com",
+    "username": "beautifulmouse577",
+    "password": "homer",
+    "invokedAt": "2021-11-24T03:59:01.216Z"
   }
 ]
