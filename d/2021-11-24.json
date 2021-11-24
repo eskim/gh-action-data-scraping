@@ -62,5 +62,13 @@
     "username": "brownostrich375",
     "password": "cancer",
     "invokedAt": "2021-11-24T07:59:42.153Z"
+  },
+  {
+    "firstName": "Livio",
+    "lastName": "Gerard",
+    "email": "livio.gerard@example.com",
+    "username": "smallbear192",
+    "password": "sandy",
+    "invokedAt": "2021-11-24T08:58:58.036Z"
   }
 ]
