@@ -38,5 +38,13 @@
     "username": "heavybear668",
     "password": "ncc1701d",
     "invokedAt": "2021-11-24T05:00:24.534Z"
+  },
+  {
+    "firstName": "Luca",
+    "lastName": "Wang",
+    "email": "luca.wang@example.com",
+    "username": "lazygorilla678",
+    "password": "guitar1",
+    "invokedAt": "2021-11-24T05:58:52.059Z"
   }
 ]
