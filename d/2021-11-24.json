@@ -118,5 +118,13 @@
     "username": "bigbutterfly786",
     "password": "garden",
     "invokedAt": "2021-11-24T14:58:57.347Z"
+  },
+  {
+    "firstName": "Christoffer",
+    "lastName": "Sørensen",
+    "email": "christoffer.sorensen@example.com",
+    "username": "angrycat510",
+    "password": "rufus",
+    "invokedAt": "2021-11-24T15:59:01.088Z"
   }
 ]
