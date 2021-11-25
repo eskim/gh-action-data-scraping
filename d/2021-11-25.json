@@ -86,5 +86,13 @@
     "username": "blacksnake220",
     "password": "common",
     "invokedAt": "2021-11-25T10:59:00.169Z"
+  },
+  {
+    "firstName": "Queija",
+    "lastName": "Lima",
+    "email": "queija.lima@example.com",
+    "username": "organicmeercat956",
+    "password": "jerky",
+    "invokedAt": "2021-11-25T11:59:04.813Z"
   }
 ]
