@@ -158,5 +158,13 @@
     "username": "whiteduck551",
     "password": "monsters",
     "invokedAt": "2021-11-25T19:58:51.593Z"
+  },
+  {
+    "firstName": "Zachary",
+    "lastName": "Thompson",
+    "email": "zachary.thompson@example.com",
+    "username": "bigladybug997",
+    "password": "rangers",
+    "invokedAt": "2021-11-25T20:59:16.026Z"
   }
 ]
