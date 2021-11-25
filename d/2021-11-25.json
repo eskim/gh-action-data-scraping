@@ -38,5 +38,13 @@
     "username": "crazywolf303",
     "password": "trucking",
     "invokedAt": "2021-11-25T05:00:33.609Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Bertrand",
+    "email": "diego.bertrand@example.com",
+    "username": "lazytiger619",
+    "password": "4you",
+    "invokedAt": "2021-11-25T05:58:56.000Z"
   }
 ]
