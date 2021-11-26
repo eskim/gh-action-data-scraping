@@ -182,5 +182,13 @@
     "username": "browngoose715",
     "password": "ambers",
     "invokedAt": "2021-11-26T22:59:13.669Z"
+  },
+  {
+    "firstName": "Gema",
+    "lastName": "Herrera",
+    "email": "gema.herrera@example.com",
+    "username": "blackcat163",
+    "password": "daemon",
+    "invokedAt": "2021-11-26T23:59:01.193Z"
   }
 ]
