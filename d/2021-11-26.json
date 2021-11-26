@@ -70,5 +70,13 @@
     "username": "ticklishduck396",
     "password": "ticket",
     "invokedAt": "2021-11-26T08:59:09.324Z"
+  },
+  {
+    "firstName": "Lucena",
+    "lastName": "Fogaça",
+    "email": "lucena.fogaca@example.com",
+    "username": "lazyzebra980",
+    "password": "summit",
+    "invokedAt": "2021-11-26T09:58:57.376Z"
   }
 ]
