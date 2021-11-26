@@ -110,5 +110,13 @@
     "username": "redtiger174",
     "password": "vertigo",
     "invokedAt": "2021-11-26T13:59:05.255Z"
+  },
+  {
+    "firstName": "Reginald",
+    "lastName": "Grant",
+    "email": "reginald.grant@example.com",
+    "username": "redgorilla884",
+    "password": "spanish",
+    "invokedAt": "2021-11-26T14:59:15.343Z"
   }
 ]
