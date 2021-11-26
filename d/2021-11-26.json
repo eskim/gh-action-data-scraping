@@ -78,5 +78,13 @@
     "username": "lazyzebra980",
     "password": "summit",
     "invokedAt": "2021-11-26T09:58:57.376Z"
+  },
+  {
+    "firstName": "Alan",
+    "lastName": "Thorkildsen",
+    "email": "alan.thorkildsen@example.com",
+    "username": "redrabbit422",
+    "password": "buffy1",
+    "invokedAt": "2021-11-26T10:59:04.396Z"
   }
 ]
