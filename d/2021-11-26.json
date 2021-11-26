@@ -118,5 +118,13 @@
     "username": "redgorilla884",
     "password": "spanish",
     "invokedAt": "2021-11-26T14:59:15.343Z"
+  },
+  {
+    "firstName": "Nooa",
+    "lastName": "Heikkinen",
+    "email": "nooa.heikkinen@example.com",
+    "username": "beautifulbear651",
+    "password": "mouser",
+    "invokedAt": "2021-11-26T15:59:01.622Z"
   }
 ]
