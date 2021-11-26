@@ -94,5 +94,13 @@
     "username": "greenpanda381",
     "password": "gateway2",
     "invokedAt": "2021-11-26T11:59:15.631Z"
+  },
+  {
+    "firstName": "Charlotte",
+    "lastName": "Lemaire",
+    "email": "charlotte.lemaire@example.com",
+    "username": "goldenleopard426",
+    "password": "pompey",
+    "invokedAt": "2021-11-26T13:10:53.695Z"
   }
 ]
