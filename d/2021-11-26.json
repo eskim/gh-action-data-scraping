@@ -158,5 +158,13 @@
     "username": "crazyzebra541",
     "password": "song",
     "invokedAt": "2021-11-26T19:59:15.406Z"
+  },
+  {
+    "firstName": "Alvin",
+    "lastName": "Craig",
+    "email": "alvin.craig@example.com",
+    "username": "goldenswan475",
+    "password": "bluedog",
+    "invokedAt": "2021-11-26T20:59:06.189Z"
   }
 ]
