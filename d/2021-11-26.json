@@ -126,5 +126,13 @@
     "username": "beautifulbear651",
     "password": "mouser",
     "invokedAt": "2021-11-26T15:59:01.622Z"
+  },
+  {
+    "firstName": "Teresa",
+    "lastName": "Marin",
+    "email": "teresa.marin@example.com",
+    "username": "goldenladybug823",
+    "password": "vgirl",
+    "invokedAt": "2021-11-26T17:10:24.197Z"
   }
 ]
