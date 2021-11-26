@@ -102,5 +102,13 @@
     "username": "goldenleopard426",
     "password": "pompey",
     "invokedAt": "2021-11-26T13:10:53.695Z"
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Farragher",
+    "email": "steven.farragher@example.com",
+    "username": "redtiger174",
+    "password": "vertigo",
+    "invokedAt": "2021-11-26T13:59:05.255Z"
   }
 ]
