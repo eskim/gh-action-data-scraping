@@ -126,5 +126,13 @@
     "username": "tinyswan614",
     "password": "garcia",
     "invokedAt": "2021-11-27T15:59:12.581Z"
+  },
+  {
+    "firstName": "Efraïm",
+    "lastName": "Van Summeren",
+    "email": "efraim.vansummeren@example.com",
+    "username": "sadmeercat578",
+    "password": "verizon",
+    "invokedAt": "2021-11-27T17:09:08.974Z"
   }
 ]
