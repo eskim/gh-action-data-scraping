@@ -46,5 +46,13 @@
     "username": "bigmeercat580",
     "password": "lancia",
     "invokedAt": "2021-11-27T05:59:12.833Z"
+  },
+  {
+    "firstName": "Brittany",
+    "lastName": "Graham",
+    "email": "brittany.graham@example.com",
+    "username": "redduck362",
+    "password": "cheers",
+    "invokedAt": "2021-11-27T06:59:01.165Z"
   }
 ]
