@@ -142,5 +142,13 @@
     "username": "tinyfish417",
     "password": "lasvegas",
     "invokedAt": "2021-11-27T17:59:04.056Z"
+  },
+  {
+    "firstName": "Saúl",
+    "lastName": "Barbosa",
+    "email": "saul.barbosa@example.com",
+    "username": "bigduck463",
+    "password": "carnival",
+    "invokedAt": "2021-11-27T18:58:53.528Z"
   }
 ]
