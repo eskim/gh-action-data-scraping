@@ -134,5 +134,13 @@
     "username": "sadmeercat578",
     "password": "verizon",
     "invokedAt": "2021-11-27T17:09:08.974Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Edwards",
+    "email": "emily.edwards@example.com",
+    "username": "tinyfish417",
+    "password": "lasvegas",
+    "invokedAt": "2021-11-27T17:59:04.056Z"
   }
 ]
