@@ -38,5 +38,13 @@
     "username": "sadbear578",
     "password": "honda1",
     "invokedAt": "2021-11-27T05:00:07.235Z"
+  },
+  {
+    "firstName": "João",
+    "lastName": "da Costa",
+    "email": "joao.dacosta@example.com",
+    "username": "bigmeercat580",
+    "password": "lancia",
+    "invokedAt": "2021-11-27T05:59:12.833Z"
   }
 ]
