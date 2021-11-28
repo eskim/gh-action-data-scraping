@@ -46,5 +46,13 @@
     "username": "goldenzebra894",
     "password": "fenway",
     "invokedAt": "2021-11-28T06:58:50.288Z"
+  },
+  {
+    "firstName": "Esteban",
+    "lastName": "Ruiz",
+    "email": "esteban.ruiz@example.com",
+    "username": "blackbear964",
+    "password": "r2d2",
+    "invokedAt": "2021-11-28T07:58:45.494Z"
   }
 ]
