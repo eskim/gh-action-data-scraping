@@ -14,5 +14,13 @@
     "username": "sadzebra201",
     "password": "dirtbike",
     "invokedAt": "2021-11-28T02:58:48.299Z"
+  },
+  {
+    "firstName": "Lídia",
+    "lastName": "Rezende",
+    "email": "lidia.rezende@example.com",
+    "username": "yellowswan670",
+    "password": "member",
+    "invokedAt": "2021-11-28T03:58:54.525Z"
   }
 ]
