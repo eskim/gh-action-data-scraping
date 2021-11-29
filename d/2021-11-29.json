@@ -110,5 +110,13 @@
     "username": "organicwolf779",
     "password": "hell",
     "invokedAt": "2021-11-29T13:59:11.167Z"
+  },
+  {
+    "firstName": "Fatima",
+    "lastName": "Bolme",
+    "email": "fatima.bolme@example.com",
+    "username": "bigtiger384",
+    "password": "looker",
+    "invokedAt": "2021-11-29T14:59:07.332Z"
   }
 ]
