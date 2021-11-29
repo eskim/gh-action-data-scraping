@@ -118,5 +118,13 @@
     "username": "bigtiger384",
     "password": "looker",
     "invokedAt": "2021-11-29T14:59:07.332Z"
+  },
+  {
+    "firstName": "Milly",
+    "lastName": "Frøiland",
+    "email": "milly.froiland@example.com",
+    "username": "happybear946",
+    "password": "callaway",
+    "invokedAt": "2021-11-29T15:58:55.140Z"
   }
 ]
