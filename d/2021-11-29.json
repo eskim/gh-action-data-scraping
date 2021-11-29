@@ -126,5 +126,13 @@
     "username": "happybear946",
     "password": "callaway",
     "invokedAt": "2021-11-29T15:58:55.140Z"
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Oliver",
+    "email": "lisa.oliver@example.com",
+    "username": "organicleopard220",
+    "password": "deerhunt",
+    "invokedAt": "2021-11-29T17:16:44.562Z"
   }
 ]
