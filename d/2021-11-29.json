@@ -94,5 +94,13 @@
     "username": "yellowostrich587",
     "password": "colonial",
     "invokedAt": "2021-11-29T11:59:08.669Z"
+  },
+  {
+    "firstName": "Alberto",
+    "lastName": "Hayes",
+    "email": "alberto.hayes@example.com",
+    "username": "silverbutterfly473",
+    "password": "welcome",
+    "invokedAt": "2021-11-29T13:11:36.282Z"
   }
 ]
