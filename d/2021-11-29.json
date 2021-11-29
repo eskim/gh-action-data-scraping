@@ -46,5 +46,13 @@
     "username": "yellowostrich250",
     "password": "good",
     "invokedAt": "2021-11-29T05:59:09.812Z"
+  },
+  {
+    "firstName": "Michal",
+    "lastName": "Martin",
+    "email": "michal.martin@example.com",
+    "username": "tinyfrog504",
+    "password": "helium",
+    "invokedAt": "2021-11-29T06:58:54.046Z"
   }
 ]
