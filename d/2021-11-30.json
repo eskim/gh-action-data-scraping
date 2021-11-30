@@ -174,5 +174,13 @@
     "username": "whitecat783",
     "password": "arizona",
     "invokedAt": "2021-11-30T21:59:15.456Z"
+  },
+  {
+    "firstName": "Brandy",
+    "lastName": "Gutierrez",
+    "email": "brandy.gutierrez@example.com",
+    "username": "lazygorilla788",
+    "password": "saratoga",
+    "invokedAt": "2021-11-30T22:58:59.250Z"
   }
 ]
