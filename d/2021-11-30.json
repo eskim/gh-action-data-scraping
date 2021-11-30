@@ -118,5 +118,13 @@
     "username": "redpanda585",
     "password": "asasas",
     "invokedAt": "2021-11-30T15:03:43.408Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Manni",
+    "email": "aleksi.manni@example.com",
+    "username": "purplemouse335",
+    "password": "mortgage",
+    "invokedAt": "2021-11-30T16:03:40.169Z"
   }
 ]
