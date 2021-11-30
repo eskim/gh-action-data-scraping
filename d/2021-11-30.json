@@ -54,5 +54,13 @@
     "username": "goldenmeercat715",
     "password": "stallion",
     "invokedAt": "2021-11-30T06:59:05.530Z"
+  },
+  {
+    "firstName": "Jacko",
+    "lastName": "Kruidhof",
+    "email": "jacko.kruidhof@example.com",
+    "username": "beautifulostrich163",
+    "password": "desiree",
+    "invokedAt": "2021-11-30T07:59:03.566Z"
   }
 ]
