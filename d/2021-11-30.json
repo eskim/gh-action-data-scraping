@@ -46,5 +46,13 @@
     "username": "goldenbutterfly831",
     "password": "1210",
     "invokedAt": "2021-11-30T05:59:10.149Z"
+  },
+  {
+    "firstName": "Dúnio",
+    "lastName": "Nunes",
+    "email": "dunio.nunes@example.com",
+    "username": "goldenmeercat715",
+    "password": "stallion",
+    "invokedAt": "2021-11-30T06:59:05.530Z"
   }
 ]
