@@ -86,5 +86,13 @@
     "username": "bigpanda172",
     "password": "cloud9",
     "invokedAt": "2021-12-01T10:58:52.325Z"
+  },
+  {
+    "firstName": "Greg",
+    "lastName": "Burns",
+    "email": "greg.burns@example.com",
+    "username": "goldenkoala322",
+    "password": "dreaming",
+    "invokedAt": "2021-12-01T11:59:13.562Z"
   }
 ]
