@@ -102,5 +102,13 @@
     "username": "angrypanda538",
     "password": "divx1",
     "invokedAt": "2021-12-01T13:12:11.747Z"
+  },
+  {
+    "firstName": "Perry",
+    "lastName": "Ward",
+    "email": "perry.ward@example.com",
+    "username": "brownfrog419",
+    "password": "hill",
+    "invokedAt": "2021-12-01T13:58:50.797Z"
   }
 ]
