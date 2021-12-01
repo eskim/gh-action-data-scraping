@@ -94,5 +94,13 @@
     "username": "goldenkoala322",
     "password": "dreaming",
     "invokedAt": "2021-12-01T11:59:13.562Z"
+  },
+  {
+    "firstName": "Ronja",
+    "lastName": "Annala",
+    "email": "ronja.annala@example.com",
+    "username": "angrypanda538",
+    "password": "divx1",
+    "invokedAt": "2021-12-01T13:12:11.747Z"
   }
 ]
