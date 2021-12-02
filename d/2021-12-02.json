@@ -70,5 +70,13 @@
     "username": "bigwolf349",
     "password": "looker",
     "invokedAt": "2021-12-02T08:58:52.664Z"
+  },
+  {
+    "firstName": "Manuel",
+    "lastName": "Mitchell",
+    "email": "manuel.mitchell@example.com",
+    "username": "ticklishbird581",
+    "password": "triangle",
+    "invokedAt": "2021-12-02T09:58:51.297Z"
   }
 ]
