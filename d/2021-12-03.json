@@ -174,5 +174,13 @@
     "username": "beautifulswan677",
     "password": "howell",
     "invokedAt": "2021-12-03T22:59:04.484Z"
+  },
+  {
+    "firstName": "Else",
+    "lastName": "Bußmann",
+    "email": "else.bussmann@example.com",
+    "username": "blueladybug503",
+    "password": "market",
+    "invokedAt": "2021-12-03T23:59:07.049Z"
   }
 ]
