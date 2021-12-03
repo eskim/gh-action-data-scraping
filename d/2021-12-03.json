@@ -158,5 +158,13 @@
     "username": "lazypeacock933",
     "password": "sprout",
     "invokedAt": "2021-12-03T20:59:07.716Z"
+  },
+  {
+    "firstName": "Byron",
+    "lastName": "Payne",
+    "email": "byron.payne@example.com",
+    "username": "organicpanda166",
+    "password": "letsgo",
+    "invokedAt": "2021-12-03T21:59:07.416Z"
   }
 ]
