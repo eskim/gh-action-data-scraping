@@ -78,5 +78,13 @@
     "username": "ticklishkoala400",
     "password": "films",
     "invokedAt": "2021-12-03T09:58:46.045Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Lefebvre",
+    "email": "lucas.lefebvre@example.com",
+    "username": "purplezebra869",
+    "password": "dancing",
+    "invokedAt": "2021-12-03T10:58:53.787Z"
   }
 ]
