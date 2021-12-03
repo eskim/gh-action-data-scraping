@@ -86,5 +86,13 @@
     "username": "purplezebra869",
     "password": "dancing",
     "invokedAt": "2021-12-03T10:58:53.787Z"
+  },
+  {
+    "firstName": "Margitta",
+    "lastName": "Klinke",
+    "email": "margitta.klinke@example.com",
+    "username": "goldenbear926",
+    "password": "digital1",
+    "invokedAt": "2021-12-03T11:59:12.895Z"
   }
 ]
