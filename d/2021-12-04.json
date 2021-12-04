@@ -166,5 +166,13 @@
     "username": "heavytiger746",
     "password": "larry",
     "invokedAt": "2021-12-04T20:58:55.526Z"
+  },
+  {
+    "firstName": "Cooper",
+    "lastName": "White",
+    "email": "cooper.white@example.com",
+    "username": "bluesnake260",
+    "password": "banger",
+    "invokedAt": "2021-12-04T21:58:51.895Z"
   }
 ]
