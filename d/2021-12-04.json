@@ -182,5 +182,13 @@
     "username": "happygorilla434",
     "password": "bruiser",
     "invokedAt": "2021-12-04T22:58:52.157Z"
+  },
+  {
+    "firstName": "Mustafa",
+    "lastName": "Menemencioğlu",
+    "email": "mustafa.menemencioglu@example.com",
+    "username": "greenleopard507",
+    "password": "helper",
+    "invokedAt": "2021-12-04T23:59:05.515Z"
   }
 ]
