@@ -102,5 +102,13 @@
     "username": "goldenswan181",
     "password": "ilikeit",
     "invokedAt": "2021-12-04T13:12:08.952Z"
+  },
+  {
+    "firstName": "Sedef",
+    "lastName": "Yıldızoğlu",
+    "email": "sedef.yildizoglu@example.com",
+    "username": "browntiger122",
+    "password": "standard",
+    "invokedAt": "2021-12-04T13:59:06.458Z"
   }
 ]
