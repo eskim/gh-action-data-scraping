@@ -78,5 +78,13 @@
     "username": "bigelephant669",
     "password": "japanees",
     "invokedAt": "2021-12-05T09:58:49.387Z"
+  },
+  {
+    "firstName": "Naomi",
+    "lastName": "Dufour",
+    "email": "naomi.dufour@example.com",
+    "username": "heavypanda185",
+    "password": "1999",
+    "invokedAt": "2021-12-05T10:58:48.486Z"
   }
 ]
