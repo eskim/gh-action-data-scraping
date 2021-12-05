@@ -142,5 +142,13 @@
     "username": "happytiger552",
     "password": "hellfire",
     "invokedAt": "2021-12-05T17:58:49.549Z"
+  },
+  {
+    "firstName": "Wesley",
+    "lastName": "Hopkins",
+    "email": "wesley.hopkins@example.com",
+    "username": "goldenmeercat870",
+    "password": "cyber",
+    "invokedAt": "2021-12-05T18:58:54.015Z"
   }
 ]
