@@ -30,5 +30,13 @@
     "username": "yellowwolf777",
     "password": "sound",
     "invokedAt": "2021-12-05T03:58:50.952Z"
+  },
+  {
+    "firstName": "Amparo",
+    "lastName": "Ibañez",
+    "email": "amparo.ibanez@example.com",
+    "username": "heavywolf503",
+    "password": "vacation",
+    "invokedAt": "2021-12-05T05:01:17.089Z"
   }
 ]
