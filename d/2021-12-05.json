@@ -166,5 +166,13 @@
     "username": "purplebird626",
     "password": "wildman",
     "invokedAt": "2021-12-05T20:59:07.347Z"
+  },
+  {
+    "firstName": "Concepcion",
+    "lastName": "Ramos",
+    "email": "concepcion.ramos@example.com",
+    "username": "organicmeercat468",
+    "password": "starstar",
+    "invokedAt": "2021-12-05T21:59:01.662Z"
   }
 ]
