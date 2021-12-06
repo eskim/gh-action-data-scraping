@@ -54,5 +54,13 @@
     "username": "silverduck658",
     "password": "poland",
     "invokedAt": "2021-12-06T06:58:48.241Z"
+  },
+  {
+    "firstName": "Giray",
+    "lastName": "Okur",
+    "email": "giray.okur@example.com",
+    "username": "smallkoala582",
+    "password": "5050",
+    "invokedAt": "2021-12-06T07:59:09.690Z"
   }
 ]
