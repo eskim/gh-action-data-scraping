@@ -94,5 +94,13 @@
     "username": "silvermeercat419",
     "password": "usmarine",
     "invokedAt": "2021-12-06T11:59:02.761Z"
+  },
+  {
+    "firstName": "Sascha",
+    "lastName": "Rohrbach",
+    "email": "sascha.rohrbach@example.com",
+    "username": "yellowleopard746",
+    "password": "always",
+    "invokedAt": "2021-12-06T13:12:37.600Z"
   }
 ]
