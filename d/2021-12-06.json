@@ -134,5 +134,13 @@
     "username": "silverrabbit624",
     "password": "cookie1",
     "invokedAt": "2021-12-06T17:00:38.094Z"
+  },
+  {
+    "firstName": "Stanley",
+    "lastName": "Lane",
+    "email": "stanley.lane@example.com",
+    "username": "greentiger656",
+    "password": "zippo",
+    "invokedAt": "2021-12-06T17:59:16.517Z"
   }
 ]
