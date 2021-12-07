@@ -86,5 +86,13 @@
     "username": "organicrabbit116",
     "password": "popopo",
     "invokedAt": "2021-12-07T10:58:54.966Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Dubois",
+    "email": "henry.dubois@example.com",
+    "username": "happymouse884",
+    "password": "junk",
+    "invokedAt": "2021-12-07T11:59:11.711Z"
   }
 ]
