@@ -174,5 +174,13 @@
     "username": "silverpeacock642",
     "password": "kick",
     "invokedAt": "2021-12-08T21:59:11.625Z"
+  },
+  {
+    "firstName": "Nevaeh",
+    "lastName": "Evans",
+    "email": "nevaeh.evans@example.com",
+    "username": "lazytiger231",
+    "password": "rugby",
+    "invokedAt": "2021-12-08T22:58:49.237Z"
   }
 ]
