@@ -102,5 +102,13 @@
     "username": "tinytiger955",
     "password": "hotass",
     "invokedAt": "2021-12-08T13:13:05.997Z"
+  },
+  {
+    "firstName": "Jullian",
+    "lastName": "Leferink",
+    "email": "jullian.leferink@example.com",
+    "username": "reddog328",
+    "password": "boxcar",
+    "invokedAt": "2021-12-08T13:59:17.155Z"
   }
 ]
