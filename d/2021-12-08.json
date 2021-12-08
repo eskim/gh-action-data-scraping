@@ -182,5 +182,13 @@
     "username": "lazytiger231",
     "password": "rugby",
     "invokedAt": "2021-12-08T22:58:49.237Z"
+  },
+  {
+    "firstName": "Morris",
+    "lastName": "Gonzalez",
+    "email": "morris.gonzalez@example.com",
+    "username": "redpanda783",
+    "password": "connect",
+    "invokedAt": "2021-12-08T23:58:52.585Z"
   }
 ]
