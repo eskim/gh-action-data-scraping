@@ -38,5 +38,13 @@
     "username": "bigbear372",
     "password": "1030",
     "invokedAt": "2021-12-08T05:01:26.927Z"
+  },
+  {
+    "firstName": "Esat",
+    "lastName": "Ilıcalı",
+    "email": "esat.ilicali@example.com",
+    "username": "silvergorilla439",
+    "password": "slick",
+    "invokedAt": "2021-12-08T05:59:02.390Z"
   }
 ]
