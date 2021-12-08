@@ -158,5 +158,13 @@
     "username": "heavybird368",
     "password": "manson",
     "invokedAt": "2021-12-08T19:59:01.837Z"
+  },
+  {
+    "firstName": "Gaëtan",
+    "lastName": "Marchand",
+    "email": "gaetan.marchand@example.com",
+    "username": "purpletiger990",
+    "password": "pantera",
+    "invokedAt": "2021-12-08T20:58:58.163Z"
   }
 ]
