@@ -110,5 +110,13 @@
     "username": "yellowwolf129",
     "password": "xfiles",
     "invokedAt": "2021-12-09T13:58:52.682Z"
+  },
+  {
+    "firstName": "Karina",
+    "lastName": "Tokle",
+    "email": "karina.tokle@example.com",
+    "username": "orangewolf489",
+    "password": "lilith",
+    "invokedAt": "2021-12-09T15:03:27.422Z"
   }
 ]
