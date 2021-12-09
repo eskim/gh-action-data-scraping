@@ -102,5 +102,13 @@
     "username": "crazyduck488",
     "password": "girsl",
     "invokedAt": "2021-12-09T13:12:31.349Z"
+  },
+  {
+    "firstName": "Macit",
+    "lastName": "Biçer",
+    "email": "macit.bicer@example.com",
+    "username": "yellowwolf129",
+    "password": "xfiles",
+    "invokedAt": "2021-12-09T13:58:52.682Z"
   }
 ]
