@@ -182,5 +182,13 @@
     "username": "crazydog412",
     "password": "mushroom",
     "invokedAt": "2021-12-10T22:59:09.998Z"
+  },
+  {
+    "firstName": "Camille",
+    "lastName": "Sirko",
+    "email": "camille.sirko@example.com",
+    "username": "angryelephant468",
+    "password": "apple1",
+    "invokedAt": "2021-12-10T23:59:02.163Z"
   }
 ]
