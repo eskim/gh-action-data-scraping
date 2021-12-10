@@ -110,5 +110,13 @@
     "username": "tinyfrog205",
     "password": "butthead",
     "invokedAt": "2021-12-10T13:58:54.918Z"
+  },
+  {
+    "firstName": "Mestan",
+    "lastName": "Dizdar",
+    "email": "mestan.dizdar@example.com",
+    "username": "purplefrog334",
+    "password": "generic",
+    "invokedAt": "2021-12-10T14:59:22.909Z"
   }
 ]
