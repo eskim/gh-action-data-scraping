@@ -118,5 +118,13 @@
     "username": "purplefrog334",
     "password": "generic",
     "invokedAt": "2021-12-10T14:59:22.909Z"
+  },
+  {
+    "firstName": "Christina",
+    "lastName": "Douglas",
+    "email": "christina.douglas@example.com",
+    "username": "brownbear607",
+    "password": "stolen",
+    "invokedAt": "2021-12-10T15:58:54.169Z"
   }
 ]
