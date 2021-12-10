@@ -14,5 +14,13 @@
     "username": "beautifulduck619",
     "password": "blackout",
     "invokedAt": "2021-12-10T02:19:59.195Z"
+  },
+  {
+    "firstName": "Fernando",
+    "lastName": "Tucker",
+    "email": "fernando.tucker@example.com",
+    "username": "orangepanda842",
+    "password": "hong",
+    "invokedAt": "2021-12-10T02:58:54.219Z"
   }
 ]
