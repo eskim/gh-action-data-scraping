@@ -102,5 +102,13 @@
     "username": "smalldog637",
     "password": "whatup",
     "invokedAt": "2021-12-11T13:10:03.801Z"
+  },
+  {
+    "firstName": "Raul",
+    "lastName": "Carmona",
+    "email": "raul.carmona@example.com",
+    "username": "goldenwolf417",
+    "password": "jjjjjj",
+    "invokedAt": "2021-12-11T13:58:59.596Z"
   }
 ]
