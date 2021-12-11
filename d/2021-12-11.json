@@ -134,5 +134,13 @@
     "username": "purplefrog222",
     "password": "1991",
     "invokedAt": "2021-12-11T17:09:35.627Z"
+  },
+  {
+    "firstName": "تینا",
+    "lastName": "نجاتی",
+    "email": "tyn.njty@example.com",
+    "username": "browncat858",
+    "password": "baggins",
+    "invokedAt": "2021-12-11T17:58:50.215Z"
   }
 ]
