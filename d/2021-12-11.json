@@ -62,5 +62,13 @@
     "username": "greengorilla331",
     "password": "lightning",
     "invokedAt": "2021-12-11T07:59:11.162Z"
+  },
+  {
+    "firstName": "Hans-Ulrich",
+    "lastName": "Rodriguez",
+    "email": "hans-ulrich.rodriguez@example.com",
+    "username": "angryelephant844",
+    "password": "delta1",
+    "invokedAt": "2021-12-11T08:58:46.425Z"
   }
 ]
