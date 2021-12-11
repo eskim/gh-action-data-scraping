@@ -54,5 +54,13 @@
     "username": "beautifulelephant883",
     "password": "willow",
     "invokedAt": "2021-12-11T06:58:51.149Z"
+  },
+  {
+    "firstName": "Wendy",
+    "lastName": "Lee",
+    "email": "wendy.lee@example.com",
+    "username": "greengorilla331",
+    "password": "lightning",
+    "invokedAt": "2021-12-11T07:59:11.162Z"
   }
 ]
