@@ -182,5 +182,13 @@
     "username": "goldengorilla957",
     "password": "robocop",
     "invokedAt": "2021-12-11T22:58:59.850Z"
+  },
+  {
+    "firstName": "Ola",
+    "lastName": "Sæther",
+    "email": "ola.saether@example.com",
+    "username": "heavywolf598",
+    "password": "sigma",
+    "invokedAt": "2021-12-11T23:59:14.587Z"
   }
 ]
