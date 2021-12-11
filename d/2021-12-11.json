@@ -158,5 +158,13 @@
     "username": "redkoala824",
     "password": "united",
     "invokedAt": "2021-12-11T19:58:54.589Z"
+  },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Köylüoğlu",
+    "email": "ahmet.koyluoglu@example.com",
+    "username": "crazyzebra608",
+    "password": "skibum",
+    "invokedAt": "2021-12-11T20:58:50.942Z"
   }
 ]
