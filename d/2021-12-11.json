@@ -70,5 +70,13 @@
     "username": "angryelephant844",
     "password": "delta1",
     "invokedAt": "2021-12-11T08:58:46.425Z"
+  },
+  {
+    "firstName": "Seyyid",
+    "lastName": "Van Baardewijk",
+    "email": "seyyid.vanbaardewijk@example.com",
+    "username": "happybear874",
+    "password": "blacky",
+    "invokedAt": "2021-12-11T09:59:01.912Z"
   }
 ]
