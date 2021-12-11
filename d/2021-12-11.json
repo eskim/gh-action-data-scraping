@@ -174,5 +174,13 @@
     "username": "beautifulsnake128",
     "password": "racerx",
     "invokedAt": "2021-12-11T21:58:57.148Z"
+  },
+  {
+    "firstName": "Arya",
+    "lastName": "Arnevik",
+    "email": "arya.arnevik@example.com",
+    "username": "goldengorilla957",
+    "password": "robocop",
+    "invokedAt": "2021-12-11T22:58:59.850Z"
   }
 ]
