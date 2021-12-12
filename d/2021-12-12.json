@@ -174,5 +174,13 @@
     "username": "purplegorilla246",
     "password": "apples",
     "invokedAt": "2021-12-12T21:59:03.526Z"
+  },
+  {
+    "firstName": "Vanessa",
+    "lastName": "Neal",
+    "email": "vanessa.neal@example.com",
+    "username": "brownostrich817",
+    "password": "jenn",
+    "invokedAt": "2021-12-12T22:59:01.629Z"
   }
 ]
