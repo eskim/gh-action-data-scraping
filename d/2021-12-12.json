@@ -78,5 +78,13 @@
     "username": "whiteleopard544",
     "password": "invis",
     "invokedAt": "2021-12-12T09:59:04.632Z"
+  },
+  {
+    "firstName": "Mário",
+    "lastName": "Gomes",
+    "email": "mario.gomes@example.com",
+    "username": "purpledog925",
+    "password": "micro",
+    "invokedAt": "2021-12-12T10:59:03.894Z"
   }
 ]
