@@ -86,5 +86,13 @@
     "username": "purpledog925",
     "password": "micro",
     "invokedAt": "2021-12-12T10:59:03.894Z"
+  },
+  {
+    "firstName": "Evita",
+    "lastName": "da Paz",
+    "email": "evita.dapaz@example.com",
+    "username": "lazybird803",
+    "password": "aaron",
+    "invokedAt": "2021-12-12T11:59:05.228Z"
   }
 ]
