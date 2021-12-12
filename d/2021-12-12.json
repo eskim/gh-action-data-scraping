@@ -110,5 +110,13 @@
     "username": "organicmouse528",
     "password": "fandango",
     "invokedAt": "2021-12-12T13:58:53.486Z"
+  },
+  {
+    "firstName": "Tinita",
+    "lastName": "Rocha",
+    "email": "tinita.rocha@example.com",
+    "username": "sadbutterfly761",
+    "password": "carnage",
+    "invokedAt": "2021-12-12T14:59:00.986Z"
   }
 ]
