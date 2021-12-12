@@ -126,5 +126,13 @@
     "username": "angrybird857",
     "password": "imagine",
     "invokedAt": "2021-12-12T15:58:48.993Z"
+  },
+  {
+    "firstName": "محمد",
+    "lastName": "محمدخان",
+    "email": "mhmd.mhmdkhn@example.com",
+    "username": "crazyrabbit706",
+    "password": "american",
+    "invokedAt": "2021-12-12T17:09:49.650Z"
   }
 ]
