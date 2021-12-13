@@ -62,5 +62,13 @@
     "username": "crazyleopard323",
     "password": "colorado",
     "invokedAt": "2021-12-13T07:59:17.790Z"
+  },
+  {
+    "firstName": "Ceylan",
+    "lastName": "Topçuoğlu",
+    "email": "ceylan.topcuoglu@example.com",
+    "username": "crazyladybug562",
+    "password": "alaska",
+    "invokedAt": "2021-12-13T08:58:51.243Z"
   }
 ]
