@@ -182,5 +182,13 @@
     "username": "greenfrog625",
     "password": "egghead",
     "invokedAt": "2021-12-13T22:59:02.015Z"
+  },
+  {
+    "firstName": "Marshall",
+    "lastName": "Reid",
+    "email": "marshall.reid@example.com",
+    "username": "silverfish861",
+    "password": "masturbation",
+    "invokedAt": "2021-12-13T23:59:08.974Z"
   }
 ]
