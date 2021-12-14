@@ -102,5 +102,13 @@
     "username": "bluebear799",
     "password": "amazon",
     "invokedAt": "2021-12-14T13:11:34.861Z"
+  },
+  {
+    "firstName": "Eleutério",
+    "lastName": "Farias",
+    "email": "eleuterio.farias@example.com",
+    "username": "goldenfish480",
+    "password": "nation",
+    "invokedAt": "2021-12-14T13:58:52.866Z"
   }
 ]
