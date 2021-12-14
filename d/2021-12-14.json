@@ -46,5 +46,13 @@
     "username": "orangecat403",
     "password": "uptown",
     "invokedAt": "2021-12-14T05:59:16.094Z"
+  },
+  {
+    "firstName": "Maeva",
+    "lastName": "Liu",
+    "email": "maeva.liu@example.com",
+    "username": "bluezebra755",
+    "password": "lust",
+    "invokedAt": "2021-12-14T06:58:50.834Z"
   }
 ]
