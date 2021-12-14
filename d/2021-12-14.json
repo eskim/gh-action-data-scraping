@@ -166,5 +166,13 @@
     "username": "tinytiger738",
     "password": "spectre",
     "invokedAt": "2021-12-14T20:58:48.175Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Petersen",
+    "email": "maria.petersen@example.com",
+    "username": "yellowsnake907",
+    "password": "bella",
+    "invokedAt": "2021-12-14T21:59:05.258Z"
   }
 ]
