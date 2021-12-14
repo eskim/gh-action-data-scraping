@@ -38,5 +38,13 @@
     "username": "organicgoose402",
     "password": "carrera",
     "invokedAt": "2021-12-14T05:00:46.566Z"
+  },
+  {
+    "firstName": "Lola",
+    "lastName": "Fabre",
+    "email": "lola.fabre@example.com",
+    "username": "orangecat403",
+    "password": "uptown",
+    "invokedAt": "2021-12-14T05:59:16.094Z"
   }
 ]
