@@ -94,5 +94,13 @@
     "username": "sadmeercat370",
     "password": "driven",
     "invokedAt": "2021-12-14T11:58:52.021Z"
+  },
+  {
+    "firstName": "Naja",
+    "lastName": "Larsen",
+    "email": "naja.larsen@example.com",
+    "username": "bluebear799",
+    "password": "amazon",
+    "invokedAt": "2021-12-14T13:11:34.861Z"
   }
 ]
