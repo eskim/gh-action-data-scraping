@@ -38,5 +38,13 @@
     "username": "heavyfrog735",
     "password": "mexico",
     "invokedAt": "2021-12-15T05:00:56.242Z"
+  },
+  {
+    "firstName": "Martha",
+    "lastName": "Rodriquez",
+    "email": "martha.rodriquez@example.com",
+    "username": "goldenmouse488",
+    "password": "87654321",
+    "invokedAt": "2021-12-15T05:58:55.768Z"
   }
 ]
