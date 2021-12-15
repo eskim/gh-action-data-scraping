@@ -94,5 +94,13 @@
     "username": "purplewolf559",
     "password": "fester",
     "invokedAt": "2021-12-15T11:59:14.098Z"
+  },
+  {
+    "firstName": "Maren",
+    "lastName": "Rustand",
+    "email": "maren.rustand@example.com",
+    "username": "whiteswan998",
+    "password": "travel",
+    "invokedAt": "2021-12-15T13:11:52.639Z"
   }
 ]
