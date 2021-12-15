@@ -86,5 +86,13 @@
     "username": "smallpeacock105",
     "password": "corsair",
     "invokedAt": "2021-12-15T10:59:10.543Z"
+  },
+  {
+    "firstName": "Maciel",
+    "lastName": "Freitas",
+    "email": "maciel.freitas@example.com",
+    "username": "purplewolf559",
+    "password": "fester",
+    "invokedAt": "2021-12-15T11:59:14.098Z"
   }
 ]
