@@ -78,5 +78,13 @@
     "username": "tinyrabbit111",
     "password": "excess",
     "invokedAt": "2021-12-15T09:58:56.450Z"
+  },
+  {
+    "firstName": "Esma",
+    "lastName": "Günday",
+    "email": "esma.gunday@example.com",
+    "username": "smallpeacock105",
+    "password": "corsair",
+    "invokedAt": "2021-12-15T10:59:10.543Z"
   }
 ]
