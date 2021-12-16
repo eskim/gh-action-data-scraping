@@ -86,5 +86,13 @@
     "username": "browndog332",
     "password": "bills",
     "invokedAt": "2021-12-16T10:59:05.391Z"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Nichols",
+    "email": "diana.nichols@example.com",
+    "username": "orangepanda856",
+    "password": "forum",
+    "invokedAt": "2021-12-16T11:58:53.552Z"
   }
 ]
