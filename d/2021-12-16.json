@@ -54,5 +54,13 @@
     "username": "whitemeercat884",
     "password": "chicken1",
     "invokedAt": "2021-12-16T06:58:51.693Z"
+  },
+  {
+    "firstName": "Sigmund",
+    "lastName": "Rolf",
+    "email": "sigmund.rolf@example.com",
+    "username": "bluepeacock545",
+    "password": "gmoney",
+    "invokedAt": "2021-12-16T07:58:57.723Z"
   }
 ]
