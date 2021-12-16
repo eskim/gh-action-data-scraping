@@ -166,5 +166,13 @@
     "username": "orangeduck428",
     "password": "sierra",
     "invokedAt": "2021-12-16T20:58:54.616Z"
+  },
+  {
+    "firstName": "Ricardo",
+    "lastName": "Gomez",
+    "email": "ricardo.gomez@example.com",
+    "username": "purplemouse459",
+    "password": "films+pic+galeries",
+    "invokedAt": "2021-12-16T21:59:08.310Z"
   }
 ]
