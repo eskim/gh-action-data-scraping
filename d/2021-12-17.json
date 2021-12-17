@@ -54,5 +54,13 @@
     "username": "ticklishmeercat666",
     "password": "duchess",
     "invokedAt": "2021-12-17T06:58:55.809Z"
+  },
+  {
+    "firstName": "Leonardo",
+    "lastName": "Blanchard",
+    "email": "leonardo.blanchard@example.com",
+    "username": "bluefish368",
+    "password": "racing",
+    "invokedAt": "2021-12-17T07:58:52.200Z"
   }
 ]
