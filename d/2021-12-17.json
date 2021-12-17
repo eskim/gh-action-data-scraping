@@ -102,5 +102,13 @@
     "username": "bluedog546",
     "password": "leedsutd",
     "invokedAt": "2021-12-17T13:10:51.832Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Furunes",
+    "email": "emil.furunes@example.com",
+    "username": "purpleladybug519",
+    "password": "platypus",
+    "invokedAt": "2021-12-17T13:59:06.337Z"
   }
 ]
