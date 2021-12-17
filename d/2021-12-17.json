@@ -30,5 +30,13 @@
     "username": "greenbird535",
     "password": "supra",
     "invokedAt": "2021-12-17T03:58:55.103Z"
+  },
+  {
+    "firstName": "Batur",
+    "lastName": "Bakırcıoğlu",
+    "email": "batur.bakircioglu@example.com",
+    "username": "smallelephant917",
+    "password": "azerty",
+    "invokedAt": "2021-12-17T05:00:56.971Z"
   }
 ]
