@@ -86,5 +86,13 @@
     "username": "redbird813",
     "password": "pudding",
     "invokedAt": "2021-12-18T10:59:00.162Z"
+  },
+  {
+    "firstName": "Ismail",
+    "lastName": "Petit",
+    "email": "ismail.petit@example.com",
+    "username": "goldenzebra417",
+    "password": "maximum",
+    "invokedAt": "2021-12-18T11:59:04.103Z"
   }
 ]
