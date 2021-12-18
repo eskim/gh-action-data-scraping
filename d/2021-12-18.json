@@ -150,5 +150,13 @@
     "username": "ticklishbird890",
     "password": "bigbird",
     "invokedAt": "2021-12-18T18:58:55.115Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Çamdalı",
+    "email": "ulku.camdali@example.com",
+    "username": "beautifulbutterfly822",
+    "password": "jamesbond",
+    "invokedAt": "2021-12-18T19:58:57.070Z"
   }
 ]
