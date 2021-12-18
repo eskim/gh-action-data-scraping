@@ -126,5 +126,13 @@
     "username": "purplefish513",
     "password": "hotlips",
     "invokedAt": "2021-12-18T15:58:54.058Z"
+  },
+  {
+    "firstName": "Yvete",
+    "lastName": "Rezende",
+    "email": "yvete.rezende@example.com",
+    "username": "greenwolf110",
+    "password": "frost",
+    "invokedAt": "2021-12-18T17:11:18.835Z"
   }
 ]
