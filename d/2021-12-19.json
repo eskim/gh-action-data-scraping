@@ -46,5 +46,13 @@
     "username": "heavytiger777",
     "password": "claudia",
     "invokedAt": "2021-12-19T06:58:50.493Z"
+  },
+  {
+    "firstName": "Elia",
+    "lastName": "Faure",
+    "email": "elia.faure@example.com",
+    "username": "heavylion357",
+    "password": "smackdow",
+    "invokedAt": "2021-12-19T07:59:18.657Z"
   }
 ]
