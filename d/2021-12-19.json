@@ -78,5 +78,13 @@
     "username": "crazykoala566",
     "password": "speedy",
     "invokedAt": "2021-12-19T10:58:55.125Z"
+  },
+  {
+    "firstName": "Kirstin",
+    "lastName": "Pfennig",
+    "email": "kirstin.pfennig@example.com",
+    "username": "redcat724",
+    "password": "xiong",
+    "invokedAt": "2021-12-19T11:59:13.582Z"
   }
 ]
