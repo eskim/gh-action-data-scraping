@@ -62,5 +62,13 @@
     "username": "blackostrich196",
     "password": "southpark",
     "invokedAt": "2021-12-20T07:59:06.830Z"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Lopez",
+    "email": "lucy.lopez@example.com",
+    "username": "goldenleopard821",
+    "password": "spanish",
+    "invokedAt": "2021-12-20T08:58:57.759Z"
   }
 ]
