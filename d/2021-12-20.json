@@ -126,5 +126,13 @@
     "username": "organicrabbit836",
     "password": "sports",
     "invokedAt": "2021-12-20T15:58:59.755Z"
+  },
+  {
+    "firstName": "Frederik",
+    "lastName": "Hansen",
+    "email": "frederik.hansen@example.com",
+    "username": "lazytiger356",
+    "password": "zhui",
+    "invokedAt": "2021-12-20T17:14:28.555Z"
   }
 ]
