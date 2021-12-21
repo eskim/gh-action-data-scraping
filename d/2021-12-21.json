@@ -158,5 +158,13 @@
     "username": "bluebird998",
     "password": "reginald",
     "invokedAt": "2021-12-21T19:58:56.495Z"
+  },
+  {
+    "firstName": "Katherine",
+    "lastName": "Cruz",
+    "email": "katherine.cruz@example.com",
+    "username": "yellowgorilla169",
+    "password": "meme",
+    "invokedAt": "2021-12-21T20:59:05.133Z"
   }
 ]
