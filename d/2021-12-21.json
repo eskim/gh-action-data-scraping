@@ -54,5 +54,13 @@
     "username": "angrygorilla204",
     "password": "survivor",
     "invokedAt": "2021-12-21T06:58:51.165Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Wirkkala",
+    "email": "valtteri.wirkkala@example.com",
+    "username": "yellowbutterfly426",
+    "password": "bigbird",
+    "invokedAt": "2021-12-21T07:59:21.866Z"
   }
 ]
