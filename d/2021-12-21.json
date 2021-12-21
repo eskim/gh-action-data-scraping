@@ -86,5 +86,13 @@
     "username": "goldenostrich349",
     "password": "superfly",
     "invokedAt": "2021-12-21T10:58:52.215Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Grant",
+    "email": "miguel.grant@example.com",
+    "username": "purplezebra852",
+    "password": "789789",
+    "invokedAt": "2021-12-21T11:59:12.269Z"
   }
 ]
