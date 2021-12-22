@@ -166,5 +166,13 @@
     "username": "blackswan707",
     "password": "nomore",
     "invokedAt": "2021-12-22T20:58:52.214Z"
+  },
+  {
+    "firstName": "Isaiah",
+    "lastName": "Kim",
+    "email": "isaiah.kim@example.com",
+    "username": "organicpeacock920",
+    "password": "deep",
+    "invokedAt": "2021-12-22T21:58:45.810Z"
   }
 ]
