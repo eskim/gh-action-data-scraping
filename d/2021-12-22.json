@@ -78,5 +78,13 @@
     "username": "purpledog124",
     "password": "hardrock",
     "invokedAt": "2021-12-22T09:59:00.131Z"
+  },
+  {
+    "firstName": "Selina",
+    "lastName": "Klette",
+    "email": "selina.klette@example.com",
+    "username": "yellowkoala463",
+    "password": "spirit",
+    "invokedAt": "2021-12-22T10:58:46.256Z"
   }
 ]
