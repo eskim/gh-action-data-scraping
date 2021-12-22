@@ -110,5 +110,13 @@
     "username": "goldenzebra953",
     "password": "newpass",
     "invokedAt": "2021-12-22T13:58:55.666Z"
+  },
+  {
+    "firstName": "Munira",
+    "lastName": "Jordan",
+    "email": "munira.jordan@example.com",
+    "username": "brownzebra754",
+    "password": "kiteboy",
+    "invokedAt": "2021-12-22T14:59:00.880Z"
   }
 ]
