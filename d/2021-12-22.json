@@ -38,5 +38,13 @@
     "username": "tinybird657",
     "password": "drowssap",
     "invokedAt": "2021-12-22T05:03:38.531Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Montero",
+    "email": "daniel.montero@example.com",
+    "username": "silvertiger127",
+    "password": "snapon",
+    "invokedAt": "2021-12-22T05:59:26.070Z"
   }
 ]
