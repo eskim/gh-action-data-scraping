@@ -118,5 +118,13 @@
     "username": "brownzebra754",
     "password": "kiteboy",
     "invokedAt": "2021-12-22T14:59:00.880Z"
+  },
+  {
+    "firstName": "Mathilde",
+    "lastName": "Mortensen",
+    "email": "mathilde.mortensen@example.com",
+    "username": "lazypeacock176",
+    "password": "indy",
+    "invokedAt": "2021-12-22T15:58:55.705Z"
   }
 ]
