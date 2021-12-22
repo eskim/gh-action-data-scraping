@@ -174,5 +174,13 @@
     "username": "organicpeacock920",
     "password": "deep",
     "invokedAt": "2021-12-22T21:58:45.810Z"
+  },
+  {
+    "firstName": "Leroy",
+    "lastName": "Pearson",
+    "email": "leroy.pearson@example.com",
+    "username": "crazyelephant153",
+    "password": "shinobi",
+    "invokedAt": "2021-12-22T22:58:54.167Z"
   }
 ]
