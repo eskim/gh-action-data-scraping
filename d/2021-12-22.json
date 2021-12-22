@@ -102,5 +102,13 @@
     "username": "blackgorilla104",
     "password": "napoleon",
     "invokedAt": "2021-12-22T13:13:16.146Z"
+  },
+  {
+    "firstName": "ستایش",
+    "lastName": "سهيلي راد",
+    "email": "stysh.shylyrd@example.com",
+    "username": "goldenzebra953",
+    "password": "newpass",
+    "invokedAt": "2021-12-22T13:58:55.666Z"
   }
 ]
