@@ -126,5 +126,13 @@
     "username": "lazypeacock176",
     "password": "indy",
     "invokedAt": "2021-12-22T15:58:55.705Z"
+  },
+  {
+    "firstName": "Mem",
+    "lastName": "de Souza",
+    "email": "mem.desouza@example.com",
+    "username": "heavydog598",
+    "password": "wrinkle1",
+    "invokedAt": "2021-12-22T17:13:27.472Z"
   }
 ]
