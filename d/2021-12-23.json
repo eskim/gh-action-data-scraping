@@ -118,5 +118,13 @@
     "username": "bigleopard761",
     "password": "garbage",
     "invokedAt": "2021-12-23T14:59:03.263Z"
+  },
+  {
+    "firstName": "Georgia",
+    "lastName": "Li",
+    "email": "georgia.li@example.com",
+    "username": "organiczebra892",
+    "password": "asian",
+    "invokedAt": "2021-12-23T15:59:01.783Z"
   }
 ]
