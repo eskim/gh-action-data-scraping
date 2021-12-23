@@ -126,5 +126,13 @@
     "username": "organiczebra892",
     "password": "asian",
     "invokedAt": "2021-12-23T15:59:01.783Z"
+  },
+  {
+    "firstName": "Angie",
+    "lastName": "Jackson",
+    "email": "angie.jackson@example.com",
+    "username": "bluezebra522",
+    "password": "soul",
+    "invokedAt": "2021-12-23T17:13:10.124Z"
   }
 ]
