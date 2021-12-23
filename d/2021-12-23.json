@@ -158,5 +158,13 @@
     "username": "ticklishsnake162",
     "password": "plasma",
     "invokedAt": "2021-12-23T19:59:12.815Z"
+  },
+  {
+    "firstName": "Nicole",
+    "lastName": "Boyd",
+    "email": "nicole.boyd@example.com",
+    "username": "purpleleopard162",
+    "password": "spyder",
+    "invokedAt": "2021-12-23T20:59:07.075Z"
   }
 ]
