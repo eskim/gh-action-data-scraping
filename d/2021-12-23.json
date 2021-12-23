@@ -174,5 +174,13 @@
     "username": "happybear417",
     "password": "bbbbbb",
     "invokedAt": "2021-12-23T21:59:10.282Z"
+  },
+  {
+    "firstName": "Antonino",
+    "lastName": "Greger",
+    "email": "antonino.greger@example.com",
+    "username": "tinybutterfly546",
+    "password": "pitchers",
+    "invokedAt": "2021-12-23T22:58:54.141Z"
   }
 ]
