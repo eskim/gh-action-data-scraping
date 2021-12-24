@@ -142,5 +142,13 @@
     "username": "angrypanda207",
     "password": "chad",
     "invokedAt": "2021-12-24T17:59:01.403Z"
+  },
+  {
+    "firstName": "Ragnar",
+    "lastName": "Juvik",
+    "email": "ragnar.juvik@example.com",
+    "username": "crazybutterfly185",
+    "password": "mentor",
+    "invokedAt": "2021-12-24T18:58:54.804Z"
   }
 ]
