@@ -86,5 +86,13 @@
     "username": "angrylion301",
     "password": "trainer",
     "invokedAt": "2021-12-24T10:59:04.277Z"
+  },
+  {
+    "firstName": "Estênia",
+    "lastName": "Jesus",
+    "email": "estenia.jesus@example.com",
+    "username": "organiclion476",
+    "password": "ready",
+    "invokedAt": "2021-12-24T11:59:12.443Z"
   }
 ]
