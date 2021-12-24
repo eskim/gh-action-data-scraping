@@ -158,5 +158,13 @@
     "username": "goldenswan187",
     "password": "hurrican",
     "invokedAt": "2021-12-24T19:59:09.065Z"
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Fowler",
+    "email": "kevin.fowler@example.com",
+    "username": "beautifultiger631",
+    "password": "private1",
+    "invokedAt": "2021-12-24T20:58:55.770Z"
   }
 ]
