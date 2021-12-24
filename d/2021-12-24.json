@@ -126,5 +126,13 @@
     "username": "organictiger805",
     "password": "womans",
     "invokedAt": "2021-12-24T15:58:57.099Z"
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Taylor",
+    "email": "stella.taylor@example.com",
+    "username": "crazyfrog400",
+    "password": "charlott",
+    "invokedAt": "2021-12-24T17:12:37.666Z"
   }
 ]
