@@ -182,5 +182,13 @@
     "username": "yellowpanda746",
     "password": "triangle",
     "invokedAt": "2021-12-24T22:58:58.902Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Huotari",
+    "email": "valtteri.huotari@example.com",
+    "username": "organicwolf362",
+    "password": "emmett",
+    "invokedAt": "2021-12-24T23:59:10.228Z"
   }
 ]
