@@ -22,5 +22,13 @@
     "username": "redduck827",
     "password": "sascha",
     "invokedAt": "2021-12-24T03:00:07.717Z"
+  },
+  {
+    "firstName": "Urs",
+    "lastName": "Moreau",
+    "email": "urs.moreau@example.com",
+    "username": "purpledog784",
+    "password": "fritz",
+    "invokedAt": "2021-12-24T03:58:53.811Z"
   }
 ]
