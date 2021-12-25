@@ -166,5 +166,13 @@
     "username": "sadfish884",
     "password": "deadpool",
     "invokedAt": "2021-12-25T20:58:58.036Z"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Diaz",
+    "email": "kyle.diaz@example.com",
+    "username": "brownzebra848",
+    "password": "astrid",
+    "invokedAt": "2021-12-25T21:59:13.617Z"
   }
 ]
