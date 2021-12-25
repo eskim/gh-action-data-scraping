@@ -158,5 +158,13 @@
     "username": "bluetiger220",
     "password": "twiggy",
     "invokedAt": "2021-12-25T19:59:07.587Z"
+  },
+  {
+    "firstName": "Norman",
+    "lastName": "Bradley",
+    "email": "norman.bradley@example.com",
+    "username": "sadfish884",
+    "password": "deadpool",
+    "invokedAt": "2021-12-25T20:58:58.036Z"
   }
 ]
