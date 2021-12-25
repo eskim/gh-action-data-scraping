@@ -150,5 +150,13 @@
     "username": "crazyleopard546",
     "password": "checkers",
     "invokedAt": "2021-12-25T18:58:53.145Z"
+  },
+  {
+    "firstName": "Veeti",
+    "lastName": "Laakso",
+    "email": "veeti.laakso@example.com",
+    "username": "bluetiger220",
+    "password": "twiggy",
+    "invokedAt": "2021-12-25T19:59:07.587Z"
   }
 ]
