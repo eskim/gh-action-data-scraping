@@ -126,5 +126,13 @@
     "username": "beautifulbutterfly270",
     "password": "sophie",
     "invokedAt": "2021-12-25T15:59:01.582Z"
+  },
+  {
+    "firstName": "Linnea",
+    "lastName": "Laine",
+    "email": "linnea.laine@example.com",
+    "username": "brownsnake125",
+    "password": "meme",
+    "invokedAt": "2021-12-25T17:11:32.864Z"
   }
 ]
