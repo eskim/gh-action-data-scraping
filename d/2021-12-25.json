@@ -134,5 +134,13 @@
     "username": "brownsnake125",
     "password": "meme",
     "invokedAt": "2021-12-25T17:11:32.864Z"
+  },
+  {
+    "firstName": "Carmen",
+    "lastName": "Sievert",
+    "email": "carmen.sievert@example.com",
+    "username": "organicrabbit783",
+    "password": "cromwell",
+    "invokedAt": "2021-12-25T17:58:55.743Z"
   }
 ]
