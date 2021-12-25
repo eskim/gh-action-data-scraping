@@ -118,5 +118,13 @@
     "username": "redbutterfly253",
     "password": "highway",
     "invokedAt": "2021-12-25T14:58:52.949Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Louis",
+    "email": "vincent.louis@example.com",
+    "username": "beautifulbutterfly270",
+    "password": "sophie",
+    "invokedAt": "2021-12-25T15:59:01.582Z"
   }
 ]
