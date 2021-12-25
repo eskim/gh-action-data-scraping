@@ -142,5 +142,13 @@
     "username": "organicrabbit783",
     "password": "cromwell",
     "invokedAt": "2021-12-25T17:58:55.743Z"
+  },
+  {
+    "firstName": "Agnes",
+    "lastName": "Althaus",
+    "email": "agnes.althaus@example.com",
+    "username": "crazyleopard546",
+    "password": "checkers",
+    "invokedAt": "2021-12-25T18:58:53.145Z"
   }
 ]
