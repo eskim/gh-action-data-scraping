@@ -174,5 +174,13 @@
     "username": "crazymeercat874",
     "password": "boricua",
     "invokedAt": "2021-12-26T22:59:06.113Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Bravo",
+    "email": "daniel.bravo@example.com",
+    "username": "brownpeacock699",
+    "password": "webmaster",
+    "invokedAt": "2021-12-26T23:58:55.431Z"
   }
 ]
