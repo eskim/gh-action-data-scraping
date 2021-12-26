@@ -78,5 +78,13 @@
     "username": "crazytiger457",
     "password": "kansas",
     "invokedAt": "2021-12-26T10:58:52.069Z"
+  },
+  {
+    "firstName": "Concepcion",
+    "lastName": "Fernandez",
+    "email": "concepcion.fernandez@example.com",
+    "username": "whiteostrich208",
+    "password": "iloveyou1",
+    "invokedAt": "2021-12-26T11:59:00.625Z"
   }
 ]
