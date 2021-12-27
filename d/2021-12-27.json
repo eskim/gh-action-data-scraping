@@ -94,5 +94,13 @@
     "username": "brownbear395",
     "password": "million",
     "invokedAt": "2021-12-27T12:00:48.662Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Sørensen",
+    "email": "laura.sorensen@example.com",
+    "username": "smallostrich352",
+    "password": "rockets",
+    "invokedAt": "2021-12-27T13:22:44.431Z"
   }
 ]
