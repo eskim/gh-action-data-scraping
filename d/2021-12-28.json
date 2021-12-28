@@ -118,5 +118,13 @@
     "username": "organiclion952",
     "password": "catalina",
     "invokedAt": "2021-12-28T14:58:58.099Z"
+  },
+  {
+    "firstName": "Mille",
+    "lastName": "Petersen",
+    "email": "mille.petersen@example.com",
+    "username": "purpletiger485",
+    "password": "fergus",
+    "invokedAt": "2021-12-28T15:58:50.844Z"
   }
 ]
