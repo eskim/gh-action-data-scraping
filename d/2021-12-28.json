@@ -86,5 +86,13 @@
     "username": "angrysnake955",
     "password": "robotech",
     "invokedAt": "2021-12-28T10:59:06.295Z"
+  },
+  {
+    "firstName": "Celia",
+    "lastName": "Navarro",
+    "email": "celia.navarro@example.com",
+    "username": "sadbird390",
+    "password": "sandy1",
+    "invokedAt": "2021-12-28T11:59:13.718Z"
   }
 ]
