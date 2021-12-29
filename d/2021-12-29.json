@@ -102,5 +102,13 @@
     "username": "happytiger190",
     "password": "rolltide",
     "invokedAt": "2021-12-29T13:12:57.221Z"
+  },
+  {
+    "firstName": "Rafael",
+    "lastName": "Bowman",
+    "email": "rafael.bowman@example.com",
+    "username": "redelephant482",
+    "password": "fantasies",
+    "invokedAt": "2021-12-29T13:59:10.382Z"
   }
 ]
