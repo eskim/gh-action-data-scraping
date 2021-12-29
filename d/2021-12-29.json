@@ -94,5 +94,13 @@
     "username": "bigfish193",
     "password": "dodgers",
     "invokedAt": "2021-12-29T11:58:54.698Z"
+  },
+  {
+    "firstName": "Georgia",
+    "lastName": "Graß",
+    "email": "georgia.grass@example.com",
+    "username": "happytiger190",
+    "password": "rolltide",
+    "invokedAt": "2021-12-29T13:12:57.221Z"
   }
 ]
