@@ -182,5 +182,13 @@
     "username": "crazymeercat392",
     "password": "harrier",
     "invokedAt": "2021-12-29T22:58:59.904Z"
+  },
+  {
+    "firstName": "Bonifácio",
+    "lastName": "da Cunha",
+    "email": "bonifacio.dacunha@example.com",
+    "username": "smallsnake598",
+    "password": "godzilla",
+    "invokedAt": "2021-12-29T23:58:49.353Z"
   }
 ]
