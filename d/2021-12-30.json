@@ -94,5 +94,13 @@
     "username": "crazyzebra839",
     "password": "gallaries",
     "invokedAt": "2021-12-30T11:58:58.730Z"
+  },
+  {
+    "firstName": "Elma",
+    "lastName": "Haukenes",
+    "email": "elma.haukenes@example.com",
+    "username": "smallfrog983",
+    "password": "freedom",
+    "invokedAt": "2021-12-30T13:12:45.178Z"
   }
 ]
