@@ -46,5 +46,13 @@
     "username": "greenfrog575",
     "password": "burner",
     "invokedAt": "2021-12-30T05:58:58.072Z"
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "Zhang",
+    "email": "rose.zhang@example.com",
+    "username": "yellowgorilla607",
+    "password": "sassy",
+    "invokedAt": "2021-12-30T06:59:01.790Z"
   }
 ]
