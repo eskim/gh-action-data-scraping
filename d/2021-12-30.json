@@ -78,5 +78,13 @@
     "username": "orangecat140",
     "password": "hellfire",
     "invokedAt": "2021-12-30T09:58:56.606Z"
+  },
+  {
+    "firstName": "باران",
+    "lastName": "محمدخان",
+    "email": "brn.mhmdkhn@example.com",
+    "username": "happypanda919",
+    "password": "balance",
+    "invokedAt": "2021-12-30T10:58:57.119Z"
   }
 ]
