@@ -166,5 +166,13 @@
     "username": "heavywolf339",
     "password": "vader1",
     "invokedAt": "2021-12-30T20:59:10.662Z"
+  },
+  {
+    "firstName": "Giuliano",
+    "lastName": "Meyer",
+    "email": "giuliano.meyer@example.com",
+    "username": "heavydog450",
+    "password": "casper1",
+    "invokedAt": "2021-12-30T21:59:16.980Z"
   }
 ]
