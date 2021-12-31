@@ -110,5 +110,13 @@
     "username": "organicfish939",
     "password": "wealth",
     "invokedAt": "2021-12-31T13:58:51.668Z"
+  },
+  {
+    "firstName": "Okan",
+    "lastName": "Doğan",
+    "email": "okan.dogan@example.com",
+    "username": "bigswan126",
+    "password": "valley",
+    "invokedAt": "2021-12-31T14:58:56.458Z"
   }
 ]
