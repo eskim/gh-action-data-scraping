@@ -158,5 +158,13 @@
     "username": "yellowpanda175",
     "password": "lancia",
     "invokedAt": "2021-12-31T19:58:53.024Z"
+  },
+  {
+    "firstName": "Käthe",
+    "lastName": "Schramm",
+    "email": "kathe.schramm@example.com",
+    "username": "bluewolf943",
+    "password": "tinman",
+    "invokedAt": "2021-12-31T20:59:06.049Z"
   }
 ]
