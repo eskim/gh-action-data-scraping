@@ -118,5 +118,13 @@
     "username": "bigswan126",
     "password": "valley",
     "invokedAt": "2021-12-31T14:58:56.458Z"
+  },
+  {
+    "firstName": "Roberto",
+    "lastName": "Moore",
+    "email": "roberto.moore@example.com",
+    "username": "yellowlion169",
+    "password": "ffffffff",
+    "invokedAt": "2021-12-31T15:58:57.134Z"
   }
 ]
