@@ -102,5 +102,13 @@
     "username": "blackpeacock759",
     "password": "rivers",
     "invokedAt": "2021-12-31T13:12:29.208Z"
+  },
+  {
+    "firstName": "Philippe",
+    "lastName": "Ma",
+    "email": "philippe.ma@example.com",
+    "username": "organicfish939",
+    "password": "wealth",
+    "invokedAt": "2021-12-31T13:58:51.668Z"
   }
 ]
