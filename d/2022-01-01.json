@@ -38,5 +38,13 @@
     "username": "silverpanda205",
     "password": "movie",
     "invokedAt": "2022-01-01T05:03:08.205Z"
+  },
+  {
+    "firstName": "Logan",
+    "lastName": "Allen",
+    "email": "logan.allen@example.com",
+    "username": "bigpanda699",
+    "password": "3000gt",
+    "invokedAt": "2022-01-01T05:58:51.206Z"
   }
 ]
