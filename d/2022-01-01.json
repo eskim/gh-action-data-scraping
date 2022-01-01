@@ -94,5 +94,13 @@
     "username": "silvergoose571",
     "password": "commando",
     "invokedAt": "2022-01-01T11:58:50.109Z"
+  },
+  {
+    "firstName": "Raymond",
+    "lastName": "Wagner",
+    "email": "raymond.wagner@example.com",
+    "username": "angrytiger720",
+    "password": "sounds",
+    "invokedAt": "2022-01-01T13:11:53.977Z"
   }
 ]
