@@ -102,5 +102,13 @@
     "username": "angrytiger720",
     "password": "sounds",
     "invokedAt": "2022-01-01T13:11:53.977Z"
+  },
+  {
+    "firstName": "Lumi",
+    "lastName": "Kallio",
+    "email": "lumi.kallio@example.com",
+    "username": "greenkoala663",
+    "password": "subzero",
+    "invokedAt": "2022-01-01T13:59:00.115Z"
   }
 ]
