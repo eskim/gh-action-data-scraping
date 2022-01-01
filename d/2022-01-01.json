@@ -78,5 +78,13 @@
     "username": "brownswan158",
     "password": "dundee",
     "invokedAt": "2022-01-01T09:58:58.983Z"
+  },
+  {
+    "firstName": "Jeppe",
+    "lastName": "Madsen",
+    "email": "jeppe.madsen@example.com",
+    "username": "lazygoose474",
+    "password": "sliver",
+    "invokedAt": "2022-01-01T10:58:57.118Z"
   }
 ]
