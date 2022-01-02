@@ -118,5 +118,13 @@
     "username": "browncat888",
     "password": "pppppppp",
     "invokedAt": "2022-01-02T15:58:50.448Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Pascual",
+    "email": "christian.pascual@example.com",
+    "username": "blacksnake187",
+    "password": "studman",
+    "invokedAt": "2022-01-02T17:11:38.827Z"
   }
 ]
