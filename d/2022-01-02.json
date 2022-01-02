@@ -86,5 +86,13 @@
     "username": "yellowfish504",
     "password": "castro",
     "invokedAt": "2022-01-02T11:58:54.530Z"
+  },
+  {
+    "firstName": "طاها",
+    "lastName": "رضایی",
+    "email": "th.rdyy@example.com",
+    "username": "orangesnake856",
+    "password": "macaroni",
+    "invokedAt": "2022-01-02T13:11:19.206Z"
   }
 ]
