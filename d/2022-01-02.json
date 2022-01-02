@@ -38,5 +38,13 @@
     "username": "ticklishdog787",
     "password": "speedo",
     "invokedAt": "2022-01-02T05:59:03.977Z"
+  },
+  {
+    "firstName": "Zion",
+    "lastName": "Van Bohemen",
+    "email": "zion.vanbohemen@example.com",
+    "username": "angrybear126",
+    "password": "sublime",
+    "invokedAt": "2022-01-02T06:58:52.035Z"
   }
 ]
