@@ -118,5 +118,13 @@
     "username": "angrykoala951",
     "password": "keystone",
     "invokedAt": "2022-01-03T14:59:08.368Z"
+  },
+  {
+    "firstName": "Soline",
+    "lastName": "Adam",
+    "email": "soline.adam@example.com",
+    "username": "lazybird481",
+    "password": "aztnm",
+    "invokedAt": "2022-01-03T15:58:57.191Z"
   }
 ]
