@@ -94,5 +94,13 @@
     "username": "goldenswan211",
     "password": "binladen",
     "invokedAt": "2022-01-03T11:59:05.629Z"
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Wang",
+    "email": "hugo.wang@example.com",
+    "username": "bigtiger874",
+    "password": "descent",
+    "invokedAt": "2022-01-03T13:13:35.909Z"
   }
 ]
