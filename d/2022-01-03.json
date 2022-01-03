@@ -86,5 +86,13 @@
     "username": "smallbird661",
     "password": "gold",
     "invokedAt": "2022-01-03T10:58:50.393Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Mortensen",
+    "email": "sofia.mortensen@example.com",
+    "username": "goldenswan211",
+    "password": "binladen",
+    "invokedAt": "2022-01-03T11:59:05.629Z"
   }
 ]
