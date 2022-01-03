@@ -78,5 +78,13 @@
     "username": "ticklishleopard924",
     "password": "waldo",
     "invokedAt": "2022-01-03T09:58:55.791Z"
+  },
+  {
+    "firstName": "Fatma",
+    "lastName": "Kumcuoğlu",
+    "email": "fatma.kumcuoglu@example.com",
+    "username": "smallbird661",
+    "password": "gold",
+    "invokedAt": "2022-01-03T10:58:50.393Z"
   }
 ]
