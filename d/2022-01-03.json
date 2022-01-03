@@ -102,5 +102,13 @@
     "username": "bigtiger874",
     "password": "descent",
     "invokedAt": "2022-01-03T13:13:35.909Z"
+  },
+  {
+    "firstName": "Norbert",
+    "lastName": "Hermann",
+    "email": "norbert.hermann@example.com",
+    "username": "organiccat354",
+    "password": "medic",
+    "invokedAt": "2022-01-03T13:59:01.219Z"
   }
 ]
