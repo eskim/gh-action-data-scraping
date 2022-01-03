@@ -126,5 +126,13 @@
     "username": "lazybird481",
     "password": "aztnm",
     "invokedAt": "2022-01-03T15:58:57.191Z"
+  },
+  {
+    "firstName": "Juliette",
+    "lastName": "Pelletier",
+    "email": "juliette.pelletier@example.com",
+    "username": "happyostrich720",
+    "password": "1988",
+    "invokedAt": "2022-01-03T17:14:36.032Z"
   }
 ]
