@@ -102,5 +102,13 @@
     "username": "tinytiger319",
     "password": "minime",
     "invokedAt": "2022-01-04T13:13:17.725Z"
+  },
+  {
+    "firstName": "Jennifer",
+    "lastName": "Rhodes",
+    "email": "jennifer.rhodes@example.com",
+    "username": "beautifulcat325",
+    "password": "creature",
+    "invokedAt": "2022-01-04T13:58:55.043Z"
   }
 ]
