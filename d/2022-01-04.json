@@ -78,5 +78,13 @@
     "username": "whitebutterfly241",
     "password": "valdepen",
     "invokedAt": "2022-01-04T09:59:04.171Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Campos",
+    "email": "luis.campos@example.com",
+    "username": "greenfrog438",
+    "password": "brains",
+    "invokedAt": "2022-01-04T10:58:52.942Z"
   }
 ]
