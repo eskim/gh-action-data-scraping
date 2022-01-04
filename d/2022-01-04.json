@@ -166,5 +166,13 @@
     "username": "angrypanda564",
     "password": "trek",
     "invokedAt": "2022-01-04T20:58:51.201Z"
+  },
+  {
+    "firstName": "Kayla",
+    "lastName": "Andrews",
+    "email": "kayla.andrews@example.com",
+    "username": "sadlion996",
+    "password": "dotcom",
+    "invokedAt": "2022-01-04T21:59:03.152Z"
   }
 ]
