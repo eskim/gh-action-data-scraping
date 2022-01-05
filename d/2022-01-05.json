@@ -126,5 +126,13 @@
     "username": "greenpanda139",
     "password": "stargate",
     "invokedAt": "2022-01-05T17:14:55.266Z"
+  },
+  {
+    "firstName": "Issam",
+    "lastName": "Van Wijlick",
+    "email": "issam.vanwijlick@example.com",
+    "username": "whitesnake600",
+    "password": "vsegda",
+    "invokedAt": "2022-01-05T17:58:53.775Z"
   }
 ]
