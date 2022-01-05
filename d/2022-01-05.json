@@ -118,5 +118,13 @@
     "username": "redcat943",
     "password": "asdfg",
     "invokedAt": "2022-01-05T15:58:58.852Z"
+  },
+  {
+    "firstName": "Ebrahim",
+    "lastName": "Heijboer",
+    "email": "ebrahim.heijboer@example.com",
+    "username": "greenpanda139",
+    "password": "stargate",
+    "invokedAt": "2022-01-05T17:14:55.266Z"
   }
 ]
