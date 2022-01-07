@@ -14,5 +14,13 @@
     "username": "blacktiger534",
     "password": "montecar",
     "invokedAt": "2022-01-07T03:07:58.016Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Koski",
+    "email": "vaino.koski@example.com",
+    "username": "brownmouse310",
+    "password": "ginger1",
+    "invokedAt": "2022-01-07T03:58:53.029Z"
   }
 ]
