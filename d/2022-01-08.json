@@ -78,5 +78,13 @@
     "username": "organicmeercat588",
     "password": "pickle",
     "invokedAt": "2022-01-08T09:58:49.695Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Beşerler",
+    "email": "ozkan.beserler@example.com",
+    "username": "beautifulpanda561",
+    "password": "quantum",
+    "invokedAt": "2022-01-08T10:59:00.657Z"
   }
 ]
