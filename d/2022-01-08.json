@@ -38,5 +38,13 @@
     "username": "orangeostrich127",
     "password": "reflex",
     "invokedAt": "2022-01-08T05:04:25.168Z"
+  },
+  {
+    "firstName": "Jasper",
+    "lastName": "Anderson",
+    "email": "jasper.anderson@example.com",
+    "username": "lazybear830",
+    "password": "carrera",
+    "invokedAt": "2022-01-08T05:59:05.945Z"
   }
 ]
