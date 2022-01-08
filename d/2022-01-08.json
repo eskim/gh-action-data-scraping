@@ -134,5 +134,13 @@
     "username": "happymouse844",
     "password": "merlot",
     "invokedAt": "2022-01-08T17:12:49.116Z"
+  },
+  {
+    "firstName": "Carolyn",
+    "lastName": "Gardner",
+    "email": "carolyn.gardner@example.com",
+    "username": "tinylion640",
+    "password": "wrestle",
+    "invokedAt": "2022-01-08T17:58:52.739Z"
   }
 ]
