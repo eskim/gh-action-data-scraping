@@ -166,5 +166,13 @@
     "username": "organicfrog475",
     "password": "bama",
     "invokedAt": "2022-01-09T21:59:16.732Z"
+  },
+  {
+    "firstName": "Margot",
+    "lastName": "Duval",
+    "email": "margot.duval@example.com",
+    "username": "redfish796",
+    "password": "hardy",
+    "invokedAt": "2022-01-09T22:58:59.613Z"
   }
 ]
