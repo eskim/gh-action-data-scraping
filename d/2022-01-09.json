@@ -142,5 +142,13 @@
     "username": "beautifullion964",
     "password": "squirt",
     "invokedAt": "2022-01-09T18:59:12.344Z"
+  },
+  {
+    "firstName": "Vishnu",
+    "lastName": "Van de Coolwijk",
+    "email": "vishnu.vandecoolwijk@example.com",
+    "username": "goldenswan252",
+    "password": "burton",
+    "invokedAt": "2022-01-09T19:59:06.401Z"
   }
 ]
