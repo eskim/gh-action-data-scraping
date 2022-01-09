@@ -150,5 +150,13 @@
     "username": "goldenswan252",
     "password": "burton",
     "invokedAt": "2022-01-09T19:59:06.401Z"
+  },
+  {
+    "firstName": "Stefan",
+    "lastName": "Benz",
+    "email": "stefan.benz@example.com",
+    "username": "ticklishcat312",
+    "password": "lumber",
+    "invokedAt": "2022-01-09T20:58:58.153Z"
   }
 ]
