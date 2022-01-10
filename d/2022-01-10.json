@@ -94,5 +94,13 @@
     "username": "biggoose807",
     "password": "sparta",
     "invokedAt": "2022-01-10T11:58:57.943Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Montero",
+    "email": "ana.montero@example.com",
+    "username": "organiczebra323",
+    "password": "crew",
+    "invokedAt": "2022-01-10T13:14:54.678Z"
   }
 ]
