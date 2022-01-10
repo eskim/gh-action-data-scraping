@@ -182,5 +182,13 @@
     "username": "lazygoose939",
     "password": "stereo",
     "invokedAt": "2022-01-10T22:58:52.833Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Ginnish",
+    "email": "ella.ginnish@example.com",
+    "username": "lazytiger797",
+    "password": "dusty",
+    "invokedAt": "2022-01-10T23:58:49.131Z"
   }
 ]
