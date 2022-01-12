@@ -54,5 +54,13 @@
     "username": "sadkoala930",
     "password": "phillips",
     "invokedAt": "2022-01-12T06:59:34.850Z"
+  },
+  {
+    "firstName": "Frida",
+    "lastName": "Sørensen",
+    "email": "frida.sorensen@example.com",
+    "username": "lazytiger162",
+    "password": "wrestle",
+    "invokedAt": "2022-01-12T07:59:17.216Z"
   }
 ]
