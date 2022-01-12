@@ -62,5 +62,13 @@
     "username": "lazytiger162",
     "password": "wrestle",
     "invokedAt": "2022-01-12T07:59:17.216Z"
+  },
+  {
+    "firstName": "Vida",
+    "lastName": "Ngo",
+    "email": "vida.ngo@example.com",
+    "username": "heavymeercat132",
+    "password": "goku",
+    "invokedAt": "2022-01-12T08:58:49.073Z"
   }
 ]
