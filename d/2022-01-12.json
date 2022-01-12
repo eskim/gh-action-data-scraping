@@ -22,5 +22,13 @@
     "username": "angrygoose697",
     "password": "flyers",
     "invokedAt": "2022-01-12T03:04:34.282Z"
+  },
+  {
+    "firstName": "Ida",
+    "lastName": "Mortensen",
+    "email": "ida.mortensen@example.com",
+    "username": "orangetiger142",
+    "password": "system",
+    "invokedAt": "2022-01-12T03:58:54.193Z"
   }
 ]
