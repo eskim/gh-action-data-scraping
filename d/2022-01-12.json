@@ -14,5 +14,13 @@
     "username": "orangegorilla596",
     "password": "lacrosse",
     "invokedAt": "2022-01-12T02:33:18.444Z"
+  },
+  {
+    "firstName": "Josef",
+    "lastName": "Morin",
+    "email": "josef.morin@example.com",
+    "username": "angrygoose697",
+    "password": "flyers",
+    "invokedAt": "2022-01-12T03:04:34.282Z"
   }
 ]
