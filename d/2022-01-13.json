@@ -46,5 +46,13 @@
     "username": "bigbutterfly878",
     "password": "goblue",
     "invokedAt": "2022-01-13T06:58:50.265Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Petit",
+    "email": "louis.petit@example.com",
+    "username": "silvercat871",
+    "password": "block",
+    "invokedAt": "2022-01-13T07:58:53.742Z"
   }
 ]
