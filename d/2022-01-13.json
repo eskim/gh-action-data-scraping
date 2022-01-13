@@ -30,5 +30,13 @@
     "username": "organicgorilla196",
     "password": "dogfood",
     "invokedAt": "2022-01-13T05:05:34.483Z"
+  },
+  {
+    "firstName": "Getúlia",
+    "lastName": "Novaes",
+    "email": "getulia.novaes@example.com",
+    "username": "sadgoose874",
+    "password": "handyman",
+    "invokedAt": "2022-01-13T05:58:51.945Z"
   }
 ]
