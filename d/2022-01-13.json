@@ -166,5 +166,13 @@
     "username": "happybear631",
     "password": "kiteboy",
     "invokedAt": "2022-01-13T21:58:52.184Z"
+  },
+  {
+    "firstName": "Margrietha",
+    "lastName": "De Wijs",
+    "email": "margrietha.dewijs@example.com",
+    "username": "bluebird816",
+    "password": "stang",
+    "invokedAt": "2022-01-13T22:59:11.737Z"
   }
 ]
