@@ -118,5 +118,13 @@
     "username": "silverbear725",
     "password": "emerald",
     "invokedAt": "2022-01-14T15:58:49.592Z"
+  },
+  {
+    "firstName": "Lauri",
+    "lastName": "Haapala",
+    "email": "lauri.haapala@example.com",
+    "username": "silverbutterfly984",
+    "password": "porsche9",
+    "invokedAt": "2022-01-14T17:12:56.789Z"
   }
 ]
