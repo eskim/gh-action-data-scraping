@@ -166,5 +166,13 @@
     "username": "goldenladybug700",
     "password": "tender",
     "invokedAt": "2022-01-14T21:59:12.183Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Ortega",
+    "email": "anna.ortega@example.com",
+    "username": "sadmeercat250",
+    "password": "ghosts",
+    "invokedAt": "2022-01-14T22:58:58.904Z"
   }
 ]
