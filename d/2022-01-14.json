@@ -110,5 +110,13 @@
     "username": "angryleopard343",
     "password": "delete",
     "invokedAt": "2022-01-14T14:59:11.695Z"
+  },
+  {
+    "firstName": "Fatih",
+    "lastName": "Beşerler",
+    "email": "fatih.beserler@example.com",
+    "username": "silverbear725",
+    "password": "emerald",
+    "invokedAt": "2022-01-14T15:58:49.592Z"
   }
 ]
