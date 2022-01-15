@@ -166,5 +166,13 @@
     "username": "tinygoose838",
     "password": "baseball",
     "invokedAt": "2022-01-15T20:58:59.183Z"
+  },
+  {
+    "firstName": "Marto",
+    "lastName": "Ramos",
+    "email": "marto.ramos@example.com",
+    "username": "beautifullion902",
+    "password": "tomtom",
+    "invokedAt": "2022-01-15T21:59:06.441Z"
   }
 ]
