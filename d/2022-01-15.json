@@ -158,5 +158,13 @@
     "username": "angrypanda135",
     "password": "east",
     "invokedAt": "2022-01-15T19:59:02.350Z"
+  },
+  {
+    "firstName": "عسل",
+    "lastName": "زارعی",
+    "email": "aasl.zraay@example.com",
+    "username": "tinygoose838",
+    "password": "baseball",
+    "invokedAt": "2022-01-15T20:58:59.183Z"
   }
 ]
