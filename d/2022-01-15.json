@@ -118,5 +118,13 @@
     "username": "goldenbird830",
     "password": "transit",
     "invokedAt": "2022-01-15T14:58:54.802Z"
+  },
+  {
+    "firstName": "Björn",
+    "lastName": "Krampe",
+    "email": "bjorn.krampe@example.com",
+    "username": "ticklishrabbit112",
+    "password": "jesus",
+    "invokedAt": "2022-01-15T15:58:55.060Z"
   }
 ]
