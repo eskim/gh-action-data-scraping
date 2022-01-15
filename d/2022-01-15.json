@@ -182,5 +182,13 @@
     "username": "beautifulmeercat645",
     "password": "select",
     "invokedAt": "2022-01-15T22:59:01.314Z"
+  },
+  {
+    "firstName": "Jonah",
+    "lastName": "Aanonsen",
+    "email": "jonah.aanonsen@example.com",
+    "username": "yellowmeercat440",
+    "password": "spyder",
+    "invokedAt": "2022-01-15T23:58:52.491Z"
   }
 ]
