@@ -78,5 +78,13 @@
     "username": "happysnake969",
     "password": "presario",
     "invokedAt": "2022-01-16T10:58:49.482Z"
+  },
+  {
+    "firstName": "Ceyhan",
+    "lastName": "Arslanoğlu",
+    "email": "ceyhan.arslanoglu@example.com",
+    "username": "organicpanda883",
+    "password": "string",
+    "invokedAt": "2022-01-16T11:59:00.993Z"
   }
 ]
