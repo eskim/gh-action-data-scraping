@@ -134,5 +134,13 @@
     "username": "bigswan260",
     "password": "sticky",
     "invokedAt": "2022-01-16T17:58:52.095Z"
+  },
+  {
+    "firstName": "Kayla",
+    "lastName": "Stewart",
+    "email": "kayla.stewart@example.com",
+    "username": "beautifulbear967",
+    "password": "mpegs",
+    "invokedAt": "2022-01-16T18:58:51.037Z"
   }
 ]
