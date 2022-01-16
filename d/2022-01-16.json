@@ -166,5 +166,13 @@
     "username": "purplecat393",
     "password": "buttercu",
     "invokedAt": "2022-01-16T21:58:54.392Z"
+  },
+  {
+    "firstName": "Veera",
+    "lastName": "Leppo",
+    "email": "veera.leppo@example.com",
+    "username": "happywolf970",
+    "password": "white",
+    "invokedAt": "2022-01-16T22:58:58.807Z"
   }
 ]
