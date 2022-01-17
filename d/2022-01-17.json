@@ -38,5 +38,13 @@
     "username": "bigsnake321",
     "password": "punisher",
     "invokedAt": "2022-01-17T05:59:08.069Z"
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Willis",
+    "email": "lisa.willis@example.com",
+    "username": "sadrabbit345",
+    "password": "usmc",
+    "invokedAt": "2022-01-17T06:59:22.612Z"
   }
 ]
