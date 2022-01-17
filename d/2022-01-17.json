@@ -62,5 +62,13 @@
     "username": "purplepanda496",
     "password": "message",
     "invokedAt": "2022-01-17T08:58:49.502Z"
+  },
+  {
+    "firstName": "مانی",
+    "lastName": "یاسمی",
+    "email": "mny.ysmy@example.com",
+    "username": "happygoose561",
+    "password": "cardinal",
+    "invokedAt": "2022-01-17T09:59:00.024Z"
   }
 ]
