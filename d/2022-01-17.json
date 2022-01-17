@@ -126,5 +126,13 @@
     "username": "organicostrich321",
     "password": "airwolf",
     "invokedAt": "2022-01-17T17:15:06.697Z"
+  },
+  {
+    "firstName": "Delphine",
+    "lastName": "Pelletier",
+    "email": "delphine.pelletier@example.com",
+    "username": "greensnake563",
+    "password": "elway",
+    "invokedAt": "2022-01-17T17:58:49.668Z"
   }
 ]
