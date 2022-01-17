@@ -46,5 +46,13 @@
     "username": "sadrabbit345",
     "password": "usmc",
     "invokedAt": "2022-01-17T06:59:22.612Z"
+  },
+  {
+    "firstName": "Sandra",
+    "lastName": "Vargas",
+    "email": "sandra.vargas@example.com",
+    "username": "tinypanda630",
+    "password": "kick",
+    "invokedAt": "2022-01-17T07:58:47.462Z"
   }
 ]
