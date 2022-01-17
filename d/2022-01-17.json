@@ -54,5 +54,13 @@
     "username": "tinypanda630",
     "password": "kick",
     "invokedAt": "2022-01-17T07:58:47.462Z"
+  },
+  {
+    "firstName": "Georgios",
+    "lastName": "Debus",
+    "email": "georgios.debus@example.com",
+    "username": "purplepanda496",
+    "password": "message",
+    "invokedAt": "2022-01-17T08:58:49.502Z"
   }
 ]
