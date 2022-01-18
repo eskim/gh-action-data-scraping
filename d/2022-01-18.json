@@ -78,5 +78,13 @@
     "username": "organicfish661",
     "password": "brown1",
     "invokedAt": "2022-01-18T10:58:50.329Z"
+  },
+  {
+    "firstName": "Necati",
+    "lastName": "Ilıcalı",
+    "email": "necati.ilicali@example.com",
+    "username": "smallleopard671",
+    "password": "123123123",
+    "invokedAt": "2022-01-18T11:59:07.263Z"
   }
 ]
