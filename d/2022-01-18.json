@@ -158,5 +158,13 @@
     "username": "greenrabbit604",
     "password": "shojou",
     "invokedAt": "2022-01-18T20:58:49.691Z"
+  },
+  {
+    "firstName": "Lilja",
+    "lastName": "Salmela",
+    "email": "lilja.salmela@example.com",
+    "username": "bigpeacock684",
+    "password": "thedoors",
+    "invokedAt": "2022-01-18T22:12:38.205Z"
   }
 ]
