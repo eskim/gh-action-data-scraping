@@ -166,5 +166,13 @@
     "username": "bigpeacock684",
     "password": "thedoors",
     "invokedAt": "2022-01-18T22:12:38.205Z"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Côté",
+    "email": "sophia.cote@example.com",
+    "username": "bigbird434",
+    "password": "ninja",
+    "invokedAt": "2022-01-18T22:58:50.848Z"
   }
 ]
