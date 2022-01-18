@@ -62,5 +62,13 @@
     "username": "purplerabbit259",
     "password": "gatsby",
     "invokedAt": "2022-01-18T08:58:51.270Z"
+  },
+  {
+    "firstName": "Rania",
+    "lastName": "Onarheim",
+    "email": "rania.onarheim@example.com",
+    "username": "purplefish958",
+    "password": "classic",
+    "invokedAt": "2022-01-18T09:59:04.446Z"
   }
 ]
