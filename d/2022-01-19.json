@@ -94,5 +94,13 @@
     "username": "organicrabbit361",
     "password": "systems",
     "invokedAt": "2022-01-19T11:58:48.990Z"
+  },
+  {
+    "firstName": "Silje",
+    "lastName": "Madsen",
+    "email": "silje.madsen@example.com",
+    "username": "greenkoala815",
+    "password": "surf",
+    "invokedAt": "2022-01-19T13:08:12.865Z"
   }
 ]
