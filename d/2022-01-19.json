@@ -110,5 +110,13 @@
     "username": "redbutterfly871",
     "password": "pinball",
     "invokedAt": "2022-01-19T13:58:58.261Z"
+  },
+  {
+    "firstName": "Roswita",
+    "lastName": "Reger",
+    "email": "roswita.reger@example.com",
+    "username": "crazyleopard288",
+    "password": "webmaster",
+    "invokedAt": "2022-01-19T14:58:58.445Z"
   }
 ]
