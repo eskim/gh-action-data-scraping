@@ -46,5 +46,13 @@
     "username": "purplebutterfly176",
     "password": "soft",
     "invokedAt": "2022-01-20T06:59:04.506Z"
+  },
+  {
+    "firstName": "Amir",
+    "lastName": "Roger",
+    "email": "amir.roger@example.com",
+    "username": "greengoose611",
+    "password": "february",
+    "invokedAt": "2022-01-20T07:59:13.468Z"
   }
 ]
