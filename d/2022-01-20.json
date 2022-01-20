@@ -30,5 +30,13 @@
     "username": "bluetiger828",
     "password": "slippery",
     "invokedAt": "2022-01-20T04:58:59.912Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Özkök",
+    "email": "afsar.ozkok@example.com",
+    "username": "sadbear607",
+    "password": "hockey",
+    "invokedAt": "2022-01-20T05:59:11.102Z"
   }
 ]
