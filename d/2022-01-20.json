@@ -54,5 +54,13 @@
     "username": "greengoose611",
     "password": "february",
     "invokedAt": "2022-01-20T07:59:13.468Z"
+  },
+  {
+    "firstName": "ثنا",
+    "lastName": "سالاری",
+    "email": "thn.slry@example.com",
+    "username": "silverfrog210",
+    "password": "tattoo",
+    "invokedAt": "2022-01-20T08:59:06.855Z"
   }
 ]
