@@ -38,5 +38,13 @@
     "username": "sadbear607",
     "password": "hockey",
     "invokedAt": "2022-01-20T05:59:11.102Z"
+  },
+  {
+    "firstName": "Lourdes",
+    "lastName": "Serrano",
+    "email": "lourdes.serrano@example.com",
+    "username": "purplebutterfly176",
+    "password": "soft",
+    "invokedAt": "2022-01-20T06:59:04.506Z"
   }
 ]
