@@ -126,5 +126,13 @@
     "username": "goldensnake767",
     "password": "seneca",
     "invokedAt": "2022-01-21T15:59:01.940Z"
+  },
+  {
+    "firstName": "Neil",
+    "lastName": "Gutierrez",
+    "email": "neil.gutierrez@example.com",
+    "username": "greenmeercat506",
+    "password": "apple",
+    "invokedAt": "2022-01-21T17:06:55.173Z"
   }
 ]
