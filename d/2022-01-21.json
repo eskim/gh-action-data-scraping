@@ -94,5 +94,13 @@
     "username": "yellowfish892",
     "password": "playoffs",
     "invokedAt": "2022-01-21T11:59:02.189Z"
+  },
+  {
+    "firstName": "Hans-Hermann",
+    "lastName": "Brendel",
+    "email": "hans-hermann.brendel@example.com",
+    "username": "smallleopard758",
+    "password": "theboss",
+    "invokedAt": "2022-01-21T13:08:09.177Z"
   }
 ]
