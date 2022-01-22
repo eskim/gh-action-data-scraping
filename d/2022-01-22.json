@@ -182,5 +182,13 @@
     "username": "beautifulbutterfly816",
     "password": "wwwwwww",
     "invokedAt": "2022-01-22T22:59:10.355Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Davidson",
+    "email": "dave.davidson@example.com",
+    "username": "silvergoose263",
+    "password": "collin",
+    "invokedAt": "2022-01-22T23:59:01.408Z"
   }
 ]
