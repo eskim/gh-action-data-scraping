@@ -30,5 +30,13 @@
     "username": "purpletiger436",
     "password": "bigbear",
     "invokedAt": "2022-01-22T03:58:58.473Z"
+  },
+  {
+    "firstName": "Javier",
+    "lastName": "White",
+    "email": "javier.white@example.com",
+    "username": "redladybug155",
+    "password": "synergy",
+    "invokedAt": "2022-01-22T04:58:54.690Z"
   }
 ]
