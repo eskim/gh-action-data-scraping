@@ -126,5 +126,13 @@
     "username": "sadrabbit410",
     "password": "doitnow",
     "invokedAt": "2022-01-22T15:58:56.311Z"
+  },
+  {
+    "firstName": "Micheline",
+    "lastName": "Roussel",
+    "email": "micheline.roussel@example.com",
+    "username": "goldensnake453",
+    "password": "came11",
+    "invokedAt": "2022-01-22T17:04:36.256Z"
   }
 ]
