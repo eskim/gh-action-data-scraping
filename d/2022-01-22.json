@@ -38,5 +38,13 @@
     "username": "redladybug155",
     "password": "synergy",
     "invokedAt": "2022-01-22T04:58:54.690Z"
+  },
+  {
+    "firstName": "Fausto",
+    "lastName": "Rodriguez",
+    "email": "fausto.rodriguez@example.com",
+    "username": "yellowrabbit970",
+    "password": "candyman",
+    "invokedAt": "2022-01-22T05:59:03.164Z"
   }
 ]
