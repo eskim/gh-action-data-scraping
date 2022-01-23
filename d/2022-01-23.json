@@ -62,5 +62,13 @@
     "username": "bigostrich361",
     "password": "coolhand",
     "invokedAt": "2022-01-23T07:58:49.011Z"
+  },
+  {
+    "firstName": "Pierre-Alain",
+    "lastName": "Leclerc",
+    "email": "pierre-alain.leclerc@example.com",
+    "username": "greenswan709",
+    "password": "prime",
+    "invokedAt": "2022-01-23T08:59:05.013Z"
   }
 ]
