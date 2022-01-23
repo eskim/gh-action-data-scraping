@@ -166,5 +166,13 @@
     "username": "goldenelephant474",
     "password": "score",
     "invokedAt": "2022-01-23T20:58:58.040Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Thomsen",
+    "email": "alexander.thomsen@example.com",
+    "username": "ticklishcat636",
+    "password": "loki",
+    "invokedAt": "2022-01-23T21:58:52.694Z"
   }
 ]
