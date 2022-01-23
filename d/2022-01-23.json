@@ -110,5 +110,13 @@
     "username": "whitemeercat518",
     "password": "spikes",
     "invokedAt": "2022-01-23T13:58:51.319Z"
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Walker",
+    "email": "ava.walker@example.com",
+    "username": "brownleopard677",
+    "password": "gravity",
+    "invokedAt": "2022-01-23T14:59:03.819Z"
   }
 ]
