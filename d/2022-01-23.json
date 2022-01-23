@@ -102,5 +102,13 @@
     "username": "smallrabbit202",
     "password": "server",
     "invokedAt": "2022-01-23T13:06:33.544Z"
+  },
+  {
+    "firstName": "Niilo",
+    "lastName": "Rinne",
+    "email": "niilo.rinne@example.com",
+    "username": "whitemeercat518",
+    "password": "spikes",
+    "invokedAt": "2022-01-23T13:58:51.319Z"
   }
 ]
