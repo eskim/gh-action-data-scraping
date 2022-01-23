@@ -94,5 +94,13 @@
     "username": "silverpeacock561",
     "password": "98765",
     "invokedAt": "2022-01-23T11:58:50.241Z"
+  },
+  {
+    "firstName": "Johan",
+    "lastName": "Perez",
+    "email": "johan.perez@example.com",
+    "username": "smallrabbit202",
+    "password": "server",
+    "invokedAt": "2022-01-23T13:06:33.544Z"
   }
 ]
