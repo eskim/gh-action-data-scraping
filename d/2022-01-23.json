@@ -118,5 +118,13 @@
     "username": "brownleopard677",
     "password": "gravity",
     "invokedAt": "2022-01-23T14:59:03.819Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Ma",
+    "email": "vincent.ma@example.com",
+    "username": "goldenfish796",
+    "password": "artist",
+    "invokedAt": "2022-01-23T15:58:48.972Z"
   }
 ]
