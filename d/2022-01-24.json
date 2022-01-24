@@ -78,5 +78,13 @@
     "username": "purplemeercat917",
     "password": "pinhead",
     "invokedAt": "2022-01-24T09:59:05.181Z"
+  },
+  {
+    "firstName": "Ilona",
+    "lastName": "Ojala",
+    "email": "ilona.ojala@example.com",
+    "username": "bigmeercat409",
+    "password": "123321",
+    "invokedAt": "2022-01-24T10:58:53.793Z"
   }
 ]
