@@ -166,5 +166,13 @@
     "username": "happybird663",
     "password": "stonecol",
     "invokedAt": "2022-01-25T20:58:55.513Z"
+  },
+  {
+    "firstName": "Donald",
+    "lastName": "Payne",
+    "email": "donald.payne@example.com",
+    "username": "lazyswan378",
+    "password": "fantasies",
+    "invokedAt": "2022-01-25T21:58:58.178Z"
   }
 ]
