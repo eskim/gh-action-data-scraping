@@ -158,5 +158,13 @@
     "username": "yellowkoala167",
     "password": "istheman",
     "invokedAt": "2022-01-25T19:58:59.048Z"
+  },
+  {
+    "firstName": "Vildan",
+    "lastName": "Ağaoğlu",
+    "email": "vildan.agaoglu@example.com",
+    "username": "happybird663",
+    "password": "stonecol",
+    "invokedAt": "2022-01-25T20:58:55.513Z"
   }
 ]
