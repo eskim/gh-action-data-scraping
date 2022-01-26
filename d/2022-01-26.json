@@ -46,5 +46,13 @@
     "username": "brownrabbit363",
     "password": "films",
     "invokedAt": "2022-01-26T05:58:57.121Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Evans",
+    "email": "liam.evans@example.com",
+    "username": "sadbear673",
+    "password": "yeah",
+    "invokedAt": "2022-01-26T06:58:58.783Z"
   }
 ]
