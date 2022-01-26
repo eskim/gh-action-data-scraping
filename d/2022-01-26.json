@@ -158,5 +158,13 @@
     "username": "happyelephant761",
     "password": "mmmm",
     "invokedAt": "2022-01-26T19:59:24.724Z"
+  },
+  {
+    "firstName": "Kaya",
+    "lastName": "Taşçı",
+    "email": "kaya.tasci@example.com",
+    "username": "happybutterfly903",
+    "password": "news",
+    "invokedAt": "2022-01-26T20:58:59.341Z"
   }
 ]
