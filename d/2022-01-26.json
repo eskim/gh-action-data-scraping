@@ -38,5 +38,13 @@
     "username": "crazyduck636",
     "password": "cartoon",
     "invokedAt": "2022-01-26T04:58:50.690Z"
+  },
+  {
+    "firstName": "Ceylan",
+    "lastName": "Taşlı",
+    "email": "ceylan.tasli@example.com",
+    "username": "brownrabbit363",
+    "password": "films",
+    "invokedAt": "2022-01-26T05:58:57.121Z"
   }
 ]
