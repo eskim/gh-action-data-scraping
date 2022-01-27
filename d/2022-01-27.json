@@ -46,5 +46,13 @@
     "username": "brownlion648",
     "password": "weird",
     "invokedAt": "2022-01-27T05:58:51.239Z"
+  },
+  {
+    "firstName": "Andries",
+    "lastName": "Van Laere",
+    "email": "andries.vanlaere@example.com",
+    "username": "bigpanda815",
+    "password": "hawkeye",
+    "invokedAt": "2022-01-27T06:58:49.280Z"
   }
 ]
