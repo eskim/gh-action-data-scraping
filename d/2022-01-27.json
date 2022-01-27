@@ -158,5 +158,13 @@
     "username": "crazyrabbit829",
     "password": "microsoft",
     "invokedAt": "2022-01-27T19:58:55.720Z"
+  },
+  {
+    "firstName": "Conrado",
+    "lastName": "Santos",
+    "email": "conrado.santos@example.com",
+    "username": "silverostrich263",
+    "password": "bronze",
+    "invokedAt": "2022-01-27T20:58:57.767Z"
   }
 ]
