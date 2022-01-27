@@ -38,5 +38,13 @@
     "username": "heavylion159",
     "password": "scorpion",
     "invokedAt": "2022-01-27T04:58:50.351Z"
+  },
+  {
+    "firstName": "Lauri",
+    "lastName": "Kemppainen",
+    "email": "lauri.kemppainen@example.com",
+    "username": "brownlion648",
+    "password": "weird",
+    "invokedAt": "2022-01-27T05:58:51.239Z"
   }
 ]
