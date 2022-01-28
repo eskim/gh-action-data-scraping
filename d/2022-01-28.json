@@ -134,5 +134,13 @@
     "username": "smallpeacock820",
     "password": "racers",
     "invokedAt": "2022-01-28T17:06:37.732Z"
+  },
+  {
+    "firstName": "Hector",
+    "lastName": "Rodriguez",
+    "email": "hector.rodriguez@example.com",
+    "username": "tinyfish866",
+    "password": "goldie",
+    "invokedAt": "2022-01-28T17:59:05.510Z"
   }
 ]
