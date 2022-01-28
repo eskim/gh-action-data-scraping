@@ -126,5 +126,13 @@
     "username": "orangefish812",
     "password": "impact",
     "invokedAt": "2022-01-28T15:58:53.821Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Roussel",
+    "email": "marie.roussel@example.com",
+    "username": "smallpeacock820",
+    "password": "racers",
+    "invokedAt": "2022-01-28T17:06:37.732Z"
   }
 ]
