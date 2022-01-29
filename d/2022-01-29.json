@@ -62,5 +62,13 @@
     "username": "blackdog384",
     "password": "play",
     "invokedAt": "2022-01-29T07:58:46.604Z"
+  },
+  {
+    "firstName": "Natascha",
+    "lastName": "Sanchez",
+    "email": "natascha.sanchez@example.com",
+    "username": "lazydog532",
+    "password": "wolfman",
+    "invokedAt": "2022-01-29T08:58:51.641Z"
   }
 ]
