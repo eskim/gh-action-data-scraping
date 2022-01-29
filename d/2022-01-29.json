@@ -182,5 +182,13 @@
     "username": "yellowlion937",
     "password": "wheeler",
     "invokedAt": "2022-01-29T22:58:55.905Z"
+  },
+  {
+    "firstName": "Georgia",
+    "lastName": "Gibson",
+    "email": "georgia.gibson@example.com",
+    "username": "happyswan256",
+    "password": "video",
+    "invokedAt": "2022-01-29T23:58:58.134Z"
   }
 ]
