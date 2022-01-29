@@ -166,5 +166,13 @@
     "username": "crazysnake214",
     "password": "ministry",
     "invokedAt": "2022-01-29T20:58:52.735Z"
+  },
+  {
+    "firstName": "Batur",
+    "lastName": "Aydan",
+    "email": "batur.aydan@example.com",
+    "username": "sadbutterfly564",
+    "password": "chico",
+    "invokedAt": "2022-01-29T21:59:06.590Z"
   }
 ]
