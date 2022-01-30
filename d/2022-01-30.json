@@ -182,5 +182,13 @@
     "username": "blackostrich613",
     "password": "ncc1701d",
     "invokedAt": "2022-01-30T22:58:53.804Z"
+  },
+  {
+    "firstName": "Mauro",
+    "lastName": "Lopes",
+    "email": "mauro.lopes@example.com",
+    "username": "bluebird268",
+    "password": "ambrosia",
+    "invokedAt": "2022-01-30T23:59:08.849Z"
   }
 ]
