@@ -110,5 +110,13 @@
     "username": "sadgorilla866",
     "password": "kingpin",
     "invokedAt": "2022-01-31T13:59:01.424Z"
+  },
+  {
+    "firstName": "Debra",
+    "lastName": "Morgan",
+    "email": "debra.morgan@example.com",
+    "username": "blackcat592",
+    "password": "missouri",
+    "invokedAt": "2022-01-31T15:03:42.576Z"
   }
 ]
