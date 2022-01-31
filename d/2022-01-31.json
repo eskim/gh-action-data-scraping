@@ -102,5 +102,13 @@
     "username": "bluewolf702",
     "password": "dreaming",
     "invokedAt": "2022-01-31T13:07:42.295Z"
+  },
+  {
+    "firstName": "Marilete",
+    "lastName": "Nogueira",
+    "email": "marilete.nogueira@example.com",
+    "username": "sadgorilla866",
+    "password": "kingpin",
+    "invokedAt": "2022-01-31T13:59:01.424Z"
   }
 ]
