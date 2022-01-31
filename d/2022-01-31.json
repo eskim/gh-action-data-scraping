@@ -118,5 +118,13 @@
     "username": "blackcat592",
     "password": "missouri",
     "invokedAt": "2022-01-31T15:03:42.576Z"
+  },
+  {
+    "firstName": "Rainer",
+    "lastName": "Heijblom",
+    "email": "rainer.heijblom@example.com",
+    "username": "tinykoala820",
+    "password": "hotmail0",
+    "invokedAt": "2022-01-31T16:03:44.221Z"
   }
 ]
