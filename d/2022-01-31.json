@@ -158,5 +158,13 @@
     "username": "sadcat699",
     "password": "packers",
     "invokedAt": "2022-01-31T19:58:51.430Z"
+  },
+  {
+    "firstName": "بنیامین",
+    "lastName": "حسینی",
+    "email": "bnymyn.hsyny@example.com",
+    "username": "blackrabbit176",
+    "password": "jonny",
+    "invokedAt": "2022-01-31T20:58:50.197Z"
   }
 ]
