@@ -174,5 +174,13 @@
     "username": "happypanda711",
     "password": "madcat",
     "invokedAt": "2022-02-01T21:59:03.879Z"
+  },
+  {
+    "firstName": "Aventino",
+    "lastName": "Martins",
+    "email": "aventino.martins@example.com",
+    "username": "orangemouse154",
+    "password": "hattrick",
+    "invokedAt": "2022-02-01T22:58:59.134Z"
   }
 ]
