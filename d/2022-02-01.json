@@ -158,5 +158,13 @@
     "username": "silverfish383",
     "password": "nugget",
     "invokedAt": "2022-02-01T19:59:07.853Z"
+  },
+  {
+    "firstName": "Jaime",
+    "lastName": "Fournier",
+    "email": "jaime.fournier@example.com",
+    "username": "whitemouse975",
+    "password": "cameltoe",
+    "invokedAt": "2022-02-01T20:59:09.197Z"
   }
 ]
