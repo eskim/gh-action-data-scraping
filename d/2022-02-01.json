@@ -142,5 +142,13 @@
     "username": "heavygorilla631",
     "password": "comment",
     "invokedAt": "2022-02-01T17:59:09.941Z"
+  },
+  {
+    "firstName": "Ramiro",
+    "lastName": "Farias",
+    "email": "ramiro.farias@example.com",
+    "username": "whitezebra753",
+    "password": "thunderb",
+    "invokedAt": "2022-02-01T18:59:01.817Z"
   }
 ]
