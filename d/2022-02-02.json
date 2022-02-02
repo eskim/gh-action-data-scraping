@@ -126,5 +126,13 @@
     "username": "smalltiger262",
     "password": "beamer",
     "invokedAt": "2022-02-02T15:58:58.379Z"
+  },
+  {
+    "firstName": "Norah",
+    "lastName": "Bernard",
+    "email": "norah.bernard@example.com",
+    "username": "redleopard356",
+    "password": "ametuer",
+    "invokedAt": "2022-02-02T17:10:39.298Z"
   }
 ]
