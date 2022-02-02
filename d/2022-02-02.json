@@ -22,5 +22,13 @@
     "username": "tinycat387",
     "password": "michigan",
     "invokedAt": "2022-02-02T02:58:50.189Z"
+  },
+  {
+    "firstName": "Justine",
+    "lastName": "Gauthier",
+    "email": "justine.gauthier@example.com",
+    "username": "bigmeercat785",
+    "password": "silverad",
+    "invokedAt": "2022-02-02T03:58:50.008Z"
   }
 ]
