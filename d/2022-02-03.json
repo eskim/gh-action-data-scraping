@@ -166,5 +166,13 @@
     "username": "bigpanda748",
     "password": "wareagle",
     "invokedAt": "2022-02-03T20:59:11.300Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Medina",
+    "email": "santiago.medina@example.com",
+    "username": "heavyswan131",
+    "password": "carver",
+    "invokedAt": "2022-02-03T21:59:07.566Z"
   }
 ]
