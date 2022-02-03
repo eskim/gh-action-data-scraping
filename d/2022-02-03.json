@@ -78,5 +78,13 @@
     "username": "happybutterfly134",
     "password": "racecar",
     "invokedAt": "2022-02-03T09:59:02.556Z"
+  },
+  {
+    "firstName": "Jessie",
+    "lastName": "Jimenez",
+    "email": "jessie.jimenez@example.com",
+    "username": "brownrabbit355",
+    "password": "dogbone",
+    "invokedAt": "2022-02-03T10:59:01.452Z"
   }
 ]
