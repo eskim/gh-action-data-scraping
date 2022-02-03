@@ -174,5 +174,13 @@
     "username": "heavyswan131",
     "password": "carver",
     "invokedAt": "2022-02-03T21:59:07.566Z"
+  },
+  {
+    "firstName": "Mauri",
+    "lastName": "Aragão",
+    "email": "mauri.aragao@example.com",
+    "username": "whitebutterfly417",
+    "password": "chivas",
+    "invokedAt": "2022-02-03T22:58:51.162Z"
   }
 ]
