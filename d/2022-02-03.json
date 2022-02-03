@@ -158,5 +158,13 @@
     "username": "ticklishwolf469",
     "password": "planes",
     "invokedAt": "2022-02-03T19:59:01.058Z"
+  },
+  {
+    "firstName": "Davut",
+    "lastName": "Korol",
+    "email": "davut.korol@example.com",
+    "username": "bigpanda748",
+    "password": "wareagle",
+    "invokedAt": "2022-02-03T20:59:11.300Z"
   }
 ]
