@@ -94,5 +94,13 @@
     "username": "purpletiger293",
     "password": "book",
     "invokedAt": "2022-02-04T11:59:07.746Z"
+  },
+  {
+    "firstName": "Kuzey",
+    "lastName": "Ağaoğlu",
+    "email": "kuzey.agaoglu@example.com",
+    "username": "tinyzebra711",
+    "password": "bayern",
+    "invokedAt": "2022-02-04T12:59:01.631Z"
   }
 ]
