@@ -158,5 +158,13 @@
     "username": "greenbird265",
     "password": "commando",
     "invokedAt": "2022-02-04T19:58:50.924Z"
+  },
+  {
+    "firstName": "Angel",
+    "lastName": "Vazquez",
+    "email": "angel.vazquez@example.com",
+    "username": "goldengorilla380",
+    "password": "software",
+    "invokedAt": "2022-02-04T20:58:54.265Z"
   }
 ]
