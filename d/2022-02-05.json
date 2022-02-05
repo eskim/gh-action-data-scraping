@@ -86,5 +86,13 @@
     "username": "crazyostrich711",
     "password": "frodo1",
     "invokedAt": "2022-02-05T10:59:08.265Z"
+  },
+  {
+    "firstName": "Yara",
+    "lastName": "Guillot",
+    "email": "yara.guillot@example.com",
+    "username": "ticklishfish805",
+    "password": "warcraft",
+    "invokedAt": "2022-02-05T11:58:51.812Z"
   }
 ]
