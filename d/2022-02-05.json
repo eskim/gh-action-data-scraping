@@ -94,5 +94,13 @@
     "username": "ticklishfish805",
     "password": "warcraft",
     "invokedAt": "2022-02-05T11:58:51.812Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Hicks",
+    "email": "zoe.hicks@example.com",
+    "username": "lazysnake917",
+    "password": "sunfire",
+    "invokedAt": "2022-02-05T12:58:54.005Z"
   }
 ]
