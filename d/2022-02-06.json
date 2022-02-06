@@ -118,5 +118,13 @@
     "username": "angryrabbit410",
     "password": "doodoo",
     "invokedAt": "2022-02-06T14:58:49.684Z"
+  },
+  {
+    "firstName": "عرشيا",
+    "lastName": "پارسا",
+    "email": "aarshy.prs@example.com",
+    "username": "heavyladybug404",
+    "password": "bill",
+    "invokedAt": "2022-02-06T15:58:45.262Z"
   }
 ]
