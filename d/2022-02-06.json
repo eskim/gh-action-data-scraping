@@ -158,5 +158,13 @@
     "username": "sadostrich605",
     "password": "litle",
     "invokedAt": "2022-02-06T19:58:56.980Z"
+  },
+  {
+    "firstName": "Bobbie",
+    "lastName": "Jennings",
+    "email": "bobbie.jennings@example.com",
+    "username": "sadfrog702",
+    "password": "cypress",
+    "invokedAt": "2022-02-06T20:58:58.335Z"
   }
 ]
