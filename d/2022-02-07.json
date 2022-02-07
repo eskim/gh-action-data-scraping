@@ -62,5 +62,13 @@
     "username": "redelephant279",
     "password": "trip",
     "invokedAt": "2022-02-07T07:58:55.802Z"
+  },
+  {
+    "firstName": "Ricardo",
+    "lastName": "Peña",
+    "email": "ricardo.pena@example.com",
+    "username": "whitefish250",
+    "password": "hardware",
+    "invokedAt": "2022-02-07T08:58:52.366Z"
   }
 ]
