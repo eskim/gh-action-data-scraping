@@ -86,5 +86,13 @@
     "username": "tinyrabbit364",
     "password": "panasoni",
     "invokedAt": "2022-02-07T10:58:53.834Z"
+  },
+  {
+    "firstName": "بهاره",
+    "lastName": "رضایی",
+    "email": "bhrh.rdyy@example.com",
+    "username": "crazyfish456",
+    "password": "01234567",
+    "invokedAt": "2022-02-07T11:58:51.320Z"
   }
 ]
