@@ -126,5 +126,13 @@
     "username": "greenswan227",
     "password": "pertinant",
     "invokedAt": "2022-02-08T15:59:28.094Z"
+  },
+  {
+    "firstName": "Loïc",
+    "lastName": "Dupont",
+    "email": "loic.dupont@example.com",
+    "username": "purplemeercat135",
+    "password": "mememe",
+    "invokedAt": "2022-02-08T17:10:35.208Z"
   }
 ]
