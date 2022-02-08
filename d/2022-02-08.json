@@ -174,5 +174,13 @@
     "username": "lazybear256",
     "password": "juventus",
     "invokedAt": "2022-02-08T21:59:05.294Z"
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Thomas",
+    "email": "anthony.thomas@example.com",
+    "username": "whiteelephant745",
+    "password": "philippe",
+    "invokedAt": "2022-02-08T22:59:07.585Z"
   }
 ]
