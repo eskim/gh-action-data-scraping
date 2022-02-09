@@ -158,5 +158,13 @@
     "username": "sadrabbit447",
     "password": "bathing",
     "invokedAt": "2022-02-09T19:59:00.882Z"
+  },
+  {
+    "firstName": "Yassin",
+    "lastName": "Aafjes",
+    "email": "yassin.aafjes@example.com",
+    "username": "purplezebra101",
+    "password": "flicks",
+    "invokedAt": "2022-02-09T20:58:51.270Z"
   }
 ]
