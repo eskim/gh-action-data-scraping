@@ -102,5 +102,13 @@
     "username": "organiccat892",
     "password": "womble",
     "invokedAt": "2022-02-09T13:08:28.472Z"
+  },
+  {
+    "firstName": "Yasmien",
+    "lastName": "Van der Heijden",
+    "email": "yasmien.vanderheijden@example.com",
+    "username": "smallpanda192",
+    "password": "rainbow",
+    "invokedAt": "2022-02-09T13:58:50.728Z"
   }
 ]
