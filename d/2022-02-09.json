@@ -94,5 +94,13 @@
     "username": "bigladybug681",
     "password": "24682468",
     "invokedAt": "2022-02-09T11:58:57.772Z"
+  },
+  {
+    "firstName": "Theo",
+    "lastName": "Lavigne",
+    "email": "theo.lavigne@example.com",
+    "username": "organiccat892",
+    "password": "womble",
+    "invokedAt": "2022-02-09T13:08:28.472Z"
   }
 ]
