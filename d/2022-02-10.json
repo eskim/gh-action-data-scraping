@@ -86,5 +86,13 @@
     "username": "tinygoose596",
     "password": "divorce",
     "invokedAt": "2022-02-10T10:58:58.264Z"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Kelley",
+    "email": "terry.kelley@example.com",
+    "username": "whitepanda310",
+    "password": "tigers",
+    "invokedAt": "2022-02-10T13:07:48.249Z"
   }
 ]
