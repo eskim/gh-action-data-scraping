@@ -126,5 +126,13 @@
     "username": "happybear454",
     "password": "sonics",
     "invokedAt": "2022-02-10T17:07:36.818Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Perez",
+    "email": "pedro.perez@example.com",
+    "username": "blueladybug980",
+    "password": "start1",
+    "invokedAt": "2022-02-10T17:59:07.695Z"
   }
 ]
