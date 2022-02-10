@@ -142,5 +142,13 @@
     "username": "lazypanda108",
     "password": "cynthia",
     "invokedAt": "2022-02-10T18:58:45.078Z"
+  },
+  {
+    "firstName": "Vildan",
+    "lastName": "Yetkiner",
+    "email": "vildan.yetkiner@example.com",
+    "username": "purplerabbit308",
+    "password": "forumwp",
+    "invokedAt": "2022-02-10T19:59:04.077Z"
   }
 ]
