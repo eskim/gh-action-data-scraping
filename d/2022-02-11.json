@@ -78,5 +78,13 @@
     "username": "orangedog108",
     "password": "blink",
     "invokedAt": "2022-02-11T09:58:51.369Z"
+  },
+  {
+    "firstName": "Jeremiah",
+    "lastName": "Henderson",
+    "email": "jeremiah.henderson@example.com",
+    "username": "organicbear805",
+    "password": "talk",
+    "invokedAt": "2022-02-11T10:58:54.147Z"
   }
 ]
