@@ -142,5 +142,13 @@
     "username": "yellowleopard876",
     "password": "presario",
     "invokedAt": "2022-02-11T17:58:47.178Z"
+  },
+  {
+    "firstName": "Alexandra",
+    "lastName": "Gloppen",
+    "email": "alexandra.gloppen@example.com",
+    "username": "smallcat389",
+    "password": "breast",
+    "invokedAt": "2022-02-11T18:58:56.620Z"
   }
 ]
