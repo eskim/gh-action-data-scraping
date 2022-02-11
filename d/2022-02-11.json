@@ -86,5 +86,13 @@
     "username": "organicbear805",
     "password": "talk",
     "invokedAt": "2022-02-11T10:58:54.147Z"
+  },
+  {
+    "firstName": "Hannah",
+    "lastName": "Fields",
+    "email": "hannah.fields@example.com",
+    "username": "whitelion422",
+    "password": "sinned",
+    "invokedAt": "2022-02-11T11:58:54.201Z"
   }
 ]
