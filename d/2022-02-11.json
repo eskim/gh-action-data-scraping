@@ -70,5 +70,13 @@
     "username": "crazybird114",
     "password": "wanderer",
     "invokedAt": "2022-02-11T08:58:58.416Z"
+  },
+  {
+    "firstName": "Begoña",
+    "lastName": "Alonso",
+    "email": "begona.alonso@example.com",
+    "username": "orangedog108",
+    "password": "blink",
+    "invokedAt": "2022-02-11T09:58:51.369Z"
   }
 ]
