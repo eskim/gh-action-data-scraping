@@ -158,5 +158,13 @@
     "username": "whiteostrich247",
     "password": "lumina",
     "invokedAt": "2022-02-11T19:58:54.786Z"
+  },
+  {
+    "firstName": "Liliana",
+    "lastName": "Gomes",
+    "email": "liliana.gomes@example.com",
+    "username": "ticklishzebra389",
+    "password": "superfly",
+    "invokedAt": "2022-02-11T20:58:59.770Z"
   }
 ]
