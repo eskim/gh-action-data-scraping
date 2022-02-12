@@ -102,5 +102,13 @@
     "username": "beautifulmeercat479",
     "password": "goblin",
     "invokedAt": "2022-02-12T13:03:54.169Z"
+  },
+  {
+    "firstName": "Benito",
+    "lastName": "Delgado",
+    "email": "benito.delgado@example.com",
+    "username": "bluebird287",
+    "password": "score",
+    "invokedAt": "2022-02-12T13:58:48.062Z"
   }
 ]
