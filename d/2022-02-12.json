@@ -86,5 +86,13 @@
     "username": "brownrabbit185",
     "password": "wildcard",
     "invokedAt": "2022-02-12T10:58:48.268Z"
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Jacobs",
+    "email": "mike.jacobs@example.com",
+    "username": "greengoose162",
+    "password": "adonis",
+    "invokedAt": "2022-02-12T11:58:54.505Z"
   }
 ]
