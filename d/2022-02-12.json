@@ -38,5 +38,13 @@
     "username": "sadwolf224",
     "password": "yomama",
     "invokedAt": "2022-02-12T04:58:48.576Z"
+  },
+  {
+    "firstName": "Kay",
+    "lastName": "Dupont",
+    "email": "kay.dupont@example.com",
+    "username": "angryzebra264",
+    "password": "whistler",
+    "invokedAt": "2022-02-12T05:58:47.400Z"
   }
 ]
