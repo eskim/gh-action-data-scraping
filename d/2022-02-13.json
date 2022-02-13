@@ -38,5 +38,13 @@
     "username": "browndog137",
     "password": "nineinch",
     "invokedAt": "2022-02-13T04:58:51.803Z"
+  },
+  {
+    "firstName": "Rick",
+    "lastName": "Smith",
+    "email": "rick.smith@example.com",
+    "username": "lazydog593",
+    "password": "creative",
+    "invokedAt": "2022-02-13T05:59:10.962Z"
   }
 ]
