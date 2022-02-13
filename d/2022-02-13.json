@@ -118,5 +118,13 @@
     "username": "happybutterfly613",
     "password": "bmwbmw",
     "invokedAt": "2022-02-13T14:58:57.999Z"
+  },
+  {
+    "firstName": "Levi",
+    "lastName": "Johnson",
+    "email": "levi.johnson@example.com",
+    "username": "purpledog394",
+    "password": "waldo1",
+    "invokedAt": "2022-02-13T15:59:00.113Z"
   }
 ]
