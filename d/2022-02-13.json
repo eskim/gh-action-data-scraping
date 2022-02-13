@@ -182,5 +182,13 @@
     "username": "blackkoala248",
     "password": "opus",
     "invokedAt": "2022-02-13T22:58:50.334Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Sirko",
+    "email": "eva.sirko@example.com",
+    "username": "beautifulpanda696",
+    "password": "camden",
+    "invokedAt": "2022-02-13T23:58:45.993Z"
   }
 ]
