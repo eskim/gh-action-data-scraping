@@ -158,5 +158,13 @@
     "username": "yellowbird548",
     "password": "pipeline",
     "invokedAt": "2022-02-13T19:59:05.904Z"
+  },
+  {
+    "firstName": "Olaf",
+    "lastName": "Schöpf",
+    "email": "olaf.schopf@example.com",
+    "username": "redsnake938",
+    "password": "mirage",
+    "invokedAt": "2022-02-13T20:58:49.799Z"
   }
 ]
