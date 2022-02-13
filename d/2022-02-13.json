@@ -174,5 +174,13 @@
     "username": "brownlion390",
     "password": "newyork1",
     "invokedAt": "2022-02-13T21:59:00.180Z"
+  },
+  {
+    "firstName": "شایان",
+    "lastName": "حسینی",
+    "email": "shyn.hsyny@example.com",
+    "username": "blackkoala248",
+    "password": "opus",
+    "invokedAt": "2022-02-13T22:58:50.334Z"
   }
 ]
