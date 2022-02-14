@@ -166,5 +166,13 @@
     "username": "organicdog924",
     "password": "systems",
     "invokedAt": "2022-02-14T20:58:49.566Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Kristensen",
+    "email": "noah.kristensen@example.com",
+    "username": "bigbutterfly369",
+    "password": "japanes",
+    "invokedAt": "2022-02-14T21:58:59.469Z"
   }
 ]
