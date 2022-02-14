@@ -94,5 +94,13 @@
     "username": "brownduck719",
     "password": "love",
     "invokedAt": "2022-02-14T11:59:03.152Z"
+  },
+  {
+    "firstName": "Jost",
+    "lastName": "Dettmann",
+    "email": "jost.dettmann@example.com",
+    "username": "beautifulladybug520",
+    "password": "airport",
+    "invokedAt": "2022-02-14T13:08:52.621Z"
   }
 ]
