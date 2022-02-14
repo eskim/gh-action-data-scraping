@@ -102,5 +102,13 @@
     "username": "beautifulladybug520",
     "password": "airport",
     "invokedAt": "2022-02-14T13:08:52.621Z"
+  },
+  {
+    "firstName": "Pihla",
+    "lastName": "Rajala",
+    "email": "pihla.rajala@example.com",
+    "username": "tinywolf180",
+    "password": "575757",
+    "invokedAt": "2022-02-14T13:58:53.177Z"
   }
 ]
