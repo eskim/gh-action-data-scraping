@@ -158,5 +158,13 @@
     "username": "smalllion638",
     "password": "addison",
     "invokedAt": "2022-02-14T19:59:12.071Z"
+  },
+  {
+    "firstName": "Brent",
+    "lastName": "Lee",
+    "email": "brent.lee@example.com",
+    "username": "organicdog924",
+    "password": "systems",
+    "invokedAt": "2022-02-14T20:58:49.566Z"
   }
 ]
