@@ -134,5 +134,13 @@
     "username": "greenrabbit209",
     "password": "wordup",
     "invokedAt": "2022-02-15T18:58:50.002Z"
+  },
+  {
+    "firstName": "Corsino",
+    "lastName": "Fogaça",
+    "email": "corsino.fogaca@example.com",
+    "username": "whitewolf641",
+    "password": "beardog",
+    "invokedAt": "2022-02-15T19:59:13.840Z"
   }
 ]
