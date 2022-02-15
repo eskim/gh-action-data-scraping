@@ -14,5 +14,13 @@
     "username": "yellowbird570",
     "password": "nugget",
     "invokedAt": "2022-02-15T03:58:57.011Z"
+  },
+  {
+    "firstName": "Asuncion",
+    "lastName": "Marquez",
+    "email": "asuncion.marquez@example.com",
+    "username": "bluebird349",
+    "password": "chopin",
+    "invokedAt": "2022-02-15T04:58:50.579Z"
   }
 ]
