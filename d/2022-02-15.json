@@ -150,5 +150,13 @@
     "username": "silverdog743",
     "password": "spanish",
     "invokedAt": "2022-02-15T20:58:56.142Z"
+  },
+  {
+    "firstName": "Jofre",
+    "lastName": "da Conceição",
+    "email": "jofre.daconceicao@example.com",
+    "username": "ticklishtiger227",
+    "password": "emily",
+    "invokedAt": "2022-02-15T21:59:04.019Z"
   }
 ]
