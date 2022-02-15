@@ -126,5 +126,13 @@
     "username": "redfrog721",
     "password": "pisces",
     "invokedAt": "2022-02-15T17:58:55.277Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Poulsen",
+    "email": "oscar.poulsen@example.com",
+    "username": "greenrabbit209",
+    "password": "wordup",
+    "invokedAt": "2022-02-15T18:58:50.002Z"
   }
 ]
