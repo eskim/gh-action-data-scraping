@@ -174,5 +174,13 @@
     "username": "happydog632",
     "password": "656565",
     "invokedAt": "2022-02-16T22:58:46.439Z"
+  },
+  {
+    "firstName": "Karl",
+    "lastName": "West",
+    "email": "karl.west@example.com",
+    "username": "angrywolf411",
+    "password": "razor",
+    "invokedAt": "2022-02-16T23:58:57.778Z"
   }
 ]
