@@ -142,5 +142,13 @@
     "username": "whitezebra347",
     "password": "clay",
     "invokedAt": "2022-02-16T18:59:03.934Z"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Gehrig",
+    "email": "jeremy.gehrig@example.com",
+    "username": "sadwolf752",
+    "password": "color",
+    "invokedAt": "2022-02-16T19:58:51.029Z"
   }
 ]
