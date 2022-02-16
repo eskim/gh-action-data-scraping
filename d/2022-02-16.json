@@ -14,5 +14,13 @@
     "username": "brownfrog334",
     "password": "munch",
     "invokedAt": "2022-02-16T02:58:53.884Z"
+  },
+  {
+    "firstName": "Melike",
+    "lastName": "Kasapoğlu",
+    "email": "melike.kasapoglu@example.com",
+    "username": "ticklishmouse691",
+    "password": "shower",
+    "invokedAt": "2022-02-16T03:59:07.801Z"
   }
 ]
