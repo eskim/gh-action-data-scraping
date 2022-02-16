@@ -102,5 +102,13 @@
     "username": "redswan592",
     "password": "winner",
     "invokedAt": "2022-02-16T13:59:11.346Z"
+  },
+  {
+    "firstName": "Louka",
+    "lastName": "Lopez",
+    "email": "louka.lopez@example.com",
+    "username": "brownrabbit674",
+    "password": "racer",
+    "invokedAt": "2022-02-16T15:03:44.125Z"
   }
 ]
