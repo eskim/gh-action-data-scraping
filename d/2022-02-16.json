@@ -126,5 +126,13 @@
     "username": "angrypeacock367",
     "password": "blackcat",
     "invokedAt": "2022-02-16T17:07:37.441Z"
+  },
+  {
+    "firstName": "Tora",
+    "lastName": "Holsen",
+    "email": "tora.holsen@example.com",
+    "username": "beautifulpanda444",
+    "password": "gonzo1",
+    "invokedAt": "2022-02-16T17:59:07.925Z"
   }
 ]
