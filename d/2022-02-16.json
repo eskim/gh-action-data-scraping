@@ -158,5 +158,13 @@
     "username": "yellowkoala107",
     "password": "goaway",
     "invokedAt": "2022-02-16T20:58:51.912Z"
+  },
+  {
+    "firstName": "Afonso Henriques",
+    "lastName": "Aragão",
+    "email": "afonsohenriques.aragao@example.com",
+    "username": "crazyduck938",
+    "password": "henry1",
+    "invokedAt": "2022-02-16T21:58:58.391Z"
   }
 ]
