@@ -118,5 +118,13 @@
     "username": "yellowostrich674",
     "password": "google",
     "invokedAt": "2022-02-16T15:59:42.435Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Morales",
+    "email": "liam.morales@example.com",
+    "username": "angrypeacock367",
+    "password": "blackcat",
+    "invokedAt": "2022-02-16T17:07:37.441Z"
   }
 ]
