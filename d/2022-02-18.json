@@ -102,5 +102,13 @@
     "username": "purplelion455",
     "password": "bubbles",
     "invokedAt": "2022-02-18T13:08:19.558Z"
+  },
+  {
+    "firstName": "Adonai",
+    "lastName": "da Rosa",
+    "email": "adonai.darosa@example.com",
+    "username": "beautifulgoose574",
+    "password": "mason",
+    "invokedAt": "2022-02-18T13:58:48.768Z"
   }
 ]
