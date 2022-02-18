@@ -70,5 +70,13 @@
     "username": "angrywolf915",
     "password": "crunch",
     "invokedAt": "2022-02-18T08:58:56.784Z"
+  },
+  {
+    "firstName": "Kornelius",
+    "lastName": "Rinde",
+    "email": "kornelius.rinde@example.com",
+    "username": "lazyzebra966",
+    "password": "legend",
+    "invokedAt": "2022-02-18T09:58:50.132Z"
   }
 ]
