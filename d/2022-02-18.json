@@ -78,5 +78,13 @@
     "username": "lazyzebra966",
     "password": "legend",
     "invokedAt": "2022-02-18T09:58:50.132Z"
+  },
+  {
+    "firstName": "Timme",
+    "lastName": "Van Breugel",
+    "email": "timme.vanbreugel@example.com",
+    "username": "beautifulswan247",
+    "password": "baylor",
+    "invokedAt": "2022-02-18T10:58:57.217Z"
   }
 ]
