@@ -94,5 +94,13 @@
     "username": "angrysnake143",
     "password": "pirates",
     "invokedAt": "2022-02-18T11:58:59.938Z"
+  },
+  {
+    "firstName": "Sander",
+    "lastName": "Pedersen",
+    "email": "sander.pedersen@example.com",
+    "username": "purplelion455",
+    "password": "bubbles",
+    "invokedAt": "2022-02-18T13:08:19.558Z"
   }
 ]
