@@ -182,5 +182,13 @@
     "username": "redduck994",
     "password": "tomcat",
     "invokedAt": "2022-02-18T22:59:05.851Z"
+  },
+  {
+    "firstName": "Andres",
+    "lastName": "Schwalbe",
+    "email": "andres.schwalbe@example.com",
+    "username": "ticklishelephant418",
+    "password": "comfort",
+    "invokedAt": "2022-02-18T23:58:49.487Z"
   }
 ]
