@@ -182,5 +182,13 @@
     "username": "greenfrog618",
     "password": "sprout",
     "invokedAt": "2022-02-20T22:59:00.782Z"
+  },
+  {
+    "firstName": "Beau",
+    "lastName": "Brown",
+    "email": "beau.brown@example.com",
+    "username": "greenmeercat676",
+    "password": "cubbies",
+    "invokedAt": "2022-02-20T23:59:02.708Z"
   }
 ]
