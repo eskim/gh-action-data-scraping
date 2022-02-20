@@ -54,5 +54,13 @@
     "username": "silverelephant447",
     "password": "ggggggg",
     "invokedAt": "2022-02-20T06:58:58.339Z"
+  },
+  {
+    "firstName": "Fatih",
+    "lastName": "Erdoğan",
+    "email": "fatih.erdogan@example.com",
+    "username": "heavydog689",
+    "password": "goats",
+    "invokedAt": "2022-02-20T07:59:07.686Z"
   }
 ]
