@@ -6,5 +6,13 @@
     "username": "goldenmeercat103",
     "password": "irish",
     "invokedAt": "2022-02-22T01:49:00.361Z"
+  },
+  {
+    "firstName": "Nihal",
+    "lastName": "Taşlı",
+    "email": "nihal.tasli@example.com",
+    "username": "goldendog400",
+    "password": "lady",
+    "invokedAt": "2022-02-22T02:19:30.417Z"
   }
 ]
