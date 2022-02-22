@@ -142,5 +142,13 @@
     "username": "orangeswan335",
     "password": "arizona",
     "invokedAt": "2022-02-22T17:58:58.928Z"
+  },
+  {
+    "firstName": "Abigail",
+    "lastName": "Omdal",
+    "email": "abigail.omdal@example.com",
+    "username": "beautifulsnake570",
+    "password": "woman",
+    "invokedAt": "2022-02-22T18:58:51.755Z"
   }
 ]
