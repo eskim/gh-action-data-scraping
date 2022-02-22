@@ -134,5 +134,13 @@
     "username": "blackpeacock183",
     "password": "nation",
     "invokedAt": "2022-02-22T17:08:26.297Z"
+  },
+  {
+    "firstName": "باران",
+    "lastName": "صدر",
+    "email": "brn.sdr@example.com",
+    "username": "orangeswan335",
+    "password": "arizona",
+    "invokedAt": "2022-02-22T17:58:58.928Z"
   }
 ]
