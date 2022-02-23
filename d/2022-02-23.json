@@ -174,5 +174,13 @@
     "username": "yellowfish352",
     "password": "footjob",
     "invokedAt": "2022-02-23T22:59:00.298Z"
+  },
+  {
+    "firstName": "Ramon",
+    "lastName": "Douglas",
+    "email": "ramon.douglas@example.com",
+    "username": "redmouse868",
+    "password": "midget",
+    "invokedAt": "2022-02-23T23:59:02.422Z"
   }
 ]
