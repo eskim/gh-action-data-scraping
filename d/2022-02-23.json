@@ -142,5 +142,13 @@
     "username": "redbear411",
     "password": "sniper",
     "invokedAt": "2022-02-23T18:58:49.883Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Farias",
+    "email": "andres.farias@example.com",
+    "username": "beautifulsnake316",
+    "password": "sparky1",
+    "invokedAt": "2022-02-23T19:58:57.873Z"
   }
 ]
