@@ -102,5 +102,13 @@
     "username": "heavyfish872",
     "password": "spring",
     "invokedAt": "2022-02-23T13:58:53.385Z"
+  },
+  {
+    "firstName": "Analice",
+    "lastName": "Pires",
+    "email": "analice.pires@example.com",
+    "username": "whitefish319",
+    "password": "harley",
+    "invokedAt": "2022-02-23T15:03:35.644Z"
   }
 ]
