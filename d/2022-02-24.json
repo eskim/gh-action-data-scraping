@@ -86,5 +86,13 @@
     "username": "lazyfish831",
     "password": "bigmoney",
     "invokedAt": "2022-02-24T11:58:51.827Z"
+  },
+  {
+    "firstName": "Theo",
+    "lastName": "Novak",
+    "email": "theo.novak@example.com",
+    "username": "brownpeacock233",
+    "password": "report",
+    "invokedAt": "2022-02-24T13:10:08.300Z"
   }
 ]
