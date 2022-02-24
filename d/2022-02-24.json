@@ -78,5 +78,13 @@
     "username": "greenrabbit382",
     "password": "warrior",
     "invokedAt": "2022-02-24T10:59:01.133Z"
+  },
+  {
+    "firstName": "Natanael",
+    "lastName": "Nogueira",
+    "email": "natanael.nogueira@example.com",
+    "username": "lazyfish831",
+    "password": "bigmoney",
+    "invokedAt": "2022-02-24T11:58:51.827Z"
   }
 ]
