@@ -62,5 +62,13 @@
     "username": "brownkoala268",
     "password": "azsxdc",
     "invokedAt": "2022-02-24T08:58:59.239Z"
+  },
+  {
+    "firstName": "Lena",
+    "lastName": "Masson",
+    "email": "lena.masson@example.com",
+    "username": "greenduck335",
+    "password": "court",
+    "invokedAt": "2022-02-24T09:58:53.530Z"
   }
 ]
