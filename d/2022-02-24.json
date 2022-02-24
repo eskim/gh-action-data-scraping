@@ -46,5 +46,13 @@
     "username": "purplefish449",
     "password": "bcfields",
     "invokedAt": "2022-02-24T06:58:53.125Z"
+  },
+  {
+    "firstName": "آریا",
+    "lastName": "جعفری",
+    "email": "ary.jaafry@example.com",
+    "username": "blackbird718",
+    "password": "silent",
+    "invokedAt": "2022-02-24T07:58:59.715Z"
   }
 ]
