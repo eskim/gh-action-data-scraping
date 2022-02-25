@@ -70,5 +70,13 @@
     "username": "organickoala864",
     "password": "mustang",
     "invokedAt": "2022-02-25T09:58:58.132Z"
+  },
+  {
+    "firstName": "Begüm",
+    "lastName": "Kavaklıoğlu",
+    "email": "begum.kavaklioglu@example.com",
+    "username": "lazyladybug460",
+    "password": "racer",
+    "invokedAt": "2022-02-25T10:58:52.393Z"
   }
 ]
