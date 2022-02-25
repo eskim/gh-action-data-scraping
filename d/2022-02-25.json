@@ -94,5 +94,13 @@
     "username": "redpanda100",
     "password": "ttttttt",
     "invokedAt": "2022-02-25T13:09:21.115Z"
+  },
+  {
+    "firstName": "Joan",
+    "lastName": "Carlson",
+    "email": "joan.carlson@example.com",
+    "username": "happyelephant593",
+    "password": "indain",
+    "invokedAt": "2022-02-25T13:58:57.970Z"
   }
 ]
