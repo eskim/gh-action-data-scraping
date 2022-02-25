@@ -54,5 +54,13 @@
     "username": "yellowpeacock327",
     "password": "metal",
     "invokedAt": "2022-02-25T07:59:10.170Z"
+  },
+  {
+    "firstName": "Darrell",
+    "lastName": "Snyder",
+    "email": "darrell.snyder@example.com",
+    "username": "crazytiger378",
+    "password": "stars",
+    "invokedAt": "2022-02-25T08:58:56.454Z"
   }
 ]
