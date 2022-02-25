@@ -38,5 +38,13 @@
     "username": "beautifultiger844",
     "password": "favorite",
     "invokedAt": "2022-02-25T05:59:02.847Z"
+  },
+  {
+    "firstName": "Volkan",
+    "lastName": "Çatalbaş",
+    "email": "volkan.catalbas@example.com",
+    "username": "crazydog100",
+    "password": "woods",
+    "invokedAt": "2022-02-25T06:59:00.638Z"
   }
 ]
