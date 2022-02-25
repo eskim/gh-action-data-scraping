@@ -86,5 +86,13 @@
     "username": "lazylion595",
     "password": "brain",
     "invokedAt": "2022-02-25T11:58:52.485Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Marchand",
+    "email": "luis.marchand@example.com",
+    "username": "redpanda100",
+    "password": "ttttttt",
+    "invokedAt": "2022-02-25T13:09:21.115Z"
   }
 ]
