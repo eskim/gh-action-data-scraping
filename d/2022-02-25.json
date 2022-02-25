@@ -102,5 +102,13 @@
     "username": "happyelephant593",
     "password": "indain",
     "invokedAt": "2022-02-25T13:58:57.970Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Bouchard",
+    "email": "sofia.bouchard@example.com",
+    "username": "tinypanda615",
+    "password": "biit",
+    "invokedAt": "2022-02-25T14:59:01.678Z"
   }
 ]
