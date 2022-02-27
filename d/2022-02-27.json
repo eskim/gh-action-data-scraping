@@ -110,5 +110,13 @@
     "username": "sadlion690",
     "password": "opendoor",
     "invokedAt": "2022-02-27T13:59:17.210Z"
+  },
+  {
+    "firstName": "Sheng",
+    "lastName": "Kievit",
+    "email": "sheng.kievit@example.com",
+    "username": "purplegoose969",
+    "password": "robinson",
+    "invokedAt": "2022-02-27T14:59:08.860Z"
   }
 ]
