@@ -102,5 +102,13 @@
     "username": "whitebird575",
     "password": "hjkl",
     "invokedAt": "2022-02-27T13:07:45.626Z"
+  },
+  {
+    "firstName": "Roy",
+    "lastName": "Muller",
+    "email": "roy.muller@example.com",
+    "username": "sadlion690",
+    "password": "opendoor",
+    "invokedAt": "2022-02-27T13:59:17.210Z"
   }
 ]
