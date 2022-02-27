@@ -30,5 +30,13 @@
     "username": "organicswan407",
     "password": "jabber",
     "invokedAt": "2022-02-27T03:58:59.162Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Bélanger",
+    "email": "hunter.belanger@example.com",
+    "username": "greengoose188",
+    "password": "marius",
+    "invokedAt": "2022-02-27T04:58:51.520Z"
   }
 ]
