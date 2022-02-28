@@ -110,5 +110,13 @@
     "username": "silverdog139",
     "password": "flex",
     "invokedAt": "2022-02-28T15:04:36.996Z"
+  },
+  {
+    "firstName": "Rachel",
+    "lastName": "Cruz",
+    "email": "rachel.cruz@example.com",
+    "username": "ticklishbear136",
+    "password": "pandora",
+    "invokedAt": "2022-02-28T16:03:54.517Z"
   }
 ]
