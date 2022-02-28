@@ -102,5 +102,13 @@
     "username": "yellowwolf502",
     "password": "forumwp",
     "invokedAt": "2022-02-28T13:59:05.845Z"
+  },
+  {
+    "firstName": "Enrique",
+    "lastName": "Saez",
+    "email": "enrique.saez@example.com",
+    "username": "silverdog139",
+    "password": "flex",
+    "invokedAt": "2022-02-28T15:04:36.996Z"
   }
 ]
