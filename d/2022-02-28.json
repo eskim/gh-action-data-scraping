@@ -86,5 +86,13 @@
     "username": "sadelephant948",
     "password": "oicu812",
     "invokedAt": "2022-02-28T11:59:08.803Z"
+  },
+  {
+    "firstName": "Macit",
+    "lastName": "Saygıner",
+    "email": "macit.sayginer@example.com",
+    "username": "heavyrabbit784",
+    "password": "parola",
+    "invokedAt": "2022-02-28T13:10:15.707Z"
   }
 ]
