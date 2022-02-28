@@ -118,5 +118,13 @@
     "username": "ticklishbear136",
     "password": "pandora",
     "invokedAt": "2022-02-28T16:03:54.517Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Li",
+    "email": "anna.li@example.com",
+    "username": "crazyfish272",
+    "password": "hook",
+    "invokedAt": "2022-02-28T17:16:38.192Z"
   }
 ]
