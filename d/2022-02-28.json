@@ -126,5 +126,13 @@
     "username": "crazyfish272",
     "password": "hook",
     "invokedAt": "2022-02-28T17:16:38.192Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Garcia",
+    "email": "nathan.garcia@example.com",
+    "username": "browndog230",
+    "password": "christopher",
+    "invokedAt": "2022-02-28T18:03:37.391Z"
   }
 ]
