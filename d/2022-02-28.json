@@ -70,5 +70,13 @@
     "username": "greenswan450",
     "password": "yahooo",
     "invokedAt": "2022-02-28T09:59:03.593Z"
+  },
+  {
+    "firstName": "Ariane",
+    "lastName": "Ambrose",
+    "email": "ariane.ambrose@example.com",
+    "username": "crazyzebra889",
+    "password": "harper",
+    "invokedAt": "2022-02-28T10:59:04.836Z"
   }
 ]
