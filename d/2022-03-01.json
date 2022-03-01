@@ -110,5 +110,13 @@
     "username": "crazygoose770",
     "password": "stratus",
     "invokedAt": "2022-03-01T14:03:56.424Z"
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "Brady",
+    "email": "bruce.brady@example.com",
+    "username": "happydog283",
+    "password": "maggie1",
+    "invokedAt": "2022-03-01T15:04:55.486Z"
   }
 ]
