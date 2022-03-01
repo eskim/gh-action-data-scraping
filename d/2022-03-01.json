@@ -102,5 +102,13 @@
     "username": "angryswan952",
     "password": "1989",
     "invokedAt": "2022-03-01T13:15:31.404Z"
+  },
+  {
+    "firstName": "Aida",
+    "lastName": "Perrin",
+    "email": "aida.perrin@example.com",
+    "username": "crazygoose770",
+    "password": "stratus",
+    "invokedAt": "2022-03-01T14:03:56.424Z"
   }
 ]
