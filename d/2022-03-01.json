@@ -94,5 +94,13 @@
     "username": "orangelion932",
     "password": "delete",
     "invokedAt": "2022-03-01T12:03:52.308Z"
+  },
+  {
+    "firstName": "Idun",
+    "lastName": "Hellerud",
+    "email": "idun.hellerud@example.com",
+    "username": "angryswan952",
+    "password": "1989",
+    "invokedAt": "2022-03-01T13:15:31.404Z"
   }
 ]
