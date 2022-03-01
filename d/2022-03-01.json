@@ -54,5 +54,13 @@
     "username": "bluefrog549",
     "password": "citadel",
     "invokedAt": "2022-03-01T07:03:29.009Z"
+  },
+  {
+    "firstName": "Onur",
+    "lastName": "Akgül",
+    "email": "onur.akgul@example.com",
+    "username": "heavyleopard380",
+    "password": "bender",
+    "invokedAt": "2022-03-01T08:08:23.814Z"
   }
 ]
