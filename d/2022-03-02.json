@@ -174,5 +174,13 @@
     "username": "redfish379",
     "password": "gotribe",
     "invokedAt": "2022-03-02T22:03:38.146Z"
+  },
+  {
+    "firstName": "Sofie",
+    "lastName": "Rasmussen",
+    "email": "sofie.rasmussen@example.com",
+    "username": "silverostrich247",
+    "password": "platinum",
+    "invokedAt": "2022-03-02T23:03:47.009Z"
   }
 ]
