@@ -142,5 +142,13 @@
     "username": "sadpanda821",
     "password": "coral",
     "invokedAt": "2022-03-02T18:03:42.066Z"
+  },
+  {
+    "firstName": "اميرعلي",
+    "lastName": "رضایی",
+    "email": "myraaly.rdyy@example.com",
+    "username": "crazypanda655",
+    "password": "505050",
+    "invokedAt": "2022-03-02T19:03:57.827Z"
   }
 ]
