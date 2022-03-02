@@ -70,5 +70,13 @@
     "username": "beautifulpeacock970",
     "password": "catfish",
     "invokedAt": "2022-03-02T09:03:36.002Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Uluhan",
+    "email": "babur.uluhan@example.com",
+    "username": "ticklishdog594",
+    "password": "bunnies",
+    "invokedAt": "2022-03-02T10:03:39.408Z"
   }
 ]
