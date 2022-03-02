@@ -54,5 +54,13 @@
     "username": "blackostrich563",
     "password": "123321",
     "invokedAt": "2022-03-02T07:03:39.958Z"
+  },
+  {
+    "firstName": "Fatih",
+    "lastName": "Gönültaş",
+    "email": "fatih.gonultas@example.com",
+    "username": "heavycat546",
+    "password": "momsuck",
+    "invokedAt": "2022-03-02T08:07:32.611Z"
   }
 ]
