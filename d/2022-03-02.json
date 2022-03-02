@@ -46,5 +46,13 @@
     "username": "goldenwolf391",
     "password": "pokemon",
     "invokedAt": "2022-03-02T05:59:11.077Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Mackay",
+    "email": "tristan.mackay@example.com",
+    "username": "blackostrich563",
+    "password": "123321",
+    "invokedAt": "2022-03-02T07:03:39.958Z"
   }
 ]
