@@ -38,5 +38,13 @@
     "username": "heavytiger331",
     "password": "europa",
     "invokedAt": "2022-03-02T05:01:44.059Z"
+  },
+  {
+    "firstName": "Vedat",
+    "lastName": "Çörekçi",
+    "email": "vedat.corekci@example.com",
+    "username": "goldenwolf391",
+    "password": "pokemon",
+    "invokedAt": "2022-03-02T05:59:11.077Z"
   }
 ]
