@@ -166,5 +166,13 @@
     "username": "ticklishrabbit667",
     "password": "robocop",
     "invokedAt": "2022-03-02T21:03:39.260Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Kvam",
+    "email": "emily.kvam@example.com",
+    "username": "redfish379",
+    "password": "gotribe",
+    "invokedAt": "2022-03-02T22:03:38.146Z"
   }
 ]
