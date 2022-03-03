@@ -86,5 +86,13 @@
     "username": "goldenswan987",
     "password": "avenger",
     "invokedAt": "2022-03-03T11:11:49.982Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Jarvi",
+    "email": "emma.jarvi@example.com",
+    "username": "purpleelephant682",
+    "password": "tekken",
+    "invokedAt": "2022-03-03T12:03:42.196Z"
   }
 ]
