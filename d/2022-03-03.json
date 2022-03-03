@@ -22,5 +22,13 @@
     "username": "greenkoala309",
     "password": "raistlin",
     "invokedAt": "2022-03-03T03:11:48.024Z"
+  },
+  {
+    "firstName": "Maurice",
+    "lastName": "Cook",
+    "email": "maurice.cook@example.com",
+    "username": "happyleopard334",
+    "password": "booster",
+    "invokedAt": "2022-03-03T04:06:36.111Z"
   }
 ]
