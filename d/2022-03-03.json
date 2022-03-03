@@ -142,5 +142,13 @@
     "username": "heavytiger556",
     "password": "lancia",
     "invokedAt": "2022-03-03T18:03:50.065Z"
+  },
+  {
+    "firstName": "Henrikke",
+    "lastName": "Tjelta",
+    "email": "henrikke.tjelta@example.com",
+    "username": "purpledog499",
+    "password": "yellow1",
+    "invokedAt": "2022-03-03T19:02:08.638Z"
   }
 ]
