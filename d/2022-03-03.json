@@ -62,5 +62,13 @@
     "username": "yellowpanda235",
     "password": "heather1",
     "invokedAt": "2022-03-03T08:03:38.358Z"
+  },
+  {
+    "firstName": "مهراد",
+    "lastName": "موسوی",
+    "email": "mhrd.mwswy@example.com",
+    "username": "brownfish406",
+    "password": "lobster",
+    "invokedAt": "2022-03-03T09:03:34.273Z"
   }
 ]
