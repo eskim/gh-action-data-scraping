@@ -118,5 +118,13 @@
     "username": "greenelephant266",
     "password": "bingo",
     "invokedAt": "2022-03-04T15:58:55.278Z"
+  },
+  {
+    "firstName": "Susie",
+    "lastName": "Fuller",
+    "email": "susie.fuller@example.com",
+    "username": "ticklishzebra567",
+    "password": "baseball",
+    "invokedAt": "2022-03-04T17:05:51.367Z"
   }
 ]
