@@ -30,5 +30,13 @@
     "username": "smallduck645",
     "password": "penetration",
     "invokedAt": "2022-03-04T04:58:53.966Z"
+  },
+  {
+    "firstName": "Batur",
+    "lastName": "Aybar",
+    "email": "batur.aybar@example.com",
+    "username": "lazygorilla226",
+    "password": "snuggles",
+    "invokedAt": "2022-03-04T05:59:07.885Z"
   }
 ]
