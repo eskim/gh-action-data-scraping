@@ -94,5 +94,13 @@
     "username": "redostrich586",
     "password": "destiny",
     "invokedAt": "2022-03-04T13:10:35.297Z"
+  },
+  {
+    "firstName": "Milla",
+    "lastName": "Latt",
+    "email": "milla.latt@example.com",
+    "username": "angryfrog141",
+    "password": "backup",
+    "invokedAt": "2022-03-04T13:59:01.525Z"
   }
 ]
