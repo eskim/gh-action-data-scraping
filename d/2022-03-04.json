@@ -126,5 +126,13 @@
     "username": "ticklishzebra567",
     "password": "baseball",
     "invokedAt": "2022-03-04T17:05:51.367Z"
+  },
+  {
+    "firstName": "Tinita",
+    "lastName": "Souza",
+    "email": "tinita.souza@example.com",
+    "username": "heavyostrich353",
+    "password": "musicman",
+    "invokedAt": "2022-03-04T17:58:55.719Z"
   }
 ]
