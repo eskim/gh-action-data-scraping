@@ -118,5 +118,13 @@
     "username": "yellowpanda771",
     "password": "1020",
     "invokedAt": "2022-03-05T15:58:48.640Z"
+  },
+  {
+    "firstName": "Abigail",
+    "lastName": "Wong",
+    "email": "abigail.wong@example.com",
+    "username": "greenmeercat145",
+    "password": "masterbate",
+    "invokedAt": "2022-03-05T17:01:30.425Z"
   }
 ]
