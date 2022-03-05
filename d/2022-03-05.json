@@ -6,5 +6,13 @@
     "username": "happybutterfly136",
     "password": "dynamite",
     "invokedAt": "2022-03-05T01:58:32.215Z"
+  },
+  {
+    "firstName": "Hans-Peter",
+    "lastName": "Schiebel",
+    "email": "hans-peter.schiebel@example.com",
+    "username": "ticklishgoose504",
+    "password": "pearson",
+    "invokedAt": "2022-03-05T02:59:08.439Z"
   }
 ]
