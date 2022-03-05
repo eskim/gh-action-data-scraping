@@ -70,5 +70,13 @@
     "username": "orangefish309",
     "password": "steeler",
     "invokedAt": "2022-03-05T09:59:04.622Z"
+  },
+  {
+    "firstName": "Saphira",
+    "lastName": "Gündüz",
+    "email": "saphira.gunduz@example.com",
+    "username": "orangekoala414",
+    "password": "legion",
+    "invokedAt": "2022-03-05T10:58:47.317Z"
   }
 ]
