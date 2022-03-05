@@ -158,5 +158,13 @@
     "username": "crazyzebra110",
     "password": "galeries",
     "invokedAt": "2022-03-05T20:58:56.473Z"
+  },
+  {
+    "firstName": "Elif",
+    "lastName": "Atan",
+    "email": "elif.atan@example.com",
+    "username": "tinyfish654",
+    "password": "rage",
+    "invokedAt": "2022-03-05T21:58:56.258Z"
   }
 ]
