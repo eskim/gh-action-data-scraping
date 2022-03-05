@@ -78,5 +78,13 @@
     "username": "orangekoala414",
     "password": "legion",
     "invokedAt": "2022-03-05T10:58:47.317Z"
+  },
+  {
+    "firstName": "Anunciata",
+    "lastName": "Sales",
+    "email": "anunciata.sales@example.com",
+    "username": "redostrich322",
+    "password": "weaver",
+    "invokedAt": "2022-03-05T11:59:27.990Z"
   }
 ]
