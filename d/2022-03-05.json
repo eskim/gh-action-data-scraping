@@ -30,5 +30,13 @@
     "username": "ticklishladybug223",
     "password": "altima",
     "invokedAt": "2022-03-05T04:58:55.171Z"
+  },
+  {
+    "firstName": "Yasmin",
+    "lastName": "Wisman",
+    "email": "yasmin.wisman@example.com",
+    "username": "orangepanda299",
+    "password": "overkill",
+    "invokedAt": "2022-03-05T05:59:00.814Z"
   }
 ]
