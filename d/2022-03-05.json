@@ -174,5 +174,13 @@
     "username": "whitelion327",
     "password": "soccer10",
     "invokedAt": "2022-03-05T22:58:52.151Z"
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Jensen",
+    "email": "thea.jensen@example.com",
+    "username": "sadcat411",
+    "password": "celtics",
+    "invokedAt": "2022-03-05T23:58:53.864Z"
   }
 ]
