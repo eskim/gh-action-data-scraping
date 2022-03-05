@@ -126,5 +126,13 @@
     "username": "greenmeercat145",
     "password": "masterbate",
     "invokedAt": "2022-03-05T17:01:30.425Z"
+  },
+  {
+    "firstName": "Albin",
+    "lastName": "Janz",
+    "email": "albin.janz@example.com",
+    "username": "happypanda516",
+    "password": "frosty",
+    "invokedAt": "2022-03-05T17:58:56.740Z"
   }
 ]
