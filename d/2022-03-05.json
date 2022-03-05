@@ -150,5 +150,13 @@
     "username": "silverkoala907",
     "password": "racerx",
     "invokedAt": "2022-03-05T19:58:56.948Z"
+  },
+  {
+    "firstName": "Domas",
+    "lastName": "Fjeldheim",
+    "email": "domas.fjeldheim@example.com",
+    "username": "crazyzebra110",
+    "password": "galeries",
+    "invokedAt": "2022-03-05T20:58:56.473Z"
   }
 ]
