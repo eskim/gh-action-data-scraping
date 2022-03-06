@@ -174,5 +174,13 @@
     "username": "purplemeercat320",
     "password": "browning",
     "invokedAt": "2022-03-06T22:58:58.160Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Karjala",
+    "email": "emil.karjala@example.com",
+    "username": "purpleduck360",
+    "password": "1028",
+    "invokedAt": "2022-03-06T23:59:22.396Z"
   }
 ]
