@@ -126,5 +126,13 @@
     "username": "ticklishpanda152",
     "password": "gentle",
     "invokedAt": "2022-03-06T17:01:28.944Z"
+  },
+  {
+    "firstName": "Mona",
+    "lastName": "Klyve",
+    "email": "mona.klyve@example.com",
+    "username": "redpanda549",
+    "password": "baberuth",
+    "invokedAt": "2022-03-06T17:58:52.874Z"
   }
 ]
