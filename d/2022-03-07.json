@@ -94,5 +94,13 @@
     "username": "crazypanda783",
     "password": "mini",
     "invokedAt": "2022-03-07T13:11:07.818Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Ennis",
+    "email": "xavier.ennis@example.com",
+    "username": "angryostrich643",
+    "password": "furball",
+    "invokedAt": "2022-03-07T13:58:57.749Z"
   }
 ]
