@@ -102,5 +102,13 @@
     "username": "happywolf992",
     "password": "131313",
     "invokedAt": "2022-03-08T13:58:51.184Z"
+  },
+  {
+    "firstName": "Jen",
+    "lastName": "Gonzalez",
+    "email": "jen.gonzalez@example.com",
+    "username": "bigostrich651",
+    "password": "transit",
+    "invokedAt": "2022-03-08T14:59:21.635Z"
   }
 ]
