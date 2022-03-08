@@ -78,5 +78,13 @@
     "username": "purpleduck341",
     "password": "scotland",
     "invokedAt": "2022-03-08T10:59:11.035Z"
+  },
+  {
+    "firstName": "Mikael",
+    "lastName": "Niskanen",
+    "email": "mikael.niskanen@example.com",
+    "username": "sadostrich635",
+    "password": "joker1",
+    "invokedAt": "2022-03-08T11:59:10.420Z"
   }
 ]
