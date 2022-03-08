@@ -94,5 +94,13 @@
     "username": "greentiger756",
     "password": "getoff",
     "invokedAt": "2022-03-08T13:11:32.988Z"
+  },
+  {
+    "firstName": "Mijs",
+    "lastName": "Prenger",
+    "email": "mijs.prenger@example.com",
+    "username": "happywolf992",
+    "password": "131313",
+    "invokedAt": "2022-03-08T13:58:51.184Z"
   }
 ]
