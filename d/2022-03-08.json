@@ -134,5 +134,13 @@
     "username": "organicelephant904",
     "password": "ping",
     "invokedAt": "2022-03-08T17:58:59.334Z"
+  },
+  {
+    "firstName": "Sedef",
+    "lastName": "Yalçın",
+    "email": "sedef.yalcin@example.com",
+    "username": "goldenmouse770",
+    "password": "camper",
+    "invokedAt": "2022-03-08T18:58:59.961Z"
   }
 ]
