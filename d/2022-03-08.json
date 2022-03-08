@@ -54,5 +54,13 @@
     "username": "crazywolf706",
     "password": "imation",
     "invokedAt": "2022-03-08T07:59:02.904Z"
+  },
+  {
+    "firstName": "Durbalino",
+    "lastName": "Ribeiro",
+    "email": "durbalino.ribeiro@example.com",
+    "username": "smallpanda325",
+    "password": "newbie",
+    "invokedAt": "2022-03-08T08:59:03.394Z"
   }
 ]
