@@ -46,5 +46,13 @@
     "username": "angrybear418",
     "password": "epsilon",
     "invokedAt": "2022-03-08T06:58:55.464Z"
+  },
+  {
+    "firstName": "Dianne",
+    "lastName": "Cox",
+    "email": "dianne.cox@example.com",
+    "username": "crazywolf706",
+    "password": "imation",
+    "invokedAt": "2022-03-08T07:59:02.904Z"
   }
 ]
