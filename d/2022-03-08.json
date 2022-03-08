@@ -118,5 +118,13 @@
     "username": "sadgorilla806",
     "password": "cinema",
     "invokedAt": "2022-03-08T15:59:03.681Z"
+  },
+  {
+    "firstName": "Guy",
+    "lastName": "Giraud",
+    "email": "guy.giraud@example.com",
+    "username": "whitekoala837",
+    "password": "bbbbb",
+    "invokedAt": "2022-03-08T17:07:09.788Z"
   }
 ]
