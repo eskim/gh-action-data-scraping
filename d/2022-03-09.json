@@ -46,5 +46,13 @@
     "username": "ticklishfrog181",
     "password": "vbnm",
     "invokedAt": "2022-03-09T06:58:46.235Z"
+  },
+  {
+    "firstName": "Ricardo",
+    "lastName": "Rose",
+    "email": "ricardo.rose@example.com",
+    "username": "bigswan359",
+    "password": "playboy",
+    "invokedAt": "2022-03-09T07:59:02.370Z"
   }
 ]
