@@ -94,5 +94,13 @@
     "username": "silvermeercat799",
     "password": "concrete",
     "invokedAt": "2022-03-09T13:10:53.973Z"
+  },
+  {
+    "firstName": "Peetu",
+    "lastName": "Salonen",
+    "email": "peetu.salonen@example.com",
+    "username": "smallladybug464",
+    "password": "presario",
+    "invokedAt": "2022-03-09T13:58:50.716Z"
   }
 ]
