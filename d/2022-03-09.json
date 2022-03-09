@@ -86,5 +86,13 @@
     "username": "goldenfrog594",
     "password": "cobra",
     "invokedAt": "2022-03-09T11:58:59.433Z"
+  },
+  {
+    "firstName": "Isla",
+    "lastName": "Rantala",
+    "email": "isla.rantala@example.com",
+    "username": "silvermeercat799",
+    "password": "concrete",
+    "invokedAt": "2022-03-09T13:10:53.973Z"
   }
 ]
