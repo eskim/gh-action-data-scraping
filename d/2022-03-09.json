@@ -38,5 +38,13 @@
     "username": "orangekoala643",
     "password": "gogo",
     "invokedAt": "2022-03-09T05:58:55.004Z"
+  },
+  {
+    "firstName": "Ömür",
+    "lastName": "Kumcuoğlu",
+    "email": "omur.kumcuoglu@example.com",
+    "username": "ticklishfrog181",
+    "password": "vbnm",
+    "invokedAt": "2022-03-09T06:58:46.235Z"
   }
 ]
