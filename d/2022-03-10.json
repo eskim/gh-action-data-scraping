@@ -118,5 +118,13 @@
     "username": "tinybird769",
     "password": "hemlock",
     "invokedAt": "2022-03-10T16:03:37.009Z"
+  },
+  {
+    "firstName": "Larry",
+    "lastName": "Mccoy",
+    "email": "larry.mccoy@example.com",
+    "username": "lazypeacock993",
+    "password": "muscle",
+    "invokedAt": "2022-03-10T17:10:45.470Z"
   }
 ]
