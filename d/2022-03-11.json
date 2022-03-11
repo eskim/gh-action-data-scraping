@@ -46,5 +46,13 @@
     "username": "blueelephant870",
     "password": "citadel",
     "invokedAt": "2022-03-11T06:58:56.895Z"
+  },
+  {
+    "firstName": "پرنیا",
+    "lastName": "صدر",
+    "email": "prny.sdr@example.com",
+    "username": "blackkoala835",
+    "password": "baggins",
+    "invokedAt": "2022-03-11T07:58:55.395Z"
   }
 ]
