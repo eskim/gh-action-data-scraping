@@ -142,5 +142,13 @@
     "username": "sadgorilla872",
     "password": "video1",
     "invokedAt": "2022-03-11T18:58:50.873Z"
+  },
+  {
+    "firstName": "Necati",
+    "lastName": "Fahri",
+    "email": "necati.fahri@example.com",
+    "username": "organicgorilla352",
+    "password": "randy1",
+    "invokedAt": "2022-03-11T19:59:10.961Z"
   }
 ]
