@@ -94,5 +94,13 @@
     "username": "redfrog324",
     "password": "peabody",
     "invokedAt": "2022-03-11T13:10:49.052Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Harris",
+    "email": "adam.harris@example.com",
+    "username": "organicduck170",
+    "password": "13131313",
+    "invokedAt": "2022-03-11T13:59:14.581Z"
   }
 ]
