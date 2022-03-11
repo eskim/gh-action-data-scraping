@@ -54,5 +54,13 @@
     "username": "blackkoala835",
     "password": "baggins",
     "invokedAt": "2022-03-11T07:58:55.395Z"
+  },
+  {
+    "firstName": "Malin",
+    "lastName": "Dumont",
+    "email": "malin.dumont@example.com",
+    "username": "tinyelephant921",
+    "password": "fdsa",
+    "invokedAt": "2022-03-11T08:58:50.122Z"
   }
 ]
