@@ -166,5 +166,13 @@
     "username": "silvertiger215",
     "password": "golden1",
     "invokedAt": "2022-03-11T21:58:50.325Z"
+  },
+  {
+    "firstName": "Vedat",
+    "lastName": "Kocabıyık",
+    "email": "vedat.kocabiyik@example.com",
+    "username": "lazycat987",
+    "password": "dollars",
+    "invokedAt": "2022-03-11T22:58:58.982Z"
   }
 ]
