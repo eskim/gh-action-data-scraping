@@ -22,5 +22,13 @@
     "username": "redostrich355",
     "password": "postman",
     "invokedAt": "2022-03-12T02:58:47.083Z"
+  },
+  {
+    "firstName": "Lissy",
+    "lastName": "Schweizer",
+    "email": "lissy.schweizer@example.com",
+    "username": "ticklishelephant847",
+    "password": "bluebird",
+    "invokedAt": "2022-03-12T03:59:04.411Z"
   }
 ]
