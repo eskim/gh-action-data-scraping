@@ -182,5 +182,13 @@
     "username": "greenbutterfly472",
     "password": "trigger",
     "invokedAt": "2022-03-12T22:58:55.920Z"
+  },
+  {
+    "firstName": "Aenne",
+    "lastName": "Jäger",
+    "email": "aenne.jager@example.com",
+    "username": "blueleopard639",
+    "password": "waterfal",
+    "invokedAt": "2022-03-12T23:59:06.473Z"
   }
 ]
