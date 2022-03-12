@@ -158,5 +158,13 @@
     "username": "organicgoose287",
     "password": "cwoui",
     "invokedAt": "2022-03-12T19:58:47.249Z"
+  },
+  {
+    "firstName": "Minttu",
+    "lastName": "Lassila",
+    "email": "minttu.lassila@example.com",
+    "username": "greenmouse183",
+    "password": "stories",
+    "invokedAt": "2022-03-12T20:59:01.429Z"
   }
 ]
