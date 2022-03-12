@@ -86,5 +86,13 @@
     "username": "organicfish104",
     "password": "hermes",
     "invokedAt": "2022-03-12T10:58:52.435Z"
+  },
+  {
+    "firstName": "Lorraine",
+    "lastName": "Fox",
+    "email": "lorraine.fox@example.com",
+    "username": "tinyfish368",
+    "password": "hopeless",
+    "invokedAt": "2022-03-12T11:58:43.982Z"
   }
 ]
