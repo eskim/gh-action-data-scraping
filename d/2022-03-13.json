@@ -102,5 +102,13 @@
     "username": "brownsnake250",
     "password": "daylight",
     "invokedAt": "2022-03-13T13:09:06.889Z"
+  },
+  {
+    "firstName": "Arlene",
+    "lastName": "Perkins",
+    "email": "arlene.perkins@example.com",
+    "username": "beautifulbutterfly519",
+    "password": "thedude",
+    "invokedAt": "2022-03-13T13:59:00.289Z"
   }
 ]
