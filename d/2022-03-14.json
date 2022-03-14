@@ -70,5 +70,13 @@
     "username": "heavysnake192",
     "password": "puppet",
     "invokedAt": "2022-03-14T09:59:03.245Z"
+  },
+  {
+    "firstName": "ملینا",
+    "lastName": "جعفری",
+    "email": "mlyn.jaafry@example.com",
+    "username": "crazyfrog886",
+    "password": "21212121",
+    "invokedAt": "2022-03-14T10:58:49.158Z"
   }
 ]
