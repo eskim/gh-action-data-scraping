@@ -126,5 +126,13 @@
     "username": "crazytiger507",
     "password": "metallic",
     "invokedAt": "2022-03-14T17:08:36.876Z"
+  },
+  {
+    "firstName": "Lilly",
+    "lastName": "Thorsø",
+    "email": "lilly.thorso@example.com",
+    "username": "goldenlion319",
+    "password": "prayers",
+    "invokedAt": "2022-03-14T17:59:10.387Z"
   }
 ]
