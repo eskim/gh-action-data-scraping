@@ -118,5 +118,13 @@
     "username": "redgoose698",
     "password": "marker",
     "invokedAt": "2022-03-15T15:59:15.311Z"
+  },
+  {
+    "firstName": "Clifford",
+    "lastName": "Perez",
+    "email": "clifford.perez@example.com",
+    "username": "orangebear706",
+    "password": "hayabusa",
+    "invokedAt": "2022-03-15T17:11:40.217Z"
   }
 ]
