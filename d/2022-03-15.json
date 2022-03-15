@@ -166,5 +166,13 @@
     "username": "tinyswan554",
     "password": "charles",
     "invokedAt": "2022-03-15T21:58:49.657Z"
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Kelly",
+    "email": "richard.kelly@example.com",
+    "username": "orangegoose256",
+    "password": "insertions",
+    "invokedAt": "2022-03-15T22:59:09.182Z"
   }
 ]
