@@ -38,5 +38,13 @@
     "username": "organiccat100",
     "password": "surfer1",
     "invokedAt": "2022-03-15T05:58:49.099Z"
+  },
+  {
+    "firstName": "Augusto",
+    "lastName": "Duarte",
+    "email": "augusto.duarte@example.com",
+    "username": "heavyrabbit543",
+    "password": "camels",
+    "invokedAt": "2022-03-15T06:58:50.317Z"
   }
 ]
