@@ -174,5 +174,13 @@
     "username": "orangegoose256",
     "password": "insertions",
     "invokedAt": "2022-03-15T22:59:09.182Z"
+  },
+  {
+    "firstName": "Filipe de Néri",
+    "lastName": "Jesus",
+    "email": "filipedeneri.jesus@example.com",
+    "username": "goldenbird868",
+    "password": "united",
+    "invokedAt": "2022-03-15T23:58:53.424Z"
   }
 ]
