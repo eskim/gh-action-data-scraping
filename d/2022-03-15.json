@@ -22,5 +22,13 @@
     "username": "heavyfish113",
     "password": "cygnus",
     "invokedAt": "2022-03-15T03:59:06.071Z"
+  },
+  {
+    "firstName": "Ivanka",
+    "lastName": "Schüller",
+    "email": "ivanka.schuller@example.com",
+    "username": "lazyfish654",
+    "password": "arianna",
+    "invokedAt": "2022-03-15T04:58:56.785Z"
   }
 ]
