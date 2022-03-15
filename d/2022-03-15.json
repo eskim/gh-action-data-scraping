@@ -158,5 +158,13 @@
     "username": "tinyleopard245",
     "password": "nipples",
     "invokedAt": "2022-03-15T20:58:54.590Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Jørgensen",
+    "email": "jonathan.jorgensen@example.com",
+    "username": "tinyswan554",
+    "password": "charles",
+    "invokedAt": "2022-03-15T21:58:49.657Z"
   }
 ]
