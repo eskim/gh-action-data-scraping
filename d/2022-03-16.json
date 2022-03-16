@@ -102,5 +102,13 @@
     "username": "blackzebra168",
     "password": "acid",
     "invokedAt": "2022-03-16T14:03:30.431Z"
+  },
+  {
+    "firstName": "Zara",
+    "lastName": "White",
+    "email": "zara.white@example.com",
+    "username": "tinyduck423",
+    "password": "naughty",
+    "invokedAt": "2022-03-16T15:03:38.652Z"
   }
 ]
