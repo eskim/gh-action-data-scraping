@@ -46,5 +46,13 @@
     "username": "silverduck597",
     "password": "redfish",
     "invokedAt": "2022-03-16T06:59:00.830Z"
+  },
+  {
+    "firstName": "Raquel",
+    "lastName": "Calvo",
+    "email": "raquel.calvo@example.com",
+    "username": "orangemouse437",
+    "password": "icehouse",
+    "invokedAt": "2022-03-16T07:59:07.591Z"
   }
 ]
