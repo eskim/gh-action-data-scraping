@@ -94,5 +94,13 @@
     "username": "yellowpanda707",
     "password": "lasvegas",
     "invokedAt": "2022-03-16T13:16:40.331Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Calvo",
+    "email": "xavier.calvo@example.com",
+    "username": "blackzebra168",
+    "password": "acid",
+    "invokedAt": "2022-03-16T14:03:30.431Z"
   }
 ]
