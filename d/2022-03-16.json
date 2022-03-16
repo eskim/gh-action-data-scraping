@@ -150,5 +150,13 @@
     "username": "happybear104",
     "password": "deadspin",
     "invokedAt": "2022-03-16T19:58:55.068Z"
+  },
+  {
+    "firstName": "Craig",
+    "lastName": "Castro",
+    "email": "craig.castro@example.com",
+    "username": "silverladybug547",
+    "password": "boytoy",
+    "invokedAt": "2022-03-16T20:58:56.765Z"
   }
 ]
