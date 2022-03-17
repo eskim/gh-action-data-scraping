@@ -110,5 +110,13 @@
     "username": "tinypanda657",
     "password": "motion",
     "invokedAt": "2022-03-17T17:11:38.529Z"
+  },
+  {
+    "firstName": "Estéban",
+    "lastName": "Bernard",
+    "email": "esteban.bernard@example.com",
+    "username": "tinybear472",
+    "password": "neil",
+    "invokedAt": "2022-03-17T17:58:58.401Z"
   }
 ]
