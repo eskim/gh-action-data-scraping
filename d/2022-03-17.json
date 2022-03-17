@@ -14,5 +14,13 @@
     "username": "greensnake535",
     "password": "hotbox",
     "invokedAt": "2022-03-17T03:02:34.569Z"
+  },
+  {
+    "firstName": "Kylie",
+    "lastName": "Mendoza",
+    "email": "kylie.mendoza@example.com",
+    "username": "purplefish421",
+    "password": "kill",
+    "invokedAt": "2022-03-17T03:58:57.304Z"
   }
 ]
