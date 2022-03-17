@@ -94,5 +94,13 @@
     "username": "sadwolf546",
     "password": "jenkins",
     "invokedAt": "2022-03-17T13:17:37.268Z"
+  },
+  {
+    "firstName": "Mar",
+    "lastName": "Morales",
+    "email": "mar.morales@example.com",
+    "username": "sadgoose896",
+    "password": "sixers",
+    "invokedAt": "2022-03-17T16:04:01.973Z"
   }
 ]
