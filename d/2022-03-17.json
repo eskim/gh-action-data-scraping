@@ -102,5 +102,13 @@
     "username": "sadgoose896",
     "password": "sixers",
     "invokedAt": "2022-03-17T16:04:01.973Z"
+  },
+  {
+    "firstName": "Heine",
+    "lastName": "Gustafsson",
+    "email": "heine.gustafsson@example.com",
+    "username": "tinypanda657",
+    "password": "motion",
+    "invokedAt": "2022-03-17T17:11:38.529Z"
   }
 ]
