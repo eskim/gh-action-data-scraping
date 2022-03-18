@@ -158,5 +158,13 @@
     "username": "ticklishzebra213",
     "password": "cartoon",
     "invokedAt": "2022-03-18T20:59:08.230Z"
+  },
+  {
+    "firstName": "Edgar",
+    "lastName": "Bilstad",
+    "email": "edgar.bilstad@example.com",
+    "username": "angrydog234",
+    "password": "johndeer",
+    "invokedAt": "2022-03-18T21:59:04.813Z"
   }
 ]
