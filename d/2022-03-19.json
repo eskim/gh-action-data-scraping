@@ -102,5 +102,13 @@
     "username": "angryleopard367",
     "password": "stock",
     "invokedAt": "2022-03-19T13:59:06.058Z"
+  },
+  {
+    "firstName": "Pablo",
+    "lastName": "Hernandez",
+    "email": "pablo.hernandez@example.com",
+    "username": "ticklishfish187",
+    "password": "cramps",
+    "invokedAt": "2022-03-19T14:59:07.843Z"
   }
 ]
