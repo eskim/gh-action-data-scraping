@@ -86,5 +86,13 @@
     "username": "brownkoala473",
     "password": "cheater",
     "invokedAt": "2022-03-19T11:58:58.665Z"
+  },
+  {
+    "firstName": "Luka",
+    "lastName": "Østby",
+    "email": "luka.ostby@example.com",
+    "username": "greenladybug727",
+    "password": "isaiah",
+    "invokedAt": "2022-03-19T13:09:35.351Z"
   }
 ]
