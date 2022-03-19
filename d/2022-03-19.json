@@ -22,5 +22,13 @@
     "username": "angryfish510",
     "password": "toolbox",
     "invokedAt": "2022-03-19T03:58:48.201Z"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Martin",
+    "email": "frank.martin@example.com",
+    "username": "sadtiger950",
+    "password": "asdfghjk",
+    "invokedAt": "2022-03-19T04:58:48.755Z"
   }
 ]
