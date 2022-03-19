@@ -54,5 +54,13 @@
     "username": "whitesnake797",
     "password": "twisted",
     "invokedAt": "2022-03-19T07:58:56.145Z"
+  },
+  {
+    "firstName": "Anolido",
+    "lastName": "Monteiro",
+    "email": "anolido.monteiro@example.com",
+    "username": "redrabbit921",
+    "password": "dougie",
+    "invokedAt": "2022-03-19T08:58:55.390Z"
   }
 ]
