@@ -142,5 +142,13 @@
     "username": "tinybird474",
     "password": "granny",
     "invokedAt": "2022-03-19T18:58:56.102Z"
+  },
+  {
+    "firstName": "مریم",
+    "lastName": "محمدخان",
+    "email": "mrym.mhmdkhn@example.com",
+    "username": "bluebear372",
+    "password": "higgins",
+    "invokedAt": "2022-03-19T19:58:49.537Z"
   }
 ]
