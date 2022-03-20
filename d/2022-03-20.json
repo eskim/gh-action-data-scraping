@@ -166,5 +166,13 @@
     "username": "redladybug690",
     "password": "calibra",
     "invokedAt": "2022-03-20T21:59:06.255Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Roberts",
+    "email": "ella.roberts@example.com",
+    "username": "orangebutterfly909",
+    "password": "1122",
+    "invokedAt": "2022-03-20T22:58:43.886Z"
   }
 ]
