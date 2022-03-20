@@ -158,5 +158,13 @@
     "username": "orangeduck502",
     "password": "lobo",
     "invokedAt": "2022-03-20T20:58:49.183Z"
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Nielsen",
+    "email": "thea.nielsen@example.com",
+    "username": "redladybug690",
+    "password": "calibra",
+    "invokedAt": "2022-03-20T21:59:06.255Z"
   }
 ]
