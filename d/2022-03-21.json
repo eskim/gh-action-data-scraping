@@ -158,5 +158,13 @@
     "username": "lazyrabbit403",
     "password": "hyperion",
     "invokedAt": "2022-03-21T20:58:52.040Z"
+  },
+  {
+    "firstName": "Eemeli",
+    "lastName": "Saarela",
+    "email": "eemeli.saarela@example.com",
+    "username": "smalldog729",
+    "password": "2005",
+    "invokedAt": "2022-03-21T21:59:09.195Z"
   }
 ]
