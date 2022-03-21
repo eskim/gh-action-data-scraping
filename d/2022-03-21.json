@@ -78,5 +78,13 @@
     "username": "silverladybug823",
     "password": "dusty",
     "invokedAt": "2022-03-21T10:58:59.877Z"
+  },
+  {
+    "firstName": "Beatrice",
+    "lastName": "French",
+    "email": "beatrice.french@example.com",
+    "username": "ticklishduck667",
+    "password": "seductive",
+    "invokedAt": "2022-03-21T11:59:03.107Z"
   }
 ]
