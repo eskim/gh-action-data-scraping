@@ -150,5 +150,13 @@
     "username": "organicgorilla533",
     "password": "pian",
     "invokedAt": "2022-03-21T19:58:57.210Z"
+  },
+  {
+    "firstName": "Nurdan",
+    "lastName": "Hakyemez",
+    "email": "nurdan.hakyemez@example.com",
+    "username": "lazyrabbit403",
+    "password": "hyperion",
+    "invokedAt": "2022-03-21T20:58:52.040Z"
   }
 ]
