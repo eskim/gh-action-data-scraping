@@ -166,5 +166,13 @@
     "username": "heavytiger126",
     "password": "mariposa",
     "invokedAt": "2022-03-22T22:58:54.723Z"
+  },
+  {
+    "firstName": "Tia",
+    "lastName": "Fleischer",
+    "email": "tia.fleischer@example.com",
+    "username": "whitebear183",
+    "password": "4444",
+    "invokedAt": "2022-03-22T23:58:51.037Z"
   }
 ]
