@@ -174,5 +174,13 @@
     "username": "redpeacock471",
     "password": "poland",
     "invokedAt": "2022-03-23T22:58:58.564Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Bjørkhaug",
+    "email": "julie.bjorkhaug@example.com",
+    "username": "crazykoala857",
+    "password": "elizabeth",
+    "invokedAt": "2022-03-23T23:58:53.227Z"
   }
 ]
