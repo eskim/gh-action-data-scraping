@@ -30,5 +30,13 @@
     "username": "beautifulmouse950",
     "password": "quest",
     "invokedAt": "2022-03-24T04:58:51.942Z"
+  },
+  {
+    "firstName": "Ulf",
+    "lastName": "Merkle",
+    "email": "ulf.merkle@example.com",
+    "username": "bigleopard618",
+    "password": "ccbill",
+    "invokedAt": "2022-03-24T05:58:45.232Z"
   }
 ]
