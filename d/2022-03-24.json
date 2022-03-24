@@ -22,5 +22,13 @@
     "username": "whitetiger959",
     "password": "republic",
     "invokedAt": "2022-03-24T03:58:55.741Z"
+  },
+  {
+    "firstName": "Zerda",
+    "lastName": "Bonekamp",
+    "email": "zerda.bonekamp@example.com",
+    "username": "beautifulmouse950",
+    "password": "quest",
+    "invokedAt": "2022-03-24T04:58:51.942Z"
   }
 ]
