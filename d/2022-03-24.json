@@ -38,5 +38,13 @@
     "username": "bigleopard618",
     "password": "ccbill",
     "invokedAt": "2022-03-24T05:58:45.232Z"
+  },
+  {
+    "firstName": "Jimmie",
+    "lastName": "Cook",
+    "email": "jimmie.cook@example.com",
+    "username": "smallrabbit783",
+    "password": "white1",
+    "invokedAt": "2022-03-24T06:58:49.796Z"
   }
 ]
