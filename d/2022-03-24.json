@@ -174,5 +174,13 @@
     "username": "whitebutterfly280",
     "password": "storage",
     "invokedAt": "2022-03-24T22:58:46.176Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Madsen",
+    "email": "marcus.madsen@example.com",
+    "username": "beautifulmeercat598",
+    "password": "micron",
+    "invokedAt": "2022-03-24T23:58:57.187Z"
   }
 ]
