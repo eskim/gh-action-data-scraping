@@ -166,5 +166,13 @@
     "username": "beautifulpanda294",
     "password": "logan1",
     "invokedAt": "2022-03-24T21:59:04.628Z"
+  },
+  {
+    "firstName": "Varo",
+    "lastName": "Sales",
+    "email": "varo.sales@example.com",
+    "username": "whitebutterfly280",
+    "password": "storage",
+    "invokedAt": "2022-03-24T22:58:46.176Z"
   }
 ]
