@@ -54,5 +54,13 @@
     "username": "angryzebra960",
     "password": "friends",
     "invokedAt": "2022-03-25T07:58:58.828Z"
+  },
+  {
+    "firstName": "Jesus",
+    "lastName": "Marquez",
+    "email": "jesus.marquez@example.com",
+    "username": "purplegorilla762",
+    "password": "canada",
+    "invokedAt": "2022-03-25T08:59:08.563Z"
   }
 ]
