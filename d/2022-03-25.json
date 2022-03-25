@@ -14,5 +14,13 @@
     "username": "greensnake715",
     "password": "itsme",
     "invokedAt": "2022-03-25T03:10:27.522Z"
+  },
+  {
+    "firstName": "Eli",
+    "lastName": "Lauvås",
+    "email": "eli.lauvas@example.com",
+    "username": "beautifulsnake890",
+    "password": "dogfood",
+    "invokedAt": "2022-03-25T03:58:58.793Z"
   }
 ]
