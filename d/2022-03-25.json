@@ -62,5 +62,13 @@
     "username": "purplegorilla762",
     "password": "canada",
     "invokedAt": "2022-03-25T08:59:08.563Z"
+  },
+  {
+    "firstName": "Buse",
+    "lastName": "Keçeci",
+    "email": "buse.kececi@example.com",
+    "username": "redfrog999",
+    "password": "divers",
+    "invokedAt": "2022-03-25T09:59:05.643Z"
   }
 ]
