@@ -46,5 +46,13 @@
     "username": "goldenmeercat860",
     "password": "anarchy",
     "invokedAt": "2022-03-25T06:58:50.204Z"
+  },
+  {
+    "firstName": "Melinda",
+    "lastName": "Riley",
+    "email": "melinda.riley@example.com",
+    "username": "angryzebra960",
+    "password": "friends",
+    "invokedAt": "2022-03-25T07:58:58.828Z"
   }
 ]
