@@ -134,5 +134,13 @@
     "username": "blueelephant156",
     "password": "retired",
     "invokedAt": "2022-03-26T17:59:00.181Z"
+  },
+  {
+    "firstName": "اميرحسين",
+    "lastName": "احمدی",
+    "email": "myrhsyn.hmdy@example.com",
+    "username": "bluekoala645",
+    "password": "paula",
+    "invokedAt": "2022-03-26T18:58:57.282Z"
   }
 ]
