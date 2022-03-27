@@ -174,5 +174,13 @@
     "username": "silverpanda471",
     "password": "these",
     "invokedAt": "2022-03-27T22:58:47.940Z"
+  },
+  {
+    "firstName": "الینا",
+    "lastName": "نجاتی",
+    "email": "lyn.njty@example.com",
+    "username": "redkoala132",
+    "password": "bilbo",
+    "invokedAt": "2022-03-27T23:59:12.563Z"
   }
 ]
