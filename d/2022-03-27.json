@@ -94,5 +94,13 @@
     "username": "goldenswan982",
     "password": "poiu",
     "invokedAt": "2022-03-27T13:10:21.568Z"
+  },
+  {
+    "firstName": "Noélie",
+    "lastName": "Adam",
+    "email": "noelie.adam@example.com",
+    "username": "goldenbutterfly781",
+    "password": "yahoo1",
+    "invokedAt": "2022-03-27T13:59:10.250Z"
   }
 ]
