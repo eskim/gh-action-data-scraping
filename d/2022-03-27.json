@@ -118,5 +118,13 @@
     "username": "organicmeercat164",
     "password": "info",
     "invokedAt": "2022-03-27T15:58:53.413Z"
+  },
+  {
+    "firstName": "Brandon",
+    "lastName": "Sims",
+    "email": "brandon.sims@example.com",
+    "username": "orangefrog594",
+    "password": "booker",
+    "invokedAt": "2022-03-27T17:03:36.341Z"
   }
 ]
