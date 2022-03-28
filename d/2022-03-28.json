@@ -78,5 +78,13 @@
     "username": "heavysnake898",
     "password": "drum",
     "invokedAt": "2022-03-28T13:18:15.997Z"
+  },
+  {
+    "firstName": "Maelya",
+    "lastName": "Da Silva",
+    "email": "maelya.dasilva@example.com",
+    "username": "ticklishmouse744",
+    "password": "lakers1",
+    "invokedAt": "2022-03-28T14:03:35.012Z"
   }
 ]
