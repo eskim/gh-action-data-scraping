@@ -110,5 +110,13 @@
     "username": "whitemeercat256",
     "password": "newpass6",
     "invokedAt": "2022-03-29T15:03:37.371Z"
+  },
+  {
+    "firstName": "Brecht",
+    "lastName": "Haaijer",
+    "email": "brecht.haaijer@example.com",
+    "username": "goldenleopard748",
+    "password": "plymouth",
+    "invokedAt": "2022-03-29T16:03:41.762Z"
   }
 ]
