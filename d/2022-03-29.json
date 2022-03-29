@@ -150,5 +150,13 @@
     "username": "crazyleopard530",
     "password": "jose",
     "invokedAt": "2022-03-29T20:00:26.926Z"
+  },
+  {
+    "firstName": "مهراد",
+    "lastName": "نجاتی",
+    "email": "mhrd.njty@example.com",
+    "username": "silverrabbit728",
+    "password": "harrier",
+    "invokedAt": "2022-03-29T20:58:59.112Z"
   }
 ]
