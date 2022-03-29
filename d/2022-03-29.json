@@ -118,5 +118,13 @@
     "username": "goldenleopard748",
     "password": "plymouth",
     "invokedAt": "2022-03-29T16:03:41.762Z"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Miller",
+    "email": "jeremy.miller@example.com",
+    "username": "purplemeercat637",
+    "password": "armada",
+    "invokedAt": "2022-03-29T17:12:36.269Z"
   }
 ]
