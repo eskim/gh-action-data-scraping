@@ -78,5 +78,13 @@
     "username": "blackzebra849",
     "password": "redwings",
     "invokedAt": "2022-03-29T11:25:28.638Z"
+  },
+  {
+    "firstName": "Fáustia",
+    "lastName": "da Mota",
+    "email": "faustia.damota@example.com",
+    "username": "biggoose500",
+    "password": "whale",
+    "invokedAt": "2022-03-29T12:03:44.146Z"
   }
 ]
