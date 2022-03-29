@@ -102,5 +102,13 @@
     "username": "sadmouse893",
     "password": "windows",
     "invokedAt": "2022-03-29T14:03:37.521Z"
+  },
+  {
+    "firstName": "Ruben",
+    "lastName": "Renard",
+    "email": "ruben.renard@example.com",
+    "username": "whitemeercat256",
+    "password": "newpass6",
+    "invokedAt": "2022-03-29T15:03:37.371Z"
   }
 ]
