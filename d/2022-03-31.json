@@ -110,5 +110,13 @@
     "username": "orangezebra589",
     "password": "fallout",
     "invokedAt": "2022-03-31T15:03:50.872Z"
+  },
+  {
+    "firstName": "Viola",
+    "lastName": "Stecher",
+    "email": "viola.stecher@example.com",
+    "username": "bluelion976",
+    "password": "chucky",
+    "invokedAt": "2022-03-31T15:58:55.755Z"
   }
 ]
