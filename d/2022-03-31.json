@@ -54,5 +54,13 @@
     "username": "happybutterfly732",
     "password": "manowar",
     "invokedAt": "2022-03-31T07:58:50.293Z"
+  },
+  {
+    "firstName": "Ferris",
+    "lastName": "Remijnse",
+    "email": "ferris.remijnse@example.com",
+    "username": "angrybutterfly318",
+    "password": "1974",
+    "invokedAt": "2022-03-31T08:59:09.838Z"
   }
 ]
