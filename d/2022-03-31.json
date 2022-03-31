@@ -102,5 +102,13 @@
     "username": "organicladybug225",
     "password": "rebecca",
     "invokedAt": "2022-03-31T14:03:48.661Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Medina",
+    "email": "ana.medina@example.com",
+    "username": "orangezebra589",
+    "password": "fallout",
+    "invokedAt": "2022-03-31T15:03:50.872Z"
   }
 ]
