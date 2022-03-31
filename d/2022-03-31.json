@@ -174,5 +174,13 @@
     "username": "heavypanda343",
     "password": "crystal1",
     "invokedAt": "2022-03-31T22:58:54.740Z"
+  },
+  {
+    "firstName": "Gilciane",
+    "lastName": "da Cunha",
+    "email": "gilciane.dacunha@example.com",
+    "username": "blackzebra415",
+    "password": "cards",
+    "invokedAt": "2022-03-31T23:58:58.790Z"
   }
 ]
