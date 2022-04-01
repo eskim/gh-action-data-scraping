@@ -94,5 +94,13 @@
     "username": "redrabbit133",
     "password": "5424",
     "invokedAt": "2022-04-01T13:27:19.736Z"
+  },
+  {
+    "firstName": "Susana",
+    "lastName": "Torres",
+    "email": "susana.torres@example.com",
+    "username": "bluebutterfly470",
+    "password": "amazing",
+    "invokedAt": "2022-04-01T14:03:42.645Z"
   }
 ]
