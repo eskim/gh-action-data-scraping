@@ -174,5 +174,13 @@
     "username": "whitepeacock589",
     "password": "intel",
     "invokedAt": "2022-04-02T22:58:58.837Z"
+  },
+  {
+    "firstName": "Indie",
+    "lastName": "Morris",
+    "email": "indie.morris@example.com",
+    "username": "whitepanda283",
+    "password": "groovy",
+    "invokedAt": "2022-04-02T23:59:11.798Z"
   }
 ]
