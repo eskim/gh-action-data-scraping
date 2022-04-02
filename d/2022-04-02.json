@@ -30,5 +30,13 @@
     "username": "redwolf127",
     "password": "robotech",
     "invokedAt": "2022-04-02T04:59:00.223Z"
+  },
+  {
+    "firstName": "Donald",
+    "lastName": "Burns",
+    "email": "donald.burns@example.com",
+    "username": "purplekoala723",
+    "password": "hughes",
+    "invokedAt": "2022-04-02T05:58:59.213Z"
   }
 ]
