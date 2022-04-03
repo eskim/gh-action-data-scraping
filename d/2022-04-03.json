@@ -158,5 +158,13 @@
     "username": "ticklishmouse496",
     "password": "ncc1701",
     "invokedAt": "2022-04-03T20:58:45.349Z"
+  },
+  {
+    "firstName": "Louka",
+    "lastName": "Marchand",
+    "email": "louka.marchand@example.com",
+    "username": "purplesnake331",
+    "password": "philippe",
+    "invokedAt": "2022-04-03T21:58:55.390Z"
   }
 ]
