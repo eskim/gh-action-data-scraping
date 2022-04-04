@@ -46,5 +46,13 @@
     "username": "brownlion451",
     "password": "shutup",
     "invokedAt": "2022-04-04T06:59:03.947Z"
+  },
+  {
+    "firstName": "Elisabetta",
+    "lastName": "Garcia",
+    "email": "elisabetta.garcia@example.com",
+    "username": "sadbutterfly417",
+    "password": "sleepy",
+    "invokedAt": "2022-04-04T07:58:50.428Z"
   }
 ]
