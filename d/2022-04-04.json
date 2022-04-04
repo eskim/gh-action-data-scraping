@@ -134,5 +134,13 @@
     "username": "biggoose855",
     "password": "morpheus",
     "invokedAt": "2022-04-04T17:58:57.671Z"
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Kumar",
+    "email": "stella.kumar@example.com",
+    "username": "tinymeercat113",
+    "password": "homemade",
+    "invokedAt": "2022-04-04T18:58:51.662Z"
   }
 ]
