@@ -30,5 +30,13 @@
     "username": "blueswan431",
     "password": "faster",
     "invokedAt": "2022-04-04T04:58:49.934Z"
+  },
+  {
+    "firstName": "Giray",
+    "lastName": "Kurutluoğlu",
+    "email": "giray.kurutluoglu@example.com",
+    "username": "beautifulgoose893",
+    "password": "barcelona",
+    "invokedAt": "2022-04-04T05:58:46.025Z"
   }
 ]
