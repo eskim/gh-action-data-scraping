@@ -38,5 +38,13 @@
     "username": "beautifulgoose893",
     "password": "barcelona",
     "invokedAt": "2022-04-04T05:58:46.025Z"
+  },
+  {
+    "firstName": "Paula",
+    "lastName": "Butler",
+    "email": "paula.butler@example.com",
+    "username": "brownlion451",
+    "password": "shutup",
+    "invokedAt": "2022-04-04T06:59:03.947Z"
   }
 ]
