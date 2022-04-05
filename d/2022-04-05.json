@@ -102,5 +102,13 @@
     "username": "smallbear834",
     "password": "climax",
     "invokedAt": "2022-04-05T14:03:35.558Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Clement",
+    "email": "julia.clement@example.com",
+    "username": "bluecat414",
+    "password": "aquarius",
+    "invokedAt": "2022-04-05T15:03:34.369Z"
   }
 ]
