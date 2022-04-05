@@ -78,5 +78,13 @@
     "username": "blueleopard622",
     "password": "clay",
     "invokedAt": "2022-04-05T10:58:59.333Z"
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Lavoie",
+    "email": "ava.lavoie@example.com",
+    "username": "whiteostrich192",
+    "password": "redbone",
+    "invokedAt": "2022-04-05T11:59:25.435Z"
   }
 ]
