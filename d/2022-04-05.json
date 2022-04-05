@@ -46,5 +46,13 @@
     "username": "bigsnake977",
     "password": "genesis1",
     "invokedAt": "2022-04-05T06:58:58.301Z"
+  },
+  {
+    "firstName": "Xander",
+    "lastName": "Ramirez",
+    "email": "xander.ramirez@example.com",
+    "username": "greenpanda215",
+    "password": "incubus",
+    "invokedAt": "2022-04-05T07:58:57.790Z"
   }
 ]
