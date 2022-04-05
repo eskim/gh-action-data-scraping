@@ -166,5 +166,13 @@
     "username": "blackrabbit555",
     "password": "gagged",
     "invokedAt": "2022-04-05T21:58:59.269Z"
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Lemoine",
+    "email": "stella.lemoine@example.com",
+    "username": "crazywolf304",
+    "password": "benfica",
+    "invokedAt": "2022-04-05T22:58:58.725Z"
   }
 ]
