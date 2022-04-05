@@ -54,5 +54,13 @@
     "username": "greenpanda215",
     "password": "incubus",
     "invokedAt": "2022-04-05T07:58:57.790Z"
+  },
+  {
+    "firstName": "Alítio",
+    "lastName": "da Mata",
+    "email": "alitio.damata@example.com",
+    "username": "blackostrich803",
+    "password": "wowwow",
+    "invokedAt": "2022-04-05T09:03:52.154Z"
   }
 ]
