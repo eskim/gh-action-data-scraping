@@ -158,5 +158,13 @@
     "username": "bluezebra508",
     "password": "66666666",
     "invokedAt": "2022-04-05T20:59:00.029Z"
+  },
+  {
+    "firstName": "Gauthier",
+    "lastName": "Dupont",
+    "email": "gauthier.dupont@example.com",
+    "username": "blackrabbit555",
+    "password": "gagged",
+    "invokedAt": "2022-04-05T21:58:59.269Z"
   }
 ]
