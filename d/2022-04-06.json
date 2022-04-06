@@ -126,5 +126,13 @@
     "username": "crazypeacock684",
     "password": "guang",
     "invokedAt": "2022-04-06T17:58:54.504Z"
+  },
+  {
+    "firstName": "Nalan",
+    "lastName": "Candan",
+    "email": "nalan.candan@example.com",
+    "username": "crazyfish423",
+    "password": "catdog",
+    "invokedAt": "2022-04-06T18:59:03.027Z"
   }
 ]
