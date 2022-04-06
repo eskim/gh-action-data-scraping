@@ -142,5 +142,13 @@
     "username": "crazyrabbit912",
     "password": "leedsutd",
     "invokedAt": "2022-04-06T19:59:14.783Z"
+  },
+  {
+    "firstName": "Therese",
+    "lastName": "Meyer",
+    "email": "therese.meyer@example.com",
+    "username": "bigbear289",
+    "password": "roswell",
+    "invokedAt": "2022-04-06T20:59:03.179Z"
   }
 ]
