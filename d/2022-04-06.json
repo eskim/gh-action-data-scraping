@@ -62,5 +62,13 @@
     "username": "happyladybug343",
     "password": "kokomo",
     "invokedAt": "2022-04-06T09:58:52.365Z"
+  },
+  {
+    "firstName": "Umut",
+    "lastName": "Çatalbaş",
+    "email": "umut.catalbas@example.com",
+    "username": "angrypanda269",
+    "password": "killjoy",
+    "invokedAt": "2022-04-06T10:58:52.036Z"
   }
 ]
