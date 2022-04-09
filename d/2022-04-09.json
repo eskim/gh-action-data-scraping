@@ -78,5 +78,13 @@
     "username": "angryrabbit550",
     "password": "arrows",
     "invokedAt": "2022-04-09T10:58:48.994Z"
+  },
+  {
+    "firstName": "Jenny",
+    "lastName": "Flåten",
+    "email": "jenny.flaten@example.com",
+    "username": "brownrabbit194",
+    "password": "shadows",
+    "invokedAt": "2022-04-09T11:58:57.445Z"
   }
 ]
