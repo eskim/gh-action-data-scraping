@@ -102,5 +102,13 @@
     "username": "whitezebra450",
     "password": "maximus",
     "invokedAt": "2022-04-10T13:59:08.590Z"
+  },
+  {
+    "firstName": "Birte",
+    "lastName": "Feiler",
+    "email": "birte.feiler@example.com",
+    "username": "organicostrich307",
+    "password": "norton",
+    "invokedAt": "2022-04-10T14:59:00.061Z"
   }
 ]
