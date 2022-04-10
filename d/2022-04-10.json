@@ -22,5 +22,13 @@
     "username": "sadfrog830",
     "password": "baggins",
     "invokedAt": "2022-04-10T03:58:47.271Z"
+  },
+  {
+    "firstName": "حسین",
+    "lastName": "پارسا",
+    "email": "hsyn.prs@example.com",
+    "username": "sadlion729",
+    "password": "cubs",
+    "invokedAt": "2022-04-10T04:58:50.896Z"
   }
 ]
