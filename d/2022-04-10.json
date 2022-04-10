@@ -94,5 +94,13 @@
     "username": "greenkoala216",
     "password": "mandingo",
     "invokedAt": "2022-04-10T13:12:07.572Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Velioğlu",
+    "email": "adem.velioglu@example.com",
+    "username": "whitezebra450",
+    "password": "maximus",
+    "invokedAt": "2022-04-10T13:59:08.590Z"
   }
 ]
