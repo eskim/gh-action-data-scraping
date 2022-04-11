@@ -102,5 +102,13 @@
     "username": "yellowswan506",
     "password": "climax",
     "invokedAt": "2022-04-11T14:03:41.873Z"
+  },
+  {
+    "firstName": "Ömer",
+    "lastName": "Kania",
+    "email": "omer.kania@example.com",
+    "username": "silverzebra941",
+    "password": "bigman",
+    "invokedAt": "2022-04-11T14:59:11.908Z"
   }
 ]
