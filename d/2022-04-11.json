@@ -78,5 +78,13 @@
     "username": "goldenrabbit584",
     "password": "gromit",
     "invokedAt": "2022-04-11T10:58:48.773Z"
+  },
+  {
+    "firstName": "Mahé",
+    "lastName": "Duval",
+    "email": "mahe.duval@example.com",
+    "username": "sadmeercat963",
+    "password": "1952",
+    "invokedAt": "2022-04-11T11:59:03.634Z"
   }
 ]
