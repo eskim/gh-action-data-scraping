@@ -62,5 +62,13 @@
     "username": "whitewolf408",
     "password": "summer",
     "invokedAt": "2022-04-12T09:02:14.739Z"
+  },
+  {
+    "firstName": "Dominic",
+    "lastName": "Chu",
+    "email": "dominic.chu@example.com",
+    "username": "greenbird341",
+    "password": "dnsadm",
+    "invokedAt": "2022-04-12T09:59:03.291Z"
   }
 ]
