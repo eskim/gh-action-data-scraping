@@ -126,5 +126,13 @@
     "username": "orangemeercat476",
     "password": "xiang",
     "invokedAt": "2022-04-12T17:08:56.910Z"
+  },
+  {
+    "firstName": "Amável",
+    "lastName": "Rodrigues",
+    "email": "amavel.rodrigues@example.com",
+    "username": "silverwolf726",
+    "password": "cirrus",
+    "invokedAt": "2022-04-12T17:58:58.025Z"
   }
 ]
