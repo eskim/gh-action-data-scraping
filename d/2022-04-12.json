@@ -46,5 +46,13 @@
     "username": "happyfish122",
     "password": "justme",
     "invokedAt": "2022-04-12T06:58:52.997Z"
+  },
+  {
+    "firstName": "Diogo",
+    "lastName": "Boyer",
+    "email": "diogo.boyer@example.com",
+    "username": "purplegoose532",
+    "password": "jessie",
+    "invokedAt": "2022-04-12T07:58:58.360Z"
   }
 ]
