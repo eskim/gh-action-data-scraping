@@ -134,5 +134,13 @@
     "username": "silverwolf726",
     "password": "cirrus",
     "invokedAt": "2022-04-12T17:58:58.025Z"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Pascual",
+    "email": "jorge.pascual@example.com",
+    "username": "redkoala993",
+    "password": "major",
+    "invokedAt": "2022-04-12T18:58:47.225Z"
   }
 ]
