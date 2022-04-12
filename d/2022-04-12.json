@@ -70,5 +70,13 @@
     "username": "greenbird341",
     "password": "dnsadm",
     "invokedAt": "2022-04-12T09:59:03.291Z"
+  },
+  {
+    "firstName": "Emilio",
+    "lastName": "Hernandez",
+    "email": "emilio.hernandez@example.com",
+    "username": "whitecat880",
+    "password": "chase",
+    "invokedAt": "2022-04-12T11:03:33.429Z"
   }
 ]
