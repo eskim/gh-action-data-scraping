@@ -166,5 +166,13 @@
     "username": "purplebird795",
     "password": "stratus",
     "invokedAt": "2022-04-12T21:58:52.847Z"
+  },
+  {
+    "firstName": "Ceyhan",
+    "lastName": "Erçetin",
+    "email": "ceyhan.ercetin@example.com",
+    "username": "angrypeacock702",
+    "password": "munich",
+    "invokedAt": "2022-04-12T22:58:58.046Z"
   }
 ]
