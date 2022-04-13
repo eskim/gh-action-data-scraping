@@ -126,5 +126,13 @@
     "username": "greengorilla685",
     "password": "lambda",
     "invokedAt": "2022-04-13T19:58:47.121Z"
+  },
+  {
+    "firstName": "Jonatã",
+    "lastName": "Alves",
+    "email": "jonata.alves@example.com",
+    "username": "biglion613",
+    "password": "cassandr",
+    "invokedAt": "2022-04-13T20:58:54.267Z"
   }
 ]
