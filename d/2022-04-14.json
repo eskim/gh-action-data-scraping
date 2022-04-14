@@ -126,5 +126,13 @@
     "username": "crazywolf953",
     "password": "galary",
     "invokedAt": "2022-04-14T17:10:32.463Z"
+  },
+  {
+    "firstName": "زهرا",
+    "lastName": "احمدی",
+    "email": "zhr.hmdy@example.com",
+    "username": "smallduck260",
+    "password": "writer",
+    "invokedAt": "2022-04-14T17:58:48.458Z"
   }
 ]
