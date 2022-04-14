@@ -142,5 +142,13 @@
     "username": "bigrabbit612",
     "password": "freedom1",
     "invokedAt": "2022-04-14T18:59:09.546Z"
+  },
+  {
+    "firstName": "Liliana",
+    "lastName": "Blomberg",
+    "email": "liliana.blomberg@example.com",
+    "username": "greenmouse343",
+    "password": "bowtie",
+    "invokedAt": "2022-04-14T19:59:04.213Z"
   }
 ]
