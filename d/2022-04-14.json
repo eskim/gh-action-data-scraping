@@ -70,5 +70,13 @@
     "username": "blueswan725",
     "password": "lakota",
     "invokedAt": "2022-04-14T09:59:02.976Z"
+  },
+  {
+    "firstName": "Ortrun",
+    "lastName": "Schorn",
+    "email": "ortrun.schorn@example.com",
+    "username": "bigswan650",
+    "password": "8inches",
+    "invokedAt": "2022-04-14T10:58:48.298Z"
   }
 ]
