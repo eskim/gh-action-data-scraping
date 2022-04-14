@@ -134,5 +134,13 @@
     "username": "smallduck260",
     "password": "writer",
     "invokedAt": "2022-04-14T17:58:48.458Z"
+  },
+  {
+    "firstName": "Léandro",
+    "lastName": "Roussel",
+    "email": "leandro.roussel@example.com",
+    "username": "bigrabbit612",
+    "password": "freedom1",
+    "invokedAt": "2022-04-14T18:59:09.546Z"
   }
 ]
