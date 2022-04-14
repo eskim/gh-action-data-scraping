@@ -38,5 +38,13 @@
     "username": "smalltiger569",
     "password": "fenway",
     "invokedAt": "2022-04-14T05:58:54.502Z"
+  },
+  {
+    "firstName": "Vicki",
+    "lastName": "Rivera",
+    "email": "vicki.rivera@example.com",
+    "username": "goldenlion833",
+    "password": "rams",
+    "invokedAt": "2022-04-14T06:58:48.208Z"
   }
 ]
