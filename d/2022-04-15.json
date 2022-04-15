@@ -134,5 +134,13 @@
     "username": "saddog206",
     "password": "magicman",
     "invokedAt": "2022-04-15T17:58:58.229Z"
+  },
+  {
+    "firstName": "Eldar",
+    "lastName": "Johansen",
+    "email": "eldar.johansen@example.com",
+    "username": "bigdog672",
+    "password": "dogdog",
+    "invokedAt": "2022-04-15T18:58:48.207Z"
   }
 ]
