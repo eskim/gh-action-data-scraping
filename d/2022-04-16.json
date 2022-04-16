@@ -166,5 +166,13 @@
     "username": "organicladybug576",
     "password": "biology",
     "invokedAt": "2022-04-16T21:58:48.790Z"
+  },
+  {
+    "firstName": "Naja",
+    "lastName": "Petersen",
+    "email": "naja.petersen@example.com",
+    "username": "happylion508",
+    "password": "lalala",
+    "invokedAt": "2022-04-16T22:59:05.147Z"
   }
 ]
