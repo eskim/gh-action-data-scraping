@@ -38,5 +38,13 @@
     "username": "smalltiger740",
     "password": "money",
     "invokedAt": "2022-04-16T05:58:45.502Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Zhang",
+    "email": "ethan.zhang@example.com",
+    "username": "organicswan781",
+    "password": "loud",
+    "invokedAt": "2022-04-16T06:58:52.533Z"
   }
 ]
