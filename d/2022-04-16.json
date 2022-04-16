@@ -62,5 +62,13 @@
     "username": "bigfrog380",
     "password": "patriots",
     "invokedAt": "2022-04-16T08:58:44.160Z"
+  },
+  {
+    "firstName": "Aurore",
+    "lastName": "Blanc",
+    "email": "aurore.blanc@example.com",
+    "username": "bigrabbit416",
+    "password": "suck",
+    "invokedAt": "2022-04-16T09:58:56.284Z"
   }
 ]
