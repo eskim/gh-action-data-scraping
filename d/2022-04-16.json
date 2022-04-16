@@ -142,5 +142,13 @@
     "username": "happybird927",
     "password": "paradigm",
     "invokedAt": "2022-04-16T18:58:45.212Z"
+  },
+  {
+    "firstName": "Aderico",
+    "lastName": "Moraes",
+    "email": "aderico.moraes@example.com",
+    "username": "greenduck688",
+    "password": "linda1",
+    "invokedAt": "2022-04-16T19:58:52.330Z"
   }
 ]
