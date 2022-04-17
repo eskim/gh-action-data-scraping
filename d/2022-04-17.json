@@ -86,5 +86,13 @@
     "username": "bigelephant128",
     "password": "trigger",
     "invokedAt": "2022-04-17T11:58:51.187Z"
+  },
+  {
+    "firstName": "Sofus",
+    "lastName": "Brynjulfsen",
+    "email": "sofus.brynjulfsen@example.com",
+    "username": "happybear247",
+    "password": "primus",
+    "invokedAt": "2022-04-17T13:13:02.950Z"
   }
 ]
