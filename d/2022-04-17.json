@@ -166,5 +166,13 @@
     "username": "ticklishfrog633",
     "password": "sambo",
     "invokedAt": "2022-04-17T21:59:00.426Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "King",
+    "email": "emily.king@example.com",
+    "username": "lazybird674",
+    "password": "4444",
+    "invokedAt": "2022-04-17T22:59:02.046Z"
   }
 ]
