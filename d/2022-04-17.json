@@ -94,5 +94,13 @@
     "username": "happybear247",
     "password": "primus",
     "invokedAt": "2022-04-17T13:13:02.950Z"
+  },
+  {
+    "firstName": "Abigail",
+    "lastName": "Collins",
+    "email": "abigail.collins@example.com",
+    "username": "sadgoose652",
+    "password": "volcano",
+    "invokedAt": "2022-04-17T13:58:50.052Z"
   }
 ]
