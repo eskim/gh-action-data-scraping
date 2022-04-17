@@ -70,5 +70,13 @@
     "username": "angryswan641",
     "password": "wordup",
     "invokedAt": "2022-04-17T09:58:48.839Z"
+  },
+  {
+    "firstName": "Jose",
+    "lastName": "Martinez",
+    "email": "jose.martinez@example.com",
+    "username": "redcat712",
+    "password": "kissme",
+    "invokedAt": "2022-04-17T10:59:05.486Z"
   }
 ]
