@@ -118,5 +118,13 @@
     "username": "greenlion188",
     "password": "nissan",
     "invokedAt": "2022-04-18T15:58:58.216Z"
+  },
+  {
+    "firstName": "Gregorio",
+    "lastName": "Vargas",
+    "email": "gregorio.vargas@example.com",
+    "username": "greenzebra342",
+    "password": "concord",
+    "invokedAt": "2022-04-18T17:11:07.818Z"
   }
 ]
