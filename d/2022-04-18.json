@@ -126,5 +126,13 @@
     "username": "greenzebra342",
     "password": "concord",
     "invokedAt": "2022-04-18T17:11:07.818Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Madsen",
+    "email": "jacob.madsen@example.com",
+    "username": "tinyzebra305",
+    "password": "weng",
+    "invokedAt": "2022-04-18T17:58:52.369Z"
   }
 ]
