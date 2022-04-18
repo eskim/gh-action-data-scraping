@@ -142,5 +142,13 @@
     "username": "orangeswan880",
     "password": "boeing",
     "invokedAt": "2022-04-18T18:58:47.007Z"
+  },
+  {
+    "firstName": "Dean",
+    "lastName": "Wilson",
+    "email": "dean.wilson@example.com",
+    "username": "goldenpeacock957",
+    "password": "angus",
+    "invokedAt": "2022-04-18T19:58:50.975Z"
   }
 ]
