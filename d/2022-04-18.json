@@ -38,5 +38,13 @@
     "username": "purpledog324",
     "password": "hardware",
     "invokedAt": "2022-04-18T05:58:48.023Z"
+  },
+  {
+    "firstName": "Michela",
+    "lastName": "Clement",
+    "email": "michela.clement@example.com",
+    "username": "ticklishmouse925",
+    "password": "recon",
+    "invokedAt": "2022-04-18T06:58:51.989Z"
   }
 ]
