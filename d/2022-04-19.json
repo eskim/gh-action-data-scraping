@@ -102,5 +102,13 @@
     "username": "purplebear711",
     "password": "pharmacy",
     "invokedAt": "2022-04-19T14:03:46.960Z"
+  },
+  {
+    "firstName": "Lumi",
+    "lastName": "Autio",
+    "email": "lumi.autio@example.com",
+    "username": "angryduck914",
+    "password": "progress",
+    "invokedAt": "2022-04-19T15:03:32.104Z"
   }
 ]
