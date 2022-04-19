@@ -54,5 +54,13 @@
     "username": "brownladybug734",
     "password": "gators",
     "invokedAt": "2022-04-19T07:59:00.188Z"
+  },
+  {
+    "firstName": "Ceyhan",
+    "lastName": "Köybaşı",
+    "email": "ceyhan.koybasi@example.com",
+    "username": "greenswan843",
+    "password": "camper",
+    "invokedAt": "2022-04-19T09:03:36.829Z"
   }
 ]
