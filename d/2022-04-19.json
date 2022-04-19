@@ -94,5 +94,13 @@
     "username": "brownkoala662",
     "password": "stratus",
     "invokedAt": "2022-04-19T13:26:53.959Z"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Robinson",
+    "email": "tyler.robinson@example.com",
+    "username": "purplebear711",
+    "password": "pharmacy",
+    "invokedAt": "2022-04-19T14:03:46.960Z"
   }
 ]
