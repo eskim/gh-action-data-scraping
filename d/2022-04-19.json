@@ -86,5 +86,13 @@
     "username": "sadsnake884",
     "password": "blink182",
     "invokedAt": "2022-04-19T11:58:47.379Z"
+  },
+  {
+    "firstName": "Otoniel",
+    "lastName": "Fernandes",
+    "email": "otoniel.fernandes@example.com",
+    "username": "brownkoala662",
+    "password": "stratus",
+    "invokedAt": "2022-04-19T13:26:53.959Z"
   }
 ]
