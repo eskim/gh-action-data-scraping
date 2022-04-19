@@ -78,5 +78,13 @@
     "username": "heavykoala494",
     "password": "phoenix",
     "invokedAt": "2022-04-19T10:59:10.180Z"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Alvarez",
+    "email": "tyler.alvarez@example.com",
+    "username": "sadsnake884",
+    "password": "blink182",
+    "invokedAt": "2022-04-19T11:58:47.379Z"
   }
 ]
