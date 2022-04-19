@@ -118,5 +118,13 @@
     "username": "organicfish139",
     "password": "these",
     "invokedAt": "2022-04-19T15:59:24.069Z"
+  },
+  {
+    "firstName": "Kayla",
+    "lastName": "Burke",
+    "email": "kayla.burke@example.com",
+    "username": "organicduck842",
+    "password": "shocker",
+    "invokedAt": "2022-04-19T17:17:37.350Z"
   }
 ]
