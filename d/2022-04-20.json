@@ -94,5 +94,13 @@
     "username": "crazyladybug878",
     "password": "cannon",
     "invokedAt": "2022-04-20T14:03:48.648Z"
+  },
+  {
+    "firstName": "Aparício",
+    "lastName": "Fogaça",
+    "email": "aparicio.fogaca@example.com",
+    "username": "angrybutterfly156",
+    "password": "rambo",
+    "invokedAt": "2022-04-20T15:03:46.936Z"
   }
 ]
