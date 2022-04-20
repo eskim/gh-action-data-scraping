@@ -166,5 +166,13 @@
     "username": "bigpeacock587",
     "password": "woowoo",
     "invokedAt": "2022-04-20T22:58:59.521Z"
+  },
+  {
+    "firstName": "Enni",
+    "lastName": "Kokko",
+    "email": "enni.kokko@example.com",
+    "username": "angryzebra950",
+    "password": "jason1",
+    "invokedAt": "2022-04-20T23:59:08.975Z"
   }
 ]
