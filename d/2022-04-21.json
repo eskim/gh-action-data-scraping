@@ -174,5 +174,13 @@
     "username": "sadmouse536",
     "password": "gravity",
     "invokedAt": "2022-04-21T22:58:48.008Z"
+  },
+  {
+    "firstName": "Hans-Michael",
+    "lastName": "Ehrmann",
+    "email": "hans-michael.ehrmann@example.com",
+    "username": "greenostrich446",
+    "password": "loveya",
+    "invokedAt": "2022-04-21T23:58:48.477Z"
   }
 ]
