@@ -70,5 +70,13 @@
     "username": "silvercat367",
     "password": "denver",
     "invokedAt": "2022-04-21T09:59:12.841Z"
+  },
+  {
+    "firstName": "Terumi",
+    "lastName": "Ferreira",
+    "email": "terumi.ferreira@example.com",
+    "username": "bigbear354",
+    "password": "585858",
+    "invokedAt": "2022-04-21T10:58:52.445Z"
   }
 ]
