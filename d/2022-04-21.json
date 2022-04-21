@@ -142,5 +142,13 @@
     "username": "heavyfish522",
     "password": "trigger",
     "invokedAt": "2022-04-21T18:59:10.328Z"
+  },
+  {
+    "firstName": "Konrad",
+    "lastName": "Bergmann",
+    "email": "konrad.bergmann@example.com",
+    "username": "bigcat611",
+    "password": "anthrax",
+    "invokedAt": "2022-04-21T19:58:58.038Z"
   }
 ]
