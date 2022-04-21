@@ -166,5 +166,13 @@
     "username": "crazyostrich504",
     "password": "september",
     "invokedAt": "2022-04-21T21:59:05.664Z"
+  },
+  {
+    "firstName": "Pippa",
+    "lastName": "Turner",
+    "email": "pippa.turner@example.com",
+    "username": "sadmouse536",
+    "password": "gravity",
+    "invokedAt": "2022-04-21T22:58:48.008Z"
   }
 ]
