@@ -94,5 +94,13 @@
     "username": "bluemouse785",
     "password": "sigmachi",
     "invokedAt": "2022-04-22T14:58:51.097Z"
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Mitchelle",
+    "email": "luke.mitchelle@example.com",
+    "username": "bluerabbit151",
+    "password": "postal",
+    "invokedAt": "2022-04-22T15:58:53.664Z"
   }
 ]
