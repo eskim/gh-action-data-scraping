@@ -110,5 +110,13 @@
     "username": "tinypanda465",
     "password": "rockets",
     "invokedAt": "2022-04-22T17:14:39.077Z"
+  },
+  {
+    "firstName": "Irma",
+    "lastName": "Durand",
+    "email": "irma.durand@example.com",
+    "username": "tinypanda658",
+    "password": "1qazxsw2",
+    "invokedAt": "2022-04-22T17:58:53.968Z"
   }
 ]
