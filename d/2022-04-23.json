@@ -118,5 +118,13 @@
     "username": "yellowfrog220",
     "password": "spot",
     "invokedAt": "2022-04-23T15:58:55.085Z"
+  },
+  {
+    "firstName": "Amber",
+    "lastName": "Lucas",
+    "email": "amber.lucas@example.com",
+    "username": "sadduck876",
+    "password": "dong",
+    "invokedAt": "2022-04-23T17:07:29.381Z"
   }
 ]
