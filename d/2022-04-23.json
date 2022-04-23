@@ -78,5 +78,13 @@
     "username": "whitemouse638",
     "password": "ruby",
     "invokedAt": "2022-04-23T10:58:54.416Z"
+  },
+  {
+    "firstName": "Enrico",
+    "lastName": "Roy",
+    "email": "enrico.roy@example.com",
+    "username": "bigmeercat444",
+    "password": "iforgot",
+    "invokedAt": "2022-04-23T11:58:48.448Z"
   }
 ]
