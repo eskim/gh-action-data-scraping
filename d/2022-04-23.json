@@ -14,5 +14,13 @@
     "username": "beautifulfrog552",
     "password": "testpass",
     "invokedAt": "2022-04-23T03:24:41.008Z"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Jutila",
+    "email": "olivia.jutila@example.com",
+    "username": "happyswan462",
+    "password": "tweety",
+    "invokedAt": "2022-04-23T03:59:49.186Z"
   }
 ]
