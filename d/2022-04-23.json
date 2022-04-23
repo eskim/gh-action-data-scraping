@@ -134,5 +134,13 @@
     "username": "lazyzebra868",
     "password": "gramma",
     "invokedAt": "2022-04-23T17:58:53.427Z"
+  },
+  {
+    "firstName": "Lauren",
+    "lastName": "Adams",
+    "email": "lauren.adams@example.com",
+    "username": "orangebutterfly551",
+    "password": "123789",
+    "invokedAt": "2022-04-23T18:58:50.946Z"
   }
 ]
