@@ -118,5 +118,13 @@
     "username": "whitecat867",
     "password": "lady",
     "invokedAt": "2022-04-24T15:58:47.307Z"
+  },
+  {
+    "firstName": "Cathelijne",
+    "lastName": "Van Munster",
+    "email": "cathelijne.vanmunster@example.com",
+    "username": "ticklishfrog543",
+    "password": "squerting",
+    "invokedAt": "2022-04-24T17:07:28.513Z"
   }
 ]
