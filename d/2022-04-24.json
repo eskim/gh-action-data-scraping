@@ -126,5 +126,13 @@
     "username": "ticklishfrog543",
     "password": "squerting",
     "invokedAt": "2022-04-24T17:07:28.513Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "White",
+    "email": "maria.white@example.com",
+    "username": "crazygoose873",
+    "password": "kiss",
+    "invokedAt": "2022-04-24T17:58:53.056Z"
   }
 ]
