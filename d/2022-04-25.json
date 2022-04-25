@@ -158,5 +158,13 @@
     "username": "lazymeercat643",
     "password": "passwords",
     "invokedAt": "2022-04-25T20:59:46.047Z"
+  },
+  {
+    "firstName": "Meeke",
+    "lastName": "Van Merode",
+    "email": "meeke.vanmerode@example.com",
+    "username": "smallfish203",
+    "password": "ball",
+    "invokedAt": "2022-04-25T21:58:59.721Z"
   }
 ]
