@@ -38,5 +38,13 @@
     "username": "purpleswan647",
     "password": "unknown",
     "invokedAt": "2022-04-25T05:58:53.588Z"
+  },
+  {
+    "firstName": "Murat",
+    "lastName": "Sepetçi",
+    "email": "murat.sepetci@example.com",
+    "username": "ticklishpanda203",
+    "password": "2345",
+    "invokedAt": "2022-04-25T06:59:10.123Z"
   }
 ]
