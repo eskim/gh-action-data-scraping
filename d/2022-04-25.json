@@ -54,5 +54,13 @@
     "username": "brownwolf174",
     "password": "deaths",
     "invokedAt": "2022-04-25T07:58:48.890Z"
+  },
+  {
+    "firstName": "Jérôme",
+    "lastName": "Marie",
+    "email": "jerome.marie@example.com",
+    "username": "beautifulgorilla565",
+    "password": "misfit",
+    "invokedAt": "2022-04-25T09:03:37.029Z"
   }
 ]
