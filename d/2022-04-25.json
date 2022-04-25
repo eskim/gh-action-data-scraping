@@ -102,5 +102,13 @@
     "username": "beautifulmeercat186",
     "password": "010101",
     "invokedAt": "2022-04-25T14:03:55.136Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Jarvi",
+    "email": "valtteri.jarvi@example.com",
+    "username": "lazyfish802",
+    "password": "infinity",
+    "invokedAt": "2022-04-25T15:00:21.936Z"
   }
 ]
