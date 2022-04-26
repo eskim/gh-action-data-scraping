@@ -86,5 +86,13 @@
     "username": "heavytiger321",
     "password": "toffee",
     "invokedAt": "2022-04-26T11:59:24.820Z"
+  },
+  {
+    "firstName": "Blanca",
+    "lastName": "Ferrer",
+    "email": "blanca.ferrer@example.com",
+    "username": "happybutterfly756",
+    "password": "qing",
+    "invokedAt": "2022-04-26T13:31:32.401Z"
   }
 ]
