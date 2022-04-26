@@ -158,5 +158,13 @@
     "username": "happyelephant133",
     "password": "zzzzzzz",
     "invokedAt": "2022-04-26T20:59:04.080Z"
+  },
+  {
+    "firstName": "Ines",
+    "lastName": "Angerer",
+    "email": "ines.angerer@example.com",
+    "username": "bigtiger727",
+    "password": "cheater",
+    "invokedAt": "2022-04-26T21:59:08.031Z"
   }
 ]
