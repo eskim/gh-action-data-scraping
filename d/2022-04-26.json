@@ -22,5 +22,13 @@
     "username": "silverbutterfly165",
     "password": "daylight",
     "invokedAt": "2022-04-26T04:15:56.405Z"
+  },
+  {
+    "firstName": "Levi",
+    "lastName": "Porto",
+    "email": "levi.porto@example.com",
+    "username": "silverwolf856",
+    "password": "iceman1",
+    "invokedAt": "2022-04-26T05:08:57.296Z"
   }
 ]
