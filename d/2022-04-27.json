@@ -158,5 +158,13 @@
     "username": "orangecat694",
     "password": "goose",
     "invokedAt": "2022-04-27T21:58:54.385Z"
+  },
+  {
+    "firstName": "Pierre-Alain",
+    "lastName": "Roux",
+    "email": "pierre-alain.roux@example.com",
+    "username": "whitemeercat458",
+    "password": "answer",
+    "invokedAt": "2022-04-27T22:59:21.017Z"
   }
 ]
