@@ -158,5 +158,13 @@
     "username": "greenbird100",
     "password": "arrows",
     "invokedAt": "2022-04-28T21:58:59.941Z"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Henderson",
+    "email": "sophia.henderson@example.com",
+    "username": "tinyleopard371",
+    "password": "girfriend",
+    "invokedAt": "2022-04-28T22:59:03.579Z"
   }
 ]
