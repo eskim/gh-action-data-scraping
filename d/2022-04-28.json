@@ -166,5 +166,13 @@
     "username": "tinyleopard371",
     "password": "girfriend",
     "invokedAt": "2022-04-28T22:59:03.579Z"
+  },
+  {
+    "firstName": "Lauren",
+    "lastName": "Cooper",
+    "email": "lauren.cooper@example.com",
+    "username": "redzebra828",
+    "password": "mutant",
+    "invokedAt": "2022-04-28T23:58:59.333Z"
   }
 ]
