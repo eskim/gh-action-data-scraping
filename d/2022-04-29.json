@@ -86,5 +86,13 @@
     "username": "heavydog184",
     "password": "gateway",
     "invokedAt": "2022-04-29T11:59:02.994Z"
+  },
+  {
+    "firstName": "Moustafa",
+    "lastName": "Van Faassen",
+    "email": "moustafa.vanfaassen@example.com",
+    "username": "beautifulgoose457",
+    "password": "venture",
+    "invokedAt": "2022-04-29T13:30:35.121Z"
   }
 ]
