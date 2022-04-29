@@ -94,5 +94,13 @@
     "username": "beautifulgoose457",
     "password": "venture",
     "invokedAt": "2022-04-29T13:30:35.121Z"
+  },
+  {
+    "firstName": "Mustafa",
+    "lastName": "Bayındır",
+    "email": "mustafa.bayindir@example.com",
+    "username": "angryleopard856",
+    "password": "south",
+    "invokedAt": "2022-04-29T14:04:44.269Z"
   }
 ]
