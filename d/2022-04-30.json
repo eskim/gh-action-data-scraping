@@ -174,5 +174,13 @@
     "username": "happysnake107",
     "password": "wild",
     "invokedAt": "2022-04-30T22:58:56.121Z"
+  },
+  {
+    "firstName": "Edouard",
+    "lastName": "Denis",
+    "email": "edouard.denis@example.com",
+    "username": "organicswan450",
+    "password": "fuzzy",
+    "invokedAt": "2022-04-30T23:59:21.220Z"
   }
 ]
