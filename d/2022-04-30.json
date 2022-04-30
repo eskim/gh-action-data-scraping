@@ -94,5 +94,13 @@
     "username": "angrymouse801",
     "password": "alice1",
     "invokedAt": "2022-04-30T13:14:33.000Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Kıraç",
+    "email": "ulku.kirac@example.com",
+    "username": "happydog585",
+    "password": "rockon",
+    "invokedAt": "2022-04-30T13:59:01.191Z"
   }
 ]
