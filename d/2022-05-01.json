@@ -166,5 +166,13 @@
     "username": "crazylion444",
     "password": "evan",
     "invokedAt": "2022-05-01T22:58:53.241Z"
+  },
+  {
+    "firstName": "Ümit",
+    "lastName": "Akışık",
+    "email": "umit.akisik@example.com",
+    "username": "organicbear192",
+    "password": "ding",
+    "invokedAt": "2022-05-01T23:59:04.341Z"
   }
 ]
