@@ -94,5 +94,13 @@
     "username": "happybutterfly824",
     "password": "1master",
     "invokedAt": "2022-05-01T13:59:04.154Z"
+  },
+  {
+    "firstName": "Fúlvio",
+    "lastName": "Viana",
+    "email": "fulvio.viana@example.com",
+    "username": "beautifulbutterfly306",
+    "password": "goldstar",
+    "invokedAt": "2022-05-01T14:58:59.110Z"
   }
 ]
