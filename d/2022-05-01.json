@@ -62,5 +62,13 @@
     "username": "tinykoala403",
     "password": "lindros",
     "invokedAt": "2022-05-01T09:58:49.165Z"
+  },
+  {
+    "firstName": "Helder",
+    "lastName": "Van den Enden",
+    "email": "helder.vandenenden@example.com",
+    "username": "ticklishbutterfly886",
+    "password": "9999999",
+    "invokedAt": "2022-05-01T10:58:52.876Z"
   }
 ]
