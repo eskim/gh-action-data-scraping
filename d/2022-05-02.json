@@ -94,5 +94,13 @@
     "username": "happydog597",
     "password": "garbage",
     "invokedAt": "2022-05-02T14:04:40.245Z"
+  },
+  {
+    "firstName": "Douglas",
+    "lastName": "Spencer",
+    "email": "douglas.spencer@example.com",
+    "username": "heavyleopard374",
+    "password": "pirate",
+    "invokedAt": "2022-05-02T15:03:29.109Z"
   }
 ]
