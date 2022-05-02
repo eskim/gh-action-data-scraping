@@ -78,5 +78,13 @@
     "username": "bigsnake335",
     "password": "butthole",
     "invokedAt": "2022-05-02T11:59:05.248Z"
+  },
+  {
+    "firstName": "Austin",
+    "lastName": "Clarke",
+    "email": "austin.clarke@example.com",
+    "username": "ticklishwolf827",
+    "password": "wolfman",
+    "invokedAt": "2022-05-02T13:26:25.427Z"
   }
 ]
