@@ -126,5 +126,13 @@
     "username": "lazyladybug658",
     "password": "spanish",
     "invokedAt": "2022-05-02T17:59:22.085Z"
+  },
+  {
+    "firstName": "Charlotte",
+    "lastName": "Morin",
+    "email": "charlotte.morin@example.com",
+    "username": "purplesnake569",
+    "password": "older",
+    "invokedAt": "2022-05-02T18:58:54.606Z"
   }
 ]
