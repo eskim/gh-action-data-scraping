@@ -78,5 +78,13 @@
     "username": "sadmeercat173",
     "password": "helium",
     "invokedAt": "2022-05-03T10:58:58.629Z"
+  },
+  {
+    "firstName": "Sigmund",
+    "lastName": "Rolfsnes",
+    "email": "sigmund.rolfsnes@example.com",
+    "username": "bigkoala974",
+    "password": "piazza",
+    "invokedAt": "2022-05-03T11:58:48.205Z"
   }
 ]
