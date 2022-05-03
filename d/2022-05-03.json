@@ -158,5 +158,13 @@
     "username": "ticklishduck562",
     "password": "metallica",
     "invokedAt": "2022-05-03T21:59:03.966Z"
+  },
+  {
+    "firstName": "Kylian",
+    "lastName": "Rooker",
+    "email": "kylian.rooker@example.com",
+    "username": "organicmouse509",
+    "password": "alfa",
+    "invokedAt": "2022-05-03T22:58:51.173Z"
   }
 ]
