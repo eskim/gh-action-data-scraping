@@ -94,5 +94,13 @@
     "username": "organickoala752",
     "password": "november",
     "invokedAt": "2022-05-03T14:01:41.415Z"
+  },
+  {
+    "firstName": "Jimmie",
+    "lastName": "Vergouwen",
+    "email": "jimmie.vergouwen@example.com",
+    "username": "bluefish673",
+    "password": "buffalo1",
+    "invokedAt": "2022-05-03T15:03:38.408Z"
   }
 ]
