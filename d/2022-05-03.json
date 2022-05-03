@@ -38,5 +38,13 @@
     "username": "bigkoala420",
     "password": "bondage",
     "invokedAt": "2022-05-03T05:58:58.860Z"
+  },
+  {
+    "firstName": "Milja",
+    "lastName": "Kivi",
+    "email": "milja.kivi@example.com",
+    "username": "sadbear165",
+    "password": "bank",
+    "invokedAt": "2022-05-03T06:58:48.362Z"
   }
 ]
