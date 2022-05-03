@@ -70,5 +70,13 @@
     "username": "orangepeacock544",
     "password": "grendel",
     "invokedAt": "2022-05-03T10:00:47.068Z"
+  },
+  {
+    "firstName": "Norah",
+    "lastName": "Ødegården",
+    "email": "norah.odegarden@example.com",
+    "username": "sadmeercat173",
+    "password": "helium",
+    "invokedAt": "2022-05-03T10:58:58.629Z"
   }
 ]
