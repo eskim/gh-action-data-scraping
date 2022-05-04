@@ -94,5 +94,13 @@
     "username": "brownbear278",
     "password": "broken",
     "invokedAt": "2022-05-04T13:28:27.321Z"
+  },
+  {
+    "firstName": "Ronnie",
+    "lastName": "Austin",
+    "email": "ronnie.austin@example.com",
+    "username": "greenfrog393",
+    "password": "explore",
+    "invokedAt": "2022-05-04T14:03:25.079Z"
   }
 ]
