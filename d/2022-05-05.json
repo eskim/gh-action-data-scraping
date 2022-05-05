@@ -158,5 +158,13 @@
     "username": "sadmouse872",
     "password": "peekaboo",
     "invokedAt": "2022-05-05T21:00:04.162Z"
+  },
+  {
+    "firstName": "Gabrielle",
+    "lastName": "Roy",
+    "email": "gabrielle.roy@example.com",
+    "username": "angrydog919",
+    "password": "1a2b3c",
+    "invokedAt": "2022-05-05T21:59:03.130Z"
   }
 ]
