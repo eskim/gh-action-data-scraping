@@ -38,5 +38,13 @@
     "username": "organiccat535",
     "password": "jackie",
     "invokedAt": "2022-05-06T05:58:52.266Z"
+  },
+  {
+    "firstName": "Eloïse",
+    "lastName": "Vidal",
+    "email": "eloise.vidal@example.com",
+    "username": "lazypeacock897",
+    "password": "coolman",
+    "invokedAt": "2022-05-06T06:59:54.330Z"
   }
 ]
