@@ -158,5 +158,13 @@
     "username": "smalllion705",
     "password": "butthead",
     "invokedAt": "2022-05-06T20:58:52.582Z"
+  },
+  {
+    "firstName": "Timon",
+    "lastName": "Brun",
+    "email": "timon.brun@example.com",
+    "username": "lazyladybug829",
+    "password": "buttercu",
+    "invokedAt": "2022-05-06T21:58:52.364Z"
   }
 ]
