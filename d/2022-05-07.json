@@ -134,5 +134,13 @@
     "username": "crazylion826",
     "password": "mantle",
     "invokedAt": "2022-05-07T17:59:00.058Z"
+  },
+  {
+    "firstName": "Thérèse",
+    "lastName": "Mercier",
+    "email": "therese.mercier@example.com",
+    "username": "beautifultiger310",
+    "password": "wednesda",
+    "invokedAt": "2022-05-07T18:58:57.573Z"
   }
 ]
