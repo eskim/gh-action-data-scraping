@@ -174,5 +174,13 @@
     "username": "heavymeercat581",
     "password": "sommer",
     "invokedAt": "2022-05-07T22:58:53.729Z"
+  },
+  {
+    "firstName": "Carmela",
+    "lastName": "Dorner",
+    "email": "carmela.dorner@example.com",
+    "username": "bluemeercat757",
+    "password": "aikido",
+    "invokedAt": "2022-05-07T23:58:57.123Z"
   }
 ]
