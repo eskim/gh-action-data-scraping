@@ -126,5 +126,13 @@
     "username": "yellowkoala135",
     "password": "recon",
     "invokedAt": "2022-05-07T17:08:02.633Z"
+  },
+  {
+    "firstName": "Eugene",
+    "lastName": "Ferguson",
+    "email": "eugene.ferguson@example.com",
+    "username": "crazylion826",
+    "password": "mantle",
+    "invokedAt": "2022-05-07T17:59:00.058Z"
   }
 ]
