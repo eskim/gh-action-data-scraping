@@ -158,5 +158,13 @@
     "username": "greenpeacock965",
     "password": "ticklish",
     "invokedAt": "2022-05-08T20:58:57.875Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Hoffman",
+    "email": "albert.hoffman@example.com",
+    "username": "orangecat996",
+    "password": "stereo",
+    "invokedAt": "2022-05-08T21:58:59.095Z"
   }
 ]
