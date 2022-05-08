@@ -166,5 +166,13 @@
     "username": "orangecat996",
     "password": "stereo",
     "invokedAt": "2022-05-08T21:58:59.095Z"
+  },
+  {
+    "firstName": "Timothy",
+    "lastName": "Horton",
+    "email": "timothy.horton@example.com",
+    "username": "yellowbutterfly281",
+    "password": "decker",
+    "invokedAt": "2022-05-08T22:58:57.432Z"
   }
 ]
