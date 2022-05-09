@@ -46,5 +46,13 @@
     "username": "greenfrog470",
     "password": "meme",
     "invokedAt": "2022-05-09T06:59:23.594Z"
+  },
+  {
+    "firstName": "Nils",
+    "lastName": "Selzer",
+    "email": "nils.selzer@example.com",
+    "username": "whitebear889",
+    "password": "carpet",
+    "invokedAt": "2022-05-09T07:59:01.164Z"
   }
 ]
