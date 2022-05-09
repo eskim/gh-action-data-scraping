@@ -110,5 +110,13 @@
     "username": "smallmeercat241",
     "password": "track",
     "invokedAt": "2022-05-09T15:03:50.055Z"
+  },
+  {
+    "firstName": "Kavish",
+    "lastName": "Siebenga",
+    "email": "kavish.siebenga@example.com",
+    "username": "tinywolf876",
+    "password": "battery",
+    "invokedAt": "2022-05-09T16:03:41.312Z"
   }
 ]
