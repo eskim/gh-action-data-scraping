@@ -86,5 +86,13 @@
     "username": "ticklishelephant486",
     "password": "2580",
     "invokedAt": "2022-05-10T11:58:59.172Z"
+  },
+  {
+    "firstName": "Mariano",
+    "lastName": "Herrera",
+    "email": "mariano.herrera@example.com",
+    "username": "lazyduck598",
+    "password": "wave",
+    "invokedAt": "2022-05-10T13:41:36.709Z"
   }
 ]
