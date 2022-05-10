@@ -166,5 +166,13 @@
     "username": "brownostrich912",
     "password": "windsurf",
     "invokedAt": "2022-05-10T21:59:09.443Z"
+  },
+  {
+    "firstName": "Maurice",
+    "lastName": "Moritz",
+    "email": "maurice.moritz@example.com",
+    "username": "whitepanda472",
+    "password": "dominic",
+    "invokedAt": "2022-05-10T22:58:54.756Z"
   }
 ]
