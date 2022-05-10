@@ -22,5 +22,13 @@
     "username": "blackfish536",
     "password": "static",
     "invokedAt": "2022-05-10T03:58:51.216Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Brinker",
+    "email": "jonas.brinker@example.com",
+    "username": "beautifulmeercat897",
+    "password": "camel",
+    "invokedAt": "2022-05-10T05:01:07.043Z"
   }
 ]
