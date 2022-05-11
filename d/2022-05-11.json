@@ -126,5 +126,13 @@
     "username": "goldengoose153",
     "password": "rockford",
     "invokedAt": "2022-05-11T17:22:37.835Z"
+  },
+  {
+    "firstName": "Esma",
+    "lastName": "Gürmen",
+    "email": "esma.gurmen@example.com",
+    "username": "bigtiger870",
+    "password": "bestbuy",
+    "invokedAt": "2022-05-11T17:59:49.561Z"
   }
 ]
