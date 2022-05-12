@@ -46,5 +46,13 @@
     "username": "lazykoala758",
     "password": "1214",
     "invokedAt": "2022-05-12T07:01:01.217Z"
+  },
+  {
+    "firstName": "Shadi",
+    "lastName": "Van Halen",
+    "email": "shadi.vanhalen@example.com",
+    "username": "sadgoose120",
+    "password": "jaguar1",
+    "invokedAt": "2022-05-12T07:58:57.087Z"
   }
 ]
