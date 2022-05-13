@@ -126,5 +126,13 @@
     "username": "purpleswan206",
     "password": "fabian",
     "invokedAt": "2022-05-13T17:58:52.229Z"
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Andersen",
+    "email": "magnus.andersen@example.com",
+    "username": "bigwolf379",
+    "password": "casino",
+    "invokedAt": "2022-05-13T18:58:45.462Z"
   }
 ]
