@@ -86,5 +86,13 @@
     "username": "crazydog125",
     "password": "jewels",
     "invokedAt": "2022-05-14T13:58:51.747Z"
+  },
+  {
+    "firstName": "Vildan",
+    "lastName": "Paksüt",
+    "email": "vildan.paksut@example.com",
+    "username": "bluepanda655",
+    "password": "digital1",
+    "invokedAt": "2022-05-14T14:58:53.979Z"
   }
 ]
