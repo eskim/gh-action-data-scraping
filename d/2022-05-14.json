@@ -158,5 +158,13 @@
     "username": "blacktiger610",
     "password": "jewels",
     "invokedAt": "2022-05-14T22:58:50.780Z"
+  },
+  {
+    "firstName": "Ernest",
+    "lastName": "Weimann",
+    "email": "ernest.weimann@example.com",
+    "username": "silverleopard133",
+    "password": "sounds",
+    "invokedAt": "2022-05-14T23:58:47.621Z"
   }
 ]
