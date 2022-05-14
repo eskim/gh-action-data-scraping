@@ -30,5 +30,13 @@
     "username": "purplebird802",
     "password": "jarhead",
     "invokedAt": "2022-05-14T07:12:14.285Z"
+  },
+  {
+    "firstName": "Rosie",
+    "lastName": "Jennings",
+    "email": "rosie.jennings@example.com",
+    "username": "silverbutterfly976",
+    "password": "quantum",
+    "invokedAt": "2022-05-14T07:58:55.886Z"
   }
 ]
