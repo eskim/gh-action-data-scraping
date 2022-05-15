@@ -78,5 +78,13 @@
     "username": "brownmouse381",
     "password": "smackdow",
     "invokedAt": "2022-05-15T10:58:56.410Z"
+  },
+  {
+    "firstName": "Selma",
+    "lastName": "Sørensen",
+    "email": "selma.sorensen@example.com",
+    "username": "organicladybug163",
+    "password": "123qwe",
+    "invokedAt": "2022-05-15T11:59:09.087Z"
   }
 ]
