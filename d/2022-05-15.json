@@ -142,5 +142,13 @@
     "username": "beautifulduck186",
     "password": "wanda",
     "invokedAt": "2022-05-15T18:58:51.094Z"
+  },
+  {
+    "firstName": "امیر",
+    "lastName": "قاسمی",
+    "email": "myr.qsmy@example.com",
+    "username": "yellowladybug574",
+    "password": "ceng",
+    "invokedAt": "2022-05-15T19:59:10.448Z"
   }
 ]
