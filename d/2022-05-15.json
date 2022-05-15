@@ -22,5 +22,13 @@
     "username": "greenmouse466",
     "password": "palmtree",
     "invokedAt": "2022-05-15T04:09:31.196Z"
+  },
+  {
+    "firstName": "Mille",
+    "lastName": "Kristensen",
+    "email": "mille.kristensen@example.com",
+    "username": "greenlion590",
+    "password": "sang",
+    "invokedAt": "2022-05-15T05:09:15.260Z"
   }
 ]
