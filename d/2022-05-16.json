@@ -142,5 +142,13 @@
     "username": "angryladybug212",
     "password": "stereo",
     "invokedAt": "2022-05-16T18:59:06.342Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Shaw",
+    "email": "amanda.shaw@example.com",
+    "username": "ticklishcat866",
+    "password": "mmmm",
+    "invokedAt": "2022-05-16T19:59:08.234Z"
   }
 ]
