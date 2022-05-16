@@ -62,5 +62,13 @@
     "username": "brownpeacock926",
     "password": "snuggles",
     "invokedAt": "2022-05-16T09:03:39.385Z"
+  },
+  {
+    "firstName": "Terrance",
+    "lastName": "Pearson",
+    "email": "terrance.pearson@example.com",
+    "username": "tinymeercat988",
+    "password": "stratus",
+    "invokedAt": "2022-05-16T09:59:23.230Z"
   }
 ]
