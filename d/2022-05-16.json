@@ -134,5 +134,13 @@
     "username": "sadcat814",
     "password": "simpsons",
     "invokedAt": "2022-05-16T17:58:54.365Z"
+  },
+  {
+    "firstName": "Siiri",
+    "lastName": "Saarinen",
+    "email": "siiri.saarinen@example.com",
+    "username": "angryladybug212",
+    "password": "stereo",
+    "invokedAt": "2022-05-16T18:59:06.342Z"
   }
 ]
