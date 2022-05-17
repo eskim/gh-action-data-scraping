@@ -118,5 +118,13 @@
     "username": "bluemouse221",
     "password": "flyboy",
     "invokedAt": "2022-05-17T16:03:34.980Z"
+  },
+  {
+    "firstName": "دانیال",
+    "lastName": "احمدی",
+    "email": "dnyl.hmdy@example.com",
+    "username": "redelephant190",
+    "password": "rhubarb",
+    "invokedAt": "2022-05-17T17:14:04.825Z"
   }
 ]
