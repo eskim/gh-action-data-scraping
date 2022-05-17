@@ -30,5 +30,13 @@
     "username": "beautifulswan429",
     "password": "2345",
     "invokedAt": "2022-05-17T05:11:21.587Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Arnaud",
+    "email": "sophie.arnaud@example.com",
+    "username": "ticklishwolf633",
+    "password": "beaver",
+    "invokedAt": "2022-05-17T05:59:00.230Z"
   }
 ]
