@@ -126,5 +126,13 @@
     "username": "redelephant190",
     "password": "rhubarb",
     "invokedAt": "2022-05-17T17:14:04.825Z"
+  },
+  {
+    "firstName": "Ümit",
+    "lastName": "Aşıkoğlu",
+    "email": "umit.asikoglu@example.com",
+    "username": "smallelephant418",
+    "password": "hell",
+    "invokedAt": "2022-05-17T17:58:51.487Z"
   }
 ]
