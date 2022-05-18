@@ -78,5 +78,13 @@
     "username": "heavybird900",
     "password": "eskimo",
     "invokedAt": "2022-05-18T10:58:50.191Z"
+  },
+  {
+    "firstName": "Violet",
+    "lastName": "Howard",
+    "email": "violet.howard@example.com",
+    "username": "greenduck410",
+    "password": "manchester",
+    "invokedAt": "2022-05-18T11:58:55.930Z"
   }
 ]
