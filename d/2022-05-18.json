@@ -110,5 +110,13 @@
     "username": "tinylion365",
     "password": "4242",
     "invokedAt": "2022-05-18T15:58:58.176Z"
+  },
+  {
+    "firstName": "Mohammed",
+    "lastName": "Seidler",
+    "email": "mohammed.seidler@example.com",
+    "username": "organicpeacock212",
+    "password": "willow",
+    "invokedAt": "2022-05-18T17:14:10.330Z"
   }
 ]
