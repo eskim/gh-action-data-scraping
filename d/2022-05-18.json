@@ -22,5 +22,13 @@
     "username": "purpledog863",
     "password": "pigeon",
     "invokedAt": "2022-05-18T04:16:26.041Z"
+  },
+  {
+    "firstName": "Deniz",
+    "lastName": "Koyuncu",
+    "email": "deniz.koyuncu@example.com",
+    "username": "yellowdog835",
+    "password": "radical",
+    "invokedAt": "2022-05-18T05:10:49.886Z"
   }
 ]
