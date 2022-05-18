@@ -118,5 +118,13 @@
     "username": "organicpeacock212",
     "password": "willow",
     "invokedAt": "2022-05-18T17:14:10.330Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Li",
+    "email": "daniel.li@example.com",
+    "username": "ticklishlion387",
+    "password": "parrot",
+    "invokedAt": "2022-05-18T17:58:58.039Z"
   }
 ]
