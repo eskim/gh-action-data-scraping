@@ -174,5 +174,13 @@
     "username": "bigzebra248",
     "password": "pool",
     "invokedAt": "2022-05-19T22:59:05.510Z"
+  },
+  {
+    "firstName": "Toledo",
+    "lastName": "Lima",
+    "email": "toledo.lima@example.com",
+    "username": "purplebutterfly306",
+    "password": "clippers",
+    "invokedAt": "2022-05-19T23:58:57.225Z"
   }
 ]
