@@ -126,5 +126,13 @@
     "username": "blackfish880",
     "password": "qwerty1",
     "invokedAt": "2022-05-19T17:35:31.863Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Lawson",
+    "email": "victor.lawson@example.com",
+    "username": "redpanda412",
+    "password": "pinball",
+    "invokedAt": "2022-05-19T18:14:56.870Z"
   }
 ]
