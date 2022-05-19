@@ -134,5 +134,13 @@
     "username": "redpanda412",
     "password": "pinball",
     "invokedAt": "2022-05-19T18:14:56.870Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Nielsen",
+    "email": "alexander.nielsen@example.com",
+    "username": "bigelephant432",
+    "password": "lionel",
+    "invokedAt": "2022-05-19T19:03:46.878Z"
   }
 ]
