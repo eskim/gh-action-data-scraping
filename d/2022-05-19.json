@@ -94,5 +94,13 @@
     "username": "goldencat608",
     "password": "kappa",
     "invokedAt": "2022-05-19T13:31:58.400Z"
+  },
+  {
+    "firstName": "Evêncio",
+    "lastName": "da Rosa",
+    "email": "evencio.darosa@example.com",
+    "username": "brownostrich931",
+    "password": "hotdog",
+    "invokedAt": "2022-05-19T14:01:43.419Z"
   }
 ]
