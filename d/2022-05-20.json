@@ -54,5 +54,13 @@
     "username": "greenrabbit309",
     "password": "milk",
     "invokedAt": "2022-05-20T07:59:07.314Z"
+  },
+  {
+    "firstName": "Edouard",
+    "lastName": "Deschamps",
+    "email": "edouard.deschamps@example.com",
+    "username": "crazybird487",
+    "password": "rotten",
+    "invokedAt": "2022-05-20T08:59:14.671Z"
   }
 ]
