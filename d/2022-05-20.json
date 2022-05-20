@@ -102,5 +102,13 @@
     "username": "blackelephant175",
     "password": "sf49ers",
     "invokedAt": "2022-05-20T13:59:24.255Z"
+  },
+  {
+    "firstName": "Aatu",
+    "lastName": "Niva",
+    "email": "aatu.niva@example.com",
+    "username": "whitetiger333",
+    "password": "altoids",
+    "invokedAt": "2022-05-20T14:58:54.229Z"
   }
 ]
