@@ -46,5 +46,13 @@
     "username": "angrybear839",
     "password": "train",
     "invokedAt": "2022-05-20T06:59:44.474Z"
+  },
+  {
+    "firstName": "Mitchell",
+    "lastName": "Pierce",
+    "email": "mitchell.pierce@example.com",
+    "username": "greenrabbit309",
+    "password": "milk",
+    "invokedAt": "2022-05-20T07:59:07.314Z"
   }
 ]
