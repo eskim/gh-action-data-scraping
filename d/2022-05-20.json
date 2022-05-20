@@ -110,5 +110,13 @@
     "username": "whitetiger333",
     "password": "altoids",
     "invokedAt": "2022-05-20T14:58:54.229Z"
+  },
+  {
+    "firstName": "Ariëtte",
+    "lastName": "Sijm",
+    "email": "ariette.sijm@example.com",
+    "username": "crazydog815",
+    "password": "zhan",
+    "invokedAt": "2022-05-20T15:58:59.674Z"
   }
 ]
