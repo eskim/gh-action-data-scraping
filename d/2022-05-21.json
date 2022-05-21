@@ -102,5 +102,13 @@
     "username": "organiczebra899",
     "password": "whale",
     "invokedAt": "2022-05-21T13:58:54.065Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Christiansen",
+    "email": "sebastian.christiansen@example.com",
+    "username": "orangezebra872",
+    "password": "central",
+    "invokedAt": "2022-05-21T14:58:55.492Z"
   }
 ]
