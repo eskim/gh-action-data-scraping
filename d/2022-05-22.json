@@ -102,5 +102,13 @@
     "username": "ticklishbird231",
     "password": "cabernet",
     "invokedAt": "2022-05-22T13:58:50.410Z"
+  },
+  {
+    "firstName": "Otelo",
+    "lastName": "Lima",
+    "email": "otelo.lima@example.com",
+    "username": "beautifulmeercat882",
+    "password": "goku",
+    "invokedAt": "2022-05-22T14:58:58.229Z"
   }
 ]
