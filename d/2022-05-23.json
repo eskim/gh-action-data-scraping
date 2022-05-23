@@ -174,5 +174,13 @@
     "username": "yellowsnake920",
     "password": "painting",
     "invokedAt": "2022-05-23T22:58:51.737Z"
+  },
+  {
+    "firstName": "Caitlin",
+    "lastName": "Williams",
+    "email": "caitlin.williams@example.com",
+    "username": "bigrabbit439",
+    "password": "michigan",
+    "invokedAt": "2022-05-23T23:58:52.752Z"
   }
 ]
