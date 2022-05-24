@@ -110,5 +110,13 @@
     "username": "silverelephant532",
     "password": "ingrid",
     "invokedAt": "2022-05-24T14:58:58.553Z"
+  },
+  {
+    "firstName": "Nieves",
+    "lastName": "Peña",
+    "email": "nieves.pena@example.com",
+    "username": "redleopard241",
+    "password": "hockey1",
+    "invokedAt": "2022-05-24T15:58:53.608Z"
   }
 ]
