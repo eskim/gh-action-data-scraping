@@ -6,5 +6,13 @@
     "username": "sadpeacock967",
     "password": "airplane",
     "invokedAt": "2022-05-24T02:52:09.312Z"
+  },
+  {
+    "firstName": "Alma",
+    "lastName": "Mortensen",
+    "email": "alma.mortensen@example.com",
+    "username": "crazyswan149",
+    "password": "suicide",
+    "invokedAt": "2022-05-24T03:44:44.489Z"
   }
 ]
