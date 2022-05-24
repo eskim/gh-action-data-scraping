@@ -102,5 +102,13 @@
     "username": "blackdog656",
     "password": "dupont",
     "invokedAt": "2022-05-24T14:01:29.719Z"
+  },
+  {
+    "firstName": "Jakob",
+    "lastName": "Warren",
+    "email": "jakob.warren@example.com",
+    "username": "silverelephant532",
+    "password": "ingrid",
+    "invokedAt": "2022-05-24T14:58:58.553Z"
   }
 ]
