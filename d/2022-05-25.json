@@ -78,5 +78,13 @@
     "username": "happykoala142",
     "password": "manga",
     "invokedAt": "2022-05-25T10:58:52.242Z"
+  },
+  {
+    "firstName": "Inès",
+    "lastName": "Aubert",
+    "email": "ines.aubert@example.com",
+    "username": "beautifulfrog630",
+    "password": "poopie",
+    "invokedAt": "2022-05-25T11:59:08.722Z"
   }
 ]
