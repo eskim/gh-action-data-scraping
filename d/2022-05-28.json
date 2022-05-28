@@ -102,5 +102,13 @@
     "username": "purpleduck392",
     "password": "marker",
     "invokedAt": "2022-05-28T13:58:56.305Z"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Ward",
+    "email": "isaac.ward@example.com",
+    "username": "heavybutterfly585",
+    "password": "bluefish",
+    "invokedAt": "2022-05-28T14:58:53.075Z"
   }
 ]
