@@ -46,5 +46,13 @@
     "username": "heavyelephant179",
     "password": "tupac",
     "invokedAt": "2022-05-28T06:58:56.887Z"
+  },
+  {
+    "firstName": "Ladina",
+    "lastName": "Chevalier",
+    "email": "ladina.chevalier@example.com",
+    "username": "happybutterfly524",
+    "password": "reckless",
+    "invokedAt": "2022-05-28T07:59:14.977Z"
   }
 ]
