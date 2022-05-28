@@ -94,5 +94,13 @@
     "username": "purpletiger647",
     "password": "bootys",
     "invokedAt": "2022-05-28T13:17:05.671Z"
+  },
+  {
+    "firstName": "Juliano",
+    "lastName": "Witkamp",
+    "email": "juliano.witkamp@example.com",
+    "username": "purpleduck392",
+    "password": "marker",
+    "invokedAt": "2022-05-28T13:58:56.305Z"
   }
 ]
