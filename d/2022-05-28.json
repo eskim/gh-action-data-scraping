@@ -14,5 +14,13 @@
     "username": "brownwolf945",
     "password": "unreal",
     "invokedAt": "2022-05-28T03:34:32.670Z"
+  },
+  {
+    "firstName": "Karla",
+    "lastName": "Poulsen",
+    "email": "karla.poulsen@example.com",
+    "username": "goldenkoala804",
+    "password": "augusta",
+    "invokedAt": "2022-05-28T04:04:19.213Z"
   }
 ]
