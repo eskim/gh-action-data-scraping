@@ -166,5 +166,13 @@
     "username": "crazyfrog423",
     "password": "zxcv",
     "invokedAt": "2022-05-29T22:58:56.405Z"
+  },
+  {
+    "firstName": "Aubin",
+    "lastName": "Meunier",
+    "email": "aubin.meunier@example.com",
+    "username": "blackfrog365",
+    "password": "drive",
+    "invokedAt": "2022-05-29T23:58:48.170Z"
   }
 ]
