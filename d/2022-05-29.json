@@ -22,5 +22,13 @@
     "username": "crazywolf703",
     "password": "freedom",
     "invokedAt": "2022-05-29T05:09:51.545Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Liu",
+    "email": "ethan.liu@example.com",
+    "username": "crazybutterfly538",
+    "password": "888888",
+    "invokedAt": "2022-05-29T05:58:55.787Z"
   }
 ]
