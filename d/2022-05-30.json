@@ -54,5 +54,13 @@
     "username": "bigmeercat136",
     "password": "gagged",
     "invokedAt": "2022-05-30T08:59:02.493Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Philippe",
+    "email": "eva.philippe@example.com",
+    "username": "tinyzebra695",
+    "password": "finish",
+    "invokedAt": "2022-05-30T09:58:59.638Z"
   }
 ]
