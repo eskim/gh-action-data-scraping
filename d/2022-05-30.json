@@ -94,5 +94,13 @@
     "username": "lazyduck820",
     "password": "asdfghj",
     "invokedAt": "2022-05-30T14:04:40.348Z"
+  },
+  {
+    "firstName": "Stèphanie",
+    "lastName": "Ter Maat",
+    "email": "stephanie.termaat@example.com",
+    "username": "crazyduck442",
+    "password": "creative",
+    "invokedAt": "2022-05-30T14:58:57.344Z"
   }
 ]
