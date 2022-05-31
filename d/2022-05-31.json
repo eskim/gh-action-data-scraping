@@ -54,5 +54,13 @@
     "username": "lazypanda501",
     "password": "pinball",
     "invokedAt": "2022-05-31T07:58:52.889Z"
+  },
+  {
+    "firstName": "Hildegardo",
+    "lastName": "Pinto",
+    "email": "hildegardo.pinto@example.com",
+    "username": "yellowbutterfly767",
+    "password": "boxing",
+    "invokedAt": "2022-05-31T08:59:10.275Z"
   }
 ]
