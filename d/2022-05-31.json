@@ -46,5 +46,13 @@
     "username": "lazygoose523",
     "password": "reflex",
     "invokedAt": "2022-05-31T06:59:23.190Z"
+  },
+  {
+    "firstName": "Emre",
+    "lastName": "Egeli",
+    "email": "emre.egeli@example.com",
+    "username": "lazypanda501",
+    "password": "pinball",
+    "invokedAt": "2022-05-31T07:58:52.889Z"
   }
 ]
