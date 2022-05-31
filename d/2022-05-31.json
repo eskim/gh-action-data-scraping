@@ -38,5 +38,13 @@
     "username": "beautifulmeercat515",
     "password": "vincent",
     "invokedAt": "2022-05-31T05:58:56.982Z"
+  },
+  {
+    "firstName": "Gabrielle",
+    "lastName": "Bergeron",
+    "email": "gabrielle.bergeron@example.com",
+    "username": "lazygoose523",
+    "password": "reflex",
+    "invokedAt": "2022-05-31T06:59:23.190Z"
   }
 ]
