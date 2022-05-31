@@ -166,5 +166,13 @@
     "username": "beautifulpanda620",
     "password": "beezer",
     "invokedAt": "2022-05-31T21:58:58.264Z"
+  },
+  {
+    "firstName": "Lino",
+    "lastName": "Leroy",
+    "email": "lino.leroy@example.com",
+    "username": "whiterabbit129",
+    "password": "profit",
+    "invokedAt": "2022-05-31T22:58:45.094Z"
   }
 ]
