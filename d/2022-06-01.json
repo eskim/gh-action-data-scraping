@@ -78,5 +78,13 @@
     "username": "yellowbutterfly649",
     "password": "septembe",
     "invokedAt": "2022-06-01T13:37:07.912Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Manni",
+    "email": "sara.manni@example.com",
+    "username": "greengorilla841",
+    "password": "bounty",
+    "invokedAt": "2022-06-01T14:24:17.885Z"
   }
 ]
