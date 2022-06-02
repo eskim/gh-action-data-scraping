@@ -86,5 +86,13 @@
     "username": "smallbear171",
     "password": "rocket",
     "invokedAt": "2022-06-02T14:11:01.580Z"
+  },
+  {
+    "firstName": "الینا",
+    "lastName": "نجاتی",
+    "email": "lyn.njty@example.com",
+    "username": "brownsnake393",
+    "password": "jeeper",
+    "invokedAt": "2022-06-02T14:59:08.765Z"
   }
 ]
