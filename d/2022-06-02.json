@@ -38,5 +38,13 @@
     "username": "smallsnake231",
     "password": "friend",
     "invokedAt": "2022-06-02T07:59:20.482Z"
+  },
+  {
+    "firstName": "Cassandre",
+    "lastName": "Blanc",
+    "email": "cassandre.blanc@example.com",
+    "username": "silverleopard815",
+    "password": "bounce",
+    "invokedAt": "2022-06-02T08:58:52.844Z"
   }
 ]
