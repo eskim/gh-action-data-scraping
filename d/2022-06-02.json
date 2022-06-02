@@ -158,5 +158,13 @@
     "username": "tinykoala484",
     "password": "goldfing",
     "invokedAt": "2022-06-02T22:59:07.084Z"
+  },
+  {
+    "firstName": "Erdal",
+    "lastName": "Gerhards",
+    "email": "erdal.gerhards@example.com",
+    "username": "tinybear674",
+    "password": "leeann",
+    "invokedAt": "2022-06-02T23:59:03.314Z"
   }
 ]
