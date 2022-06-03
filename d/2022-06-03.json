@@ -118,5 +118,13 @@
     "username": "bluepeacock503",
     "password": "whiskey",
     "invokedAt": "2022-06-03T15:58:53.759Z"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Karadaş",
+    "email": "ali.karadas@example.com",
+    "username": "lazyostrich344",
+    "password": "celtic",
+    "invokedAt": "2022-06-03T17:07:56.938Z"
   }
 ]
