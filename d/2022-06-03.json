@@ -38,5 +38,13 @@
     "username": "orangewolf674",
     "password": "zigzag",
     "invokedAt": "2022-06-03T05:59:02.141Z"
+  },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Lucas",
+    "email": "ahmet.lucas@example.com",
+    "username": "yellowbird275",
+    "password": "lucky",
+    "invokedAt": "2022-06-03T06:58:46.613Z"
   }
 ]
