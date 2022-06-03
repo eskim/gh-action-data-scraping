@@ -22,5 +22,13 @@
     "username": "smallcat616",
     "password": "putter",
     "invokedAt": "2022-06-03T04:01:03.859Z"
+  },
+  {
+    "firstName": "Ismael",
+    "lastName": "Garrido",
+    "email": "ismael.garrido@example.com",
+    "username": "purplebird346",
+    "password": "sonic",
+    "invokedAt": "2022-06-03T04:59:07.837Z"
   }
 ]
