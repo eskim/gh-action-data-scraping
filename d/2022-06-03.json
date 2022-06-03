@@ -134,5 +134,13 @@
     "username": "silverduck974",
     "password": "site",
     "invokedAt": "2022-06-03T17:59:02.893Z"
+  },
+  {
+    "firstName": "Olava",
+    "lastName": "Moss",
+    "email": "olava.moss@example.com",
+    "username": "beautifulmouse628",
+    "password": "joebob",
+    "invokedAt": "2022-06-03T18:58:53.583Z"
   }
 ]
