@@ -94,5 +94,13 @@
     "username": "tinytiger635",
     "password": "1030",
     "invokedAt": "2022-06-05T13:58:57.496Z"
+  },
+  {
+    "firstName": "Lohan",
+    "lastName": "Dupont",
+    "email": "lohan.dupont@example.com",
+    "username": "bluezebra849",
+    "password": "pointer",
+    "invokedAt": "2022-06-05T14:59:00.318Z"
   }
 ]
