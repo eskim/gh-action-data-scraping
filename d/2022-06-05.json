@@ -86,5 +86,13 @@
     "username": "happypeacock491",
     "password": "houses",
     "invokedAt": "2022-06-05T13:12:39.685Z"
+  },
+  {
+    "firstName": "Mattijn",
+    "lastName": "Garcia",
+    "email": "mattijn.garcia@example.com",
+    "username": "tinytiger635",
+    "password": "1030",
+    "invokedAt": "2022-06-05T13:58:57.496Z"
   }
 ]
