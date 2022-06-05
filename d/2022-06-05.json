@@ -126,5 +126,13 @@
     "username": "crazysnake407",
     "password": "training",
     "invokedAt": "2022-06-05T17:59:01.328Z"
+  },
+  {
+    "firstName": "محمد",
+    "lastName": "قاسمی",
+    "email": "mhmd.qsmy@example.com",
+    "username": "whitebutterfly633",
+    "password": "mustangs",
+    "invokedAt": "2022-06-05T18:58:59.144Z"
   }
 ]
