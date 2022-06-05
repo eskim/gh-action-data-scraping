@@ -158,5 +158,13 @@
     "username": "greensnake501",
     "password": "yankees",
     "invokedAt": "2022-06-05T21:58:50.831Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Robinson",
+    "email": "john.robinson@example.com",
+    "username": "blackduck486",
+    "password": "whocares",
+    "invokedAt": "2022-06-05T22:58:53.502Z"
   }
 ]
