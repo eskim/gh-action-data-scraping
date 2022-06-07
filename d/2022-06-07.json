@@ -174,5 +174,13 @@
     "username": "beautifulwolf809",
     "password": "furball",
     "invokedAt": "2022-06-07T22:58:50.762Z"
+  },
+  {
+    "firstName": "Olga",
+    "lastName": "Berens",
+    "email": "olga.berens@example.com",
+    "username": "yellowbutterfly611",
+    "password": "chopper",
+    "invokedAt": "2022-06-07T23:58:52.796Z"
   }
 ]
