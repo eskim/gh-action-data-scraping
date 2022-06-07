@@ -94,5 +94,13 @@
     "username": "yellowsnake190",
     "password": "jones1",
     "invokedAt": "2022-06-07T13:24:45.758Z"
+  },
+  {
+    "firstName": "باران",
+    "lastName": "موسوی",
+    "email": "brn.mwswy@example.com",
+    "username": "yellowbird410",
+    "password": "bowl",
+    "invokedAt": "2022-06-07T13:58:51.172Z"
   }
 ]
