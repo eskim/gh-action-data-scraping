@@ -110,5 +110,13 @@
     "username": "redgorilla869",
     "password": "knockers",
     "invokedAt": "2022-06-07T15:00:21.021Z"
+  },
+  {
+    "firstName": "Vildan",
+    "lastName": "Tahincioğlu",
+    "email": "vildan.tahincioglu@example.com",
+    "username": "orangebutterfly860",
+    "password": "accord",
+    "invokedAt": "2022-06-07T15:58:59.008Z"
   }
 ]
