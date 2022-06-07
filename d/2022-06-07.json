@@ -166,5 +166,13 @@
     "username": "organicwolf310",
     "password": "scooby",
     "invokedAt": "2022-06-07T21:58:54.897Z"
+  },
+  {
+    "firstName": "Fatma",
+    "lastName": "Gönültaş",
+    "email": "fatma.gonultas@example.com",
+    "username": "beautifulwolf809",
+    "password": "furball",
+    "invokedAt": "2022-06-07T22:58:50.762Z"
   }
 ]
