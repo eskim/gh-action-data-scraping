@@ -46,5 +46,13 @@
     "username": "bigfrog214",
     "password": "lexmark",
     "invokedAt": "2022-06-07T06:59:07.193Z"
+  },
+  {
+    "firstName": "Alfredo",
+    "lastName": "Stewart",
+    "email": "alfredo.stewart@example.com",
+    "username": "redduck563",
+    "password": "sarah",
+    "invokedAt": "2022-06-07T08:03:47.134Z"
   }
 ]
