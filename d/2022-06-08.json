@@ -118,5 +118,13 @@
     "username": "goldenpanda672",
     "password": "midnite",
     "invokedAt": "2022-06-08T15:58:57.582Z"
+  },
+  {
+    "firstName": "Noëlle",
+    "lastName": "Barbier",
+    "email": "noelle.barbier@example.com",
+    "username": "yellowbutterfly645",
+    "password": "buffy1",
+    "invokedAt": "2022-06-08T17:07:19.128Z"
   }
 ]
