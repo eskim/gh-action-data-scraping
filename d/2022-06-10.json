@@ -102,5 +102,13 @@
     "username": "greenzebra232",
     "password": "lightning",
     "invokedAt": "2022-06-10T13:58:59.975Z"
+  },
+  {
+    "firstName": "Jens",
+    "lastName": "Faure",
+    "email": "jens.faure@example.com",
+    "username": "beautifulrabbit550",
+    "password": "zhai",
+    "invokedAt": "2022-06-10T14:59:11.266Z"
   }
 ]
