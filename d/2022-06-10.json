@@ -94,5 +94,13 @@
     "username": "redfrog424",
     "password": "1983",
     "invokedAt": "2022-06-10T13:24:43.138Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Reed",
+    "email": "alfred.reed@example.com",
+    "username": "greenzebra232",
+    "password": "lightning",
+    "invokedAt": "2022-06-10T13:58:59.975Z"
   }
 ]
