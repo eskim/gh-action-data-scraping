@@ -118,5 +118,13 @@
     "username": "orangepeacock524",
     "password": "edge",
     "invokedAt": "2022-06-10T15:59:10.412Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Meunier",
+    "email": "tom.meunier@example.com",
+    "username": "yellowsnake848",
+    "password": "depeche",
+    "invokedAt": "2022-06-10T17:09:20.154Z"
   }
 ]
