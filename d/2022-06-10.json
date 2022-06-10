@@ -126,5 +126,13 @@
     "username": "yellowsnake848",
     "password": "depeche",
     "invokedAt": "2022-06-10T17:09:20.154Z"
+  },
+  {
+    "firstName": "Lindoro",
+    "lastName": "Monteiro",
+    "email": "lindoro.monteiro@example.com",
+    "username": "biggoose352",
+    "password": "stocks",
+    "invokedAt": "2022-06-10T18:05:18.037Z"
   }
 ]
