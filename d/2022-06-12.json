@@ -70,5 +70,13 @@
     "username": "bigduck863",
     "password": "daylight",
     "invokedAt": "2022-06-12T09:58:53.324Z"
+  },
+  {
+    "firstName": "Benício",
+    "lastName": "Pinto",
+    "email": "benicio.pinto@example.com",
+    "username": "lazysnake603",
+    "password": "jeter2",
+    "invokedAt": "2022-06-12T10:59:07.787Z"
   }
 ]
