@@ -86,5 +86,13 @@
     "username": "silverelephant846",
     "password": "superb",
     "invokedAt": "2022-06-12T11:59:09.706Z"
+  },
+  {
+    "firstName": "Celia",
+    "lastName": "Aurdal",
+    "email": "celia.aurdal@example.com",
+    "username": "ticklishbear823",
+    "password": "changeme",
+    "invokedAt": "2022-06-12T13:12:42.058Z"
   }
 ]
