@@ -142,5 +142,13 @@
     "username": "angryladybug202",
     "password": "kong",
     "invokedAt": "2022-06-12T18:58:48.453Z"
+  },
+  {
+    "firstName": "ملینا",
+    "lastName": "رضایی",
+    "email": "mlyn.rdyy@example.com",
+    "username": "happywolf309",
+    "password": "brad",
+    "invokedAt": "2022-06-12T19:58:55.908Z"
   }
 ]
