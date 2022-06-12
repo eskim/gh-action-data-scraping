@@ -166,5 +166,13 @@
     "username": "whitezebra709",
     "password": "workout",
     "invokedAt": "2022-06-12T21:58:56.307Z"
+  },
+  {
+    "firstName": "Dorico",
+    "lastName": "Caldeira",
+    "email": "dorico.caldeira@example.com",
+    "username": "smallgorilla864",
+    "password": "2233",
+    "invokedAt": "2022-06-12T22:58:47.788Z"
   }
 ]
