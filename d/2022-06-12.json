@@ -158,5 +158,13 @@
     "username": "whiteostrich975",
     "password": "attitude",
     "invokedAt": "2022-06-12T20:58:59.345Z"
+  },
+  {
+    "firstName": "Silje",
+    "lastName": "Poulsen",
+    "email": "silje.poulsen@example.com",
+    "username": "whitezebra709",
+    "password": "workout",
+    "invokedAt": "2022-06-12T21:58:56.307Z"
   }
 ]
