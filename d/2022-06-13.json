@@ -174,5 +174,13 @@
     "username": "whitekoala137",
     "password": "blues",
     "invokedAt": "2022-06-13T22:58:59.963Z"
+  },
+  {
+    "firstName": "Kadir",
+    "lastName": "Tüzün",
+    "email": "kadir.tuzun@example.com",
+    "username": "redpanda660",
+    "password": "picard",
+    "invokedAt": "2022-06-13T23:58:59.576Z"
   }
 ]
