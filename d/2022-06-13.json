@@ -134,5 +134,13 @@
     "username": "goldenpeacock424",
     "password": "whatsup",
     "invokedAt": "2022-06-13T17:58:56.333Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Jørgensen",
+    "email": "emma.jorgensen@example.com",
+    "username": "bluegorilla684",
+    "password": "aaaaaaa",
+    "invokedAt": "2022-06-13T18:58:47.679Z"
   }
 ]
