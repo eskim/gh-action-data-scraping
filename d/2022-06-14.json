@@ -102,5 +102,13 @@
     "username": "yellowbird787",
     "password": "zxcvbnm",
     "invokedAt": "2022-06-14T14:59:14.412Z"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Miller",
+    "email": "justin.miller@example.com",
+    "username": "orangeelephant597",
+    "password": "biit",
+    "invokedAt": "2022-06-14T15:58:57.158Z"
   }
 ]
