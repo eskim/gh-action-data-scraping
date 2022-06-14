@@ -86,5 +86,13 @@
     "username": "bluerabbit858",
     "password": "seminole",
     "invokedAt": "2022-06-14T13:21:17.095Z"
+  },
+  {
+    "firstName": "Coşkun",
+    "lastName": "Çağıran",
+    "email": "coskun.cagiran@example.com",
+    "username": "sadmeercat255",
+    "password": "thunder",
+    "invokedAt": "2022-06-14T13:58:59.480Z"
   }
 ]
