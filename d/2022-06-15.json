@@ -166,5 +166,13 @@
     "username": "blackdog555",
     "password": "idefix",
     "invokedAt": "2022-06-15T22:59:02.134Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Cavalcanti",
+    "email": "andres.cavalcanti@example.com",
+    "username": "brownleopard402",
+    "password": "cat123",
+    "invokedAt": "2022-06-15T23:58:57.730Z"
   }
 ]
