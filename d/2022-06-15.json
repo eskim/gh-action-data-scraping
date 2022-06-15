@@ -14,5 +14,13 @@
     "username": "greenduck119",
     "password": "riddle",
     "invokedAt": "2022-06-15T04:20:52.042Z"
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Wang",
+    "email": "hugo.wang@example.com",
+    "username": "organicwolf694",
+    "password": "spooge",
+    "invokedAt": "2022-06-15T05:09:44.785Z"
   }
 ]
