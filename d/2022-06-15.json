@@ -118,5 +118,13 @@
     "username": "purpleelephant639",
     "password": "market",
     "invokedAt": "2022-06-15T17:07:22.345Z"
+  },
+  {
+    "firstName": "Burim",
+    "lastName": "Lemaire",
+    "email": "burim.lemaire@example.com",
+    "username": "brownmeercat639",
+    "password": "gracie",
+    "invokedAt": "2022-06-15T17:58:48.218Z"
   }
 ]
