@@ -158,5 +158,13 @@
     "username": "orangeostrich194",
     "password": "buzzer",
     "invokedAt": "2022-06-15T21:58:59.578Z"
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Nguyen",
+    "email": "jean.nguyen@example.com",
+    "username": "blackdog555",
+    "password": "idefix",
+    "invokedAt": "2022-06-15T22:59:02.134Z"
   }
 ]
