@@ -54,5 +54,13 @@
     "username": "organiclion744",
     "password": "casey",
     "invokedAt": "2022-06-15T08:58:52.183Z"
+  },
+  {
+    "firstName": "Oğuzhan",
+    "lastName": "Yıldırım",
+    "email": "oguzhan.yildirim@example.com",
+    "username": "sadrabbit111",
+    "password": "thirty",
+    "invokedAt": "2022-06-15T09:59:04.788Z"
   }
 ]
