@@ -30,5 +30,13 @@
     "username": "purplegoose900",
     "password": "vanhalen",
     "invokedAt": "2022-06-16T05:08:36.321Z"
+  },
+  {
+    "firstName": "Beatriz",
+    "lastName": "Castillo",
+    "email": "beatriz.castillo@example.com",
+    "username": "silverpanda813",
+    "password": "transam",
+    "invokedAt": "2022-06-16T05:59:11.485Z"
   }
 ]
