@@ -102,5 +102,13 @@
     "username": "purpleduck812",
     "password": "spliff",
     "invokedAt": "2022-06-16T13:58:53.311Z"
+  },
+  {
+    "firstName": "Fortunato",
+    "lastName": "Pereira",
+    "email": "fortunato.pereira@example.com",
+    "username": "yellowzebra729",
+    "password": "tiao",
+    "invokedAt": "2022-06-16T14:59:13.608Z"
   }
 ]
