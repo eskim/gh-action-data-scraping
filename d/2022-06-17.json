@@ -166,5 +166,13 @@
     "username": "tinygorilla752",
     "password": "keyboard",
     "invokedAt": "2022-06-17T21:59:00.433Z"
+  },
+  {
+    "firstName": "Sølve",
+    "lastName": "Tafjord",
+    "email": "solve.tafjord@example.com",
+    "username": "goldengorilla513",
+    "password": "prosper",
+    "invokedAt": "2022-06-17T22:59:00.252Z"
   }
 ]
