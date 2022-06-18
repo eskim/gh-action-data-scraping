@@ -134,5 +134,13 @@
     "username": "happybear991",
     "password": "printing",
     "invokedAt": "2022-06-18T17:58:55.113Z"
+  },
+  {
+    "firstName": "Cassandra",
+    "lastName": "Fletcher",
+    "email": "cassandra.fletcher@example.com",
+    "username": "whitefish191",
+    "password": "cheetah",
+    "invokedAt": "2022-06-18T18:58:50.019Z"
   }
 ]
