@@ -174,5 +174,13 @@
     "username": "greenpanda191",
     "password": "robotics",
     "invokedAt": "2022-06-18T22:58:58.637Z"
+  },
+  {
+    "firstName": "Georgia",
+    "lastName": "Robinson",
+    "email": "georgia.robinson@example.com",
+    "username": "purplekoala558",
+    "password": "point",
+    "invokedAt": "2022-06-18T23:59:05.649Z"
   }
 ]
