@@ -126,5 +126,13 @@
     "username": "tinydog200",
     "password": "chipper",
     "invokedAt": "2022-06-18T17:01:58.847Z"
+  },
+  {
+    "firstName": "Arlo",
+    "lastName": "Hall",
+    "email": "arlo.hall@example.com",
+    "username": "happybear991",
+    "password": "printing",
+    "invokedAt": "2022-06-18T17:58:55.113Z"
   }
 ]
