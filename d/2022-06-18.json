@@ -166,5 +166,13 @@
     "username": "greenbird813",
     "password": "pierre",
     "invokedAt": "2022-06-18T21:59:10.459Z"
+  },
+  {
+    "firstName": "Armand",
+    "lastName": "Legrand",
+    "email": "armand.legrand@example.com",
+    "username": "greenpanda191",
+    "password": "robotics",
+    "invokedAt": "2022-06-18T22:58:58.637Z"
   }
 ]
