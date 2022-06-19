@@ -166,5 +166,13 @@
     "username": "silvergoose215",
     "password": "racers",
     "invokedAt": "2022-06-19T22:58:51.247Z"
+  },
+  {
+    "firstName": "Gerd",
+    "lastName": "Lindenberg",
+    "email": "gerd.lindenberg@example.com",
+    "username": "purplegoose652",
+    "password": "doggy1",
+    "invokedAt": "2022-06-19T23:59:00.075Z"
   }
 ]
