@@ -134,5 +134,13 @@
     "username": "beautifulostrich957",
     "password": "footjob",
     "invokedAt": "2022-06-19T18:58:58.527Z"
+  },
+  {
+    "firstName": "Mathilda",
+    "lastName": "Tverå",
+    "email": "mathilda.tvera@example.com",
+    "username": "orangetiger525",
+    "password": "1245",
+    "invokedAt": "2022-06-19T19:58:53.383Z"
   }
 ]
