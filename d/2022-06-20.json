@@ -78,5 +78,13 @@
     "username": "beautifuldog936",
     "password": "marcus",
     "invokedAt": "2022-06-20T11:02:19.148Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Koçyiğit",
+    "email": "gokhan.kocyigit@example.com",
+    "username": "redcat412",
+    "password": "rainbow",
+    "invokedAt": "2022-06-20T12:03:35.107Z"
   }
 ]
