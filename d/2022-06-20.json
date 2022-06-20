@@ -94,5 +94,13 @@
     "username": "goldenfrog743",
     "password": "armand",
     "invokedAt": "2022-06-20T13:27:08.051Z"
+  },
+  {
+    "firstName": "Yannis",
+    "lastName": "Van den Haak",
+    "email": "yannis.vandenhaak@example.com",
+    "username": "ticklishmouse282",
+    "password": "chuck",
+    "invokedAt": "2022-06-20T14:04:36.280Z"
   }
 ]
