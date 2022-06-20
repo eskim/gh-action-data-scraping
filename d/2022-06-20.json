@@ -142,5 +142,13 @@
     "username": "orangesnake531",
     "password": "smokin",
     "invokedAt": "2022-06-20T18:58:51.788Z"
+  },
+  {
+    "firstName": "یسنا",
+    "lastName": "مرادی",
+    "email": "ysn.mrdy@example.com",
+    "username": "bigdog230",
+    "password": "james",
+    "invokedAt": "2022-06-20T19:58:54.184Z"
   }
 ]
