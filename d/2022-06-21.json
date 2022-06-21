@@ -166,5 +166,13 @@
     "username": "organicbear707",
     "password": "trailer",
     "invokedAt": "2022-06-21T22:59:00.475Z"
+  },
+  {
+    "firstName": "Guillermo",
+    "lastName": "Diez",
+    "email": "guillermo.diez@example.com",
+    "username": "biggoose823",
+    "password": "dead",
+    "invokedAt": "2022-06-21T23:59:16.275Z"
   }
 ]
