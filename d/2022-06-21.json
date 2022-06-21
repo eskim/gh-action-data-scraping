@@ -110,5 +110,13 @@
     "username": "redkoala652",
     "password": "water",
     "invokedAt": "2022-06-21T15:59:06.872Z"
+  },
+  {
+    "firstName": "Eduardo",
+    "lastName": "Santiago",
+    "email": "eduardo.santiago@example.com",
+    "username": "organicleopard377",
+    "password": "spiderma",
+    "invokedAt": "2022-06-21T17:19:27.802Z"
   }
 ]
