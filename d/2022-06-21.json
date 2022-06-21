@@ -62,5 +62,13 @@
     "username": "beautifulgoose372",
     "password": "electric",
     "invokedAt": "2022-06-21T10:03:54.115Z"
+  },
+  {
+    "firstName": "Enni",
+    "lastName": "Heinonen",
+    "email": "enni.heinonen@example.com",
+    "username": "whitemouse935",
+    "password": "integra",
+    "invokedAt": "2022-06-21T11:02:20.664Z"
   }
 ]
