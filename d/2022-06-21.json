@@ -158,5 +158,13 @@
     "username": "whiteswan118",
     "password": "florida",
     "invokedAt": "2022-06-21T21:58:54.060Z"
+  },
+  {
+    "firstName": "Azra",
+    "lastName": "Garnier",
+    "email": "azra.garnier@example.com",
+    "username": "organicbear707",
+    "password": "trailer",
+    "invokedAt": "2022-06-21T22:59:00.475Z"
   }
 ]
