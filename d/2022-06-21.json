@@ -54,5 +54,13 @@
     "username": "smallmeercat141",
     "password": "samm",
     "invokedAt": "2022-06-21T09:12:04.593Z"
+  },
+  {
+    "firstName": "Lucien",
+    "lastName": "Roche",
+    "email": "lucien.roche@example.com",
+    "username": "beautifulgoose372",
+    "password": "electric",
+    "invokedAt": "2022-06-21T10:03:54.115Z"
   }
 ]
