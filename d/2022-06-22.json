@@ -134,5 +134,13 @@
     "username": "greendog320",
     "password": "tupac",
     "invokedAt": "2022-06-22T18:59:11.165Z"
+  },
+  {
+    "firstName": "Esma",
+    "lastName": "Sandalcı",
+    "email": "esma.sandalci@example.com",
+    "username": "silverbird984",
+    "password": "hogan",
+    "invokedAt": "2022-06-22T19:58:53.214Z"
   }
 ]
