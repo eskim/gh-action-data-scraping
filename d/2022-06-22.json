@@ -126,5 +126,13 @@
     "username": "crazybear456",
     "password": "rampage",
     "invokedAt": "2022-06-22T17:59:15.945Z"
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Wuollet",
+    "email": "ellen.wuollet@example.com",
+    "username": "greendog320",
+    "password": "tupac",
+    "invokedAt": "2022-06-22T18:59:11.165Z"
   }
 ]
