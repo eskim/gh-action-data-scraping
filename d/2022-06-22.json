@@ -118,5 +118,13 @@
     "username": "crazygorilla478",
     "password": "test1234",
     "invokedAt": "2022-06-22T17:15:22.812Z"
+  },
+  {
+    "firstName": "Niilo",
+    "lastName": "Couri",
+    "email": "niilo.couri@example.com",
+    "username": "crazybear456",
+    "password": "rampage",
+    "invokedAt": "2022-06-22T17:59:15.945Z"
   }
 ]
