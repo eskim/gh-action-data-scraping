@@ -94,5 +94,13 @@
     "username": "happybutterfly616",
     "password": "vivid",
     "invokedAt": "2022-06-23T14:00:08.826Z"
+  },
+  {
+    "firstName": "Lance",
+    "lastName": "Chapman",
+    "email": "lance.chapman@example.com",
+    "username": "silverladybug404",
+    "password": "again",
+    "invokedAt": "2022-06-23T14:58:58.336Z"
   }
 ]
