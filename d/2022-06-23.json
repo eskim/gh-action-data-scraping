@@ -38,5 +38,13 @@
     "username": "angrykoala669",
     "password": "meridian",
     "invokedAt": "2022-06-23T06:58:59.369Z"
+  },
+  {
+    "firstName": "Cristian",
+    "lastName": "Lopez",
+    "email": "cristian.lopez@example.com",
+    "username": "beautifulfrog657",
+    "password": "blueball",
+    "invokedAt": "2022-06-23T07:59:50.214Z"
   }
 ]
