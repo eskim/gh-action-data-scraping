@@ -86,5 +86,13 @@
     "username": "redladybug314",
     "password": "spanish",
     "invokedAt": "2022-06-24T13:28:34.350Z"
+  },
+  {
+    "firstName": "Camila",
+    "lastName": "Fletcher",
+    "email": "camila.fletcher@example.com",
+    "username": "ticklishkoala615",
+    "password": "cavalier",
+    "invokedAt": "2022-06-24T13:59:44.158Z"
   }
 ]
