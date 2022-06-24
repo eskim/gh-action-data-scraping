@@ -166,5 +166,13 @@
     "username": "yellowlion651",
     "password": "moonligh",
     "invokedAt": "2022-06-24T22:58:57.648Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Jørgensen",
+    "email": "storm.jorgensen@example.com",
+    "username": "organicmeercat272",
+    "password": "brutus",
+    "invokedAt": "2022-06-24T23:59:08.669Z"
   }
 ]
