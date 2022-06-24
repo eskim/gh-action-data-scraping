@@ -54,5 +54,13 @@
     "username": "heavyfrog189",
     "password": "tartar",
     "invokedAt": "2022-06-24T08:58:54.230Z"
+  },
+  {
+    "firstName": "Jayden",
+    "lastName": "Scott",
+    "email": "jayden.scott@example.com",
+    "username": "blackpanda320",
+    "password": "alibaba",
+    "invokedAt": "2022-06-24T09:58:52.594Z"
   }
 ]
