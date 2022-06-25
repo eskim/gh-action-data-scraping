@@ -118,5 +118,13 @@
     "username": "orangewolf406",
     "password": "venom",
     "invokedAt": "2022-06-25T17:03:23.508Z"
+  },
+  {
+    "firstName": "Ardian",
+    "lastName": "Hoefakker",
+    "email": "ardian.hoefakker@example.com",
+    "username": "tinybird194",
+    "password": "laurie",
+    "invokedAt": "2022-06-25T17:58:54.059Z"
   }
 ]
