@@ -86,5 +86,13 @@
     "username": "goldenostrich443",
     "password": "hooper",
     "invokedAt": "2022-06-25T13:13:58.668Z"
+  },
+  {
+    "firstName": "Billy",
+    "lastName": "Wilson",
+    "email": "billy.wilson@example.com",
+    "username": "happykoala282",
+    "password": "vector",
+    "invokedAt": "2022-06-25T13:58:50.813Z"
   }
 ]
