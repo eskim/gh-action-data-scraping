@@ -70,5 +70,13 @@
     "username": "goldendog954",
     "password": "longbow",
     "invokedAt": "2022-06-25T10:59:01.669Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Ramos",
+    "email": "christian.ramos@example.com",
+    "username": "sadlion543",
+    "password": "random",
+    "invokedAt": "2022-06-25T11:58:49.390Z"
   }
 ]
