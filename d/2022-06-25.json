@@ -94,5 +94,13 @@
     "username": "happykoala282",
     "password": "vector",
     "invokedAt": "2022-06-25T13:58:50.813Z"
+  },
+  {
+    "firstName": "Esat",
+    "lastName": "Kaplangı",
+    "email": "esat.kaplangi@example.com",
+    "username": "blackmeercat932",
+    "password": "scruffy",
+    "invokedAt": "2022-06-25T14:59:06.421Z"
   }
 ]
