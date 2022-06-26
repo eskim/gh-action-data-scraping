@@ -86,5 +86,13 @@
     "username": "goldenbird609",
     "password": "gizmodo1",
     "invokedAt": "2022-06-26T13:14:13.148Z"
+  },
+  {
+    "firstName": "Lonnie",
+    "lastName": "Wheeler",
+    "email": "lonnie.wheeler@example.com",
+    "username": "yellowbird939",
+    "password": "ludwig",
+    "invokedAt": "2022-06-26T13:58:52.428Z"
   }
 ]
