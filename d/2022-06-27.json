@@ -142,5 +142,13 @@
     "username": "purplepanda613",
     "password": "stardust",
     "invokedAt": "2022-06-27T19:59:21.561Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Taylor",
+    "email": "thomas.taylor@example.com",
+    "username": "lazytiger478",
+    "password": "deadspin",
+    "invokedAt": "2022-06-27T20:58:52.939Z"
   }
 ]
