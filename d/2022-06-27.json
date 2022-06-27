@@ -166,5 +166,13 @@
     "username": "redladybug884",
     "password": "suicide",
     "invokedAt": "2022-06-27T22:58:54.402Z"
+  },
+  {
+    "firstName": "Vassilios",
+    "lastName": "Gehring",
+    "email": "vassilios.gehring@example.com",
+    "username": "orangedog935",
+    "password": "more",
+    "invokedAt": "2022-06-27T23:58:59.304Z"
   }
 ]
