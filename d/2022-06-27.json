@@ -150,5 +150,13 @@
     "username": "lazytiger478",
     "password": "deadspin",
     "invokedAt": "2022-06-27T20:58:52.939Z"
+  },
+  {
+    "firstName": "Rene",
+    "lastName": "Bishop",
+    "email": "rene.bishop@example.com",
+    "username": "blacksnake758",
+    "password": "ford",
+    "invokedAt": "2022-06-27T21:58:54.684Z"
   }
 ]
