@@ -102,5 +102,13 @@
     "username": "orangebutterfly528",
     "password": "chinese",
     "invokedAt": "2022-06-28T14:59:19.283Z"
+  },
+  {
+    "firstName": "Kenzo",
+    "lastName": "Carpentier",
+    "email": "kenzo.carpentier@example.com",
+    "username": "orangekoala284",
+    "password": "italian",
+    "invokedAt": "2022-06-28T15:58:58.130Z"
   }
 ]
