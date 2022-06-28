@@ -86,5 +86,13 @@
     "username": "crazybutterfly543",
     "password": "aaron",
     "invokedAt": "2022-06-28T13:29:54.132Z"
+  },
+  {
+    "firstName": "Teun",
+    "lastName": "Van der Drift",
+    "email": "teun.vanderdrift@example.com",
+    "username": "orangelion862",
+    "password": "storys",
+    "invokedAt": "2022-06-28T14:00:37.900Z"
   }
 ]
