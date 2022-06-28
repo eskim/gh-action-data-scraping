@@ -94,5 +94,13 @@
     "username": "orangelion862",
     "password": "storys",
     "invokedAt": "2022-06-28T14:00:37.900Z"
+  },
+  {
+    "firstName": "Evelyn",
+    "lastName": "Johnson",
+    "email": "evelyn.johnson@example.com",
+    "username": "orangebutterfly528",
+    "password": "chinese",
+    "invokedAt": "2022-06-28T14:59:19.283Z"
   }
 ]
