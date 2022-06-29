@@ -38,5 +38,13 @@
     "username": "silverfish925",
     "password": "vader",
     "invokedAt": "2022-06-29T06:58:54.892Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Bryant",
+    "email": "oscar.bryant@example.com",
+    "username": "brownlion378",
+    "password": "lightnin",
+    "invokedAt": "2022-06-29T07:59:10.299Z"
   }
 ]
