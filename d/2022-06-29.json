@@ -62,5 +62,13 @@
     "username": "greenwolf817",
     "password": "harvard",
     "invokedAt": "2022-06-29T09:59:08.778Z"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Richards",
+    "email": "olivia.richards@example.com",
+    "username": "lazyladybug644",
+    "password": "cuervo",
+    "invokedAt": "2022-06-29T10:59:01.972Z"
   }
 ]
