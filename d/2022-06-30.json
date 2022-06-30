@@ -62,5 +62,13 @@
     "username": "bluesnake853",
     "password": "looker",
     "invokedAt": "2022-06-30T09:59:17.579Z"
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Stanley",
+    "email": "lisa.stanley@example.com",
+    "username": "happybear638",
+    "password": "123456a",
+    "invokedAt": "2022-06-30T10:58:58.559Z"
   }
 ]
