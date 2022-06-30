@@ -166,5 +166,13 @@
     "username": "tinygoose244",
     "password": "luna",
     "invokedAt": "2022-06-30T22:59:04.733Z"
+  },
+  {
+    "firstName": "Ebbe",
+    "lastName": "Teigen",
+    "email": "ebbe.teigen@example.com",
+    "username": "crazyswan193",
+    "password": "dungeon",
+    "invokedAt": "2022-06-30T23:59:39.148Z"
   }
 ]
