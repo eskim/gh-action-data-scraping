@@ -142,5 +142,13 @@
     "username": "angryfrog189",
     "password": "dungeon",
     "invokedAt": "2022-06-30T19:59:14.172Z"
+  },
+  {
+    "firstName": "Samantha",
+    "lastName": "Mitchell",
+    "email": "samantha.mitchell@example.com",
+    "username": "ticklishmeercat972",
+    "password": "4567",
+    "invokedAt": "2022-06-30T20:58:53.289Z"
   }
 ]
