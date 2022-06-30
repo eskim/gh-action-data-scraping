@@ -118,5 +118,13 @@
     "username": "goldenlion357",
     "password": "quest1",
     "invokedAt": "2022-06-30T17:14:35.520Z"
+  },
+  {
+    "firstName": "Consuelo",
+    "lastName": "Vega",
+    "email": "consuelo.vega@example.com",
+    "username": "crazyfrog313",
+    "password": "faith1",
+    "invokedAt": "2022-06-30T17:59:12.821Z"
   }
 ]
