@@ -22,5 +22,13 @@
     "username": "lazypanda707",
     "password": "pizzas",
     "invokedAt": "2022-07-01T05:24:40.299Z"
+  },
+  {
+    "firstName": "Live",
+    "lastName": "Lyngvær",
+    "email": "live.lyngvaer@example.com",
+    "username": "greenfish886",
+    "password": "dungeon",
+    "invokedAt": "2022-07-01T05:58:54.659Z"
   }
 ]
