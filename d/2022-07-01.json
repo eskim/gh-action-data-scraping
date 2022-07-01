@@ -46,5 +46,13 @@
     "username": "blueduck350",
     "password": "hotshot",
     "invokedAt": "2022-07-01T07:58:53.292Z"
+  },
+  {
+    "firstName": "Jay",
+    "lastName": "Cruz",
+    "email": "jay.cruz@example.com",
+    "username": "organiczebra568",
+    "password": "ceng",
+    "invokedAt": "2022-07-01T08:58:56.982Z"
   }
 ]
