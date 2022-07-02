@@ -166,5 +166,13 @@
     "username": "organicleopard981",
     "password": "zeppelin",
     "invokedAt": "2022-07-02T21:59:03.268Z"
+  },
+  {
+    "firstName": "Noame",
+    "lastName": "da Mota",
+    "email": "noame.damota@example.com",
+    "username": "lazybird785",
+    "password": "sherlock",
+    "invokedAt": "2022-07-02T22:59:07.217Z"
   }
 ]
