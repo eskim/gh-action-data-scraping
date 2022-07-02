@@ -46,5 +46,13 @@
     "username": "redfrog806",
     "password": "topgun",
     "invokedAt": "2022-07-02T06:58:50.018Z"
+  },
+  {
+    "firstName": "Debra",
+    "lastName": "Fleming",
+    "email": "debra.fleming@example.com",
+    "username": "bigfish674",
+    "password": "inter",
+    "invokedAt": "2022-07-02T07:58:48.328Z"
   }
 ]
