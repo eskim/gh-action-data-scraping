@@ -62,5 +62,13 @@
     "username": "beautifulduck543",
     "password": "romero",
     "invokedAt": "2022-07-02T08:58:52.830Z"
+  },
+  {
+    "firstName": "Necati",
+    "lastName": "Özdenak",
+    "email": "necati.ozdenak@example.com",
+    "username": "whitefish551",
+    "password": "colors",
+    "invokedAt": "2022-07-02T09:59:01.332Z"
   }
 ]
