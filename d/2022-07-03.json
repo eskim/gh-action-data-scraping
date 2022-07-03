@@ -166,5 +166,13 @@
     "username": "yellowgorilla510",
     "password": "crave",
     "invokedAt": "2022-07-03T22:58:54.689Z"
+  },
+  {
+    "firstName": "Ronnie",
+    "lastName": "Banks",
+    "email": "ronnie.banks@example.com",
+    "username": "silverdog619",
+    "password": "players",
+    "invokedAt": "2022-07-03T23:58:59.446Z"
   }
 ]
