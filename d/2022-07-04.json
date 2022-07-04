@@ -54,5 +54,13 @@
     "username": "tinyostrich607",
     "password": "route66",
     "invokedAt": "2022-07-04T08:58:53.045Z"
+  },
+  {
+    "firstName": "Kent",
+    "lastName": "Porter",
+    "email": "kent.porter@example.com",
+    "username": "crazydog188",
+    "password": "trixie",
+    "invokedAt": "2022-07-04T09:58:55.465Z"
   }
 ]
