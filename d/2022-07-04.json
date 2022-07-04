@@ -102,5 +102,13 @@
     "username": "brownbear873",
     "password": "texas",
     "invokedAt": "2022-07-04T14:58:53.386Z"
+  },
+  {
+    "firstName": "ماهان",
+    "lastName": "پارسا",
+    "email": "mhn.prs@example.com",
+    "username": "redduck306",
+    "password": "krusty",
+    "invokedAt": "2022-07-04T15:58:57.392Z"
   }
 ]
