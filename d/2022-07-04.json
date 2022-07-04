@@ -94,5 +94,13 @@
     "username": "whiteleopard486",
     "password": "paintbal",
     "invokedAt": "2022-07-04T14:05:02.627Z"
+  },
+  {
+    "firstName": "Jelly",
+    "lastName": "Banga",
+    "email": "jelly.banga@example.com",
+    "username": "brownbear873",
+    "password": "texas",
+    "invokedAt": "2022-07-04T14:58:53.386Z"
   }
 ]
