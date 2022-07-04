@@ -70,5 +70,13 @@
     "username": "angrykoala462",
     "password": "downer",
     "invokedAt": "2022-07-04T10:58:58.678Z"
+  },
+  {
+    "firstName": "Oona",
+    "lastName": "Huotari",
+    "email": "oona.huotari@example.com",
+    "username": "bigmeercat229",
+    "password": "mustang2",
+    "invokedAt": "2022-07-04T11:58:55.334Z"
   }
 ]
