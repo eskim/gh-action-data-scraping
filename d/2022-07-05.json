@@ -38,5 +38,13 @@
     "username": "whitetiger331",
     "password": "cancun",
     "invokedAt": "2022-07-05T06:58:52.516Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Brown",
+    "email": "alice.brown@example.com",
+    "username": "whiteladybug958",
+    "password": "bruiser",
+    "invokedAt": "2022-07-05T07:59:09.365Z"
   }
 ]
