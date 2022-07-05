@@ -158,5 +158,13 @@
     "username": "lazylion899",
     "password": "hookup",
     "invokedAt": "2022-07-05T21:58:55.225Z"
+  },
+  {
+    "firstName": "Ronald",
+    "lastName": "Sanchez",
+    "email": "ronald.sanchez@example.com",
+    "username": "blackbear336",
+    "password": "roberto",
+    "invokedAt": "2022-07-05T22:58:50.727Z"
   }
 ]
