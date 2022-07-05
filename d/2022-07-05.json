@@ -62,5 +62,13 @@
     "username": "organicwolf624",
     "password": "bean",
     "invokedAt": "2022-07-05T10:02:06.075Z"
+  },
+  {
+    "firstName": "Carina",
+    "lastName": "Sandvold",
+    "email": "carina.sandvold@example.com",
+    "username": "brownwolf387",
+    "password": "bubba123",
+    "invokedAt": "2022-07-05T10:58:54.686Z"
   }
 ]
