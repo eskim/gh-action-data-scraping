@@ -102,5 +102,13 @@
     "username": "sadduck486",
     "password": "quebec",
     "invokedAt": "2022-07-06T14:58:59.184Z"
+  },
+  {
+    "firstName": "Guildo",
+    "lastName": "Pinto",
+    "email": "guildo.pinto@example.com",
+    "username": "redladybug575",
+    "password": "army",
+    "invokedAt": "2022-07-06T15:58:56.182Z"
   }
 ]
