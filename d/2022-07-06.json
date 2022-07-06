@@ -54,5 +54,13 @@
     "username": "beautifulfish428",
     "password": "rico",
     "invokedAt": "2022-07-06T09:08:46.294Z"
+  },
+  {
+    "firstName": "Milka",
+    "lastName": "Orlić",
+    "email": "milka.orlic@example.com",
+    "username": "angrypanda693",
+    "password": "mentor",
+    "invokedAt": "2022-07-06T09:59:01.037Z"
   }
 ]
