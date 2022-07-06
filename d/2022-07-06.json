@@ -166,5 +166,13 @@
     "username": "goldenzebra420",
     "password": "jasmine1",
     "invokedAt": "2022-07-06T22:58:52.275Z"
+  },
+  {
+    "firstName": "Lucinda",
+    "lastName": "de Souza",
+    "email": "lucinda.desouza@example.com",
+    "username": "lazygorilla741",
+    "password": "craving",
+    "invokedAt": "2022-07-06T23:58:55.570Z"
   }
 ]
