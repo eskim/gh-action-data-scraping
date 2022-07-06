@@ -126,5 +126,13 @@
     "username": "sadgoose635",
     "password": "batman",
     "invokedAt": "2022-07-06T17:58:53.875Z"
+  },
+  {
+    "firstName": "Boris",
+    "lastName": "Hadžić",
+    "email": "boris.hadzic@example.com",
+    "username": "purplegoose582",
+    "password": "gambler",
+    "invokedAt": "2022-07-06T18:59:12.466Z"
   }
 ]
