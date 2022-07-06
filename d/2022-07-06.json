@@ -22,5 +22,13 @@
     "username": "crazyfrog975",
     "password": "boss",
     "invokedAt": "2022-07-06T05:17:01.974Z"
+  },
+  {
+    "firstName": "Viivi",
+    "lastName": "Jarvinen",
+    "email": "viivi.jarvinen@example.com",
+    "username": "lazybird300",
+    "password": "therock",
+    "invokedAt": "2022-07-06T05:58:52.348Z"
   }
 ]
