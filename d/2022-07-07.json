@@ -78,5 +78,13 @@
     "username": "organicmeercat491",
     "password": "zhuan",
     "invokedAt": "2022-07-07T11:58:58.326Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Vidal",
+    "email": "clara.vidal@example.com",
+    "username": "silverduck964",
+    "password": "spyder",
+    "invokedAt": "2022-07-07T13:29:16.125Z"
   }
 ]
