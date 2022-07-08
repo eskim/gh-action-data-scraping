@@ -134,5 +134,13 @@
     "username": "bigwolf606",
     "password": "fearless",
     "invokedAt": "2022-07-08T18:59:21.770Z"
+  },
+  {
+    "firstName": "Adorino",
+    "lastName": "da Costa",
+    "email": "adorino.dacosta@example.com",
+    "username": "smalllion489",
+    "password": "stealth",
+    "invokedAt": "2022-07-08T19:58:58.390Z"
   }
 ]
