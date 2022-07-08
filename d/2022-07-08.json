@@ -142,5 +142,13 @@
     "username": "smalllion489",
     "password": "stealth",
     "invokedAt": "2022-07-08T19:58:58.390Z"
+  },
+  {
+    "firstName": "Brooke",
+    "lastName": "Wood",
+    "email": "brooke.wood@example.com",
+    "username": "crazymouse980",
+    "password": "charlie1",
+    "invokedAt": "2022-07-08T20:58:59.380Z"
   }
 ]
