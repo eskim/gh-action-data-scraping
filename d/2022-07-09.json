@@ -102,5 +102,13 @@
     "username": "silversnake366",
     "password": "scrabble",
     "invokedAt": "2022-07-09T13:59:08.368Z"
+  },
+  {
+    "firstName": "Egídio",
+    "lastName": "Almeida",
+    "email": "egidio.almeida@example.com",
+    "username": "browntiger843",
+    "password": "quattro",
+    "invokedAt": "2022-07-09T14:59:00.617Z"
   }
 ]
