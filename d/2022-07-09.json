@@ -70,5 +70,13 @@
     "username": "purplefish479",
     "password": "qazwsx",
     "invokedAt": "2022-07-09T09:58:52.494Z"
+  },
+  {
+    "firstName": "حامد",
+    "lastName": "کامروا",
+    "email": "hmd.khmrw@example.com",
+    "username": "happydog630",
+    "password": "alice1",
+    "invokedAt": "2022-07-09T10:59:09.661Z"
   }
 ]
