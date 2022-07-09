@@ -38,5 +38,13 @@
     "username": "sadfrog788",
     "password": "walmart",
     "invokedAt": "2022-07-09T05:58:59.700Z"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Ouellet",
+    "email": "justin.ouellet@example.com",
+    "username": "ticklishgorilla358",
+    "password": "alex",
+    "invokedAt": "2022-07-09T06:58:51.285Z"
   }
 ]
