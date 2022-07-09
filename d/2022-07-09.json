@@ -22,5 +22,13 @@
     "username": "whitesnake111",
     "password": "delta1",
     "invokedAt": "2022-07-09T04:09:24.855Z"
+  },
+  {
+    "firstName": "Calvin",
+    "lastName": "Burns",
+    "email": "calvin.burns@example.com",
+    "username": "smallmouse649",
+    "password": "overlord",
+    "invokedAt": "2022-07-09T04:59:16.407Z"
   }
 ]
