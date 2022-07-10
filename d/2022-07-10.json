@@ -158,5 +158,13 @@
     "username": "yellowladybug831",
     "password": "herring",
     "invokedAt": "2022-07-10T21:59:05.461Z"
+  },
+  {
+    "firstName": "Lara",
+    "lastName": "Skarsvåg",
+    "email": "lara.skarsvag@example.com",
+    "username": "ticklishsnake512",
+    "password": "race",
+    "invokedAt": "2022-07-10T22:59:10.211Z"
   }
 ]
