@@ -126,5 +126,13 @@
     "username": "yellowbutterfly160",
     "password": "tristan",
     "invokedAt": "2022-07-10T17:58:59.894Z"
+  },
+  {
+    "firstName": "Mladen",
+    "lastName": "StanićStanković",
+    "email": "mladen.stanicstankovic@example.com",
+    "username": "brownmouse407",
+    "password": "trebor",
+    "invokedAt": "2022-07-10T18:58:45.725Z"
   }
 ]
