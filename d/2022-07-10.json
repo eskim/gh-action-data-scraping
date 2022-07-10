@@ -78,5 +78,13 @@
     "username": "greenpanda123",
     "password": "charlene",
     "invokedAt": "2022-07-10T11:59:06.106Z"
+  },
+  {
+    "firstName": "Maximilian",
+    "lastName": "Nordstrand",
+    "email": "maximilian.nordstrand@example.com",
+    "username": "silverelephant827",
+    "password": "nugget",
+    "invokedAt": "2022-07-10T13:14:50.563Z"
   }
 ]
