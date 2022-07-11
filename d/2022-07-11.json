@@ -54,5 +54,13 @@
     "username": "tinygorilla408",
     "password": "reserve",
     "invokedAt": "2022-07-11T08:59:06.597Z"
+  },
+  {
+    "firstName": "طاها",
+    "lastName": "زارعی",
+    "email": "th.zraay@example.com",
+    "username": "yellowdog233",
+    "password": "hotboy",
+    "invokedAt": "2022-07-11T09:59:03.068Z"
   }
 ]
