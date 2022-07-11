@@ -94,5 +94,13 @@
     "username": "purpleleopard883",
     "password": "252525",
     "invokedAt": "2022-07-11T14:16:48.741Z"
+  },
+  {
+    "firstName": "Gijsbertus",
+    "lastName": "Van den Boogaart",
+    "email": "gijsbertus.vandenboogaart@example.com",
+    "username": "blueelephant432",
+    "password": "conover",
+    "invokedAt": "2022-07-11T15:08:47.732Z"
   }
 ]
