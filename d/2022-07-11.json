@@ -150,5 +150,13 @@
     "username": "heavymouse963",
     "password": "coldplay",
     "invokedAt": "2022-07-11T20:58:48.152Z"
+  },
+  {
+    "firstName": "Adolfo",
+    "lastName": "Suarez",
+    "email": "adolfo.suarez@example.com",
+    "username": "whitecat657",
+    "password": "runaway",
+    "invokedAt": "2022-07-11T21:58:56.751Z"
   }
 ]
