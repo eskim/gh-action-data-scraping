@@ -134,5 +134,13 @@
     "username": "ticklishtiger324",
     "password": "motion",
     "invokedAt": "2022-07-12T18:59:01.380Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Hawkins",
+    "email": "laura.hawkins@example.com",
+    "username": "crazygorilla673",
+    "password": "webmaster",
+    "invokedAt": "2022-07-12T19:58:57.814Z"
   }
 ]
