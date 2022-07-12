@@ -78,5 +78,13 @@
     "username": "purpleleopard148",
     "password": "lakers",
     "invokedAt": "2022-07-12T11:58:59.031Z"
+  },
+  {
+    "firstName": "Obren",
+    "lastName": "Vujčić",
+    "email": "obren.vujcic@example.com",
+    "username": "purplewolf579",
+    "password": "samson",
+    "invokedAt": "2022-07-12T13:28:15.310Z"
   }
 ]
