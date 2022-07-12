@@ -118,5 +118,13 @@
     "username": "yellowladybug475",
     "password": "fallout",
     "invokedAt": "2022-07-12T17:10:41.509Z"
+  },
+  {
+    "firstName": "Berta",
+    "lastName": "Urbina",
+    "email": "berta.urbina@example.com",
+    "username": "smallleopard569",
+    "password": "ninja1",
+    "invokedAt": "2022-07-12T17:59:05.600Z"
   }
 ]
