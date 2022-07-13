@@ -142,5 +142,13 @@
     "username": "happyrabbit667",
     "password": "silvia",
     "invokedAt": "2022-07-13T19:59:01.732Z"
+  },
+  {
+    "firstName": "Carter",
+    "lastName": "Williams",
+    "email": "carter.williams@example.com",
+    "username": "smallbird439",
+    "password": "splinter",
+    "invokedAt": "2022-07-13T20:59:15.133Z"
   }
 ]
