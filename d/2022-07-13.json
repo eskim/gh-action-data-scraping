@@ -94,5 +94,13 @@
     "username": "silverkoala243",
     "password": "mountain",
     "invokedAt": "2022-07-13T14:07:56.582Z"
+  },
+  {
+    "firstName": "Josefina",
+    "lastName": "Marín",
+    "email": "josefina.marin@example.com",
+    "username": "blackcat349",
+    "password": "marma",
+    "invokedAt": "2022-07-13T15:04:01.482Z"
   }
 ]
