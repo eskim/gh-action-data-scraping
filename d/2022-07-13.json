@@ -150,5 +150,13 @@
     "username": "smallbird439",
     "password": "splinter",
     "invokedAt": "2022-07-13T20:59:15.133Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Robertson",
+    "email": "sebastian.robertson@example.com",
+    "username": "tinykoala386",
+    "password": "1066",
+    "invokedAt": "2022-07-13T21:58:50.264Z"
   }
 ]
