@@ -102,5 +102,13 @@
     "username": "blackbutterfly792",
     "password": "elmo",
     "invokedAt": "2022-07-14T14:03:56.270Z"
+  },
+  {
+    "firstName": "Divinéia",
+    "lastName": "Novaes",
+    "email": "divineia.novaes@example.com",
+    "username": "whitezebra375",
+    "password": "snowboard",
+    "invokedAt": "2022-07-14T15:02:18.733Z"
   }
 ]
