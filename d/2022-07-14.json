@@ -110,5 +110,13 @@
     "username": "whitezebra375",
     "password": "snowboard",
     "invokedAt": "2022-07-14T15:02:18.733Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Green",
+    "email": "alex.green@example.com",
+    "username": "browntiger532",
+    "password": "typhoon",
+    "invokedAt": "2022-07-14T15:59:08.706Z"
   }
 ]
