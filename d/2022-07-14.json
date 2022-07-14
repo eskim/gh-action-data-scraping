@@ -166,5 +166,13 @@
     "username": "redpeacock987",
     "password": "aaa111",
     "invokedAt": "2022-07-14T21:58:55.014Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Barnes",
+    "email": "maria.barnes@example.com",
+    "username": "redmeercat532",
+    "password": "zippo",
+    "invokedAt": "2022-07-14T22:58:59.524Z"
   }
 ]
