@@ -70,5 +70,13 @@
     "username": "heavytiger955",
     "password": "mountain",
     "invokedAt": "2022-07-14T09:59:12.681Z"
+  },
+  {
+    "firstName": "Sean",
+    "lastName": "Webb",
+    "email": "sean.webb@example.com",
+    "username": "greenmeercat507",
+    "password": "airforce",
+    "invokedAt": "2022-07-14T10:59:00.272Z"
   }
 ]
