@@ -126,5 +126,13 @@
     "username": "beautifultiger548",
     "password": "eeyore",
     "invokedAt": "2022-07-14T17:18:20.816Z"
+  },
+  {
+    "firstName": "Linnea",
+    "lastName": "Huhtala",
+    "email": "linnea.huhtala@example.com",
+    "username": "organicmouse515",
+    "password": "foobar",
+    "invokedAt": "2022-07-14T17:58:56.147Z"
   }
 ]
