@@ -78,5 +78,13 @@
     "username": "greenmeercat507",
     "password": "airforce",
     "invokedAt": "2022-07-14T10:59:00.272Z"
+  },
+  {
+    "firstName": "Madhura",
+    "lastName": "Bhoja",
+    "email": "madhura.bhoja@example.com",
+    "username": "smallzebra924",
+    "password": "medic",
+    "invokedAt": "2022-07-14T11:59:05.311Z"
   }
 ]
