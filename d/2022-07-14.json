@@ -118,5 +118,13 @@
     "username": "browntiger532",
     "password": "typhoon",
     "invokedAt": "2022-07-14T15:59:08.706Z"
+  },
+  {
+    "firstName": "Kadir",
+    "lastName": "Keseroğlu",
+    "email": "kadir.keseroglu@example.com",
+    "username": "beautifultiger548",
+    "password": "eeyore",
+    "invokedAt": "2022-07-14T17:18:20.816Z"
   }
 ]
