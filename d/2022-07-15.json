@@ -22,5 +22,13 @@
     "username": "angrypeacock130",
     "password": "yellow",
     "invokedAt": "2022-07-15T05:34:04.905Z"
+  },
+  {
+    "firstName": "Miloje",
+    "lastName": "Hadžić",
+    "email": "miloje.hadzic@example.com",
+    "username": "tinypeacock980",
+    "password": "benny1",
+    "invokedAt": "2022-07-15T06:01:00.720Z"
   }
 ]
