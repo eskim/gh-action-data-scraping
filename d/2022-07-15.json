@@ -134,5 +134,13 @@
     "username": "happybutterfly385",
     "password": "wayer",
     "invokedAt": "2022-07-15T18:58:51.522Z"
+  },
+  {
+    "firstName": "Steffany",
+    "lastName": "Fonteijn",
+    "email": "steffany.fonteijn@example.com",
+    "username": "happyzebra114",
+    "password": "hellos",
+    "invokedAt": "2022-07-15T19:58:49.911Z"
   }
 ]
