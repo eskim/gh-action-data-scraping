@@ -62,5 +62,13 @@
     "username": "beautifulcat458",
     "password": "papers",
     "invokedAt": "2022-07-15T09:58:48.333Z"
+  },
+  {
+    "firstName": "Moema",
+    "lastName": "Ramos",
+    "email": "moema.ramos@example.com",
+    "username": "sadtiger542",
+    "password": "pics",
+    "invokedAt": "2022-07-15T10:58:46.131Z"
   }
 ]
