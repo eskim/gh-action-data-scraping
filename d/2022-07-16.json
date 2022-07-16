@@ -54,5 +54,13 @@
     "username": "whitebear568",
     "password": "roadking",
     "invokedAt": "2022-07-16T07:58:53.993Z"
+  },
+  {
+    "firstName": "Nellie",
+    "lastName": "Nilsson",
+    "email": "nellie.nilsson@example.com",
+    "username": "redcat240",
+    "password": "othello",
+    "invokedAt": "2022-07-16T08:58:50.568Z"
   }
 ]
