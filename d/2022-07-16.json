@@ -46,5 +46,13 @@
     "username": "brownkoala235",
     "password": "brittany",
     "invokedAt": "2022-07-16T06:58:52.128Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Kristensen",
+    "email": "andrea.kristensen@example.com",
+    "username": "whitebear568",
+    "password": "roadking",
+    "invokedAt": "2022-07-16T07:58:53.993Z"
   }
 ]
