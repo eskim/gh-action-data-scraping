@@ -126,5 +126,13 @@
     "username": "happypanda255",
     "password": "walker",
     "invokedAt": "2022-07-16T17:03:13.540Z"
+  },
+  {
+    "firstName": "Calvin",
+    "lastName": "Perez",
+    "email": "calvin.perez@example.com",
+    "username": "organicmouse392",
+    "password": "crescent",
+    "invokedAt": "2022-07-16T17:58:46.018Z"
   }
 ]
