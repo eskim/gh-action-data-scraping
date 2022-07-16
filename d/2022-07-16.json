@@ -142,5 +142,13 @@
     "username": "yellowpanda663",
     "password": "741852",
     "invokedAt": "2022-07-16T18:58:50.642Z"
+  },
+  {
+    "firstName": "Markas",
+    "lastName": "Østbye",
+    "email": "markas.ostbye@example.com",
+    "username": "goldentiger475",
+    "password": "theforce",
+    "invokedAt": "2022-07-16T19:59:02.068Z"
   }
 ]
