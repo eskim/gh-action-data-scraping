@@ -94,5 +94,13 @@
     "username": "browngorilla151",
     "password": "macaroni",
     "invokedAt": "2022-07-16T13:14:37.441Z"
+  },
+  {
+    "firstName": "Ümit",
+    "lastName": "Ilıcalı",
+    "email": "umit.ilicali@example.com",
+    "username": "angrysnake624",
+    "password": "wildfire",
+    "invokedAt": "2022-07-16T13:59:02.334Z"
   }
 ]
