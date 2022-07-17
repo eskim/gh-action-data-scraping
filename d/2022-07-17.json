@@ -46,5 +46,13 @@
     "username": "bluewolf256",
     "password": "basket",
     "invokedAt": "2022-07-17T07:58:48.333Z"
+  },
+  {
+    "firstName": "Kuzey",
+    "lastName": "Taşçı",
+    "email": "kuzey.tasci@example.com",
+    "username": "lazyfrog823",
+    "password": "bunker",
+    "invokedAt": "2022-07-17T08:58:53.362Z"
   }
 ]
