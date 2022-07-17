@@ -38,5 +38,13 @@
     "username": "silversnake157",
     "password": "redskin",
     "invokedAt": "2022-07-17T06:58:51.644Z"
+  },
+  {
+    "firstName": "Onur",
+    "lastName": "Dağdaş",
+    "email": "onur.dagdas@example.com",
+    "username": "bluewolf256",
+    "password": "basket",
+    "invokedAt": "2022-07-17T07:58:48.333Z"
   }
 ]
