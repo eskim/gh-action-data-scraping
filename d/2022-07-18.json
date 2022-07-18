@@ -14,5 +14,13 @@
     "username": "whitezebra549",
     "password": "opendoor",
     "invokedAt": "2022-07-18T04:34:44.234Z"
+  },
+  {
+    "firstName": "Guillaume",
+    "lastName": "Moreau",
+    "email": "guillaume.moreau@example.com",
+    "username": "tinymeercat214",
+    "password": "jets",
+    "invokedAt": "2022-07-18T05:20:22.676Z"
   }
 ]
