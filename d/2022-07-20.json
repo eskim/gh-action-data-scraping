@@ -86,5 +86,13 @@
     "username": "bluebutterfly727",
     "password": "tractor",
     "invokedAt": "2022-07-20T13:30:17.443Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Laland",
+    "email": "louis.laland@example.com",
+    "username": "organicbutterfly974",
+    "password": "blink182",
+    "invokedAt": "2022-07-20T14:08:05.046Z"
   }
 ]
