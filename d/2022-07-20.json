@@ -158,5 +158,13 @@
     "username": "yellowdog579",
     "password": "drizzt",
     "invokedAt": "2022-07-20T21:59:39.747Z"
+  },
+  {
+    "firstName": "Danko",
+    "lastName": "Stošić",
+    "email": "danko.stosic@example.com",
+    "username": "happyfish278",
+    "password": "wrangler",
+    "invokedAt": "2022-07-20T22:59:03.716Z"
   }
 ]
