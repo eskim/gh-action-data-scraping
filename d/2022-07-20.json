@@ -14,5 +14,13 @@
     "username": "sadzebra612",
     "password": "juan",
     "invokedAt": "2022-07-20T04:25:53.483Z"
+  },
+  {
+    "firstName": "Liva",
+    "lastName": "Rasmussen",
+    "email": "liva.rasmussen@example.com",
+    "username": "happyzebra713",
+    "password": "jarhead",
+    "invokedAt": "2022-07-20T05:15:21.842Z"
   }
 ]
