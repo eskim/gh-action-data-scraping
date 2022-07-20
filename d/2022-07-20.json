@@ -46,5 +46,13 @@
     "username": "beautifulbutterfly695",
     "password": "keksa12",
     "invokedAt": "2022-07-20T07:59:09.880Z"
+  },
+  {
+    "firstName": "Kuzman",
+    "lastName": "Malešević",
+    "email": "kuzman.malesevic@example.com",
+    "username": "bigbird930",
+    "password": "donner",
+    "invokedAt": "2022-07-20T08:58:53.120Z"
   }
 ]
