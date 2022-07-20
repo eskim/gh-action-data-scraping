@@ -70,5 +70,13 @@
     "username": "bigdog517",
     "password": "toejam",
     "invokedAt": "2022-07-20T10:59:09.509Z"
+  },
+  {
+    "firstName": "امیر",
+    "lastName": "یاسمی",
+    "email": "myr.ysmy@example.com",
+    "username": "yellowkoala707",
+    "password": "shaman",
+    "invokedAt": "2022-07-20T11:59:09.744Z"
   }
 ]
