@@ -166,5 +166,13 @@
     "username": "happyfish278",
     "password": "wrangler",
     "invokedAt": "2022-07-20T22:59:03.716Z"
+  },
+  {
+    "firstName": "Vesna",
+    "lastName": "Karadžić",
+    "email": "vesna.karadzic@example.com",
+    "username": "beautifulelephant672",
+    "password": "magelan",
+    "invokedAt": "2022-07-20T23:58:58.527Z"
   }
 ]
