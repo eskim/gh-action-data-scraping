@@ -78,5 +78,13 @@
     "username": "smallgoose206",
     "password": "codered",
     "invokedAt": "2022-07-21T11:59:02.642Z"
+  },
+  {
+    "firstName": "Mattie",
+    "lastName": "Fields",
+    "email": "mattie.fields@example.com",
+    "username": "beautifulostrich666",
+    "password": "hannah",
+    "invokedAt": "2022-07-21T13:28:30.756Z"
   }
 ]
