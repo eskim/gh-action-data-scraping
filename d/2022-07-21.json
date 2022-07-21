@@ -70,5 +70,13 @@
     "username": "yellowdog355",
     "password": "therock",
     "invokedAt": "2022-07-21T10:59:02.699Z"
+  },
+  {
+    "firstName": "Todor",
+    "lastName": "Mišković",
+    "email": "todor.miskovic@example.com",
+    "username": "smallgoose206",
+    "password": "codered",
+    "invokedAt": "2022-07-21T11:59:02.642Z"
   }
 ]
