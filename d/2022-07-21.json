@@ -158,5 +158,13 @@
     "username": "yellowlion360",
     "password": "bradley",
     "invokedAt": "2022-07-21T21:58:52.528Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Kasapoğlu",
+    "email": "adem.kasapoglu@example.com",
+    "username": "brownbear435",
+    "password": "nian",
+    "invokedAt": "2022-07-21T22:59:01.615Z"
   }
 ]
