@@ -94,5 +94,13 @@
     "username": "organicmouse561",
     "password": "clevelan",
     "invokedAt": "2022-07-22T15:58:58.388Z"
+  },
+  {
+    "firstName": "Silviano",
+    "lastName": "da Cruz",
+    "email": "silviano.dacruz@example.com",
+    "username": "greenpanda690",
+    "password": "face",
+    "invokedAt": "2022-07-22T17:16:58.720Z"
   }
 ]
