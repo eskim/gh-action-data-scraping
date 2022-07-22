@@ -78,5 +78,13 @@
     "username": "angryzebra878",
     "password": "emilia",
     "invokedAt": "2022-07-22T14:00:26.977Z"
+  },
+  {
+    "firstName": "Zora",
+    "lastName": "Zekić",
+    "email": "zora.zekic@example.com",
+    "username": "purpledog364",
+    "password": "sanfran",
+    "invokedAt": "2022-07-22T14:59:06.916Z"
   }
 ]
