@@ -126,5 +126,13 @@
     "username": "bigrabbit323",
     "password": "harper",
     "invokedAt": "2022-07-23T20:58:52.609Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Adamović",
+    "email": "andrea.adamovic@example.com",
+    "username": "blacksnake610",
+    "password": "rolex",
+    "invokedAt": "2022-07-23T22:59:01.603Z"
   }
 ]
