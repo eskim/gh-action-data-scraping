@@ -102,5 +102,13 @@
     "username": "bigbear125",
     "password": "spanking",
     "invokedAt": "2022-07-23T17:08:06.690Z"
+  },
+  {
+    "firstName": "Allison",
+    "lastName": "Oliver",
+    "email": "allison.oliver@example.com",
+    "username": "whitegorilla586",
+    "password": "camille",
+    "invokedAt": "2022-07-23T17:58:54.297Z"
   }
 ]
