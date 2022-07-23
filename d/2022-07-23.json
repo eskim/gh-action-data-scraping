@@ -54,5 +54,13 @@
     "username": "yellowbird968",
     "password": "faith1",
     "invokedAt": "2022-07-23T08:58:53.552Z"
+  },
+  {
+    "firstName": "Anđela",
+    "lastName": "Ognjanović",
+    "email": "andela.ognjanovic@example.com",
+    "username": "organicfish656",
+    "password": "newport",
+    "invokedAt": "2022-07-23T10:58:49.667Z"
   }
 ]
