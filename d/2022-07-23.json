@@ -94,5 +94,13 @@
     "username": "happylion463",
     "password": "forfun",
     "invokedAt": "2022-07-23T15:58:53.832Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Peña",
+    "email": "luis.pena@example.com",
+    "username": "bigbear125",
+    "password": "spanking",
+    "invokedAt": "2022-07-23T17:08:06.690Z"
   }
 ]
