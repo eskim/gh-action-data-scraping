@@ -118,5 +118,13 @@
     "username": "sadkoala413",
     "password": "redskins",
     "invokedAt": "2022-07-23T19:58:52.378Z"
+  },
+  {
+    "firstName": "Klaus Peter",
+    "lastName": "Freudenberg",
+    "email": "klauspeter.freudenberg@example.com",
+    "username": "bigrabbit323",
+    "password": "harper",
+    "invokedAt": "2022-07-23T20:58:52.609Z"
   }
 ]
