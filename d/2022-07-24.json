@@ -46,5 +46,13 @@
     "username": "bluebear306",
     "password": "alpha1",
     "invokedAt": "2022-07-24T07:58:54.075Z"
+  },
+  {
+    "firstName": "Reyansh",
+    "lastName": "Shenoy",
+    "email": "reyansh.shenoy@example.com",
+    "username": "angryladybug505",
+    "password": "cards",
+    "invokedAt": "2022-07-24T08:58:47.241Z"
   }
 ]
