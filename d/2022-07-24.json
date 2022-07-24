@@ -62,5 +62,13 @@
     "username": "sadbear124",
     "password": "goldstar",
     "invokedAt": "2022-07-24T09:58:54.521Z"
+  },
+  {
+    "firstName": "Obren",
+    "lastName": "Sakić",
+    "email": "obren.sakic@example.com",
+    "username": "whiteduck490",
+    "password": "blossom",
+    "invokedAt": "2022-07-24T10:58:52.492Z"
   }
 ]
