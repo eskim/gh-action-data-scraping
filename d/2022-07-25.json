@@ -14,5 +14,13 @@
     "username": "ticklishgorilla498",
     "password": "mckenzie",
     "invokedAt": "2022-07-25T05:18:53.330Z"
+  },
+  {
+    "firstName": "Juan Carlos",
+    "lastName": "de la Fuente",
+    "email": "juancarlos.delafuente@example.com",
+    "username": "smallpanda339",
+    "password": "mancity",
+    "invokedAt": "2022-07-25T05:58:52.818Z"
   }
 ]
