@@ -22,5 +22,13 @@
     "username": "happybutterfly146",
     "password": "hardone",
     "invokedAt": "2022-07-26T06:04:22.394Z"
+  },
+  {
+    "firstName": "رضا",
+    "lastName": "صدر",
+    "email": "rd.sdr@example.com",
+    "username": "tinybird788",
+    "password": "theater",
+    "invokedAt": "2022-07-26T06:58:59.220Z"
   }
 ]
