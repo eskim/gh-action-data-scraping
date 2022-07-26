@@ -94,5 +94,13 @@
     "username": "happybear472",
     "password": "metoo",
     "invokedAt": "2022-07-26T14:58:58.589Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Moore",
+    "email": "maria.moore@example.com",
+    "username": "brownrabbit607",
+    "password": "passwd",
+    "invokedAt": "2022-07-26T15:58:53.409Z"
   }
 ]
