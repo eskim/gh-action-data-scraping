@@ -30,5 +30,13 @@
     "username": "tinybird788",
     "password": "theater",
     "invokedAt": "2022-07-26T06:58:59.220Z"
+  },
+  {
+    "firstName": "Sharon",
+    "lastName": "Reyes",
+    "email": "sharon.reyes@example.com",
+    "username": "silverbear954",
+    "password": "undertak",
+    "invokedAt": "2022-07-26T07:58:47.269Z"
   }
 ]
