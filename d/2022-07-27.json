@@ -94,5 +94,13 @@
     "username": "sadgoose999",
     "password": "circus",
     "invokedAt": "2022-07-27T14:07:54.176Z"
+  },
+  {
+    "firstName": "Elja",
+    "lastName": "Berens",
+    "email": "elja.berens@example.com",
+    "username": "organicduck276",
+    "password": "haha",
+    "invokedAt": "2022-07-27T14:59:10.560Z"
   }
 ]
