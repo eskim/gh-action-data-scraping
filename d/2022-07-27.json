@@ -118,5 +118,13 @@
     "username": "purplebear983",
     "password": "clarissa",
     "invokedAt": "2022-07-27T17:14:41.716Z"
+  },
+  {
+    "firstName": "Mónica",
+    "lastName": "Román",
+    "email": "monica.roman@example.com",
+    "username": "crazybutterfly932",
+    "password": "magellan",
+    "invokedAt": "2022-07-27T17:59:01.961Z"
   }
 ]
