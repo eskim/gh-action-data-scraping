@@ -158,5 +158,13 @@
     "username": "greenfish973",
     "password": "sonic",
     "invokedAt": "2022-07-28T21:58:51.922Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Christensen",
+    "email": "alfred.christensen@example.com",
+    "username": "orangepeacock530",
+    "password": "sites",
+    "invokedAt": "2022-07-28T22:58:59.022Z"
   }
 ]
