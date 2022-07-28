@@ -166,5 +166,13 @@
     "username": "orangepeacock530",
     "password": "sites",
     "invokedAt": "2022-07-28T22:58:59.022Z"
+  },
+  {
+    "firstName": "Miriam",
+    "lastName": "Gallego",
+    "email": "miriam.gallego@example.com",
+    "username": "bigbird775",
+    "password": "jewels",
+    "invokedAt": "2022-07-28T23:58:49.580Z"
   }
 ]
