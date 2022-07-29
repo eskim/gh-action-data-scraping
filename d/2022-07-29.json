@@ -46,5 +46,13 @@
     "username": "purplezebra340",
     "password": "pppp",
     "invokedAt": "2022-07-29T07:59:18.278Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Sánchez",
+    "email": "samuel.sanchez@example.com",
+    "username": "bigcat382",
+    "password": "hambone",
+    "invokedAt": "2022-07-29T08:58:49.714Z"
   }
 ]
