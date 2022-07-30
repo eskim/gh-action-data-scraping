@@ -126,5 +126,13 @@
     "username": "bigbird777",
     "password": "cross",
     "invokedAt": "2022-07-30T17:58:51.147Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Gautier",
+    "email": "samuel.gautier@example.com",
+    "username": "redwolf794",
+    "password": "easter",
+    "invokedAt": "2022-07-30T18:58:53.617Z"
   }
 ]
