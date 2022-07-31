@@ -94,5 +94,13 @@
     "username": "smallgoose980",
     "password": "jammer",
     "invokedAt": "2022-07-31T14:59:13.067Z"
+  },
+  {
+    "firstName": "Nemir",
+    "lastName": "Malyarchuk",
+    "email": "nemir.malyarchuk@example.com",
+    "username": "tinycat483",
+    "password": "snoop",
+    "invokedAt": "2022-07-31T15:58:50.138Z"
   }
 ]
