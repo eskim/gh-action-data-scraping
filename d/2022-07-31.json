@@ -102,5 +102,13 @@
     "username": "tinycat483",
     "password": "snoop",
     "invokedAt": "2022-07-31T15:58:50.138Z"
+  },
+  {
+    "firstName": "Eugene",
+    "lastName": "Walker",
+    "email": "eugene.walker@example.com",
+    "username": "organicgoose305",
+    "password": "reeves",
+    "invokedAt": "2022-07-31T17:04:42.701Z"
   }
 ]
