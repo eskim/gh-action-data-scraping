@@ -54,5 +54,13 @@
     "username": "goldenpeacock563",
     "password": "wordup",
     "invokedAt": "2022-07-31T09:58:52.247Z"
+  },
+  {
+    "firstName": "Léonard",
+    "lastName": "Roy",
+    "email": "leonard.roy@example.com",
+    "username": "orangebutterfly766",
+    "password": "fredfred",
+    "invokedAt": "2022-07-31T10:59:08.150Z"
   }
 ]
