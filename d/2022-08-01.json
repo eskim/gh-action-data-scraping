@@ -86,5 +86,13 @@
     "username": "browngorilla309",
     "password": "delta",
     "invokedAt": "2022-08-01T14:08:15.570Z"
+  },
+  {
+    "firstName": "Emmy",
+    "lastName": "Renard",
+    "email": "emmy.renard@example.com",
+    "username": "heavyleopard967",
+    "password": "private1",
+    "invokedAt": "2022-08-01T14:58:52.359Z"
   }
 ]
