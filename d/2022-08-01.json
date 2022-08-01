@@ -46,5 +46,13 @@
     "username": "blackbird200",
     "password": "condor",
     "invokedAt": "2022-08-01T08:58:50.480Z"
+  },
+  {
+    "firstName": "Bernard",
+    "lastName": "Willis",
+    "email": "bernard.willis@example.com",
+    "username": "lazymouse480",
+    "password": "fusion",
+    "invokedAt": "2022-08-01T09:59:04.221Z"
   }
 ]
