@@ -118,5 +118,13 @@
     "username": "goldenpeacock554",
     "password": "energy",
     "invokedAt": "2022-08-01T19:59:07.528Z"
+  },
+  {
+    "firstName": "Melodie",
+    "lastName": "Ouellet",
+    "email": "melodie.ouellet@example.com",
+    "username": "ticklishleopard862",
+    "password": "springs",
+    "invokedAt": "2022-08-01T20:59:03.891Z"
   }
 ]
