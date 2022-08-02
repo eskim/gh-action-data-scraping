@@ -30,5 +30,13 @@
     "username": "bluewolf727",
     "password": "media",
     "invokedAt": "2022-08-02T06:58:51.516Z"
+  },
+  {
+    "firstName": "Chloe",
+    "lastName": "Harris",
+    "email": "chloe.harris@example.com",
+    "username": "redlion677",
+    "password": "patch",
+    "invokedAt": "2022-08-02T07:59:03.802Z"
   }
 ]
