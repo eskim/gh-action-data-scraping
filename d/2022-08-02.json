@@ -118,5 +118,13 @@
     "username": "bigcat862",
     "password": "guitars",
     "invokedAt": "2022-08-02T17:58:50.051Z"
+  },
+  {
+    "firstName": "Nasim",
+    "lastName": "Van Baak",
+    "email": "nasim.vanbaak@example.com",
+    "username": "silverbutterfly321",
+    "password": "tammy",
+    "invokedAt": "2022-08-02T18:58:51.561Z"
   }
 ]
