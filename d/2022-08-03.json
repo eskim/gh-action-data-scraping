@@ -86,5 +86,13 @@
     "username": "yellowbear165",
     "password": "smiths",
     "invokedAt": "2022-08-03T14:01:00.309Z"
+  },
+  {
+    "firstName": "ایلیا",
+    "lastName": "سالاری",
+    "email": "yly.slry@example.com",
+    "username": "goldenleopard322",
+    "password": "prissy",
+    "invokedAt": "2022-08-03T14:59:07.310Z"
   }
 ]
