@@ -94,5 +94,13 @@
     "username": "bigswan595",
     "password": "bassman",
     "invokedAt": "2022-08-04T13:28:03.371Z"
+  },
+  {
+    "firstName": "Dragomir",
+    "lastName": "Vlahović",
+    "email": "dragomir.vlahovic@example.com",
+    "username": "whiteelephant473",
+    "password": "big1",
+    "invokedAt": "2022-08-04T14:59:12.094Z"
   }
 ]
