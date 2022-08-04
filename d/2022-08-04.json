@@ -118,5 +118,13 @@
     "username": "bluedog870",
     "password": "gore",
     "invokedAt": "2022-08-04T17:13:41.435Z"
+  },
+  {
+    "firstName": "Nando",
+    "lastName": "Giraud",
+    "email": "nando.giraud@example.com",
+    "username": "angrysnake878",
+    "password": "money1",
+    "invokedAt": "2022-08-04T17:58:58.883Z"
   }
 ]
