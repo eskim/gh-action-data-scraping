@@ -70,5 +70,13 @@
     "username": "angrysnake152",
     "password": "tennis",
     "invokedAt": "2022-08-04T09:59:03.407Z"
+  },
+  {
+    "firstName": "Vojislava",
+    "lastName": "Pantelić",
+    "email": "vojislava.pantelic@example.com",
+    "username": "redbird584",
+    "password": "edward1",
+    "invokedAt": "2022-08-04T10:58:59.091Z"
   }
 ]
