@@ -110,5 +110,13 @@
     "username": "organictiger873",
     "password": "aptiva",
     "invokedAt": "2022-08-04T15:59:01.535Z"
+  },
+  {
+    "firstName": "Afet",
+    "lastName": "Akal",
+    "email": "afet.akal@example.com",
+    "username": "bluedog870",
+    "password": "gore",
+    "invokedAt": "2022-08-04T17:13:41.435Z"
   }
 ]
