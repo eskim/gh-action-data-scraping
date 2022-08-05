@@ -78,5 +78,13 @@
     "username": "beautifullion604",
     "password": "catman",
     "invokedAt": "2022-08-05T11:59:02.149Z"
+  },
+  {
+    "firstName": "Emre",
+    "lastName": "Önür",
+    "email": "emre.onur@example.com",
+    "username": "happyfrog955",
+    "password": "peekaboo",
+    "invokedAt": "2022-08-05T13:31:33.696Z"
   }
 ]
