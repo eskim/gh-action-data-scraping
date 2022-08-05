@@ -134,5 +134,13 @@
     "username": "purpleleopard374",
     "password": "rimmer",
     "invokedAt": "2022-08-05T18:59:02.709Z"
+  },
+  {
+    "firstName": "Ružica",
+    "lastName": "Kićanović",
+    "email": "ruzica.kicanovic@example.com",
+    "username": "blackduck655",
+    "password": "alaska",
+    "invokedAt": "2022-08-05T19:58:59.727Z"
   }
 ]
