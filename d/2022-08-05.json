@@ -86,5 +86,13 @@
     "username": "happyfrog955",
     "password": "peekaboo",
     "invokedAt": "2022-08-05T13:31:33.696Z"
+  },
+  {
+    "firstName": "Zeferino",
+    "lastName": "Benavídez",
+    "email": "zeferino.benavidez@example.com",
+    "username": "goldenswan518",
+    "password": "zeng",
+    "invokedAt": "2022-08-05T14:05:09.727Z"
   }
 ]
