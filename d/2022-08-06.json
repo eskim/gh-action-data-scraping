@@ -174,5 +174,13 @@
     "username": "purpleelephant465",
     "password": "losers",
     "invokedAt": "2022-08-06T22:58:57.762Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Van der Wilt",
+    "email": "harry.vanderwilt@example.com",
+    "username": "yellowmeercat347",
+    "password": "medical",
+    "invokedAt": "2022-08-06T23:58:51.739Z"
   }
 ]
