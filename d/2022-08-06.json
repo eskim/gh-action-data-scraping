@@ -102,5 +102,13 @@
     "username": "lazylion533",
     "password": "okokok",
     "invokedAt": "2022-08-06T13:58:51.886Z"
+  },
+  {
+    "firstName": "Ümit",
+    "lastName": "Yetkiner",
+    "email": "umit.yetkiner@example.com",
+    "username": "blacktiger275",
+    "password": "base",
+    "invokedAt": "2022-08-06T14:58:52.674Z"
   }
 ]
