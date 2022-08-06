@@ -118,5 +118,13 @@
     "username": "greenbird393",
     "password": "alexander",
     "invokedAt": "2022-08-06T15:59:01.312Z"
+  },
+  {
+    "firstName": "تینا",
+    "lastName": "صدر",
+    "email": "tyn.sdr@example.com",
+    "username": "bluedog193",
+    "password": "sonny",
+    "invokedAt": "2022-08-06T17:04:45.886Z"
   }
 ]
