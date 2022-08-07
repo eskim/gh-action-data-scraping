@@ -126,5 +126,13 @@
     "username": "bluegorilla609",
     "password": "koolaid",
     "invokedAt": "2022-08-07T17:04:35.130Z"
+  },
+  {
+    "firstName": "Greg",
+    "lastName": "Fleming",
+    "email": "greg.fleming@example.com",
+    "username": "organicpanda891",
+    "password": "tomcat",
+    "invokedAt": "2022-08-07T17:59:03.641Z"
   }
 ]
