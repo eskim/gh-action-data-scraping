@@ -78,5 +78,13 @@
     "username": "organicswan391",
     "password": "rainman",
     "invokedAt": "2022-08-07T10:58:52.432Z"
+  },
+  {
+    "firstName": "Zhozefina",
+    "lastName": "Lazor",
+    "email": "zhozefina.lazor@example.com",
+    "username": "blueswan500",
+    "password": "groucho",
+    "invokedAt": "2022-08-07T11:59:01.624Z"
   }
 ]
