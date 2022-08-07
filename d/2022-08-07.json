@@ -134,5 +134,13 @@
     "username": "organicpanda891",
     "password": "tomcat",
     "invokedAt": "2022-08-07T17:59:03.641Z"
+  },
+  {
+    "firstName": "Norma",
+    "lastName": "Geissler",
+    "email": "norma.geissler@example.com",
+    "username": "sadwolf320",
+    "password": "haha",
+    "invokedAt": "2022-08-07T18:59:04.539Z"
   }
 ]
