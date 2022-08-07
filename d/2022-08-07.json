@@ -46,5 +46,13 @@
     "username": "bluefish540",
     "password": "fender",
     "invokedAt": "2022-08-07T06:58:48.332Z"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Walker",
+    "email": "joshua.walker@example.com",
+    "username": "organicbear483",
+    "password": "super",
+    "invokedAt": "2022-08-07T07:58:57.428Z"
   }
 ]
